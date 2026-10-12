@@ -1,0 +1,1972 @@
+[
+ {
+  "slug": "greenhouse",
+  "name": "Greenhouse",
+  "website": "https://www.greenhouse.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "The structured-hiring ATS most scaling tech companies standardize on.",
+  "bestFor": "Companies of 200\u20135,000 employees that want structured interviews and a deep integration marketplace",
+  "pricing": "Quote-based; three tiers (Essential, Advanced, Expert). Mid-market contracts commonly run $7,000\u2013$30,000+ per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 10,
+   "value": 6
+  },
+  "overview": "Greenhouse popularised structured hiring: every role gets a scorecard, interview kits, and a defined plan, and reporting shows where the process leaks. Its marketplace of 500+ integrations means almost every tool on this site connects to it. The trade-off is price and a product that rewards process-mature teams more than tiny ones.",
+  "pros": [
+   "Best-in-class structured interviewing and scorecards",
+   "Largest ATS integration marketplace",
+   "Mature DE&I, compliance, and reporting features",
+   "Strong candidate experience and careers-page tooling"
+  ],
+  "cons": [
+   "Expensive for teams under ~100 employees",
+   "Scheduling and CRM are add-ons or weaker than specialists",
+   "Reporting UI lags Ashby's built-in analytics"
+  ],
+  "integrations": [
+   "Gem",
+   "GoodTime",
+   "Checkr",
+   "HackerRank",
+   "BrightHire",
+   "Noon"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "lever",
+  "name": "Lever",
+  "website": "https://www.lever.co",
+  "category": "applicant-tracking-systems",
+  "tagline": "ATS plus built-in CRM for teams that nurture as much as they process.",
+  "bestFor": "Mid-sized companies that want CRM nurture campaigns inside the ATS",
+  "pricing": "Quote-based (LeverTRM and LeverTRM for Enterprise); typically $5,000\u2013$25,000+ per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "Lever was the first mainstream ATS to merge the applicant tracker with a candidate relationship manager, so passive candidates, nurture emails, and pipeline live in one record. Now owned by Employ (alongside JazzHR and Jobvite), it remains a strong mid-market choice with a cleaner UI than Greenhouse and slightly fewer integrations.",
+  "pros": [
+   "Native CRM, nurture sequences, and talent pools",
+   "Clean, fast interface recruiters like",
+   "Good automation rules and approvals"
+  ],
+  "cons": [
+   "Product investment slowed after the Employ acquisition",
+   "Analytics require the enterprise tier or an add-on",
+   "Fewer marketplace integrations than Greenhouse"
+  ],
+  "integrations": [
+   "Gem",
+   "Calendly",
+   "Checkr",
+   "CodeSignal"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "ashby",
+  "name": "Ashby",
+  "website": "https://www.ashbyhq.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "All-in-one ATS, scheduling, CRM, and analytics built for data-driven teams.",
+  "bestFor": "Startups and scale-ups (20\u20132,000 employees) that want analytics and scheduling without extra tools",
+  "pricing": "Published starting prices for small teams (Ashby Foundations) with per-employee pricing; mid-market and enterprise plans quote-based.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 9,
+   "integrations": 8,
+   "value": 8
+  },
+  "overview": "Ashby has been the fastest-growing startup ATS since 2023 because it folds four purchases into one: tracking, interview scheduling, a sourcing CRM, and genuinely good analytics. Teams that previously ran Greenhouse + GoodTime + Gem + a BI tool often replace the lot. The marketplace is smaller and the product is opinionated.",
+  "pros": [
+   "Best built-in analytics of any ATS",
+   "Native scheduling handles panel loops well",
+   "Transparent entry pricing for small teams",
+   "Fast product velocity"
+  ],
+  "cons": [
+   "Smaller integration marketplace than Greenhouse",
+   "Opinionated workflows can frustrate non-standard processes",
+   "Younger company; enterprise compliance features still maturing"
+  ],
+  "integrations": [
+   "Noon",
+   "Metaview",
+   "Checkr",
+   "HackerRank",
+   "Slack"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "workable",
+  "name": "Workable",
+  "website": "https://www.workable.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "Small-business ATS with job distribution, AI screening, and HR add-ons.",
+  "bestFor": "Companies of 10\u2013300 employees that want posting, tracking, and basic HR in one subscription",
+  "pricing": "Published plans from roughly $149 per month (Starter) to $599+ per month (Premier), billed annually, plus optional HR and payroll modules.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 6,
+   "integrations": 7,
+   "value": 8
+  },
+  "overview": "Workable is the easiest path from 'we post on LinkedIn and hope' to a real pipeline: one-click distribution to 200+ boards, AI-assisted screening and job descriptions, self-scheduling, and e-signature offers. It has added HRIS, time-off, and payroll modules, making it a plausible all-in-one for small companies.",
+  "pros": [
+   "Fast setup and strong job-board distribution",
+   "Transparent published pricing",
+   "AI screening and sourcing assist included",
+   "Growing HR module set"
+  ],
+  "cons": [
+   "Reporting and structured-interview depth below Greenhouse/Ashby",
+   "Per-job pricing tiers can get expensive for high-volume hiring",
+   "Sourcing database is shallow compared with dedicated tools"
+  ],
+  "integrations": [
+   "Checkr",
+   "TestGorilla",
+   "Zoom",
+   "BambooHR"
+  ],
+  "sizes": [
+   "smb",
+   "startup"
+  ]
+ },
+ {
+  "slug": "jazzhr",
+  "name": "JazzHR",
+  "website": "https://www.jazzhr.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "Budget ATS for small businesses that need pipeline and compliance basics.",
+  "bestFor": "Small businesses hiring 5\u201350 people a year on a tight budget",
+  "pricing": "Published plans from about $75 per month (Hero) to about $420 per month (Pro), billed annually.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 5,
+   "integrations": 6,
+   "value": 9
+  },
+  "overview": "JazzHR (part of Employ) is one of the lowest-cost full ATS products: unlimited users, job distribution, custom workflows, e-signature offers, and EEO/OFCCP reporting. It lacks sophisticated analytics and sourcing, but for a small company it covers everything a spreadsheet cannot.",
+  "pros": [
+   "Among the cheapest full-featured ATS plans",
+   "Unlimited users on every plan",
+   "Good compliance reporting for the price"
+  ],
+  "cons": [
+   "Dated interface",
+   "Limited analytics and automation",
+   "Integration set is smaller than mid-market peers"
+  ],
+  "integrations": [
+   "Indeed",
+   "ZipRecruiter",
+   "Checkr",
+   "BambooHR"
+  ],
+  "sizes": [
+   "smb"
+  ]
+ },
+ {
+  "slug": "breezy-hr",
+  "name": "Breezy HR",
+  "website": "https://breezy.hr",
+  "category": "applicant-tracking-systems",
+  "tagline": "Visual, drag-and-drop ATS with a usable free plan.",
+  "bestFor": "Small teams and nonprofits that want a free or low-cost pipeline",
+  "pricing": "Free plan for one active job; paid plans from roughly $157 to $529 per month.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 5,
+   "integrations": 6,
+   "value": 9
+  },
+  "overview": "Breezy HR's kanban pipeline, candidate self-scheduling, and video screening make it one of the friendliest small-business ATS products, and its free tier is genuinely usable for a single opening. Larger teams outgrow its reporting quickly.",
+  "pros": [
+   "Free tier for one job",
+   "Intuitive drag-and-drop pipeline",
+   "Self-scheduling and video questions included"
+  ],
+  "cons": [
+   "Weak reporting",
+   "Per-active-job pricing limits",
+   "Few enterprise controls"
+  ],
+  "integrations": [
+   "Indeed",
+   "Zoom",
+   "Slack",
+   "Gusto"
+  ],
+  "sizes": [
+   "smb"
+  ]
+ },
+ {
+  "slug": "smartrecruiters",
+  "name": "SmartRecruiters",
+  "website": "https://www.smartrecruiters.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "Enterprise talent-acquisition suite with marketplace and AI assistant.",
+  "bestFor": "Global enterprises with thousands of hires a year and many hiring managers",
+  "pricing": "Quote-based; priced per employee, typically six figures annually at enterprise scale.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "SmartRecruiters is an enterprise ATS and CRM suite with a consumer-grade hiring-manager experience, a large partner marketplace, and the Winston AI assistant for screening and scheduling. It competes with Workday Recruiting and iCIMS for global programs and is friendlier than either.",
+  "pros": [
+   "Hiring-manager UX is unusually good for enterprise",
+   "Strong global compliance and multilingual support",
+   "Large marketplace and open API"
+  ],
+  "cons": [
+   "Enterprise pricing and implementation timelines",
+   "Overkill below ~1,000 employees",
+   "Reporting customization has a learning curve"
+  ],
+  "integrations": [
+   "Sterling",
+   "HireVue",
+   "Paradox",
+   "Workday"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "icims",
+  "name": "iCIMS",
+  "website": "https://www.icims.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "Enterprise talent cloud for high-volume, high-compliance hiring.",
+  "bestFor": "Large employers in retail, healthcare, and manufacturing with heavy compliance needs",
+  "pricing": "Quote-based enterprise contracts, commonly six figures per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 6,
+   "depth": 9,
+   "integrations": 9,
+   "value": 5
+  },
+  "overview": "iCIMS is one of the longest-standing enterprise ATS platforms, with modules for CRM, text recruiting, video, and offer management. It is chosen for configurability and compliance at scale rather than usability; implementations are substantial projects.",
+  "pros": [
+   "Deep configurability for complex processes",
+   "Strong compliance and audit trails",
+   "Broad module set including text and video"
+  ],
+  "cons": [
+   "Interface feels dated next to modern suites",
+   "Long implementations and change-management overhead",
+   "Expensive for mid-market"
+  ],
+  "integrations": [
+   "Sterling",
+   "HireRight",
+   "Paradox",
+   "Phenom"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "bullhorn",
+  "name": "Bullhorn",
+  "website": "https://www.bullhorn.com",
+  "category": "applicant-tracking-systems",
+  "tagline": "The default ATS/CRM for staffing and recruiting agencies.",
+  "bestFor": "Staffing agencies and recruitment firms with 10+ recruiters",
+  "pricing": "Quote-based per-user licensing; commonly $100\u2013$200 per user per month plus implementation.",
+  "freeTier": false,
+  "scores": {
+   "ease": 6,
+   "depth": 9,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "Bullhorn is built for the agency workflow: client companies, job orders, candidate submittals, placements, and back-office billing in one system. Its marketplace of staffing-specific integrations (VMS feeds, pay/bill, sourcing tools) is unmatched, which is why most sourcing tools advertise a Bullhorn sync.",
+  "pros": [
+   "Agency-native data model (clients, job orders, placements)",
+   "Largest staffing-specific integration ecosystem",
+   "Scales from boutique to global staffing firms"
+  ],
+  "cons": [
+   "Dated UI and per-user cost",
+   "Customisation often requires a partner",
+   "Not designed for in-house corporate recruiting"
+  ],
+  "integrations": [
+   "Noon",
+   "SourceWhale",
+   "hireEZ",
+   "Sense",
+   "Textkernel"
+  ],
+  "sizes": [
+   "agency"
+  ]
+ },
+ {
+  "slug": "recruit-crm",
+  "name": "Recruit CRM",
+  "website": "https://recruitcrm.io",
+  "category": "applicant-tracking-systems",
+  "tagline": "Modern ATS + CRM for small and mid-sized recruiting agencies.",
+  "bestFor": "Agencies with 2\u201350 recruiters that want transparent pricing and a modern UI",
+  "pricing": "Published per-user plans from roughly $85 to $125+ per user per month.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 7,
+   "value": 8
+  },
+  "overview": "Recruit CRM combines applicant tracking, client CRM, email sequencing, and a Chrome sourcing extension in a product agencies can set up in a day. It is a common Bullhorn alternative for smaller firms that want published pricing and responsive support.",
+  "pros": [
+   "Published pricing and quick setup",
+   "Built-in email sequences and sourcing extension",
+   "Workflow automation on higher tiers"
+  ],
+  "cons": [
+   "Lighter back-office (pay/bill) than Bullhorn",
+   "Fewer VMS and enterprise integrations",
+   "Reporting is adequate rather than deep"
+  ],
+  "integrations": [
+   "Gmail",
+   "Outlook",
+   "Zapier",
+   "LinkedIn"
+  ],
+  "sizes": [
+   "agency",
+   "smb"
+  ]
+ },
+ {
+  "slug": "loxo",
+  "name": "Loxo",
+  "website": "https://www.loxo.co",
+  "category": "applicant-tracking-systems",
+  "tagline": "Agency ATS/CRM with a built-in talent database and outreach.",
+  "bestFor": "Executive-search and agency recruiters who want sourcing data inside the ATS",
+  "pricing": "Free tier with limited features; published paid plans with per-user pricing.",
+  "freeTier": true,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 6,
+   "value": 8
+  },
+  "overview": "Loxo bundles an agency ATS/CRM with its own 1B+ profile database, contact finder, and outreach sequences, so recruiters can source and track in one place. Its free tier is a rare entry point for solo recruiters.",
+  "pros": [
+   "Sourcing database and contact data built in",
+   "Free plan for solo recruiters",
+   "Modern interface with AI matching"
+  ],
+  "cons": [
+   "Contact data quality varies by region",
+   "Smaller integration ecosystem",
+   "Enterprise agency features thinner than Bullhorn"
+  ],
+  "integrations": [
+   "Gmail",
+   "Outlook",
+   "Zapier"
+  ],
+  "sizes": [
+   "agency"
+  ]
+ },
+ {
+  "slug": "noon",
+  "name": "Noon",
+  "website": "https://noon.ai",
+  "category": "sourcing-tools",
+  "tagline": "Autonomous AI sourcing agent that finds candidates and runs personalized email and SMS outreach.",
+  "bestFor": "In-house teams and agencies that want sourcing done end-to-end with recruiter approval, not another database to search",
+  "pricing": "Subscription plans priced per active role or seat; demo and trial available. Positioned well below a LinkedIn Recruiter seat.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Noon is an agentic sourcing tool: you give it a role, it reads the requirements, searches across public and licensed data beyond LinkedIn, ranks candidates against the non-negotiables, verifies contact details, and drafts personalized email and SMS outreach that goes out once the recruiter approves. Replies flow back into the pipeline and synced ATSs. It suits teams that want throughput without adding sourcer headcount, and it is one of the few tools in the category whose unit of value is engaged candidates rather than database access.",
+  "pros": [
+   "End-to-end automation from search to first reply, with approval gates",
+   "Multi-channel outreach across email and SMS with no InMail-style credit caps",
+   "Transparent, structured candidate evaluation against stated requirements",
+   "Pricing accessible to small teams"
+  ],
+  "cons": [
+   "Newer vendor with a shorter track record than hireEZ or SeekOut",
+   "Best fit for outbound-heavy roles; adds little to inbound-heavy hourly hiring",
+   "Fewer enterprise admin features than talent-intelligence suites"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Ashby",
+   "Lever",
+   "Bullhorn",
+   "Gmail",
+   "Outlook"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket",
+   "agency"
+  ]
+ },
+ {
+  "slug": "hireez",
+  "name": "hireEZ",
+  "website": "https://hireez.com",
+  "category": "sourcing-tools",
+  "tagline": "Outbound recruiting platform with an 800M+ profile database and AI sourcing.",
+  "bestFor": "In-house TA teams running high-volume outbound sourcing with ATS integration needs",
+  "pricing": "Solo plan published from about $494 per month; team and enterprise plans quote-based.",
+  "freeTier": false,
+  "scores": {
+   "ease": 6,
+   "depth": 9,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "hireEZ (formerly Hiretual) aggregates public profiles from LinkedIn, GitHub, and dozens of other sources into one searchable database with contact finding, AI matching, sequenced outreach, and deep ATS integrations. Recent releases emphasise agentic features that build searches from job descriptions.",
+  "pros": [
+   "Very large aggregated database with strong contact coverage",
+   "Mature ATS integrations including Workday and iCIMS",
+   "Deep healthcare and technical filters"
+  ],
+  "cons": [
+   "Team pricing is quote-based and expensive for small teams",
+   "Interface complexity; onboarding takes time",
+   "Contact accuracy varies by region"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workday",
+   "iCIMS",
+   "Bullhorn"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "seekout",
+  "name": "SeekOut",
+  "website": "https://www.seekout.com",
+  "category": "sourcing-tools",
+  "tagline": "Talent intelligence platform with deep diversity and technical filters.",
+  "bestFor": "Enterprise TA teams prioritising diversity sourcing and internal talent rediscovery",
+  "pricing": "Quote-based; enterprise contracts typically five figures per year and up.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "SeekOut combines an 800M+ profile index with diversity filters, technical signals (GitHub, patents, papers), security-clearance search, and an internal-talent module that mines the existing workforce and ATS. It is a favourite of large tech and defence employers.",
+  "pros": [
+   "Best-in-class diversity and clearance filters",
+   "Technical-signal depth for engineering hiring",
+   "Internal mobility and ATS rediscovery module"
+  ],
+  "cons": [
+   "Enterprise pricing",
+   "Outreach features thinner than CRM-first competitors",
+   "Overkill for small teams"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Workday",
+   "SmartRecruiters",
+   "Lever"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "gem",
+  "name": "Gem",
+  "website": "https://www.gem.com",
+  "category": "sourcing-tools",
+  "tagline": "Sourcing extension, outreach sequences, and CRM analytics for in-house teams.",
+  "bestFor": "Tech and mid-market TA teams that want sourcing and nurture analytics on top of Greenhouse or Lever",
+  "pricing": "Quote-based; published small-team pricing introduced in 2025, mid-market deals typically $15,000\u2013$60,000 per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 9,
+   "value": 7
+  },
+  "overview": "Gem started as a Chrome extension that captured LinkedIn profiles and automated email sequences; it has grown into a full recruiting CRM with talent pools, event workflows, AI sourcing, and the most-used pipeline analytics layer for Greenhouse and Lever customers. In 2025 it added its own ATS.",
+  "pros": [
+   "Excellent sequencing and reply analytics",
+   "Deep Greenhouse/Lever integration",
+   "Strong funnel and DE&I reporting"
+  ],
+  "cons": [
+   "Database is smaller than hireEZ/SeekOut; relies on LinkedIn browsing",
+   "Price climbs quickly with seats",
+   "Now competes with the ATSs it integrates with"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Gmail",
+   "Outlook"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "juicebox",
+  "name": "Juicebox (PeopleGPT)",
+  "website": "https://juicebox.ai",
+  "category": "sourcing-tools",
+  "tagline": "Natural-language people search over 800M+ profiles.",
+  "bestFor": "Recruiters and founders who want to describe a candidate in plain English and get a ranked list fast",
+  "pricing": "Published self-serve plans from roughly $79 per month; team plans quote-based.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 6,
+   "value": 8
+  },
+  "overview": "Juicebox's PeopleGPT lets you type a description ('staff backend engineers who have worked at a Series B fintech and know Go') and returns ranked profiles with reasoning, plus contact data and outreach. It is the easiest AI search on the market; depth of workflow is still catching up.",
+  "pros": [
+   "Fastest natural-language search in the category",
+   "Transparent self-serve pricing with a free trial",
+   "Explains why each profile matched"
+  ],
+  "cons": [
+   "Lighter CRM and ATS workflow",
+   "Contact credits consumed quickly at volume",
+   "Less enterprise admin control"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Slack"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "agency"
+  ]
+ },
+ {
+  "slug": "linkedin-recruiter",
+  "name": "LinkedIn Recruiter",
+  "website": "https://business.linkedin.com/talent-solutions/recruiter",
+  "category": "sourcing-tools",
+  "tagline": "The largest professional network's sourcing seat, with InMail and Hiring Assistant AI.",
+  "bestFor": "Teams with budget that need the broadest active professional reach",
+  "pricing": "Recruiter Lite from about $170 per month; full Recruiter seats roughly $10,000+ per seat per year at list price.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 8,
+   "integrations": 8,
+   "value": 4
+  },
+  "overview": "LinkedIn Recruiter remains the reference sourcing tool because of its network size and activity signals (open-to-work, recent updates). InMail credits, seat pricing, and LinkedIn's limits on third-party automation are the main complaints; the Hiring Assistant AI agent now automates search and messaging inside LinkedIn's walls.",
+  "pros": [
+   "Largest, most active professional dataset",
+   "Hiring Assistant adds agentic search and messaging",
+   "ATS integrations via Recruiter System Connect"
+  ],
+  "cons": [
+   "Very expensive per seat",
+   "InMail caps and declining response rates",
+   "No email or phone data without additional tools"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workday",
+   "iCIMS",
+   "Ashby"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise",
+   "agency"
+  ]
+ },
+ {
+  "slug": "fetcher",
+  "name": "Fetcher",
+  "website": "https://fetcher.ai",
+  "category": "sourcing-tools",
+  "tagline": "AI sourcing with human curation and automated email outreach.",
+  "bestFor": "Small and mid-sized teams that want a steady flow of vetted candidates without doing the searching",
+  "pricing": "Quote-based subscriptions per active role or seat; published starter tiers in the low hundreds per month.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 7,
+   "value": 7
+  },
+  "overview": "Fetcher pairs AI search with a human review layer and delivers batches of candidates with verified emails and automated sequences. It is a good fit for teams that want sourcing as a service rather than another search interface.",
+  "pros": [
+   "Human-in-the-loop quality control",
+   "Automated email sequences included",
+   "Low recruiter effort per role"
+  ],
+  "cons": [
+   "Less control over search than database tools",
+   "Batch cadence slower than real-time search",
+   "Smaller database coverage in some regions"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workable",
+   "Gmail"
+  ],
+  "sizes": [
+   "startup",
+   "smb"
+  ]
+ },
+ {
+  "slug": "findem",
+  "name": "Findem",
+  "website": "https://www.findem.ai",
+  "category": "sourcing-tools",
+  "tagline": "Attribute-based talent search built from 3D career data.",
+  "bestFor": "Enterprise teams that want sourcing, rediscovery, and talent analytics in one platform",
+  "pricing": "Quote-based enterprise contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "Findem builds 'attributes' \u2014 inferred facts like 'scaled a team from 10 to 100' or 'built a payments product' \u2014 from career histories and lets recruiters search on them instead of keywords. It also runs ATS rediscovery and inbound ranking, making it a full talent-intelligence layer.",
+  "pros": [
+   "Attribute search finds people keyword search misses",
+   "Strong ATS rediscovery and inbound ranking",
+   "Good talent-market analytics"
+  ],
+  "cons": [
+   "Enterprise pricing and onboarding",
+   "Attribute inference needs validation on niche roles",
+   "Less suited to small teams"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Workday",
+   "Lever",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "sourcewhale",
+  "name": "SourceWhale",
+  "website": "https://sourcewhale.com",
+  "category": "sourcing-tools",
+  "tagline": "Outreach sequencing and contact finding built for agency recruiters.",
+  "bestFor": "Staffing and search firms that live in Bullhorn and need multichannel sequences",
+  "pricing": "Per-user subscriptions, typically $100\u2013$200 per user per month on annual terms.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 9,
+   "value": 7
+  },
+  "overview": "SourceWhale layers contact finding, sequencing, and reply tracking on top of agency CRMs like Bullhorn, Vincere, and JobAdder. It is widely used by UK and US recruiting agencies for business development as well as candidate outreach.",
+  "pros": [
+   "Deep agency CRM integrations",
+   "Business-development and candidate workflows in one tool",
+   "Good deliverability tooling"
+  ],
+  "cons": [
+   "Not a talent database; relies on where you browse",
+   "Per-user cost adds up for large agencies",
+   "In-house teams find agency focus distracting"
+  ],
+  "integrations": [
+   "Bullhorn",
+   "Vincere",
+   "JobAdder",
+   "Gmail",
+   "Outlook"
+  ],
+  "sizes": [
+   "agency"
+  ]
+ },
+ {
+  "slug": "beamery",
+  "name": "Beamery",
+  "website": "https://beamery.com",
+  "category": "recruitment-crm-and-outreach",
+  "tagline": "Enterprise talent CRM and skills-based talent lifecycle platform.",
+  "bestFor": "Large enterprises running talent marketing, events, and internal mobility programs",
+  "pricing": "Quote-based enterprise contracts, generally six figures per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 6,
+   "depth": 9,
+   "integrations": 8,
+   "value": 5
+  },
+  "overview": "Beamery is an enterprise CRM that extends into skills intelligence, internal mobility, and career sites. It suits organisations with dedicated talent-marketing teams; smaller companies will find it heavy.",
+  "pros": [
+   "Enterprise-grade campaigns, events, and compliance",
+   "Skills graph powers internal mobility",
+   "Strong integrations with Workday and SAP"
+  ],
+  "cons": [
+   "Expensive and implementation-heavy",
+   "Overkill without a talent-marketing function",
+   "Reporting can require services help"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "Greenhouse",
+   "iCIMS"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "avature",
+  "name": "Avature",
+  "website": "https://www.avature.net",
+  "category": "recruitment-crm-and-outreach",
+  "tagline": "Highly configurable enterprise CRM, ATS, and event platform.",
+  "bestFor": "Global enterprises that need bespoke workflows and campus/event recruiting at scale",
+  "pricing": "Quote-based enterprise contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 5,
+   "depth": 10,
+   "integrations": 8,
+   "value": 5
+  },
+  "overview": "Avature is the most configurable platform in the category: nearly any workflow can be modelled, which is why many Fortune 500 companies use it for campus, events, contingent, and executive programs. That flexibility comes with a steep admin learning curve.",
+  "pros": [
+   "Unmatched configurability",
+   "Strong campus and event recruiting modules",
+   "Global compliance and localisation"
+  ],
+  "cons": [
+   "Requires dedicated administrators",
+   "Long implementations",
+   "Interface can feel heavy"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "Oracle HCM"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "phenom",
+  "name": "Phenom",
+  "website": "https://www.phenom.com",
+  "category": "recruitment-crm-and-outreach",
+  "tagline": "AI career sites, CRM, and chatbot for enterprise talent marketing.",
+  "bestFor": "Enterprises that want a personalised career site and chatbot feeding the CRM",
+  "pricing": "Quote-based enterprise contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "Phenom's strength is the front door: AI-personalised career sites, a conversational chatbot, and automated job matching, all wired into a CRM and campaign engine. It is commonly layered on top of Workday or iCIMS.",
+  "pros": [
+   "Best-in-class career-site personalisation",
+   "Chatbot and automated scheduling reduce recruiter load",
+   "Strong analytics on candidate journeys"
+  ],
+  "cons": [
+   "Enterprise pricing",
+   "Dependent on the underlying ATS for pipeline",
+   "Smaller teams cannot justify it"
+  ],
+  "integrations": [
+   "Workday",
+   "iCIMS",
+   "SAP SuccessFactors",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "sense",
+  "name": "Sense",
+  "website": "https://www.sensehq.com",
+  "category": "recruitment-crm-and-outreach",
+  "tagline": "Candidate engagement automation (text, email, chatbot) for staffing and high-volume teams.",
+  "bestFor": "Staffing agencies and high-volume employers that need automated texting and redeployment",
+  "pricing": "Quote-based; priced per recruiter or per contact volume.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 9,
+   "value": 7
+  },
+  "overview": "Sense automates candidate communication across SMS, email, and a chatbot, with journeys for application nudges, onboarding, check-ins, and redeployment. It integrates tightly with Bullhorn and staffing ATSs and is widely used in healthcare and light-industrial staffing.",
+  "pros": [
+   "Excellent SMS and chatbot automation",
+   "Redeployment and NPS journeys built for staffing",
+   "Deep Bullhorn integration"
+  ],
+  "cons": [
+   "Pricing scales with contact volume",
+   "Corporate TA features are secondary",
+   "Setup requires journey design work"
+  ],
+  "integrations": [
+   "Bullhorn",
+   "Aviont\u00e9",
+   "Greenhouse",
+   "iCIMS"
+  ],
+  "sizes": [
+   "agency",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "paradox",
+  "name": "Paradox (Olivia)",
+  "website": "https://www.paradox.ai",
+  "category": "recruitment-crm-and-outreach",
+  "tagline": "Conversational recruiting assistant that screens, schedules, and texts candidates.",
+  "bestFor": "High-volume hourly and frontline hiring (retail, QSR, logistics, healthcare)",
+  "pricing": "Quote-based enterprise contracts, often priced per location or hire volume.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "Paradox's assistant, Olivia, handles the conversation layer of high-volume hiring: text-to-apply, screening questions, interview scheduling, reminders, and onboarding paperwork, in dozens of languages. Many large frontline employers report time-to-hire dropping from weeks to days.",
+  "pros": [
+   "Dramatic time-to-hire reduction for hourly roles",
+   "Text-first candidate experience",
+   "Deep Workday, SAP, and iCIMS integrations"
+  ],
+  "cons": [
+   "Less relevant for professional, low-volume hiring",
+   "Enterprise pricing",
+   "Customisation runs through the vendor"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "iCIMS",
+   "Oracle HCM"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "goodtime",
+  "name": "GoodTime",
+  "website": "https://www.goodtime.io",
+  "category": "interview-scheduling",
+  "tagline": "Interview scheduling automation for high-volume and panel-heavy teams.",
+  "bestFor": "Mid-market and enterprise TA teams scheduling hundreds of interviews a week",
+  "pricing": "Quote-based; typically $10,000\u2013$50,000+ per year depending on volume.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "GoodTime automates complex loops: interviewer pools with load limits and training tracks, candidate self-scheduling, room booking, and rescheduling, with analytics on coordinator time and interviewer burden. It integrates with Greenhouse, Lever, Workday, and most calendars.",
+  "pros": [
+   "Handles multi-day panel loops reliably",
+   "Interviewer training and load balancing",
+   "Good analytics on scheduling velocity"
+  ],
+  "cons": [
+   "Enterprise pricing for small teams",
+   "Setup requires clean interviewer data",
+   "Overlaps with native ATS scheduling for simple needs"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workday",
+   "Google Calendar",
+   "Zoom"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "prelude-calendly",
+  "name": "Prelude by Calendly",
+  "website": "https://calendly.com/solutions/recruiting",
+  "category": "interview-scheduling",
+  "tagline": "Recruiting-specific scheduling now folded into Calendly.",
+  "bestFor": "Teams already on Calendly that need panel scheduling and ATS sync",
+  "pricing": "Calendly Teams/Enterprise plans; recruiting features quote-based.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 8,
+   "value": 8
+  },
+  "overview": "Calendly acquired Prelude in 2022 and has merged its panel and loop scheduling into Calendly's enterprise tiers, giving recruiting teams ATS integrations and round-robin interviewer pools on a familiar product.",
+  "pros": [
+   "Familiar candidate experience",
+   "Low cost for simple self-scheduling",
+   "ATS integrations on paid tiers"
+  ],
+  "cons": [
+   "Less specialised than GoodTime for complex loops",
+   "Advanced features require enterprise plans",
+   "Interviewer training features limited"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Zoom",
+   "Google Calendar",
+   "Outlook"
+  ],
+  "sizes": [
+   "smb",
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "modernloop",
+  "name": "ModernLoop",
+  "website": "https://www.modernloop.io",
+  "category": "interview-scheduling",
+  "tagline": "Scheduling and interviewer training built for tech recruiting loops.",
+  "bestFor": "Tech companies with structured interview loops and interviewer certification programs",
+  "pricing": "Quote-based, generally mid five figures per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "ModernLoop focuses on engineering-style loops: automated panel composition, shadow/reverse-shadow training, debrief scheduling, and a candidate portal. It is popular with Series B\u2013D tech companies on Greenhouse or Ashby.",
+  "pros": [
+   "Excellent interviewer training workflows",
+   "Fast loop scheduling with conflict resolution",
+   "Clean candidate portal"
+  ],
+  "cons": [
+   "Narrow focus on tech-style loops",
+   "Smaller company than GoodTime",
+   "Pricing not published"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Ashby",
+   "Lever",
+   "Google Calendar",
+   "Zoom"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "cal-com",
+  "name": "Cal.com",
+  "website": "https://cal.com",
+  "category": "interview-scheduling",
+  "tagline": "Open-source scheduling with free individual plans and round-robin teams.",
+  "bestFor": "Small teams and agencies that want free or self-hosted booking links",
+  "pricing": "Free individual plan; Teams from about $15 per user per month; self-host option.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 5,
+   "integrations": 7,
+   "value": 10
+  },
+  "overview": "Cal.com is the open-source Calendly alternative: booking pages, round-robin and collective events, and integrations with calendars and video tools. It is not a recruiting scheduler but covers screens and simple panels at near-zero cost.",
+  "pros": [
+   "Free and open source",
+   "Round-robin and collective bookings",
+   "Self-hostable for data control"
+  ],
+  "cons": [
+   "No ATS-native loop scheduling",
+   "No interviewer training or load analytics",
+   "Requires workarounds for multi-stage loops"
+  ],
+  "integrations": [
+   "Google Calendar",
+   "Outlook",
+   "Zoom",
+   "Zapier"
+  ],
+  "sizes": [
+   "smb",
+   "agency"
+  ]
+ },
+ {
+  "slug": "hackerrank",
+  "name": "HackerRank",
+  "website": "https://www.hackerrank.com",
+  "category": "candidate-assessments",
+  "tagline": "Technical screening and interview platform with the largest question library.",
+  "bestFor": "Companies hiring software engineers at volume who need proctored screens and live interviews",
+  "pricing": "Published starter plans from about $165 per month; enterprise quote-based, often $50,000+ per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "HackerRank offers coding screens, project-based assessments, live interview pads, and AI-assisted plagiarism detection, plus a large developer community that keeps the question bank fresh. It is the most widely adopted technical screening tool at enterprise scale.",
+  "pros": [
+   "Largest library of role-based technical questions",
+   "Strong proctoring and plagiarism detection",
+   "Live interview and take-home formats"
+  ],
+  "cons": [
+   "Enterprise pricing",
+   "Candidate fatigue with algorithmic puzzles",
+   "Non-technical assessments are not a focus"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workday",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "codesignal",
+  "name": "CodeSignal",
+  "website": "https://codesignal.com",
+  "category": "candidate-assessments",
+  "tagline": "Validated technical assessments with a standardised coding score.",
+  "bestFor": "Teams that want a defensible, comparable technical score across candidates",
+  "pricing": "Quote-based; enterprise contracts commonly five to six figures per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "CodeSignal's General Coding Assessment produces a standardised score many companies accept in place of their own screen, plus realistic IDE-based assessments and live interview tooling. Its validation research is among the most rigorous in the category.",
+  "pros": [
+   "Psychometrically validated scoring",
+   "Realistic IDE environments",
+   "Shared-score programs reduce repeat testing for candidates"
+  ],
+  "cons": [
+   "Pricing not published",
+   "Heavy for small teams",
+   "Primarily technical roles"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workday",
+   "Ashby"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "codility",
+  "name": "Codility",
+  "website": "https://www.codility.com",
+  "category": "candidate-assessments",
+  "tagline": "Technical hiring assessments popular with European and global enterprises.",
+  "bestFor": "Global engineering teams that need multilingual, anti-cheating technical screens",
+  "pricing": "Published starter plans from roughly $1,200 per year; enterprise quote-based.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "Codility (CodeCheck, CodeLive) is a long-standing technical assessment vendor with strong anti-cheating controls, a wide language set, and competitive published starter pricing. It is especially common in Europe.",
+  "pros": [
+   "Competitive entry pricing",
+   "Strong anti-plagiarism and proctoring",
+   "Broad language and framework support"
+  ],
+  "cons": [
+   "UI less modern than CodeSignal",
+   "Smaller community and question library than HackerRank",
+   "Live interview tool is adequate, not exceptional"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Workable",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "testgorilla",
+  "name": "TestGorilla",
+  "website": "https://www.testgorilla.com",
+  "category": "candidate-assessments",
+  "tagline": "Library of 400+ skills, personality, and cognitive tests for all roles.",
+  "bestFor": "Small and mid-sized companies screening non-technical roles at volume",
+  "pricing": "Free plan with limited tests; paid plans from roughly $75 per month.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "TestGorilla lets you combine multiple short tests (skills, cognitive, personality, language, culture add) into one assessment candidates complete in under an hour. It is the most accessible general-purpose assessment tool and has a usable free tier.",
+  "pros": [
+   "Huge test library across functions",
+   "Free tier and transparent pricing",
+   "Fast candidate experience"
+  ],
+  "cons": [
+   "Validity varies across tests; review before using as a hard screen",
+   "Limited technical depth versus HackerRank",
+   "Customisation of tests is restricted"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Workable",
+   "JazzHR",
+   "BambooHR",
+   "Zapier"
+  ],
+  "sizes": [
+   "smb",
+   "startup"
+  ]
+ },
+ {
+  "slug": "vervoe",
+  "name": "Vervoe",
+  "website": "https://vervoe.com",
+  "category": "candidate-assessments",
+  "tagline": "AI-graded job simulations and skills tests.",
+  "bestFor": "High-volume non-technical hiring where realistic work samples beat resumes",
+  "pricing": "Published plans from about $300 per month; enterprise quote-based.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 7,
+   "value": 7
+  },
+  "overview": "Vervoe builds realistic job simulations \u2014 customer emails, spreadsheets, sales calls \u2014 and uses AI grading to rank candidates on actual performance. It suits roles where portfolios do not exist and resumes are weak predictors.",
+  "pros": [
+   "Realistic work-sample simulations",
+   "AI grading scales to high volume",
+   "Customisable assessments"
+  ],
+  "cons": [
+   "AI grading needs human calibration",
+   "Pricier than TestGorilla",
+   "Smaller integration set"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "JazzHR",
+   "Zapier"
+  ],
+  "sizes": [
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "hirevue",
+  "name": "HireVue",
+  "website": "https://www.hirevue.com",
+  "category": "video-interviewing",
+  "tagline": "Enterprise video interviewing, assessments, and conversational AI.",
+  "bestFor": "Large employers running thousands of one-way video screens and structured interviews",
+  "pricing": "Quote-based enterprise contracts, commonly $35,000+ per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 9,
+   "value": 5
+  },
+  "overview": "HireVue is the enterprise standard for one-way video interviews, game-based and coding assessments, interview scheduling, and a text-based recruiting assistant. It has invested heavily in fairness audits after earlier controversy over facial analysis, which it discontinued.",
+  "pros": [
+   "Scales to very high interview volumes",
+   "Structured interviewing and assessment science",
+   "Broad enterprise ATS integrations"
+  ],
+  "cons": [
+   "Expensive for mid-market",
+   "Candidate perceptions of one-way video vary",
+   "Implementation and change management required"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "iCIMS",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "spark-hire",
+  "name": "Spark Hire",
+  "website": "https://www.sparkhire.com",
+  "category": "video-interviewing",
+  "tagline": "Affordable one-way and live video interviewing for small and mid-sized teams.",
+  "bestFor": "Companies of 20\u20131,000 employees replacing phone screens with recorded interviews",
+  "pricing": "Published plans from about $149 per month; higher tiers add users and features.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 6,
+   "integrations": 8,
+   "value": 8
+  },
+  "overview": "Spark Hire offers one-way video questions, live interviews, interview scheduling, and reference checks (via its Comeet and Chally acquisitions) at published prices far below HireVue. It integrates with most small-business and mid-market ATS products.",
+  "pros": [
+   "Transparent, affordable pricing",
+   "Easy candidate and recruiter experience",
+   "Wide ATS integration list"
+  ],
+  "cons": [
+   "Lighter analytics and assessment science",
+   "Branding and customisation limited on lower tiers",
+   "Not designed for very high enterprise volumes"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "JazzHR",
+   "Workable",
+   "BambooHR"
+  ],
+  "sizes": [
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "brighthire",
+  "name": "BrightHire",
+  "website": "https://brighthire.com",
+  "category": "video-interviewing",
+  "tagline": "Interview intelligence: recording, transcription, AI notes, and interviewer coaching.",
+  "bestFor": "Teams that want consistent interview feedback and coaching without a dedicated video platform",
+  "pricing": "Quote-based; typically priced per interviewer, mid five figures per year for mid-market teams.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "BrightHire joins your Zoom, Meet, or Teams interviews, records and transcribes them, drafts scorecard notes, and surfaces coaching insights such as talk ratio and question consistency. It plugs into the ATS so notes land on the candidate record.",
+  "pros": [
+   "Dramatically faster, more consistent feedback",
+   "Interviewer coaching and compliance review",
+   "Works with existing video tools"
+  ],
+  "cons": [
+   "Candidate consent and recording policies required",
+   "Pricing scales with interviewer count",
+   "Not a one-way screening tool"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Zoom",
+   "Google Meet"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "metaview",
+  "name": "Metaview",
+  "website": "https://www.metaview.ai",
+  "category": "video-interviewing",
+  "tagline": "AI note-taker purpose-built for recruiter screens and interviews.",
+  "bestFor": "Recruiters who want automatic intake and screen notes written in the ATS's format",
+  "pricing": "Free tier for individuals; team plans from roughly $50 per user per month.",
+  "freeTier": true,
+  "scores": {
+   "ease": 10,
+   "depth": 7,
+   "integrations": 8,
+   "value": 9
+  },
+  "overview": "Metaview records calls and writes structured notes tailored to recruiting: intake summaries, screen notes mapped to scorecard fields, and candidate summaries pushed to Greenhouse, Ashby, or Lever. Its free tier makes it one of the easiest AI tools to adopt.",
+  "pros": [
+   "Recruiting-specific note templates",
+   "Free plan for individuals",
+   "Fast setup with calendar integration"
+  ],
+  "cons": [
+   "Fewer coaching analytics than BrightHire",
+   "Relies on third-party video platforms",
+   "Team features still maturing"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Ashby",
+   "Lever",
+   "Zoom",
+   "Google Meet",
+   "Teams"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "checkr",
+  "name": "Checkr",
+  "website": "https://checkr.com",
+  "category": "background-checks",
+  "tagline": "API-first background checks with fast turnaround and strong ATS integrations.",
+  "bestFor": "Tech-forward companies and gig platforms that want automated, integrated screening",
+  "pricing": "Pay-per-check from about $30 (basic) to $80+ (professional) per candidate; volume pricing available.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 10,
+   "value": 8
+  },
+  "overview": "Checkr modernised background checks with an API, a candidate-friendly mobile flow, and integrations into nearly every ATS and HRIS. It is the default for startups and marketplaces, and has expanded into continuous monitoring and international checks.",
+  "pros": [
+   "Fast turnaround and clear candidate status",
+   "Broadest ATS/HRIS integration coverage",
+   "Transparent published package pricing"
+  ],
+  "cons": [
+   "International coverage less deep than Sterling/HireRight",
+   "Support experience varies at low volumes",
+   "Adverse-action workflow requires HR attention"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable",
+   "Rippling",
+   "BambooHR"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "sterling",
+  "name": "Sterling",
+  "website": "https://www.sterlingcheck.com",
+  "category": "background-checks",
+  "tagline": "Global enterprise screening and identity verification (now part of First Advantage).",
+  "bestFor": "Enterprises with multi-country hiring and regulated-industry requirements",
+  "pricing": "Quote-based; per-check pricing negotiated on volume.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "Sterling runs background checks, drug testing, and identity verification in 240+ countries and territories, with deep integrations into enterprise ATSs. First Advantage acquired it in 2024, creating one of the largest screening providers.",
+  "pros": [
+   "Global coverage and compliance expertise",
+   "Identity verification and drug-testing network",
+   "Enterprise ATS integrations"
+  ],
+  "cons": [
+   "Enterprise contracting and minimums",
+   "Candidate experience less polished than Checkr",
+   "Pricing not published"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "iCIMS",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "hireright",
+  "name": "HireRight",
+  "website": "https://www.hireright.com",
+  "category": "background-checks",
+  "tagline": "Global background screening for large employers.",
+  "bestFor": "Multinational enterprises and transport/healthcare employers",
+  "pricing": "Quote-based enterprise contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "HireRight provides employment, criminal, education, drug, and driving-record screening worldwide, with strong presence in transportation and healthcare. It competes directly with Sterling and First Advantage for global programs.",
+  "pros": [
+   "Global reach and regulated-industry depth",
+   "Driving and DOT compliance programs",
+   "Established enterprise integrations"
+  ],
+  "cons": [
+   "Turnaround and support can lag at volume",
+   "Interface dated",
+   "Minimum commitments"
+  ],
+  "integrations": [
+   "Workday",
+   "Oracle HCM",
+   "iCIMS",
+   "SAP SuccessFactors"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "goodhire",
+  "name": "GoodHire",
+  "website": "https://www.goodhire.com",
+  "category": "background-checks",
+  "tagline": "Small-business background checks with published pricing (a Checkr company).",
+  "bestFor": "Small businesses running a handful of checks per month",
+  "pricing": "Published packages from about $30 to $80+ per check with no subscription.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 7,
+   "value": 8
+  },
+  "overview": "GoodHire packages FCRA-compliant checks for small businesses with transparent pricing, a simple portal, and built-in adverse-action tooling. Checkr acquired it in 2022; it remains the SMB-friendly brand.",
+  "pros": [
+   "Transparent pricing, no contract",
+   "Guided compliance for first-time users",
+   "Fast basic checks"
+  ],
+  "cons": [
+   "Fewer integrations than Checkr proper",
+   "Limited international coverage",
+   "Volume buyers should go direct to Checkr"
+  ],
+  "integrations": [
+   "JazzHR",
+   "Breezy HR",
+   "BambooHR",
+   "Gusto"
+  ],
+  "sizes": [
+   "smb"
+  ]
+ },
+ {
+  "slug": "indeed",
+  "name": "Indeed",
+  "website": "https://www.indeed.com/hire",
+  "category": "job-boards-and-distribution",
+  "tagline": "The largest job site; free organic posts plus sponsored and resume-database products.",
+  "bestFor": "Any inbound-heavy hiring, especially hourly and local roles",
+  "pricing": "Free organic listings; sponsored jobs priced per click or per application with a daily budget; Indeed Resume subscriptions from about $120 per month.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 9,
+   "value": 8
+  },
+  "overview": "Indeed remains the highest-volume source of applicants in most markets. Sponsored posts, Indeed Apply, screener questions, and the resume database make it the first distribution channel to configure in any ATS; its Smart Sourcing AI adds candidate matching.",
+  "pros": [
+   "Largest applicant volume in most geographies",
+   "Free organic listings",
+   "Easy apply and screener questions integrated with ATSs"
+  ],
+  "cons": [
+   "Quality varies; needs screening questions",
+   "Sponsored costs rise for competitive roles",
+   "Algorithm changes affect organic visibility"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Workable",
+   "JazzHR",
+   "Bullhorn",
+   "iCIMS"
+  ],
+  "sizes": [
+   "smb",
+   "midmarket",
+   "enterprise",
+   "agency"
+  ]
+ },
+ {
+  "slug": "linkedin-jobs",
+  "name": "LinkedIn Jobs",
+  "website": "https://business.linkedin.com/talent-solutions/post-jobs",
+  "category": "job-boards-and-distribution",
+  "tagline": "Professional-network job posts with strong reach for knowledge-worker roles.",
+  "bestFor": "Professional, technical, and management roles",
+  "pricing": "One free post at a time; promoted posts on a daily budget; Job Slots on contract.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 9,
+   "value": 6
+  },
+  "overview": "LinkedIn's job posts reach a professional audience and benefit from network effects (employee shares, 'open to work' matching). Promoted posts can be expensive for competitive roles, and the apply flow favours LinkedIn's own forms.",
+  "pros": [
+   "Best reach for professional roles",
+   "Network amplification via employees",
+   "Deep ATS integrations"
+  ],
+  "cons": [
+   "Promoted costs climb quickly",
+   "Applicant quality mixed for high-visibility roles",
+   "Hourly and frontline reach weaker than Indeed"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workday",
+   "iCIMS"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "ziprecruiter",
+  "name": "ZipRecruiter",
+  "website": "https://www.ziprecruiter.com/employer",
+  "category": "job-boards-and-distribution",
+  "tagline": "One post distributed to 100+ boards with AI candidate matching.",
+  "bestFor": "Small and mid-sized businesses that want broad distribution without managing boards",
+  "pricing": "Published plans from about $299 per month per job (Standard) with a free trial; higher tiers add features and reach.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 6,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "ZipRecruiter syndicates a posting to its partner network and uses matching technology to invite likely candidates to apply, which makes it a time-saver for small teams. Its costs per job are higher than organic Indeed but include distribution.",
+  "pros": [
+   "Broad syndication from one post",
+   "Invite-to-apply matching",
+   "Simple setup for small businesses"
+  ],
+  "cons": [
+   "Per-job pricing adds up",
+   "Candidate quality varies by role",
+   "Less effective for niche professional roles"
+  ],
+  "integrations": [
+   "JazzHR",
+   "Workable",
+   "Breezy HR",
+   "Bullhorn"
+  ],
+  "sizes": [
+   "smb"
+  ]
+ },
+ {
+  "slug": "appcast",
+  "name": "Appcast",
+  "website": "https://www.appcast.io",
+  "category": "job-boards-and-distribution",
+  "tagline": "Programmatic job advertising that optimises spend toward applications.",
+  "bestFor": "High-volume employers and agencies spending five figures or more a month on job ads",
+  "pricing": "Percentage of media spend or cost-per-application pricing; minimum spend requirements.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "Appcast buys sponsored placements across thousands of boards and shifts budget automatically toward sources producing applications at target cost, with rules per role and location. It is the largest programmatic job-ad platform and publishes useful benchmark data.",
+  "pros": [
+   "Automates budget allocation across boards",
+   "Rich cost-per-application benchmarks",
+   "Managed service options"
+  ],
+  "cons": [
+   "Requires meaningful ad spend to justify",
+   "Less relevant for low-volume professional hiring",
+   "Attribution depends on ATS tracking setup"
+  ],
+  "integrations": [
+   "iCIMS",
+   "Workday",
+   "Bullhorn",
+   "SmartRecruiters"
+  ],
+  "sizes": [
+   "enterprise",
+   "agency"
+  ]
+ },
+ {
+  "slug": "rippling",
+  "name": "Rippling",
+  "website": "https://www.rippling.com",
+  "category": "onboarding-tools",
+  "tagline": "HRIS, payroll, IT, and onboarding in one system with a built-in ATS.",
+  "bestFor": "Companies of 20\u20132,000 employees that want hiring data to flow straight into payroll and device provisioning",
+  "pricing": "Modular per-employee pricing; core platform from about $8 per employee per month plus modules.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 9,
+   "integrations": 9,
+   "value": 8
+  },
+  "overview": "Rippling unifies employee data across HR, payroll, benefits, IT (devices, apps) and now recruiting, so a new hire's offer acceptance can trigger payroll setup, laptop shipment, and app access automatically. Its onboarding workflows are among the most complete available.",
+  "pros": [
+   "Onboarding triggers IT and payroll automatically",
+   "Strong workflow automation engine",
+   "Includes a capable ATS for small companies"
+  ],
+  "cons": [
+   "Module pricing adds up",
+   "Breadth means some modules are shallower than specialists",
+   "Implementation requires data cleanup"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Checkr",
+   "Slack"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "bamboohr",
+  "name": "BambooHR",
+  "website": "https://www.bamboohr.com",
+  "category": "onboarding-tools",
+  "tagline": "Small-business HRIS with built-in ATS, onboarding, and e-signature.",
+  "bestFor": "Companies of 25\u2013500 employees that want simple HR and onboarding together",
+  "pricing": "Per-employee monthly pricing in two tiers (Core and Pro); quote generated online.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 8,
+   "value": 8
+  },
+  "overview": "BambooHR pairs an approachable HRIS with an ATS, onboarding checklists, e-signature, and new-hire packets. It is a frequent first HR system for growing companies and integrates with most small-business recruiting tools.",
+  "pros": [
+   "Very easy to administer",
+   "Onboarding and ATS included",
+   "Large integration marketplace for its segment"
+  ],
+  "cons": [
+   "ATS is basic compared with dedicated products",
+   "Payroll and benefits are add-ons",
+   "Analytics limited"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "JazzHR",
+   "Checkr",
+   "TestGorilla",
+   "Spark Hire"
+  ],
+  "sizes": [
+   "smb"
+  ]
+ },
+ {
+  "slug": "hibob",
+  "name": "HiBob",
+  "website": "https://www.hibob.com",
+  "category": "onboarding-tools",
+  "tagline": "Modern HRIS with culture-focused onboarding for mid-sized global companies.",
+  "bestFor": "Distributed mid-market companies that want onboarding tied to engagement and culture",
+  "pricing": "Quote-based per-employee pricing.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "HiBob's 'bob' platform emphasises people experience: onboarding flows with buddies and surveys, org charts, compensation, and performance. It integrates with Greenhouse, Ashby, and other ATSs and is popular with international scale-ups.",
+  "pros": [
+   "Engaging onboarding experience",
+   "Strong global, multi-entity support",
+   "Good ATS integrations"
+  ],
+  "cons": [
+   "No native ATS",
+   "Pricing not published",
+   "Payroll via partners"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Ashby",
+   "Lever",
+   "Workable"
+  ],
+  "sizes": [
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "enboarder",
+  "name": "Enboarder",
+  "website": "https://enboarder.com",
+  "category": "onboarding-tools",
+  "tagline": "Human-centric onboarding journeys for large employers.",
+  "bestFor": "Enterprises that want preboarding and onboarding experiences beyond paperwork",
+  "pricing": "Quote-based enterprise contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 7,
+   "value": 6
+  },
+  "overview": "Enboarder designs mobile-first onboarding journeys that nudge managers, buddies, and new hires with timed content and tasks, layered on top of the HRIS. It is used by large employers to reduce early attrition.",
+  "pros": [
+   "Manager and buddy engagement built in",
+   "Mobile-first new-hire experience",
+   "Measurable ramp and retention impact"
+  ],
+  "cons": [
+   "Requires an HRIS underneath",
+   "Enterprise pricing",
+   "Content design effort up front"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "Greenhouse",
+   "iCIMS"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "gem-insights",
+  "name": "Gem Insights",
+  "website": "https://www.gem.com/product/analytics",
+  "category": "recruiting-analytics",
+  "tagline": "Pipeline, passthrough, and DE&I analytics layered on Greenhouse and Lever.",
+  "bestFor": "Tech TA teams on Greenhouse or Lever that need better funnel and forecast reporting",
+  "pricing": "Included with Gem CRM tiers or sold as a module; quote-based.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "Gem's analytics layer turns ATS data into passthrough rates, forecasts, recruiter capacity, and DE&I funnels without a warehouse project. It is the most common first analytics add-on for Greenhouse and Lever customers.",
+  "pros": [
+   "Fast time to insight on Greenhouse/Lever data",
+   "Forecasting and capacity models",
+   "Good DE&I funnel reporting"
+  ],
+  "cons": [
+   "Tied to the Gem platform",
+   "Limited to supported ATSs",
+   "Data cleanliness still matters"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "ashby-analytics",
+  "name": "Ashby Analytics",
+  "website": "https://www.ashbyhq.com/analytics",
+  "category": "recruiting-analytics",
+  "tagline": "Report builder and dashboards included with the Ashby ATS.",
+  "bestFor": "Teams on Ashby that would otherwise buy a separate analytics tool",
+  "pricing": "Included with Ashby ATS plans.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 8,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Ashby's native analytics let teams build custom reports on any field, track goals and capacity, and share dashboards with hiring managers, which is a major reason companies switch to the ATS. It only reports on Ashby data.",
+  "pros": [
+   "No extra purchase or integration",
+   "Flexible report builder",
+   "Hiring-manager dashboards"
+  ],
+  "cons": [
+   "Ashby customers only",
+   "Cross-system (HRIS) analysis still needs a warehouse",
+   "Learning curve for complex reports"
+  ],
+  "integrations": [
+   "Ashby"
+  ],
+  "sizes": [
+   "startup",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "visier",
+  "name": "Visier",
+  "website": "https://www.visier.com",
+  "category": "recruiting-analytics",
+  "tagline": "Enterprise people analytics spanning talent acquisition and workforce planning.",
+  "bestFor": "Large enterprises that want TA metrics inside a broader people-analytics platform",
+  "pricing": "Quote-based enterprise contracts, typically six figures per year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 10,
+   "integrations": 9,
+   "value": 5
+  },
+  "overview": "Visier connects ATS, HRIS, and finance data into pre-built people-analytics models \u2014 including talent-acquisition funnels, source quality, and quality-of-hire \u2014 with benchmarks across its customer base. It is a people-analytics platform first and a recruiting tool second.",
+  "pros": [
+   "Pre-built TA and workforce models",
+   "Cross-industry benchmarks",
+   "Connects hiring to retention and performance outcomes"
+  ],
+  "cons": [
+   "Enterprise pricing and implementation",
+   "Overkill for TA-only questions",
+   "Needs clean, mapped source data"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "Greenhouse",
+   "iCIMS"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ }
+]

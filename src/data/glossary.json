@@ -1,0 +1,110 @@
+[
+ {
+  "term": "Applicant tracking system (ATS)",
+  "def": "Software that manages job postings, applications, pipeline stages, interview feedback, and hiring reports; the system of record for recruiting."
+ },
+ {
+  "term": "Agentic recruiting",
+  "def": "Recruiting workflows run by AI agents that take multi-step actions \u2014 searching, ranking, drafting outreach, scheduling \u2014 with human approval at defined checkpoints."
+ },
+ {
+  "term": "AI sourcing",
+  "def": "Using AI models to interpret a role, search public and licensed data for matching people, and rank them, replacing hand-built Boolean searches."
+ },
+ {
+  "term": "Boolean search",
+  "def": "Keyword search using operators such as AND, OR, NOT, and quotation marks to find profiles or resumes in databases and search engines."
+ },
+ {
+  "term": "Candidate relationship management (CRM)",
+  "def": "A system for nurturing relationships with potential candidates before they apply: talent pools, campaigns, events, and outreach tracking."
+ },
+ {
+  "term": "Contact waterfall",
+  "def": "A lookup process that queries several contact-data providers in sequence until a verified email or phone number is found."
+ },
+ {
+  "term": "Cost per application (CPA)",
+  "def": "Advertising spend divided by completed applications; the core metric for programmatic job advertising."
+ },
+ {
+  "term": "Diversity sourcing",
+  "def": "Deliberately building candidate pipelines that reflect the available talent market, often using filters and outreach strategies that reach underrepresented groups."
+ },
+ {
+  "term": "Easy apply",
+  "def": "A short, one-click application flow hosted by a job board that sends candidate data to the employer, trading data completeness for conversion."
+ },
+ {
+  "term": "FCRA",
+  "def": "The US Fair Credit Reporting Act, which governs employment background checks, including consent, disclosure, and the adverse-action process."
+ },
+ {
+  "term": "Hiring funnel",
+  "def": "The sequence of stages from application or outreach to hire, analysed by conversion rate at each step."
+ },
+ {
+  "term": "HRIS",
+  "def": "Human resources information system: the employee system of record for payroll, benefits, and personal data, into which hires flow after the ATS."
+ },
+ {
+  "term": "InMail",
+  "def": "LinkedIn's paid messaging product for contacting members outside your network, allocated as monthly credits on Recruiter seats."
+ },
+ {
+  "term": "Interview intelligence",
+  "def": "Tools that record, transcribe, and analyse interviews to produce notes, scorecards, and interviewer coaching."
+ },
+ {
+  "term": "Job distribution",
+  "def": "Posting a job to many boards and aggregators from one place, usually through the ATS or a distribution service."
+ },
+ {
+  "term": "One-way video interview",
+  "def": "A recorded interview in which candidates answer preset questions asynchronously for later review."
+ },
+ {
+  "term": "Passive candidate",
+  "def": "Someone not actively looking for a job who may respond to a compelling, personalised approach; the main target of sourcing tools."
+ },
+ {
+  "term": "Programmatic job advertising",
+  "def": "Automated buying of sponsored job placements across boards, optimised toward a target cost per application."
+ },
+ {
+  "term": "Quality of hire",
+  "def": "A composite measure of how well hires perform and stay, typically combining performance ratings, retention, and manager satisfaction."
+ },
+ {
+  "term": "Rediscovery",
+  "def": "Searching an existing ATS database for past applicants who match a new role."
+ },
+ {
+  "term": "Scorecard",
+  "def": "A structured interview feedback form that rates candidates on predefined attributes, enabling consistent comparison."
+ },
+ {
+  "term": "Silver medalist",
+  "def": "A strong candidate who reached the final stage but was not hired, and who is worth re-engaging for future roles."
+ },
+ {
+  "term": "Source of hire",
+  "def": "The channel \u2014 job board, referral, sourcing tool, agency \u2014 that first introduced a hired candidate."
+ },
+ {
+  "term": "Structured interview",
+  "def": "An interview in which every candidate is asked the same job-related questions and rated on the same scale."
+ },
+ {
+  "term": "Talent intelligence",
+  "def": "Analytics about the external labour market and internal workforce \u2014 supply, compensation, skills, competitor movement \u2014 used to plan and source."
+ },
+ {
+  "term": "Time to hire",
+  "def": "Days from a candidate's first contact or application to accepted offer; distinct from time to fill, which starts when the requisition opens."
+ },
+ {
+  "term": "Work-sample test",
+  "def": "An assessment that asks candidates to perform a realistic piece of the job rather than answer abstract questions."
+ }
+]

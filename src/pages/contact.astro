@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { CONTACT_EMAIL, breadcrumbSchema } from '../data/site';
+---
+<Base title="Contact RecruitmentTools.org" description="Send corrections, pricing updates, or tool suggestions to the RecruitmentTools.org Research Desk." schema={breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Contact', path: '/contact/' }])}>
+  <PageHead title="Contact" lead="Corrections and updates are the fastest way to make this site better." crumbs={[{ name: 'Home', path: '/' }, { name: 'Contact', path: '/contact/' }]} />
+  <div class="wrap single narrow">
+    <p><b>Email:</b> <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a></p>
+    <p><b>Vendors:</b> send pricing changes, new integrations, and major releases with a link to public documentation. We update profiles monthly. We do not accept payment, affiliate arrangements, or sponsored placement.</p>
+    <p><b>Practitioners:</b> if you use a tool we cover and your experience differs from our review, we want to hear it, especially on pricing, support, and data quality.</p>
+  </div>
+</Base>

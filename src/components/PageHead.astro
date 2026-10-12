@@ -1,0 +1,13 @@
+---
+import { fmtDate, LAST_REVIEWED, AUTHOR_NAME } from '../data/site';
+const { title, lead, crumbs = [], updated = LAST_REVIEWED, eyebrow = null } = Astro.props;
+---
+<div class="pagehead">
+  <div class="wrap">
+    {crumbs.length > 0 && (<div class="crumbs">{crumbs.map((c, i) => (<>{i > 0 && ' / '}<a href={c.path}>{c.name}</a></>))}</div>)}
+    {eyebrow && <div class="eyebrow">{eyebrow}</div>}
+    <h1>{title}</h1>
+    {lead && <p class="lead">{lead}</p>}
+    <div class="byline"><span>By {AUTHOR_NAME}</span><span>Reviewed {fmtDate(updated)}</span></div>
+  </div>
+</div>

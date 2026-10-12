@@ -1,0 +1,368 @@
+[
+ {
+  "slug": "recruitment-tools-for-startups",
+  "name": "Startups (under 50 employees)",
+  "title": "Recruitment tools for startups",
+  "lead": "Hire your first 50 people without buying enterprise software. The goal is one system of record, fast outbound for the roles that matter, and nothing you will rip out at Series B.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "ashby",
+    "alt": "workable",
+    "why": "Ashby bundles ATS, scheduling, CRM, and analytics so you avoid three more purchases; Workable if you want published pricing and heavy job-board distribution."
+   },
+   {
+    "category": "sourcing-tools",
+    "pick": "noon",
+    "alt": "juicebox",
+    "why": "Founders and first recruiters have no time to source. An agent that finds, verifies, and emails candidates for approval beats a database seat you will not use."
+   },
+   {
+    "category": "interview-scheduling",
+    "pick": "cal-com",
+    "alt": "prelude-calendly",
+    "why": "Free self-scheduling is enough until loops have more than three interviewers."
+   },
+   {
+    "category": "candidate-assessments",
+    "pick": "testgorilla",
+    "alt": "codility",
+    "why": "Cheap, broad, and fast; use short work samples rather than long tests."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "metaview",
+    "alt": "brighthire",
+    "why": "An AI note-taker gives you structured feedback for free and keeps interviewers honest."
+   },
+   {
+    "category": "background-checks",
+    "pick": "checkr",
+    "alt": "goodhire",
+    "why": "API-first, integrates with every startup ATS, transparent pricing."
+   },
+   {
+    "category": "job-boards-and-distribution",
+    "pick": "linkedin-jobs",
+    "alt": "indeed",
+    "why": "One free LinkedIn post per role plus your network goes a long way for professional roles."
+   },
+   {
+    "category": "onboarding-tools",
+    "pick": "rippling",
+    "alt": "bamboohr",
+    "why": "Offer acceptance should create the payroll record and ship the laptop automatically."
+   }
+  ],
+  "budget": "Roughly $400\u2013$1,500 per month all-in before job-ad spend.",
+  "avoid": [
+   "Enterprise ATS contracts with multi-year terms",
+   "LinkedIn Recruiter seats before you have a full-time recruiter",
+   "Standalone analytics tools; Ashby's reports are enough"
+  ]
+ },
+ {
+  "slug": "recruitment-tools-for-scaling-companies",
+  "name": "Scale-ups (50\u2013500 employees)",
+  "title": "Recruitment tools for scaling companies",
+  "lead": "You now have a recruiting team, hiring managers who need dashboards, and interview loops that eat engineering time. The stack should add structure and automation without fragmenting data.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "greenhouse",
+    "alt": "ashby",
+    "why": "Greenhouse for structured hiring and the deepest marketplace; Ashby if you want analytics and scheduling built in."
+   },
+   {
+    "category": "sourcing-tools",
+    "pick": "noon",
+    "alt": "gem",
+    "why": "Agentic sourcing lets a small team run outbound on every hard role; Gem adds CRM analytics if you nurture large pools."
+   },
+   {
+    "category": "recruitment-crm-and-outreach",
+    "pick": "gem",
+    "alt": "lever",
+    "why": "Silver medalists and past applicants become your cheapest source of hire once someone owns the CRM."
+   },
+   {
+    "category": "interview-scheduling",
+    "pick": "modernloop",
+    "alt": "goodtime",
+    "why": "Loop scheduling and interviewer training stop the same five engineers doing every interview."
+   },
+   {
+    "category": "candidate-assessments",
+    "pick": "codesignal",
+    "alt": "hackerrank",
+    "why": "A standardised technical score makes screens comparable across teams."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "brighthire",
+    "alt": "metaview",
+    "why": "Interview intelligence improves feedback quality and surfaces coaching needs."
+   },
+   {
+    "category": "background-checks",
+    "pick": "checkr",
+    "alt": "sterling",
+    "why": "Still the right choice until you hire in many countries."
+   },
+   {
+    "category": "recruiting-analytics",
+    "pick": "gem-insights",
+    "alt": "ashby-analytics",
+    "why": "Forecasting and capacity planning become board-level questions at this stage."
+   }
+  ],
+  "budget": "Roughly $4,000\u2013$15,000 per month before job-ad spend and LinkedIn seats.",
+  "avoid": [
+   "Buying a dedicated CRM and a dedicated analytics tool before fixing stage names in the ATS",
+   "Separate schedulers if Ashby's native scheduling already covers your loops",
+   "Vanity AI tools that do not write back to the ATS"
+  ]
+ },
+ {
+  "slug": "recruitment-tools-for-enterprise",
+  "name": "Enterprise (500+ employees)",
+  "title": "Recruitment tools for enterprise talent acquisition",
+  "lead": "Global compliance, thousands of hiring managers, and many hiring types (professional, hourly, campus, executive) mean a suite at the core and specialists at the edges.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "smartrecruiters",
+    "alt": "icims",
+    "why": "SmartRecruiters for hiring-manager experience; iCIMS or Workday Recruiting where HRIS alignment dominates."
+   },
+   {
+    "category": "sourcing-tools",
+    "pick": "seekout",
+    "alt": "hireez",
+    "why": "Talent-intelligence platforms with diversity, clearance, and rediscovery features; add an AI agent such as Noon for outbound-heavy teams."
+   },
+   {
+    "category": "recruitment-crm-and-outreach",
+    "pick": "phenom",
+    "alt": "beamery",
+    "why": "Career-site personalisation and chatbot feed the CRM at scale."
+   },
+   {
+    "category": "interview-scheduling",
+    "pick": "goodtime",
+    "alt": "prelude-calendly",
+    "why": "Volume and panel complexity justify a dedicated scheduler."
+   },
+   {
+    "category": "candidate-assessments",
+    "pick": "hackerrank",
+    "alt": "codesignal",
+    "why": "Enterprise technical screening at volume; add validated non-technical assessments where needed."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "hirevue",
+    "alt": "brighthire",
+    "why": "One-way video for volume plus interview intelligence for professional loops."
+   },
+   {
+    "category": "background-checks",
+    "pick": "sterling",
+    "alt": "hireright",
+    "why": "Global coverage, drug testing, and continuous monitoring."
+   },
+   {
+    "category": "job-boards-and-distribution",
+    "pick": "appcast",
+    "alt": "indeed",
+    "why": "Programmatic buying optimises six-figure ad budgets."
+   },
+   {
+    "category": "onboarding-tools",
+    "pick": "enboarder",
+    "alt": "rippling",
+    "why": "Onboarding journeys reduce early attrition across locations."
+   },
+   {
+    "category": "recruiting-analytics",
+    "pick": "visier",
+    "alt": "gem-insights",
+    "why": "Connect hiring to retention and performance outcomes."
+   }
+  ],
+  "budget": "Typically $250,000 to several million per year depending on hiring volume and geography.",
+  "avoid": [
+   "Treating the HRIS recruiting module as sufficient without evaluating candidate experience",
+   "Point solutions that do not integrate with the core ATS",
+   "Buying AI features before governance and candidate-disclosure policies exist"
+  ]
+ },
+ {
+  "slug": "recruitment-tools-for-staffing-agencies",
+  "name": "Staffing & recruiting agencies",
+  "title": "Recruitment tools for staffing and recruiting agencies",
+  "lead": "Agencies sell speed and reach. The stack is an agency ATS/CRM at the core, the best sourcing and outreach you can afford per desk, and automation that keeps candidates warm between placements.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "bullhorn",
+    "alt": "recruit-crm",
+    "why": "Bullhorn for firms with 10+ recruiters and VMS feeds; Recruit CRM or Loxo for smaller firms that want published pricing."
+   },
+   {
+    "category": "sourcing-tools",
+    "pick": "noon",
+    "alt": "sourcewhale",
+    "why": "An agent that works every job order overnight changes desk economics; SourceWhale if you mainly need sequencing on top of Bullhorn."
+   },
+   {
+    "category": "recruitment-crm-and-outreach",
+    "pick": "sense",
+    "alt": "sourcewhale",
+    "why": "Automated texting, redeployment, and check-ins keep the bench engaged."
+   },
+   {
+    "category": "interview-scheduling",
+    "pick": "cal-com",
+    "alt": "prelude-calendly",
+    "why": "Client interviews are usually simple; free links suffice."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "spark-hire",
+    "alt": "metaview",
+    "why": "One-way video for screening volume; AI notes for intake calls."
+   },
+   {
+    "category": "background-checks",
+    "pick": "checkr",
+    "alt": "sterling",
+    "why": "Fast, integrated checks keep placements on schedule."
+   },
+   {
+    "category": "job-boards-and-distribution",
+    "pick": "indeed",
+    "alt": "appcast",
+    "why": "Indeed volume for contract roles; programmatic once spend is significant."
+   }
+  ],
+  "budget": "Roughly $250\u2013$600 per recruiter per month for software before LinkedIn seats and job ads.",
+  "avoid": [
+   "Paying for a LinkedIn Recruiter seat on every desk regardless of usage",
+   "Running outreach from recruiters' main mailboxes without deliverability controls",
+   "Letting Bullhorn data decay \u2014 most agency problems are data hygiene problems"
+  ]
+ },
+ {
+  "slug": "recruitment-tools-for-high-volume-hiring",
+  "name": "High-volume & hourly hiring",
+  "title": "Recruitment tools for high-volume and hourly hiring",
+  "lead": "Retail, logistics, hospitality, healthcare support, and customer service hire in the hundreds or thousands. Speed to interview and candidate drop-off matter more than sourcing depth.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "icims",
+    "alt": "workable",
+    "why": "Enterprise volume needs a configurable ATS; Workable serves multi-location SMBs."
+   },
+   {
+    "category": "recruitment-crm-and-outreach",
+    "pick": "paradox",
+    "alt": "sense",
+    "why": "Conversational screening and scheduling by text collapses time-to-hire from weeks to days."
+   },
+   {
+    "category": "job-boards-and-distribution",
+    "pick": "appcast",
+    "alt": "indeed",
+    "why": "Programmatic ads push spend to the locations that need candidates."
+   },
+   {
+    "category": "candidate-assessments",
+    "pick": "vervoe",
+    "alt": "testgorilla",
+    "why": "Short job simulations predict performance better than resumes for frontline roles."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "hirevue",
+    "alt": "spark-hire",
+    "why": "One-way video replaces phone screens at scale."
+   },
+   {
+    "category": "background-checks",
+    "pick": "checkr",
+    "alt": "sterling",
+    "why": "Fast turnaround keeps start dates."
+   },
+   {
+    "category": "onboarding-tools",
+    "pick": "enboarder",
+    "alt": "rippling",
+    "why": "Preboarding communication reduces no-shows on day one."
+   }
+  ],
+  "budget": "Dominated by job-ad spend; software typically $5\u2013$25 per hire at scale.",
+  "avoid": [
+   "Long application forms \u2014 every extra minute loses candidates",
+   "Sourcing databases; active applicants exist, you need throughput",
+   "Manual scheduling of any kind"
+  ]
+ },
+ {
+  "slug": "recruitment-tools-for-solo-recruiters",
+  "name": "Solo recruiters & small teams",
+  "title": "Recruitment tools for solo recruiters",
+  "lead": "One person, many roles. Spend on the two things that save hours \u2014 automated sourcing and scheduling \u2014 and keep everything else free or cheap.",
+  "stack": [
+   {
+    "category": "applicant-tracking-systems",
+    "pick": "breezy-hr",
+    "alt": "loxo",
+    "why": "Breezy's free tier for in-house; Loxo's free tier for independent recruiters."
+   },
+   {
+    "category": "sourcing-tools",
+    "pick": "noon",
+    "alt": "juicebox",
+    "why": "Automating search and first-touch outreach is the single biggest time saving available."
+   },
+   {
+    "category": "interview-scheduling",
+    "pick": "cal-com",
+    "alt": "prelude-calendly",
+    "why": "Free."
+   },
+   {
+    "category": "video-interviewing",
+    "pick": "metaview",
+    "alt": "spark-hire",
+    "why": "Free AI notes for screens."
+   },
+   {
+    "category": "candidate-assessments",
+    "pick": "testgorilla",
+    "alt": "vervoe",
+    "why": "Free tier covers basic skills tests."
+   },
+   {
+    "category": "background-checks",
+    "pick": "goodhire",
+    "alt": "checkr",
+    "why": "Pay per check, no subscription."
+   },
+   {
+    "category": "job-boards-and-distribution",
+    "pick": "indeed",
+    "alt": "linkedin-jobs",
+    "why": "Free organic posts on both."
+   }
+  ],
+  "budget": "Roughly $100\u2013$500 per month.",
+  "avoid": [
+   "Any tool with a seat minimum above one",
+   "Annual contracts before you have tested the tool on a live role",
+   "LinkedIn Recruiter at list price"
+  ]
+ }
+]

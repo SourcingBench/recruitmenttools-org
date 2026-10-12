@@ -1,0 +1,14 @@
+import { readFileSync, writeFileSync } from 'node:fs';
+const S = 'https://recruitmenttools.org';
+const cats = JSON.parse(readFileSync('src/data/categories.json', 'utf8'));
+const tools = JSON.parse(readFileSync('src/data/tools.json', 'utf8'));
+const stacks = JSON.parse(readFileSync('src/data/stacks.json', 'utf8'));
+let out = `# RecruitmentTools.org\n\n> The independent guide to recruitment tools. We map the ${cats.length} categories of recruiting software — ATS, sourcing, CRM and outreach, scheduling, assessments, video interviewing, background checks, job boards, onboarding, analytics — and rate ${tools.length} tools on ease, depth, integrations, and value. No paid placement. Reuse with attribution and a link.\n\n## Rankings\n- [Best recruitment tools 2026](${S}/best-recruitment-tools/): 15 tools ranked across every category\n`;
+for (const c of cats) out += `- [Best ${c.plural} 2026](${S}/categories/${c.slug}/): ${c.what.split('. ')[0]}\n`;
+out += `\n## Stacks by company type\n`;
+for (const s of stacks) out += `- [${s.title}](${S}/stacks/${s.slug}/): ${s.lead}\n`;
+out += `\n## Tool reviews\n`;
+for (const t of tools) out += `- [${t.name}](${S}/tools/${t.slug}/): ${t.tagline}\n`;
+out += `\n## Reference\n- [Glossary](${S}/glossary/)\n- [Methodology](${S}/methodology/)\n- [About](${S}/about/)\n`;
+writeFileSync('public/llms.txt', out);
+console.log('llms.txt written');

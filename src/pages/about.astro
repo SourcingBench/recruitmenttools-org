@@ -1,0 +1,17 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { AUTHOR_NAME, CONTACT_EMAIL, breadcrumbSchema } from '../data/site';
+---
+<Base title="About RecruitmentTools.org" description="RecruitmentTools.org is an independent guide to recruiting software, maintained by a research desk of former recruiters and talent-operations practitioners." schema={breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'About', path: '/about/' }])}>
+  <PageHead title="About RecruitmentTools.org" lead="The recruiting stack is confusing on purpose. We try to make it legible." crumbs={[{ name: 'Home', path: '/' }, { name: 'About', path: '/about/' }]} />
+  <div class="wrap single narrow">
+    <p>Recruiting software is sold as dozens of overlapping products with vague category names. Buyers end up with tools that duplicate each other, data split across systems, and recruiters doing manual work a different tool would have automated. RecruitmentTools.org exists to give hiring teams a map: what each category does, when it is worth buying, and which products lead it.</p>
+    <h2 id="research-desk">The Research Desk</h2>
+    <p>Content is written and maintained by the {AUTHOR_NAME}, a small group of former in-house recruiters, agency recruiters, and talent-operations leads who have implemented and administered most of the tools we cover. We publish as a desk rather than under individual bylines so that scores reflect a shared methodology rather than one person's preference.</p>
+    <h2>What we are not</h2>
+    <p>We are not a marketplace, we do not take affiliate commissions, and vendors cannot buy placement. We are not a substitute for a reference call — always run a live role through a tool before signing an annual contract.</p>
+    <h2>Contact</h2>
+    <p>Corrections, pricing updates, and tool suggestions: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+  </div>
+</Base>

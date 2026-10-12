@@ -1,0 +1,341 @@
+[
+ {
+  "slug": "applicant-tracking-systems",
+  "name": "Applicant Tracking Systems",
+  "short": "ATS",
+  "plural": "applicant tracking systems",
+  "what": "An applicant tracking system (ATS) is the system of record for hiring: it posts jobs, collects applications, moves candidates through stages, stores interview feedback, and reports on the pipeline. Every other recruitment tool plugs into it.",
+  "who": "Any company that hires more than a handful of people a year. Below roughly 10 hires a year a shared inbox and spreadsheet still work; above that an ATS pays for itself in saved coordination time.",
+  "when": "Buy first. The ATS is the foundation the rest of the stack integrates with, so choose it before sourcing, scheduling, or assessment tools.",
+  "features": [
+   "Structured pipeline stages and scorecards",
+   "Job posting to boards and careers page",
+   "Interview scheduling or calendar integration",
+   "Collaborative feedback and approvals",
+   "Reporting on time-to-hire, source of hire, and funnel conversion",
+   "Open API and marketplace of integrations",
+   "Compliance (EEOC/OFCCP, GDPR consent, data retention)"
+  ],
+  "pricing": "Roughly $100\u2013$400 per month for small-business products (often priced per open job), and $6,000\u2013$60,000+ per year for mid-market and enterprise suites priced per employee or per recruiter seat.",
+  "mistakes": [
+   "Buying an HRIS bundle's 'recruiting module' and discovering it has no sourcing, scheduling, or structured interviews",
+   "Choosing an enterprise ATS at 50 employees and paying for process you do not have",
+   "Ignoring the integration marketplace: a closed ATS forces manual re-keying for every other tool"
+  ],
+  "faq": [
+   {
+    "q": "What is the difference between an ATS and a recruiting CRM?",
+    "a": "An ATS manages people who have applied or been added to a specific job; a recruiting CRM manages relationships with people you may hire someday (talent pools, nurture campaigns, events). Most modern ATS products now include a basic CRM, and most CRMs push candidates into the ATS once they are attached to a role."
+   },
+   {
+    "q": "Do small businesses need an applicant tracking system?",
+    "a": "If you hire more than about ten people a year, yes. Small-business ATS products such as JazzHR, Breezy HR, and Workable start around $100\u2013$150 per month and replace email threads, spreadsheets, and lost resumes."
+   },
+   {
+    "q": "Which ATS do startups use most?",
+    "a": "Greenhouse, Lever, and Ashby dominate venture-backed startups because of their structured-interview workflows, analytics, and integration marketplaces. Ashby has grown fastest since 2023 on the strength of its built-in analytics and scheduling."
+   }
+  ]
+ },
+ {
+  "slug": "sourcing-tools",
+  "name": "Sourcing Tools",
+  "short": "Sourcing",
+  "plural": "sourcing tools",
+  "what": "Sourcing tools help recruiters find and reach candidates who have not applied: searchable talent databases, AI search that works from a job description, contact finders that surface verified emails and phone numbers, and AI agents that run the whole search-to-outreach loop.",
+  "who": "Teams filling roles where inbound applicants are not good enough or do not exist: engineering, sales, healthcare, executive, and any niche skill set. Agencies live on sourcing tools.",
+  "when": "Buy second, once the ATS is in place, and only if more than a quarter of your hires need to come from outbound. Inbound-heavy hourly hiring usually needs job distribution more than sourcing.",
+  "features": [
+   "Database coverage beyond LinkedIn (GitHub, publications, licenses, company sites)",
+   "Natural-language or job-description search, not only Boolean",
+   "Verified contact data (email and phone) with waterfall lookups",
+   "Outreach sequencing with reply tracking",
+   "ATS sync so sourced candidates land in the pipeline",
+   "Automation: agents that search, rank, and reach out with recruiter approval"
+  ],
+  "pricing": "Self-serve plans from about $100\u2013$500 per seat per month; enterprise talent-intelligence platforms (hireEZ, SeekOut, Findem) are quote-based and often $10,000\u2013$50,000+ per year. LinkedIn Recruiter is roughly $10,000+ per seat per year at list price.",
+  "mistakes": [
+   "Paying for LinkedIn Recruiter seats for recruiters who send fewer than 50 InMails a month",
+   "Buying a database without checking contact-data accuracy on your own target profiles",
+   "Running outreach from recruiters' primary mailboxes without warm-up and deliverability controls"
+  ],
+  "faq": [
+   {
+    "q": "What are the best sourcing tools for recruiters?",
+    "a": "For most in-house teams the strongest options in 2026 are Noon (autonomous AI sourcing with email and SMS outreach), hireEZ and SeekOut (large talent databases with deep filters), Gem (sourcing plus CRM), and Juicebox (AI-native people search). LinkedIn Recruiter remains the default where budget allows. For a detailed ranking see our <a href='/categories/sourcing-tools/'>sourcing tools category page</a>."
+   },
+   {
+    "q": "What is AI sourcing?",
+    "a": "AI sourcing uses large language models to read a job description, infer which career trajectories fit, search public and licensed data for matching people, rank them, and in agent-style products draft and send the first outreach. It replaces hand-built Boolean strings and manual list building."
+   },
+   {
+    "q": "Is LinkedIn Recruiter worth it?",
+    "a": "For high-volume outbound teams with budget, yes: it has the largest active professional network. For small teams the per-seat cost (typically $10,000+ per year) is hard to justify against AI sourcing tools that start in the low hundreds per month and include verified contact data."
+   }
+  ]
+ },
+ {
+  "slug": "recruitment-crm-and-outreach",
+  "name": "Recruitment CRM & Outreach",
+  "short": "CRM / Outreach",
+  "plural": "recruitment CRM and outreach tools",
+  "what": "Recruitment CRMs manage relationships with candidates before and between applications: talent pools, nurture campaigns, event follow-up, and multi-step outreach sequences with reply tracking. Outreach tools focus on the sequencing and deliverability side.",
+  "who": "Teams that re-engage past candidates, run silver-medalist pools, hire repeatedly for the same profiles, or send more than a few hundred outreach messages a month.",
+  "when": "Buy when you notice recruiters rebuilding the same searches or losing track of warm candidates. Many ATS products include a basic CRM; buy a dedicated one when you need campaigns, events, or analytics on nurture.",
+  "features": [
+   "Talent pools and tagging with automatic ATS sync",
+   "Multi-step email sequences with personalization and A/B testing",
+   "Reply detection, sentiment, and task creation",
+   "Event and campus recruiting workflows",
+   "Deliverability tooling: warm-up, sending limits, domain health",
+   "Attribution: which campaign produced which hire"
+  ],
+  "pricing": "Outreach-only tools from about $50\u2013$150 per seat per month. Full recruiting CRMs (Gem, Beamery, Avature, Phenom) are quote-based; mid-market deals commonly land between $15,000 and $80,000 per year.",
+  "mistakes": [
+   "Buying an enterprise CRM for talent pools nobody has time to nurture",
+   "Sending sequences from unwarmed domains and torching deliverability",
+   "Letting the CRM and ATS drift into two conflicting candidate records"
+  ],
+  "faq": [
+   {
+    "q": "Do I need a recruiting CRM if I have an ATS?",
+    "a": "Not always. If your ATS supports talent pools, tags, and basic campaigns, you can wait. You need a dedicated CRM when you run events, nurture thousands of passive candidates, or want attribution on outreach campaigns."
+   },
+   {
+    "q": "What is the best recruiting CRM?",
+    "a": "Gem is the most popular standalone CRM for tech and mid-market teams; Beamery, Avature, and Phenom serve enterprise talent-marketing programs; Recruit CRM, Loxo, and Bullhorn combine CRM and ATS for agencies."
+   }
+  ]
+ },
+ {
+  "slug": "interview-scheduling",
+  "name": "Interview Scheduling",
+  "short": "Scheduling",
+  "plural": "interview scheduling tools",
+  "what": "Interview scheduling tools remove the back-and-forth of booking interviews: candidate self-scheduling links, automatic interviewer load balancing, multi-interviewer panel coordination, room booking, and reminders.",
+  "who": "Any team running more than 20 interviews a week, and any team with panel loops or interviewer training programs.",
+  "when": "Buy when a coordinator spends more than half their time on calendars, or when candidates drop out between stages because scheduling takes days.",
+  "features": [
+   "Candidate self-scheduling with time-zone handling",
+   "Panel and loop scheduling with interviewer pools and load limits",
+   "Calendar, video, and ATS integration",
+   "Automated reminders and reschedule flows",
+   "Interviewer training tracks (shadow / reverse shadow)",
+   "Analytics on time-to-schedule and interviewer load"
+  ],
+  "pricing": "Simple booking links are free or under $20 per user per month. Dedicated recruiting schedulers (GoodTime, Prelude, ModernLoop) are quote-based, typically $5,000\u2013$40,000 per year depending on interview volume.",
+  "mistakes": [
+   "Using a generic calendar tool for panel loops and losing hours to manual conflicts",
+   "Buying an enterprise scheduler before the ATS's built-in scheduling has been tried",
+   "Not pooling interviewers, so the same five engineers do every interview"
+  ],
+  "faq": [
+   {
+    "q": "Can my ATS schedule interviews?",
+    "a": "Most modern ATS products (Ashby, Greenhouse, Lever, Workable) include candidate self-scheduling and basic panel scheduling. Dedicated tools add interviewer pools, load balancing, training tracks, and analytics."
+   },
+   {
+    "q": "What is the best interview scheduling software?",
+    "a": "GoodTime and Prelude (now part of Calendly) lead for high-volume panel scheduling; ModernLoop is strong for tech loops; Calendly and Cal.com cover simple self-scheduling at low cost."
+   }
+  ]
+ },
+ {
+  "slug": "candidate-assessments",
+  "name": "Candidate Assessments",
+  "short": "Assessments",
+  "plural": "candidate assessment tools",
+  "what": "Assessment tools test skills, cognitive ability, personality, or job-specific knowledge before or during the interview process: coding tests, work-sample tasks, situational judgment tests, and validated psychometrics.",
+  "who": "High-volume hiring where resumes do not predict performance, technical hiring where a code sample beats a resume, and regulated roles that need validated, defensible selection.",
+  "when": "Buy when interviewers disagree on quality, when onsite-to-offer conversion is low, or when volume makes resume screening impractical.",
+  "features": [
+   "Job-relevant, validated content (not generic trivia)",
+   "Anti-cheating and proctoring options",
+   "Candidate experience: time to complete, mobile support, feedback",
+   "ATS integration and automated stage movement",
+   "Adverse-impact monitoring and reporting",
+   "Custom test creation and work-sample support"
+  ],
+  "pricing": "Self-serve plans from $75\u2013$500 per month; technical assessment platforms (HackerRank, CodeSignal, Codility) are usually quote-based, from a few thousand to $100,000+ per year at enterprise scale.",
+  "mistakes": [
+   "Putting a 90-minute test before the first conversation and losing the best candidates",
+   "Using unvalidated personality quizzes as hard screens",
+   "Testing for skills the job does not actually use"
+  ],
+  "faq": [
+   {
+    "q": "Are pre-employment assessments legal?",
+    "a": "Yes, when they are job-related and consistent with business necessity, and when you monitor for adverse impact. Validated, job-relevant tests are legal in the US under EEOC guidelines and in the EU under GDPR with appropriate consent and transparency."
+   },
+   {
+    "q": "What is the best technical assessment tool?",
+    "a": "HackerRank and CodeSignal lead enterprise technical screening; Codility is strong in Europe; CoderPad and Karat specialise in live interviews. TestGorilla and Vervoe cover non-technical skills tests at lower price points."
+   }
+  ]
+ },
+ {
+  "slug": "video-interviewing",
+  "name": "Video Interviewing",
+  "short": "Video",
+  "plural": "video interviewing tools",
+  "what": "Video interviewing tools cover one-way (asynchronous) recorded interviews, structured live interviews, and AI interview assistants that transcribe, summarize, and score conversations.",
+  "who": "High-volume and frontline hiring (one-way video replaces phone screens), distributed teams (structured live interviews), and any team wanting interview notes and scorecards generated automatically.",
+  "when": "Buy when phone-screen volume exceeds what recruiters can handle, or when interview feedback quality is inconsistent across interviewers.",
+  "features": [
+   "One-way video with configurable questions and retakes",
+   "Live interviews with structured question guides",
+   "AI transcription, summaries, and scorecard drafting",
+   "Candidate consent, accessibility, and bias controls",
+   "ATS integration and interviewer collaboration",
+   "Analytics on completion rates and interviewer behavior"
+  ],
+  "pricing": "One-way video tools from about $150\u2013$500 per month for small teams; AI interview assistants from about $50\u2013$150 per interviewer per month; enterprise suites (HireVue, Modern Hire) are quote-based.",
+  "mistakes": [
+   "Making one-way video the first step for senior candidates who will simply not record",
+   "Using AI scoring without human review or disclosure",
+   "Buying a video tool when Zoom plus an AI note-taker would do"
+  ],
+  "faq": [
+   {
+    "q": "What is a one-way video interview?",
+    "a": "A recorded interview where candidates answer preset questions on their own schedule and recruiters review the recordings later. It replaces the phone screen for high-volume roles and speeds up time-to-first-interview."
+   },
+   {
+    "q": "Do AI interview tools replace interviewers?",
+    "a": "No. The leading tools (BrightHire, Metaview, HireVue) record, transcribe, and summarize interviews so humans decide faster and more consistently. Fully automated AI interviewers exist for high-volume screening but should be disclosed and reviewed for fairness."
+   }
+  ]
+ },
+ {
+  "slug": "background-checks",
+  "name": "Background Checks",
+  "short": "Screening",
+  "plural": "background check tools",
+  "what": "Background check platforms run criminal, employment, education, identity, credit, drug, and license verifications, with candidate consent flows and compliance (FCRA in the US, equivalent regimes elsewhere) built in.",
+  "who": "Every employer that hires in regulated industries, handles money or vulnerable populations, or wants to verify credentials at scale. Most companies run at least identity and criminal checks.",
+  "when": "Buy at the point you make your first regulated hire, and re-evaluate when volume rises enough that turnaround time and per-check price matter.",
+  "features": [
+   "Check types and geographic coverage you actually need",
+   "Turnaround time and candidate status visibility",
+   "FCRA-compliant adverse-action workflow",
+   "Candidate mobile experience and consent capture",
+   "ATS integration to trigger checks at the offer stage",
+   "Continuous monitoring for ongoing compliance"
+  ],
+  "pricing": "Pay-per-check: basic packages around $30\u2013$80 per candidate, comprehensive packages $100\u2013$300+. Volume contracts reduce unit prices.",
+  "mistakes": [
+   "Running checks before a conditional offer (illegal in many jurisdictions)",
+   "Skipping the adverse-action process when a check comes back with findings",
+   "Choosing by price and losing candidates to two-week turnaround times"
+  ],
+  "faq": [
+   {
+    "q": "How long does a background check take?",
+    "a": "Identity and national criminal database checks return in minutes; county criminal searches take one to three business days; employment and education verifications can take three to seven days depending on the responsiveness of past employers and schools."
+   },
+   {
+    "q": "What is the best background check company for employers?",
+    "a": "Checkr leads for API-first integration and speed; Sterling and HireRight serve enterprise and global programs; GoodHire and Certn suit small and mid-sized businesses."
+   }
+  ]
+ },
+ {
+  "slug": "job-boards-and-distribution",
+  "name": "Job Boards & Distribution",
+  "short": "Job boards",
+  "plural": "job boards and distribution tools",
+  "what": "Job boards and programmatic distribution tools put openings in front of active job seekers: general boards (Indeed, LinkedIn Jobs, ZipRecruiter), niche boards, and programmatic platforms that buy sponsored placement across many boards against a cost-per-application target.",
+  "who": "Inbound-heavy hiring: hourly, retail, logistics, healthcare, customer support, and any role where plenty of qualified people are actively looking.",
+  "when": "Buy when inbound volume is the bottleneck. If roles are niche and candidates are not actively looking, spend on sourcing tools instead.",
+  "features": [
+   "Reach in your geography and job family",
+   "Sponsored vs. organic economics and cost-per-apply transparency",
+   "Apply flow friction (easy apply vs. redirect to ATS)",
+   "Programmatic budget rules and pacing",
+   "Candidate quality reporting back to the ATS",
+   "Niche board coverage for specialized roles"
+  ],
+  "pricing": "Free organic listings on most boards; sponsored posts $5\u2013$25+ per day or pay-per-click; programmatic platforms (Appcast, Joveo, PandoLogic) charge a percentage of media spend or a per-application fee.",
+  "mistakes": [
+   "Sponsoring every role at the same budget regardless of difficulty",
+   "Sending candidates to a 25-minute application when competitors offer one-click apply",
+   "Ignoring niche boards that convert far better for specialized roles"
+  ],
+  "faq": [
+   {
+    "q": "Is Indeed free for employers?",
+    "a": "Organic job postings are free with limited visibility; sponsored postings are pay-per-click or pay-per-application with budgets you set. Indeed also sells subscription access to its resume database."
+   },
+   {
+    "q": "What is programmatic job advertising?",
+    "a": "Software that automatically buys sponsored job placements across many boards, shifting budget toward the roles and sources producing applications at the lowest cost. Appcast, Joveo, and PandoLogic are the main platforms."
+   }
+  ]
+ },
+ {
+  "slug": "onboarding-tools",
+  "name": "Onboarding Tools",
+  "short": "Onboarding",
+  "plural": "onboarding tools",
+  "what": "Onboarding tools bridge offer acceptance and day one: offer letters and e-signature, document collection and I-9/right-to-work verification, preboarding communication, equipment and access provisioning, and 30/60/90-day plans.",
+  "who": "Any company hiring across multiple locations or departments, and any team where new hires have reported a messy first week.",
+  "when": "Buy when HR spends more than a day per hire on paperwork, or when new-hire drop-off between offer and start date becomes measurable.",
+  "features": [
+   "Offer letter templates and e-signature",
+   "Compliance forms (I-9, W-4, right-to-work) with e-verify where applicable",
+   "Task workflows across HR, IT, and managers",
+   "Preboarding portal and communication",
+   "HRIS and ATS integration so data entry happens once",
+   "New-hire surveys and ramp tracking"
+  ],
+  "pricing": "Included in most HRIS platforms (Rippling, BambooHR, HiBob, Workday). Standalone onboarding tools run about $5\u2013$12 per employee per month or per-hire fees.",
+  "mistakes": [
+   "Treating onboarding as paperwork only and ignoring the manager's role",
+   "Buying a standalone tool when the HRIS already includes workflows",
+   "Collecting the same data in the ATS, the onboarding tool, and the HRIS"
+  ],
+  "faq": [
+   {
+    "q": "What is the difference between onboarding and preboarding?",
+    "a": "Preboarding covers the period between offer acceptance and the start date (paperwork, communication, equipment). Onboarding runs from day one through ramp, typically 30 to 90 days."
+   },
+   {
+    "q": "Do I need separate onboarding software?",
+    "a": "Usually not if you use a modern HRIS (Rippling, BambooHR, HiBob, Gusto). Dedicated tools make sense for high-volume, multi-location, or heavily regulated hiring."
+   }
+  ]
+ },
+ {
+  "slug": "recruiting-analytics",
+  "name": "Recruiting Analytics",
+  "short": "Analytics",
+  "plural": "recruiting analytics tools",
+  "what": "Recruiting analytics tools consolidate data from the ATS, CRM, sourcing, scheduling, and HRIS into funnel metrics, capacity planning, diversity reporting, and forecasts, with dashboards for recruiters, hiring managers, and executives.",
+  "who": "Talent teams with more than roughly five recruiters, headcount plans to forecast against, or leadership asking for data the ATS cannot produce.",
+  "when": "Buy when you have outgrown ATS reporting: multiple data sources, historical trend questions, or an executive audience.",
+  "features": [
+   "Connectors for your ATS, CRM, and HRIS",
+   "Funnel conversion by stage, source, recruiter, and demographic",
+   "Capacity and forecast models tied to headcount plans",
+   "Hiring-manager and executive dashboards",
+   "Data quality tooling to fix inconsistent stages and sources",
+   "Export to the warehouse or BI tool you already use"
+  ],
+  "pricing": "Quote-based; mid-market deals typically $15,000\u2013$60,000 per year. Many teams start with the analytics built into Ashby or Greenhouse, or with a BI tool connected to the ATS export.",
+  "mistakes": [
+   "Buying dashboards before fixing inconsistent stage names and sources in the ATS",
+   "Measuring recruiters only on time-to-fill",
+   "Building a warehouse pipeline when the ATS's built-in analytics would answer the question"
+  ],
+  "faq": [
+   {
+    "q": "What recruiting metrics matter most?",
+    "a": "Pipeline conversion by stage, time-to-hire (first contact to accepted offer), source of hire, offer-acceptance rate, hiring-manager satisfaction, and quality of hire proxies such as 90-day retention and performance ratings."
+   },
+   {
+    "q": "Which ATS has the best analytics?",
+    "a": "Ashby is widely regarded as having the strongest built-in analytics among startup and mid-market ATS products; Greenhouse has a mature report builder and BI connector; enterprise teams often add a dedicated layer such as Gem Insights or a data warehouse."
+   }
+  ]
+ }
+]

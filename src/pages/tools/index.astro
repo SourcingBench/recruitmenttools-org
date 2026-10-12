@@ -1,0 +1,15 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import ToolCard from '../../components/ToolCard.astro';
+import { SITE_URL, itemListSchema, breadcrumbSchema } from '../../data/site';
+import categories from '../../data/categories.json';
+import tools from '../../data/tools.json';
+const schema = [itemListSchema('Recruitment tools directory', tools.map((t) => ({ name: t.name, url: `${SITE_URL}/tools/${t.slug}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Tools', path: '/tools/' }])];
+---
+<Base title={`Recruitment Tools Directory: ${tools.length} Recruiting Software Products Rated`} description={`Browse ${tools.length} recruitment tools across ${categories.length} categories with independent scores, pricing, strengths, and weaknesses.`} schema={schema}>
+  <PageHead title="Recruitment tools directory" lead={`${tools.length} products across ${categories.length} categories. Each profile has four 1–10 scores, pricing, strengths, weaknesses, and integrations.`} crumbs={[{ name: 'Home', path: '/' }, { name: 'Tools', path: '/tools/' }]} />
+  <div class="wrap single">
+    {categories.map((c) => (<section id={c.slug}><h2 style="margin-top:1.2em"><a href={`/categories/${c.slug}/`}>{c.name}</a></h2><div class="grid">{tools.filter((t) => t.category === c.slug).map((t) => <ToolCard tool={t} />)}</div></section>))}
+  </div>
+</Base>

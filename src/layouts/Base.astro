@@ -1,0 +1,82 @@
+---
+import '../styles/global.css';
+import { SITE_URL, SITE_NAME, CONTACT_EMAIL } from '../data/site';
+import categories from '../data/categories.json';
+const { title, description, schema = null, ogType = 'website' } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site).href;
+const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.ico" sizes="48x48" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:image" content={`${SITE_URL}/og-image.png`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={`${SITE_URL}/og-image.png`} />
+    {schemas.map((s) => (<script type="application/ld+json" set:html={JSON.stringify(s)} />))}
+  </head>
+  <body>
+    <header class="top">
+      <div class="wrap">
+        <a href="/" class="brand"><span class="mark">RT</span><span>Recruitment<b>Tools</b>.org</span></a>
+        <input type="checkbox" id="navToggle" class="nav-toggle" hidden />
+        <label class="nav-btn" for="navToggle" aria-label="Toggle navigation"><span></span></label>
+        <nav class="primary">
+          <a href="/best-recruitment-tools/">Best of 2026</a>
+          <a href="/categories/">Categories</a>
+          <a href="/tools/">All Tools</a>
+          <a href="/stacks/">Stack Builder</a>
+          <a href="/glossary/">Glossary</a>
+          <a href="/methodology/">How We Rate</a>
+        </nav>
+      </div>
+    </header>
+    <main><slot /></main>
+    <footer class="bottom">
+      <div class="wrap">
+        <div class="fcols">
+          <div>
+            <b>{SITE_NAME}</b>
+            <p>An independent guide to the recruiting technology stack. We map every category of recruitment tool, explain what each one does, and rate the leading products so hiring teams can buy the right thing in the right order. Edited by the <a href="/about/#research-desk">Research Desk</a>. Corrections: <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+          </div>
+          <div>
+            <b>Categories</b>
+            {categories.map((c) => (<a href={`/categories/${c.slug}/`}>{c.name}</a>))}
+          </div>
+          <div>
+            <b>Guides</b>
+            <a href="/best-recruitment-tools/">Best recruitment tools 2026</a>
+            <a href="/stacks/">Recruiting stacks by company type</a>
+            <a href="/tools/">Tool directory</a>
+            <a href="/glossary/">Recruiting tech glossary</a>
+            <a href="/methodology/">Rating methodology</a>
+          </div>
+          <div>
+            <b>Site</b>
+            <a href="/about/">About</a>
+            <a href="/contact/">Contact</a>
+            <a href="/privacy/">Privacy</a>
+            <a href="/llms.txt">llms.txt</a>
+            <a href="/sitemap-index.xml">Sitemap</a>
+          </div>
+        </div>
+        <div class="legal">© 2026 {SITE_NAME}. Vendor names and logos belong to their owners. We do not accept payment for placement; see <a href="/methodology/">how we rate</a>.</div>
+      </div>
+    </footer>
+  </body>
+</html>

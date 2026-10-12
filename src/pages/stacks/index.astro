@@ -1,0 +1,13 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import { SITE_URL, itemListSchema, breadcrumbSchema } from '../../data/site';
+import stacks from '../../data/stacks.json';
+import tools from '../../data/tools.json';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const schema = [itemListSchema('Recruitment tool stacks by company type', stacks.map((s) => ({ name: s.title, url: `${SITE_URL}/stacks/${s.slug}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }])];
+---
+<Base title="Recruitment Tool Stacks by Company Type (Startup, Scale-up, Enterprise, Agency, High-Volume)" description="Complete recruiting software stacks for six company types, with a pick and alternative in every category, budgets, and what to avoid." schema={schema}>
+  <PageHead title="Build your recruiting stack" lead="Company type changes the right answer more than company size. Pick yours for a complete stack — one tool per category, an alternative, a budget range, and the purchases to avoid." crumbs={[{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }]} />
+  <div class="wrap single"><div class="grid">{stacks.map((s) => (<a class="card" href={`/stacks/${s.slug}/`} style="display:block;color:inherit"><span class="tag">{s.stack.length} categories</span><h3>{s.name}</h3><p>{s.lead}</p><p class="muted" style="margin-top:10px"><b>Budget:</b> {s.budget}</p><p class="muted">Core picks: {s.stack.slice(0, 3).map((p) => by[p.pick].name).join(', ')}…</p></a>))}</div></div>
+</Base>

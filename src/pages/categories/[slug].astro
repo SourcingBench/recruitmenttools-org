@@ -1,0 +1,62 @@
+---
+import Base from '../../layouts/Base.astro';
+import Faq from '../../components/Faq.astro';
+import PageHead from '../../components/PageHead.astro';
+import { SITE_URL, articleSchema, faqSchema, itemListSchema, breadcrumbSchema } from '../../data/site';
+import categories from '../../data/categories.json';
+import tools from '../../data/tools.json';
+import stacks from '../../data/stacks.json';
+export function getStaticPaths() { return categories.map((c) => ({ params: { slug: c.slug }, props: { c } })); }
+const { c } = Astro.props;
+const total = (t: any): number => (Object.values(t.scores) as number[]).reduce((x, y) => x + y, 0);
+const list = tools.filter((t) => t.category === c.slug).sort((a, b) => total(b) - total(a));
+const path = `/categories/${c.slug}/`;
+const title = `Best ${c.name} ${new Date().getFullYear() > 2026 ? '' : '2026'}`.trim();
+const inStacks = stacks.filter((s) => s.stack.some((p) => p.category === c.slug));
+const schema = [
+  articleSchema({ headline: `${title}: ${list.length} ${c.plural} compared`, description: c.what, path }),
+  itemListSchema(title, list.map((t) => ({ name: t.name, url: `${SITE_URL}/tools/${t.slug}/` }))),
+  faqSchema(c.faq),
+  breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Categories', path: '/categories/' }, { name: c.name, path }]),
+];
+---
+<Base title={`${title}: ${list.length} ${c.name} Compared (Pricing, Pros & Cons)`} description={`${c.what.split('. ')[0]}. We compare ${list.map((t) => t.name).join(', ')} on depth, ease, integrations, and value.`} schema={schema} ogType="article">
+  <PageHead eyebrow={`Category ${categories.findIndex((x) => x.slug === c.slug) + 1} of ${categories.length}`} title={title} lead={c.what} crumbs={[{ name: 'Home', path: '/' }, { name: 'Categories', path: '/categories/' }, { name: c.name, path }]} />
+  <div class="wrap cols">
+    <article>
+      <h2 id="who">Who needs {c.plural}</h2><p>{c.who}</p>
+      <h2 id="when">When to buy</h2><p>{c.when}</p>
+      <h2 id="ranking">The best {c.plural}, ranked</h2>
+      <div class="tablewrap"><table>
+        <thead><tr><th>#</th><th>Tool</th><th>Best for</th><th>Score /40</th><th>Free tier</th></tr></thead>
+        <tbody>{list.map((t, i) => (<tr><td>{i + 1}</td><td><a href={`/tools/${t.slug}/`}><b>{t.name}</b></a></td><td>{t.bestFor}</td><td>{total(t)}</td><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>))}</tbody>
+      </table></div>
+      {list.map((t, i) => (
+        <div class="rank" id={t.slug}>
+          <div class="n">{i + 1}</div>
+          <div>
+            <h3><a href={`/tools/${t.slug}/`}>{t.name}</a></h3>
+            <div class="meta"><span>Best for: {t.bestFor}</span>{t.freeTier && <span>Free tier</span>}<span>Score {total(t)}/40</span></div>
+            <p>{t.overview}</p>
+            <p class="muted"><b>Pricing:</b> {t.pricing}</p>
+            <div class="pc">
+              <div class="good"><b>Strengths</b><ul>{t.pros.map((p) => <li>{p}</li>)}</ul></div>
+              <div class="bad"><b>Weaknesses</b><ul>{t.cons.map((p) => <li>{p}</li>)}</ul></div>
+            </div>
+          </div>
+        </div>
+      ))}
+      <h2 id="features">What to look for</h2>
+      <ul>{c.features.map((f) => <li>{f}</li>)}</ul>
+      <h2 id="pricing">What {c.plural} cost</h2><p>{c.pricing}</p>
+      <h2 id="mistakes">Common buying mistakes</h2>
+      <ul>{c.mistakes.map((m) => <li>{m}</li>)}</ul>
+      {inStacks.length > 0 && (<><h2 id="stacks">Our pick by company type</h2><div class="tablewrap"><table><thead><tr><th>Company type</th><th>Pick</th><th>Alternative</th><th>Why</th></tr></thead><tbody>{inStacks.map((s) => { const p = s.stack.find((x) => x.category === c.slug); const pk = tools.find((t) => t.slug === p.pick); const al = tools.find((t) => t.slug === p.alt); return (<tr><td><a href={`/stacks/${s.slug}/`}>{s.name}</a></td><td><a href={`/tools/${pk.slug}/`}>{pk.name}</a></td><td><a href={`/tools/${al.slug}/`}>{al.name}</a></td><td>{p.why}</td></tr>); })}</tbody></table></div></>)}
+      <Faq items={c.faq} />
+    </article>
+    <aside>
+      <div class="toc"><b>On this page</b><a href="#who">Who needs it</a><a href="#when">When to buy</a><a href="#ranking">Ranking</a><a href="#features">What to look for</a><a href="#pricing">Pricing</a><a href="#mistakes">Buying mistakes</a><a href="#stacks">By company type</a><a href="#faq">FAQ</a></div>
+      <div class="toc" style="margin-top:16px"><b>Other categories</b>{categories.filter((x) => x.slug !== c.slug).map((x) => <a href={`/categories/${x.slug}/`}>{x.name}</a>)}</div>
+    </aside>
+  </div>
+</Base>

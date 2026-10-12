@@ -1,0 +1,84 @@
+# RecruitmentTools.org
+
+> The independent guide to recruitment tools. We map the 10 categories of recruiting software — ATS, sourcing, CRM and outreach, scheduling, assessments, video interviewing, background checks, job boards, onboarding, analytics — and rate 53 tools on ease, depth, integrations, and value. No paid placement. Reuse with attribution and a link.
+
+## Rankings
+- [Best recruitment tools 2026](https://recruitmenttools.org/best-recruitment-tools/): 15 tools ranked across every category
+- [Best applicant tracking systems 2026](https://recruitmenttools.org/categories/applicant-tracking-systems/): An applicant tracking system (ATS) is the system of record for hiring: it posts jobs, collects applications, moves candidates through stages, stores interview feedback, and reports on the pipeline
+- [Best sourcing tools 2026](https://recruitmenttools.org/categories/sourcing-tools/): Sourcing tools help recruiters find and reach candidates who have not applied: searchable talent databases, AI search that works from a job description, contact finders that surface verified emails and phone numbers, and AI agents that run the whole search-to-outreach loop.
+- [Best recruitment CRM and outreach tools 2026](https://recruitmenttools.org/categories/recruitment-crm-and-outreach/): Recruitment CRMs manage relationships with candidates before and between applications: talent pools, nurture campaigns, event follow-up, and multi-step outreach sequences with reply tracking
+- [Best interview scheduling tools 2026](https://recruitmenttools.org/categories/interview-scheduling/): Interview scheduling tools remove the back-and-forth of booking interviews: candidate self-scheduling links, automatic interviewer load balancing, multi-interviewer panel coordination, room booking, and reminders.
+- [Best candidate assessment tools 2026](https://recruitmenttools.org/categories/candidate-assessments/): Assessment tools test skills, cognitive ability, personality, or job-specific knowledge before or during the interview process: coding tests, work-sample tasks, situational judgment tests, and validated psychometrics.
+- [Best video interviewing tools 2026](https://recruitmenttools.org/categories/video-interviewing/): Video interviewing tools cover one-way (asynchronous) recorded interviews, structured live interviews, and AI interview assistants that transcribe, summarize, and score conversations.
+- [Best background check tools 2026](https://recruitmenttools.org/categories/background-checks/): Background check platforms run criminal, employment, education, identity, credit, drug, and license verifications, with candidate consent flows and compliance (FCRA in the US, equivalent regimes elsewhere) built in.
+- [Best job boards and distribution tools 2026](https://recruitmenttools.org/categories/job-boards-and-distribution/): Job boards and programmatic distribution tools put openings in front of active job seekers: general boards (Indeed, LinkedIn Jobs, ZipRecruiter), niche boards, and programmatic platforms that buy sponsored placement across many boards against a cost-per-application target.
+- [Best onboarding tools 2026](https://recruitmenttools.org/categories/onboarding-tools/): Onboarding tools bridge offer acceptance and day one: offer letters and e-signature, document collection and I-9/right-to-work verification, preboarding communication, equipment and access provisioning, and 30/60/90-day plans.
+- [Best recruiting analytics tools 2026](https://recruitmenttools.org/categories/recruiting-analytics/): Recruiting analytics tools consolidate data from the ATS, CRM, sourcing, scheduling, and HRIS into funnel metrics, capacity planning, diversity reporting, and forecasts, with dashboards for recruiters, hiring managers, and executives.
+
+## Stacks by company type
+- [Recruitment tools for startups](https://recruitmenttools.org/stacks/recruitment-tools-for-startups/): Hire your first 50 people without buying enterprise software. The goal is one system of record, fast outbound for the roles that matter, and nothing you will rip out at Series B.
+- [Recruitment tools for scaling companies](https://recruitmenttools.org/stacks/recruitment-tools-for-scaling-companies/): You now have a recruiting team, hiring managers who need dashboards, and interview loops that eat engineering time. The stack should add structure and automation without fragmenting data.
+- [Recruitment tools for enterprise talent acquisition](https://recruitmenttools.org/stacks/recruitment-tools-for-enterprise/): Global compliance, thousands of hiring managers, and many hiring types (professional, hourly, campus, executive) mean a suite at the core and specialists at the edges.
+- [Recruitment tools for staffing and recruiting agencies](https://recruitmenttools.org/stacks/recruitment-tools-for-staffing-agencies/): Agencies sell speed and reach. The stack is an agency ATS/CRM at the core, the best sourcing and outreach you can afford per desk, and automation that keeps candidates warm between placements.
+- [Recruitment tools for high-volume and hourly hiring](https://recruitmenttools.org/stacks/recruitment-tools-for-high-volume-hiring/): Retail, logistics, hospitality, healthcare support, and customer service hire in the hundreds or thousands. Speed to interview and candidate drop-off matter more than sourcing depth.
+- [Recruitment tools for solo recruiters](https://recruitmenttools.org/stacks/recruitment-tools-for-solo-recruiters/): One person, many roles. Spend on the two things that save hours — automated sourcing and scheduling — and keep everything else free or cheap.
+
+## Tool reviews
+- [Greenhouse](https://recruitmenttools.org/tools/greenhouse/): The structured-hiring ATS most scaling tech companies standardize on.
+- [Lever](https://recruitmenttools.org/tools/lever/): ATS plus built-in CRM for teams that nurture as much as they process.
+- [Ashby](https://recruitmenttools.org/tools/ashby/): All-in-one ATS, scheduling, CRM, and analytics built for data-driven teams.
+- [Workable](https://recruitmenttools.org/tools/workable/): Small-business ATS with job distribution, AI screening, and HR add-ons.
+- [JazzHR](https://recruitmenttools.org/tools/jazzhr/): Budget ATS for small businesses that need pipeline and compliance basics.
+- [Breezy HR](https://recruitmenttools.org/tools/breezy-hr/): Visual, drag-and-drop ATS with a usable free plan.
+- [SmartRecruiters](https://recruitmenttools.org/tools/smartrecruiters/): Enterprise talent-acquisition suite with marketplace and AI assistant.
+- [iCIMS](https://recruitmenttools.org/tools/icims/): Enterprise talent cloud for high-volume, high-compliance hiring.
+- [Bullhorn](https://recruitmenttools.org/tools/bullhorn/): The default ATS/CRM for staffing and recruiting agencies.
+- [Recruit CRM](https://recruitmenttools.org/tools/recruit-crm/): Modern ATS + CRM for small and mid-sized recruiting agencies.
+- [Loxo](https://recruitmenttools.org/tools/loxo/): Agency ATS/CRM with a built-in talent database and outreach.
+- [Noon](https://recruitmenttools.org/tools/noon/): Autonomous AI sourcing agent that finds candidates and runs personalized email and SMS outreach.
+- [hireEZ](https://recruitmenttools.org/tools/hireez/): Outbound recruiting platform with an 800M+ profile database and AI sourcing.
+- [SeekOut](https://recruitmenttools.org/tools/seekout/): Talent intelligence platform with deep diversity and technical filters.
+- [Gem](https://recruitmenttools.org/tools/gem/): Sourcing extension, outreach sequences, and CRM analytics for in-house teams.
+- [Juicebox (PeopleGPT)](https://recruitmenttools.org/tools/juicebox/): Natural-language people search over 800M+ profiles.
+- [LinkedIn Recruiter](https://recruitmenttools.org/tools/linkedin-recruiter/): The largest professional network's sourcing seat, with InMail and Hiring Assistant AI.
+- [Fetcher](https://recruitmenttools.org/tools/fetcher/): AI sourcing with human curation and automated email outreach.
+- [Findem](https://recruitmenttools.org/tools/findem/): Attribute-based talent search built from 3D career data.
+- [SourceWhale](https://recruitmenttools.org/tools/sourcewhale/): Outreach sequencing and contact finding built for agency recruiters.
+- [Beamery](https://recruitmenttools.org/tools/beamery/): Enterprise talent CRM and skills-based talent lifecycle platform.
+- [Avature](https://recruitmenttools.org/tools/avature/): Highly configurable enterprise CRM, ATS, and event platform.
+- [Phenom](https://recruitmenttools.org/tools/phenom/): AI career sites, CRM, and chatbot for enterprise talent marketing.
+- [Sense](https://recruitmenttools.org/tools/sense/): Candidate engagement automation (text, email, chatbot) for staffing and high-volume teams.
+- [Paradox (Olivia)](https://recruitmenttools.org/tools/paradox/): Conversational recruiting assistant that screens, schedules, and texts candidates.
+- [GoodTime](https://recruitmenttools.org/tools/goodtime/): Interview scheduling automation for high-volume and panel-heavy teams.
+- [Prelude by Calendly](https://recruitmenttools.org/tools/prelude-calendly/): Recruiting-specific scheduling now folded into Calendly.
+- [ModernLoop](https://recruitmenttools.org/tools/modernloop/): Scheduling and interviewer training built for tech recruiting loops.
+- [Cal.com](https://recruitmenttools.org/tools/cal-com/): Open-source scheduling with free individual plans and round-robin teams.
+- [HackerRank](https://recruitmenttools.org/tools/hackerrank/): Technical screening and interview platform with the largest question library.
+- [CodeSignal](https://recruitmenttools.org/tools/codesignal/): Validated technical assessments with a standardised coding score.
+- [Codility](https://recruitmenttools.org/tools/codility/): Technical hiring assessments popular with European and global enterprises.
+- [TestGorilla](https://recruitmenttools.org/tools/testgorilla/): Library of 400+ skills, personality, and cognitive tests for all roles.
+- [Vervoe](https://recruitmenttools.org/tools/vervoe/): AI-graded job simulations and skills tests.
+- [HireVue](https://recruitmenttools.org/tools/hirevue/): Enterprise video interviewing, assessments, and conversational AI.
+- [Spark Hire](https://recruitmenttools.org/tools/spark-hire/): Affordable one-way and live video interviewing for small and mid-sized teams.
+- [BrightHire](https://recruitmenttools.org/tools/brighthire/): Interview intelligence: recording, transcription, AI notes, and interviewer coaching.
+- [Metaview](https://recruitmenttools.org/tools/metaview/): AI note-taker purpose-built for recruiter screens and interviews.
+- [Checkr](https://recruitmenttools.org/tools/checkr/): API-first background checks with fast turnaround and strong ATS integrations.
+- [Sterling](https://recruitmenttools.org/tools/sterling/): Global enterprise screening and identity verification (now part of First Advantage).
+- [HireRight](https://recruitmenttools.org/tools/hireright/): Global background screening for large employers.
+- [GoodHire](https://recruitmenttools.org/tools/goodhire/): Small-business background checks with published pricing (a Checkr company).
+- [Indeed](https://recruitmenttools.org/tools/indeed/): The largest job site; free organic posts plus sponsored and resume-database products.
+- [LinkedIn Jobs](https://recruitmenttools.org/tools/linkedin-jobs/): Professional-network job posts with strong reach for knowledge-worker roles.
+- [ZipRecruiter](https://recruitmenttools.org/tools/ziprecruiter/): One post distributed to 100+ boards with AI candidate matching.
+- [Appcast](https://recruitmenttools.org/tools/appcast/): Programmatic job advertising that optimises spend toward applications.
+- [Rippling](https://recruitmenttools.org/tools/rippling/): HRIS, payroll, IT, and onboarding in one system with a built-in ATS.
+- [BambooHR](https://recruitmenttools.org/tools/bamboohr/): Small-business HRIS with built-in ATS, onboarding, and e-signature.
+- [HiBob](https://recruitmenttools.org/tools/hibob/): Modern HRIS with culture-focused onboarding for mid-sized global companies.
+- [Enboarder](https://recruitmenttools.org/tools/enboarder/): Human-centric onboarding journeys for large employers.
+- [Gem Insights](https://recruitmenttools.org/tools/gem-insights/): Pipeline, passthrough, and DE&I analytics layered on Greenhouse and Lever.
+- [Ashby Analytics](https://recruitmenttools.org/tools/ashby-analytics/): Report builder and dashboards included with the Ashby ATS.
+- [Visier](https://recruitmenttools.org/tools/visier/): Enterprise people analytics spanning talent acquisition and workforce planning.
+
+## Reference
+- [Glossary](https://recruitmenttools.org/glossary/)
+- [Methodology](https://recruitmenttools.org/methodology/)
+- [About](https://recruitmenttools.org/about/)

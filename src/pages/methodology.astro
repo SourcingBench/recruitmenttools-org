@@ -1,0 +1,24 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { breadcrumbSchema } from '../data/site';
+---
+<Base title="How We Rate Recruitment Tools: Methodology" description="How RecruitmentTools.org scores recruiting software: four 1–10 dimensions, evidence sources, update cadence, and our no-paid-placement policy." schema={breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Methodology', path: '/methodology/' }])}>
+  <PageHead title="How we rate recruitment tools" lead="Four scores, public evidence, and no paid placement." crumbs={[{ name: 'Home', path: '/' }, { name: 'Methodology', path: '/methodology/' }]} />
+  <div class="wrap single narrow">
+    <h2>The four dimensions</h2>
+    <div class="tablewrap"><table><thead><tr><th>Score</th><th>What it measures</th></tr></thead><tbody>
+      <tr><td><b>Ease of use</b></td><td>Time to first value for a new recruiter or hiring manager; quality of onboarding, UI, and support.</td></tr>
+      <tr><td><b>Depth</b></td><td>How completely the tool does its category's job for demanding users: configurability, coverage, automation, compliance.</td></tr>
+      <tr><td><b>Integrations</b></td><td>Breadth and quality of connections to ATSs, HRISs, calendars, and other categories; API openness.</td></tr>
+      <tr><td><b>Value</b></td><td>Outcome per dollar for the tool's target customer, considering published and reported pricing, seat minimums, and contract terms.</td></tr>
+    </tbody></table></div>
+    <p>Each is scored 1–10; category pages rank by the 40-point total. The cross-category <a href="/best-recruitment-tools/">best recruitment tools</a> list is editorial: it weighs how much a typical mid-sized hiring team gains from adopting each tool, how broadly it applies, and how reliably it delivers.</p>
+    <h2>Evidence</h2>
+    <ul><li>Hands-on use of trials and demos where vendors offer them</li><li>Vendor documentation, release notes, pricing pages, and integration marketplaces</li><li>Interviews with recruiters, coordinators, and TA leaders who use the tools daily</li><li>Public reviews, with weight given to detailed, recent, verified accounts</li></ul>
+    <h2>Independence</h2>
+    <p>Vendors cannot pay for inclusion, position, or scores. We do not run affiliate links. Where a vendor has a commercial relationship with any contributor it is disclosed on the tool page. Corrections are welcome at <a href="/contact/">desk@recruitmenttools.org</a> and are typically reflected within a week.</p>
+    <h2>Update cadence</h2>
+    <p>Every profile carries a reviewed date. We re-check pricing and major features monthly and re-score each category at least twice a year or when a significant product change warrants it.</p>
+  </div>
+</Base>

@@ -1,0 +1,60 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import ToolCard from '../../components/ToolCard.astro';
+import { SITE_URL, AUTHOR_NAME, author, publisher, LAST_REVIEWED, SITE_PUBLISHED, breadcrumbSchema, faqSchema } from '../../data/site';
+import categories from '../../data/categories.json';
+import tools from '../../data/tools.json';
+export function getStaticPaths() { return tools.map((t) => ({ params: { slug: t.slug }, props: { t } })); }
+const { t } = Astro.props;
+const c = categories.find((x) => x.slug === t.category);
+const peers = tools.filter((x) => x.category === t.category && x.slug !== t.slug).slice(0, 3);
+const total = Object.values(t.scores).reduce((x, y) => x + y, 0);
+const path = `/tools/${t.slug}/`;
+const labels = { ease: 'Ease of use', depth: 'Depth', integrations: 'Integrations', value: 'Value' };
+const faq = [
+  { q: `What is ${t.name}?`, a: `${t.name} is ${c.short === 'ATS' ? 'an' : 'a'} ${c.name.toLowerCase().replace(/s$/, '')} product: ${t.tagline}` },
+  { q: `Who is ${t.name} best for?`, a: t.bestFor + '.' },
+  { q: `How much does ${t.name} cost?`, a: t.pricing },
+  { q: `What are the main alternatives to ${t.name}?`, a: peers.map((p) => p.name).join(', ') + `. See all ${c.plural} in our <a href="/categories/${c.slug}/">${c.name} ranking</a>.` },
+];
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'Review', itemReviewed: { '@type': 'SoftwareApplication', name: t.name, url: t.website, applicationCategory: 'BusinessApplication', applicationSubCategory: c.name, operatingSystem: 'Web' }, reviewRating: { '@type': 'Rating', ratingValue: (total / 4).toFixed(1), bestRating: 10, worstRating: 1 }, author, publisher, datePublished: SITE_PUBLISHED, dateModified: LAST_REVIEWED, url: `${SITE_URL}${path}`, reviewBody: t.overview },
+  faqSchema(faq),
+  breadcrumbSchema([{ name: 'Home', path: '/' }, { name: c.name, path: `/categories/${c.slug}/` }, { name: t.name, path }]),
+];
+---
+<Base title={`${t.name} Review (2026): Pricing, Pros & Cons, Alternatives`} description={`${t.name}: ${t.tagline} Best for ${t.bestFor.toLowerCase()}. Independent score ${total}/40, pricing, strengths, weaknesses, and alternatives.`} schema={schema} ogType="article">
+  <PageHead eyebrow={c.name} title={`${t.name} review`} lead={t.tagline} crumbs={[{ name: 'Home', path: '/' }, { name: c.name, path: `/categories/${c.slug}/` }, { name: t.name, path }]} />
+  <div class="wrap cols">
+    <article>
+      <div class="scores">{Object.entries(t.scores).map(([k, v]) => (<div class="score">{labels[k]}<b>{v}<span class="muted">/10</span></b><div class="bar"><i style={`width:${v * 10}%`}></i></div></div>))}<div class="score">Overall<b>{total}<span class="muted">/40</span></b><div class="bar"><i style={`width:${total * 2.5}%`}></i></div></div></div>
+      <h2 id="overview" style="margin-top:1.2em">What {t.name} does</h2>
+      <p>{t.overview}</p>
+      <div class="tablewrap"><table><tbody>
+        <tr><th style="width:180px">Category</th><td><a href={`/categories/${c.slug}/`}>{c.name}</a></td></tr>
+        <tr><th>Best for</th><td>{t.bestFor}</td></tr>
+        <tr><th>Pricing</th><td>{t.pricing}</td></tr>
+        <tr><th>Free tier</th><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>
+        <tr><th>Company fit</th><td>{t.sizes.map((s) => ({ smb: 'Small business', startup: 'Startup', midmarket: 'Mid-market', enterprise: 'Enterprise', agency: 'Agency' })[s]).join(', ')}</td></tr>
+        <tr><th>Notable integrations</th><td>{t.integrations.join(', ')}</td></tr>
+        <tr><th>Website</th><td><a href={t.website} rel="nofollow noopener" target="_blank">{t.website.replace(/^https?:\/\/(www\.)?/, '')}</a></td></tr>
+      </tbody></table></div>
+      <div class="pc" style="display:grid;grid-template-columns:1fr 1fr;gap:20px">
+        <div class="good"><h3 id="pros" style="color:var(--lime-dark)">Strengths</h3><ul>{t.pros.map((p) => <li>{p}</li>)}</ul></div>
+        <div class="bad"><h3 id="cons" style="color:#b42318">Weaknesses</h3><ul>{t.cons.map((p) => <li>{p}</li>)}</ul></div>
+      </div>
+      <h2 id="fit">Where {t.name} fits in the stack</h2>
+      <p>{c.what}</p>
+      <p>{c.when}</p>
+      <h2 id="alternatives">Alternatives to {t.name}</h2>
+      <div class="grid">{peers.map((p) => <ToolCard tool={p} />)}</div>
+      <section class="faq" id="faq"><h2>FAQ</h2>{faq.map((f) => (<details><summary>{f.q}</summary><p set:html={f.a} /></details>))}</section>
+      <p class="muted">Reviewed by the {AUTHOR_NAME}. Scores reflect our independent assessment; pricing is as published or as reported by customers and changes often — confirm with the vendor. Spotted an error? <a href="/contact/">Tell us</a>.</p>
+    </article>
+    <aside>
+      <div class="toc"><b>On this page</b><a href="#overview">Overview</a><a href="#pros">Strengths</a><a href="#cons">Weaknesses</a><a href="#fit">Where it fits</a><a href="#alternatives">Alternatives</a><a href="#faq">FAQ</a></div>
+      <div class="toc" style="margin-top:16px"><b>More {c.plural}</b>{tools.filter((x) => x.category === t.category && x.slug !== t.slug).map((x) => <a href={`/tools/${x.slug}/`}>{x.name}</a>)}<a href={`/categories/${c.slug}/`} style="font-weight:700">Full ranking →</a></div>
+    </aside>
+  </div>
+</Base>

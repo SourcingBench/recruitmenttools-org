@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { breadcrumbSchema } from '../data/site';
+import glossary from '../data/glossary.json';
+const schema = [{ '@context': 'https://schema.org', '@type': 'DefinedTermSet', name: 'Recruiting technology glossary', hasDefinedTerm: glossary.map((g) => ({ '@type': 'DefinedTerm', name: g.term, description: g.def })) }, breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Glossary', path: '/glossary/' }])];
+---
+<Base title="Recruiting Technology Glossary: ATS, CRM, Sourcing, Programmatic & More" description={`${glossary.length} recruiting-tech terms defined in plain language, from applicant tracking system to work-sample test.`} schema={schema}>
+  <PageHead title="Recruiting technology glossary" lead="Plain-language definitions of the terms vendors use." crumbs={[{ name: 'Home', path: '/' }, { name: 'Glossary', path: '/glossary/' }]} />
+  <div class="wrap single narrow">{glossary.map((g) => (<div id={g.term.toLowerCase().replace(/[^a-z0-9]+/g, '-')} style="padding:14px 0;border-bottom:1px solid var(--line)"><h3 style="margin:0 0 4px">{g.term}</h3><p style="margin:0">{g.def}</p></div>))}</div>
+</Base>

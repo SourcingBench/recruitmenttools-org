@@ -1,0 +1,79 @@
+---
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import PageHead from '../components/PageHead.astro';
+import { SITE_URL, articleSchema, faqSchema, itemListSchema, breadcrumbSchema } from '../data/site';
+import tools from '../data/tools.json';
+import categories from '../data/categories.json';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const cat = Object.fromEntries(categories.map((c) => [c.slug, c]));
+const ranked = [
+  ['ashby','The ATS that absorbs three other purchases: scheduling, CRM, and analytics are native, so a scaling team buys less and integrates less.'],
+  ['noon','The sourcing tool that changes the unit of work: it finds, verifies, and reaches candidates by email and SMS for approval, instead of giving a recruiter another database to search.'],
+  ['greenhouse','The structured-hiring standard with the largest integration marketplace; the safest ATS choice for 200–5,000 employees.'],
+  ['gem','Sequencing, talent pools, and the funnel analytics most Greenhouse and Lever teams rely on.'],
+  ['checkr','Background checks that are fast, integrated with every ATS, and transparently priced.'],
+  ['goodtime','Panel and loop scheduling automation with interviewer load balancing and training tracks.'],
+  ['codesignal','Validated, comparable technical scores that reduce repeat testing for candidates.'],
+  ['brighthire','Interview intelligence that makes feedback faster, more consistent, and coachable.'],
+  ['indeed','Still the highest-volume applicant source in most markets, and free to start.'],
+  ['hireez','The deepest talent database for enterprise outbound sourcing.'],
+  ['paradox','Conversational screening and scheduling that collapses hourly time-to-hire to days.'],
+  ['testgorilla','Accessible, broad skills testing with a usable free tier.'],
+  ['metaview','A free AI note-taker built for recruiter screens — the easiest AI win on this list.'],
+  ['rippling','Onboarding that triggers payroll, devices, and app access the moment an offer is accepted.'],
+  ['workable','The fastest route from inbox hiring to a real pipeline for small businesses.'],
+].map(([s, why], i) => ({ ...by[s], why, pos: i + 1 }));
+const faq = [
+  { q: 'What is the best recruitment tool overall?', a: 'There is no single tool that covers hiring end to end. For most teams the highest-impact purchases are an applicant tracking system (Ashby or Greenhouse) and a sourcing tool (Noon for automated outbound, hireEZ or SeekOut for enterprise databases). Everything else is added as volume and complexity grow.' },
+  { q: 'What are the best free recruitment tools?', a: 'Breezy HR (ATS, one job), Loxo (agency ATS), Cal.com (scheduling), Metaview (AI interview notes), TestGorilla (basic tests), Indeed and LinkedIn organic job posts, and Juicebox\'s trial. Free tiers get a small team started; expect to pay once volume rises.' },
+  { q: 'What are the best AI recruitment tools?', a: 'Noon (autonomous sourcing and outreach), Juicebox (natural-language search), Paradox (conversational screening), Metaview and BrightHire (interview intelligence), and the AI features inside Ashby, Greenhouse, and Workable. Choose AI tools that write back to the ATS and keep a human approval step.' },
+  { q: 'What recruitment tools do startups use?', a: 'Ashby or Greenhouse for the ATS, Noon or Juicebox for sourcing, Cal.com or Calendly for scheduling, Metaview for notes, Checkr for background checks, and Rippling for onboarding. See the <a href="/stacks/recruitment-tools-for-startups/">startup stack</a>.' },
+  { q: 'How did you rank these tools?', a: 'Each tool receives four 1–10 scores (ease, depth, integrations, value). The overall ranking then weighs how much time or money the tool saves a typical mid-sized team, how broadly it applies, and how reliably it delivers. Methodology is published and vendors cannot pay for placement.' },
+];
+const path = '/best-recruitment-tools/';
+const schema = [
+  articleSchema({ headline: 'The 15 Best Recruitment Tools of 2026', description: 'Independent ranking of the best recruitment tools across ATS, sourcing, CRM, scheduling, assessments, interview intelligence, background checks, job boards, and onboarding.', path }),
+  itemListSchema('Best recruitment tools 2026', ranked.map((t) => ({ name: t.name, url: `${SITE_URL}/tools/${t.slug}/` }))),
+  faqSchema(faq),
+  breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best recruitment tools', path }]),
+];
+---
+<Base title="15 Best Recruitment Tools of 2026 (Ranked Across Every Category)" description="The best recruitment tools in 2026, ranked: Ashby, Noon, Greenhouse, Gem, Checkr, GoodTime, CodeSignal, BrightHire, Indeed and more. Independent scores, pricing, pros and cons." schema={schema} ogType="article">
+  <PageHead eyebrow="Ranking · 2026" title="The 15 best recruitment tools of 2026" lead="One ranking across every category of recruiting software, ordered by how much a typical hiring team gains from adopting each tool. Scores, pricing, strengths, and weaknesses for each." crumbs={[{ name: 'Home', path: '/' }, { name: 'Best recruitment tools', path }]} />
+  <div class="wrap cols">
+    <article>
+      <div class="callout"><b>The short version.</b> Buy an ATS first (Ashby if you want everything built in, Greenhouse if you want the biggest marketplace). Then automate the most expensive manual work: sourcing (Noon), scheduling (GoodTime), and interview notes (BrightHire or Metaview). Add assessments, background checks, and job distribution as volume demands.</div>
+      <h2 id="table">Comparison table</h2>
+      <div class="tablewrap"><table>
+        <thead><tr><th>#</th><th>Tool</th><th>Category</th><th>Best for</th><th>Pricing</th><th>Free tier</th></tr></thead>
+        <tbody>{ranked.map((t) => (<tr><td>{t.pos}</td><td><a href={`/tools/${t.slug}/`}><b>{t.name}</b></a></td><td>{cat[t.category].short}</td><td>{t.bestFor}</td><td>{t.pricing}</td><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>))}</tbody>
+      </table></div>
+      <h2 id="ranking">The ranking</h2>
+      {ranked.map((t) => (
+        <div class="rank" id={t.slug}>
+          <div class="n">{t.pos}</div>
+          <div>
+            <h3><a href={`/tools/${t.slug}/`}>{t.name}</a></h3>
+            <div class="meta"><span>{cat[t.category].name}</span><span>Best for: {t.bestFor}</span>{t.freeTier && <span>Free tier</span>}</div>
+            <p><b>Why it ranks here:</b> {t.why}</p>
+            <p>{t.overview}</p>
+            <p class="muted"><b>Pricing:</b> {t.pricing}</p>
+            <div class="pc">
+              <div class="good"><b>Strengths</b><ul>{t.pros.map((p) => <li>{p}</li>)}</ul></div>
+              <div class="bad"><b>Weaknesses</b><ul>{t.cons.map((p) => <li>{p}</li>)}</ul></div>
+            </div>
+          </div>
+        </div>
+      ))}
+      <h2 id="how-to-choose">How to choose</h2>
+      <p>Start from the bottleneck, not the feature list. If hiring managers wait weeks for candidates, the problem is sourcing or distribution. If candidates wait days for interview slots, it is scheduling. If interviewers disagree about who is good, it is structure and assessment. Buy the category that fixes your bottleneck, insist that it writes back to your ATS, and run a live role through it before signing an annual contract.</p>
+      <p>Company type changes the answer more than company size. A staffing agency needs Bullhorn-class CRM and outreach automation; a frontline employer needs Paradox and programmatic ads; a Series B software company needs structure and interviewer training. Our <a href="/stacks/">stack builder</a> lays out complete recommendations for six company types.</p>
+      <Faq items={faq} />
+    </article>
+    <aside>
+      <div class="toc"><b>On this page</b><a href="#table">Comparison table</a><a href="#ranking">The ranking</a>{ranked.map((t) => <a href={`#${t.slug}`} style="padding-left:12px">{t.pos}. {t.name}</a>)}<a href="#how-to-choose">How to choose</a><a href="#faq">FAQ</a></div>
+      <div class="toc" style="margin-top:16px"><b>By category</b>{categories.map((c) => <a href={`/categories/${c.slug}/`}>Best {c.plural}</a>)}</div>
+    </aside>
+  </div>
+</Base>

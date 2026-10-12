@@ -1,0 +1,21 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import { SITE_URL, itemListSchema, breadcrumbSchema } from '../../data/site';
+import categories from '../../data/categories.json';
+import tools from '../../data/tools.json';
+const schema = [itemListSchema('Recruitment tool categories', categories.map((c) => ({ name: c.name, url: `${SITE_URL}/categories/${c.slug}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Categories', path: '/categories/' }])];
+---
+<Base title="Recruitment Tool Categories: The 10 Types of Recruiting Software" description="Every category of recruitment tool explained: ATS, sourcing tools, CRM and outreach, interview scheduling, assessments, video interviewing, background checks, job boards, onboarding, and analytics." schema={schema}>
+  <PageHead title="The ten categories of recruitment tools" lead="What each type of recruiting software does, who needs it, when to buy it, and which products lead the category." crumbs={[{ name: 'Home', path: '/' }, { name: 'Categories', path: '/categories/' }]} />
+  <div class="wrap single">
+    {categories.map((c) => (
+      <section style="padding:22px 0;border-bottom:1px solid var(--line)">
+        <h2 style="margin-top:0"><a href={`/categories/${c.slug}/`}>{c.name}</a></h2>
+        <p>{c.what}</p>
+        <p class="muted"><b>Leading tools:</b> {tools.filter((t) => t.category === c.slug).map((t, i) => (<>{i > 0 && ', '}<a href={`/tools/${t.slug}/`}>{t.name}</a></>))}</p>
+        <a href={`/categories/${c.slug}/`}>Best {c.plural} 2026 →</a>
+      </section>
+    ))}
+  </div>
+</Base>

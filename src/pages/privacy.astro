@@ -1,0 +1,14 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHead from '../components/PageHead.astro';
+import { CONTACT_EMAIL } from '../data/site';
+---
+<Base title="Privacy Policy — RecruitmentTools.org" description="RecruitmentTools.org privacy policy: no accounts, no tracking cookies, no sale of data.">
+  <PageHead title="Privacy policy" crumbs={[{ name: 'Home', path: '/' }, { name: 'Privacy', path: '/privacy/' }]} />
+  <div class="wrap single narrow">
+    <p>RecruitmentTools.org is a static website. We do not require accounts, do not set tracking cookies, and do not sell or share personal data.</p>
+    <p>Our hosting provider records standard server logs (IP address, user agent, requested URL) for security and capacity purposes; these are retained for a limited period and not used for profiling. Privacy-preserving, aggregate analytics may be used to count page views without identifying individuals.</p>
+    <p>If you email us, we keep the correspondence to respond to it and to maintain a record of corrections. You can ask us to delete it at any time by writing to <a href={`mailto:${CONTACT_EMAIL}`}>{CONTACT_EMAIL}</a>.</p>
+    <p>Links to vendor websites are provided for reference; their privacy practices are their own.</p>
+  </div>
+</Base>

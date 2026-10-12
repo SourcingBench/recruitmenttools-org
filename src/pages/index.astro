@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+import Faq from '../components/Faq.astro';
+import ToolCard from '../components/ToolCard.astro';
+import { SITE_URL, SITE_NAME, author, publisher, SITE_PUBLISHED, LAST_REVIEWED, fmtMonth, faqSchema } from '../data/site';
+import categories from '../data/categories.json';
+import tools from '../data/tools.json';
+import stacks from '../data/stacks.json';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const picks = ['ashby','noon','gem','goodtime','codesignal','brighthire','checkr','indeed'].map((s) => by[s]);
+const faq = [
+  { q: 'What are recruitment tools?', a: 'Recruitment tools are the software hiring teams use to attract, find, evaluate, and hire people. They fall into ten categories: applicant tracking systems, sourcing tools, recruitment CRM and outreach, interview scheduling, candidate assessments, video interviewing, background checks, job boards and distribution, onboarding, and recruiting analytics.' },
+  { q: 'What are the best recruitment tools in 2026?', a: 'Our current top picks by category are Ashby and Greenhouse (ATS), Noon and hireEZ (sourcing), Gem (CRM), GoodTime (scheduling), CodeSignal and TestGorilla (assessments), BrightHire (interview intelligence), Checkr (background checks), Indeed (job boards), Rippling (onboarding), and Gem Insights (analytics). See the full <a href="/best-recruitment-tools/">best recruitment tools 2026</a> ranking.' },
+  { q: 'Which recruitment tool should I buy first?', a: 'An applicant tracking system. It is the system of record every other tool integrates with. After that, buy sourcing tools if your roles need outbound, or job distribution if you need more inbound applicants.' },
+  { q: 'How much do recruitment tools cost?', a: 'Small teams can run a complete stack for $400–$1,500 per month. Scale-ups typically spend $4,000–$15,000 per month, and enterprises spend hundreds of thousands per year. Job advertising and LinkedIn Recruiter seats are usually the largest line items.' },
+  { q: 'Are AI recruitment tools worth it?', a: 'For sourcing, scheduling, and interview notes, yes: AI agents and assistants remove hours of manual work per hire. For screening decisions, use AI to rank and summarise but keep a human in the loop and disclose its use to candidates.' },
+];
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: SITE_NAME, url: `${SITE_URL}/`, description: 'Independent guide to recruitment tools: every category of recruiting software explained and rated.' },
+  { '@context': 'https://schema.org', '@type': 'Organization', name: SITE_NAME, url: `${SITE_URL}/`, logo: `${SITE_URL}/icon-512.png`, foundingDate: SITE_PUBLISHED, founder: author, email: 'desk@recruitmenttools.org' },
+  faqSchema(faq),
+];
+---
+<Base title="Recruitment Tools (2026): Every Category of Recruiting Software, Explained & Rated" description="The independent guide to recruitment tools. We map the 10 categories of recruiting software — ATS, sourcing, CRM, scheduling, assessments, video, background checks, job boards, onboarding, analytics — and rate 50+ tools." schema={schema}>
+  <section class="hero">
+    <div class="wrap">
+      <div class="eyebrow">Independent · Updated {fmtMonth(LAST_REVIEWED)}</div>
+      <h1>Recruitment tools, explained: what each one does, who needs it, and which to buy</h1>
+      <p class="lead">Recruiting software is sold as fifty overlapping products. We sort it into ten categories, explain the job each category does in the hiring process, and rate the leading tools on depth, ease, integrations, and value — so you buy the right thing in the right order.</p>
+      <a class="btn" href="/best-recruitment-tools/">See the best recruitment tools of 2026</a>
+      <a class="btn ghost" href="/stacks/">Build your stack</a>
+      <div class="stats">
+        <div><b>{categories.length}</b><span>tool categories mapped</span></div>
+        <div><b>{tools.length}</b><span>tools rated</span></div>
+        <div><b>{stacks.length}</b><span>recommended stacks by company type</span></div>
+        <div><b>$0</b><span>paid placements accepted</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <h2>The ten categories of recruitment tools</h2>
+    <p>Follow the hiring process left to right: attract and find people, evaluate them, verify them, and bring them aboard — with a system of record underneath and analytics on top.</p>
+    <div class="grid">
+      {categories.map((c, i) => (
+        <a class="card" href={`/categories/${c.slug}/`} style="display:block;color:inherit">
+          <div class="num">0{i + 1 > 9 ? '' : ''}{i + 1}</div>
+          <h3>{c.name}</h3>
+          <p>{c.what.split('. ')[0]}.</p>
+          <p class="muted" style="margin-top:10px">{tools.filter((t) => t.category === c.slug).length} tools rated →</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="wrap">
+    <h2>Editor's picks, one per category</h2>
+    <p>The tool we would recommend to a typical mid-sized hiring team today. Alternatives for startups, agencies, and enterprises are on each category page and in the <a href="/stacks/">stack builder</a>.</p>
+    <div class="grid">{picks.map((t) => <ToolCard tool={t} />)}</div>
+  </section>
+
+  <section class="wrap narrow">
+    <h2>Buy in this order</h2>
+    <div class="tablewrap"><table>
+      <thead><tr><th>Step</th><th>Category</th><th>Buy when</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td><a href="/categories/applicant-tracking-systems/">Applicant tracking system</a></td><td>You hire more than ~10 people a year</td></tr>
+        <tr><td>2</td><td><a href="/categories/job-boards-and-distribution/">Job distribution</a> or <a href="/categories/sourcing-tools/">sourcing tools</a></td><td>Inbound-heavy roles → distribution; niche or senior roles → sourcing</td></tr>
+        <tr><td>3</td><td><a href="/categories/interview-scheduling/">Interview scheduling</a></td><td>Coordination eats more than half a coordinator's time</td></tr>
+        <tr><td>4</td><td><a href="/categories/candidate-assessments/">Assessments</a> and <a href="/categories/video-interviewing/">video / interview intelligence</a></td><td>Interviewers disagree, or screen volume exceeds capacity</td></tr>
+        <tr><td>5</td><td><a href="/categories/background-checks/">Background checks</a> and <a href="/categories/onboarding-tools/">onboarding</a></td><td>From the first regulated hire; onboarding when paperwork exceeds a day per hire</td></tr>
+        <tr><td>6</td><td><a href="/categories/recruitment-crm-and-outreach/">CRM</a> and <a href="/categories/recruiting-analytics/">analytics</a></td><td>You have talent pools nobody nurtures, or questions the ATS cannot answer</td></tr>
+      </tbody>
+    </table></div>
+    <div class="callout dark"><p><b>How we rate.</b> Four 1–10 scores per tool (ease, depth, integrations, value) from hands-on review, public documentation, published pricing, and practitioner interviews. No vendor pays for placement. <a href="/methodology/">Read the methodology</a>.</p></div>
+    <Faq items={faq} />
+  </section>
+</Base>

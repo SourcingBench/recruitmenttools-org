@@ -1,0 +1,12 @@
+---
+import categories from '../data/categories.json';
+const { tool, num = null } = Astro.props;
+const cat = categories.find((c) => c.slug === tool.category);
+---
+<a class="card" href={`/tools/${tool.slug}/`} style="display:block;color:inherit">
+  {num && <div class="num">#{num}</div>}
+  <span class="tag">{cat?.short ?? tool.category}</span>
+  <h3>{tool.name}</h3>
+  <p>{tool.tagline}</p>
+  <p class="muted" style="margin-top:10px"><b>Best for:</b> {tool.bestFor}</p>
+</a>
