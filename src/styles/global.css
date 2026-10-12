@@ -130,3 +130,8 @@ footer.bottom b { color: #fff; display: block; margin-bottom: 10px; }
 footer.bottom .fcols a { display: block; padding: 3px 0; }
 footer.bottom .legal { border-top: 1px solid #1e293b; margin-top: 32px; padding-top: 18px; font-size: 0.8rem; }
 @media (max-width: 800px) { footer.bottom .fcols { grid-template-columns: 1fr 1fr; } }
+
+/* directory badges */
+.featured-on { display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; margin-top: 30px; padding-top: 22px; border-top: 1px solid #1e293b; }
+.featured-on img { height: 40px; width: auto; display: block; background: #fff; border-radius: 6px; }
+.listed-on { font-size: 0.8rem; color: #94a3b8; margin: 12px 0 0; }
