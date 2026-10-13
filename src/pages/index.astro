@@ -9,7 +9,7 @@ import stacks from '../data/stacks.json';
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const picks = ['ashby','noon','gem','goodtime','codesignal','brighthire','checkr','indeed'].map((s) => by[s]);
 const faq = [
-  { q: 'What are recruitment tools?', a: 'Recruitment tools are the software hiring teams use to attract, find, evaluate, and hire people. They fall into ten categories: applicant tracking systems, sourcing tools, recruitment CRM and outreach, interview scheduling, candidate assessments, video interviewing, background checks, job boards and distribution, onboarding, and recruiting analytics.' },
+  { q: 'What are recruitment tools?', a: 'Recruitment tools are the software hiring teams use to attract, find, evaluate, and hire people. They fall into fourteen categories: applicant tracking systems, sourcing tools, recruitment CRM and outreach, interview scheduling, candidate assessments, video interviewing, background checks, job boards and distribution, onboarding, recruiting analytics, AI screening tools, AI interviewers, interview notetakers, and applicant fraud detection.' },
   { q: 'What are the best recruitment tools in 2026?', a: 'Our current top picks by category are Ashby and Greenhouse (ATS), Noon and hireEZ (sourcing), Gem (CRM), GoodTime (scheduling), CodeSignal and TestGorilla (assessments), BrightHire (interview intelligence), Checkr (background checks), Indeed (job boards), Rippling (onboarding), and Gem Insights (analytics). See the full <a href="/best-recruitment-tools/">best recruitment tools 2026</a> ranking.' },
   { q: 'Which recruitment tool should I buy first?', a: 'An applicant tracking system. It is the system of record every other tool integrates with. After that, buy sourcing tools if your roles need outbound, or job distribution if you need more inbound applicants.' },
   { q: 'How much do recruitment tools cost?', a: 'Small teams can run a complete stack for $400–$1,500 per month. Scale-ups typically spend $4,000–$15,000 per month, and enterprises spend hundreds of thousands per year. Job advertising and LinkedIn Recruiter seats are usually the largest line items.' },
@@ -21,12 +21,12 @@ const schema = [
   faqSchema(faq),
 ];
 ---
-<Base title="Recruitment Tools (2026): Every Category of Recruiting Software, Explained & Rated" description="The independent guide to recruitment tools. We map the 10 categories of recruiting software — ATS, sourcing, CRM, scheduling, assessments, video, background checks, job boards, onboarding, analytics — and rate 50+ tools." schema={schema}>
+<Base title="Recruitment Tools (2026): Every Category of Recruiting Software, Explained & Rated" description="The independent guide to recruitment tools. We map the 14 categories of recruiting software — ATS, sourcing, CRM, scheduling, assessments, video, background checks, job boards, onboarding, analytics, AI screening, AI interviewers, notetakers, fraud detection — and rate 60+ tools." schema={schema}>
   <section class="hero">
     <div class="wrap">
       <div class="eyebrow">Independent · Updated {fmtMonth(LAST_REVIEWED)}</div>
       <h1>Recruitment tools, explained: what each one does, who needs it, and which to buy</h1>
-      <p class="lead">Recruiting software is sold as fifty overlapping products. We sort it into ten categories, explain the job each category does in the hiring process, and rate the leading tools on depth, ease, integrations, and value — so you buy the right thing in the right order.</p>
+      <p class="lead">Recruiting software is sold as fifty overlapping products. We sort it into fourteen categories, explain the job each category does in the hiring process, and rate the leading tools on depth, ease, integrations, and value — so you buy the right thing in the right order.</p>
       <a class="btn" href="/best-recruitment-tools/">See the best recruitment tools of 2026</a>
       <a class="btn ghost" href="/stacks/">Build your stack</a>
       <div class="stats">
@@ -39,7 +39,7 @@ const schema = [
   </section>
 
   <section class="wrap">
-    <h2>The ten categories of recruitment tools</h2>
+    <h2>The fourteen categories of recruitment tools</h2>
     <p>Follow the hiring process left to right: attract and find people, evaluate them, verify them, and bring them aboard — with a system of record underneath and analytics on top.</p>
     <div class="grid">
       {categories.map((c, i) => (

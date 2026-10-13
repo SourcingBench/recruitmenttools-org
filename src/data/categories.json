@@ -337,5 +337,158 @@
     "a": "Ashby is widely regarded as having the strongest built-in analytics among startup and mid-market ATS products; Greenhouse has a mature report builder and BI connector; enterprise teams often add a dedicated layer such as Gem Insights or a data warehouse."
    }
   ]
+ },
+ {
+  "slug": "ai-screening-tools",
+  "name": "AI Screening Tools",
+  "short": "AI screening",
+  "plural": "AI screening tools",
+  "what": "AI screening tools read inbound applications and decide which ones a recruiter should look at. They parse CVs and application forms, apply knockout rules, match candidates to the role, and increasingly evaluate each applicant against the hiring team's written criteria with a reason per criterion, then push an advance or reject recommendation back into the ATS.",
+  "who": "Any team receiving more applications than it can read within a week of posting: in-house teams at recognisable employers, high-volume and remote-first hiring, and agencies screening for many clients at once.",
+  "when": "Buy when recruiters are skimming applications by title and employer because there is no time to read them, when time-to-first-review exceeds a week, or when AI-written applications have made the usual surface signals meaningless.",
+  "features": [
+   "CV and application parsing, including non-standard layouts",
+   "Knockout rules for legal and logistical requirements",
+   "Criteria-based evaluation with a stated reason per criterion, not just a score",
+   "Ranking that updates when the criteria change",
+   "Two-way ATS sync: pull applications in, write stage moves and rejection reasons back",
+   "Feedback from the hiring manager that recalibrates the model per role",
+   "Audit trail and adverse-impact reporting"
+  ],
+  "pricing": "AI screening is rarely sold on its own. ATS vendors bundle basic matching into higher tiers; standalone assessment and matching platforms (Harver, Textkernel, Eightfold) are quote-based enterprise contracts, typically five to six figures a year at volume; agent-style products include screening in a single team plan.",
+  "mistakes": [
+   "Letting the tool reject automatically with nobody sampling the rejected pile",
+   "Writing years-of-experience and degree knockouts as proxies for seniority, which exclude career changers",
+   "Buying a similarity scorer and expecting it to detect fraudulent or AI-written applications, which is a separate job",
+   "Skipping the bias audit and notice obligations that apply to automated screening in New York City and the EU"
+  ],
+  "faq": [
+   {
+    "q": "What is an AI screening tool?",
+    "a": "Software that reads inbound job applications and recommends which candidates to advance. Modern tools evaluate each applicant against the role's written criteria and explain the result, rather than producing a single keyword-match score."
+   },
+   {
+    "q": "Is AI resume screening legal?",
+    "a": "Yes in most jurisdictions, with conditions. New York City's Local Law 144 requires an annual bias audit and candidate notice, the EU AI Act treats recruitment screening as high-risk, and GDPR lets candidates object to solely automated decisions. Most teams keep a human on the final reject."
+   },
+   {
+    "q": "Does AI screening replace the recruiter screen?",
+    "a": "It replaces the first read of every application, not the conversation. The recruiter still speaks to the people the tool advances; what changes is that the shortlist is drawn from every applicant rather than the first fifty."
+   }
+  ]
+ },
+ {
+  "slug": "ai-interviewers",
+  "name": "AI Interviewers",
+  "short": "AI interviewers",
+  "plural": "AI interviewers",
+  "what": "AI interviewers conduct a screening interview with the candidate themselves, by voice or chat, asking role-specific questions the hiring team has defined, then hand the team a transcript, a structured analysis and a recommendation. They are distinct from video interviewing tools (which record humans or one-way answers) and from notetakers (which listen to human interviews).",
+  "who": "Teams with more qualified applicants than recruiter phone-screen slots, high-volume and hourly employers, and small teams that cannot run first-round screens at the pace candidates expect.",
+  "when": "Buy when phone-screen scheduling is the slowest stage in the funnel, when good candidates are dropping out waiting a week for a 20-minute call, or when first-round screens are inconsistent across recruiters.",
+  "features": [
+   "Voice or chat interview the candidate can start on their own schedule from a link",
+   "Role-specific question sets defined by the team, with configurable duration",
+   "Full transcript and structured analysis against the questions asked",
+   "Next-round recommendation with the evidence behind it",
+   "Candidate disclosure, consent and accessibility controls",
+   "ATS integration so results land on the candidate record"
+  ],
+  "pricing": "Standalone AI interviewers (Sapia, micro1, Apriora) are quote-based, usually priced per interview or per active role, with annual minimums for enterprise; some products bundle the interviewer into a wider recruiting plan rather than selling it separately.",
+  "mistakes": [
+   "Using an AI interviewer for final-round or decision interviews rather than first-round screens",
+   "Not telling candidates up front that they are talking to an AI",
+   "Treating the recommendation as the decision instead of a structured input to a human one",
+   "Asking generic questions, which produces generic transcripts; the value is in role-specific ones"
+  ],
+  "faq": [
+   {
+    "q": "What is an AI interviewer?",
+    "a": "Software that runs a first-round screening conversation with a candidate by voice or chat, asks questions the hiring team wrote, and returns a transcript, an analysis and a recommendation. It is not video interviewing and not a notetaker."
+   },
+   {
+    "q": "Do candidates accept AI interviews?",
+    "a": "For short, clearly labelled first-round screens they can take at a time of their choosing, generally yes; many prefer it to waiting days for a phone slot. Acceptance drops sharply if the AI is used for later rounds or is not disclosed."
+   },
+   {
+    "q": "Are AI interviewers regulated?",
+    "a": "They fall under the same rules as other automated screening: bias audit and notice in New York City, high-risk obligations under the EU AI Act, and Illinois's law on AI analysis of video interviews where video is involved."
+   }
+  ]
+ },
+ {
+  "slug": "interview-notetakers",
+  "name": "Interview Notetakers",
+  "short": "Notetakers",
+  "plural": "interview notetakers",
+  "what": "Interview notetakers join live interviews as a participant, record and transcribe with speaker labels, and produce a summary so nobody types notes during the conversation. Recruiting-specific ones map the summary to the scorecard, track whether the planned questions were asked, and write the result to the ATS. General meeting assistants (Fireflies, Otter, tl;dv) do the recording and summary without the recruiting structure; Metaview and BrightHire, reviewed under video interviewing, sit between the two.",
+  "who": "Any team running more than a handful of interviews a week, hiring managers who interview rarely and forget to cover the plan, and teams whose debriefs run on memory rather than notes.",
+  "when": "Buy when scorecards are completed late or not at all, when interviewers are visibly typing instead of listening, or when debriefs are dominated by whoever remembers most confidently.",
+  "features": [
+   "Joins Google Meet, Zoom or Teams calls automatically from the calendar",
+   "Transcription with speaker labels",
+   "Post-interview summary structured for the debrief",
+   "Coverage tracking against pre-set expected questions, with reminders for missed ones",
+   "Candidate consent and recording notices",
+   "ATS write-back of notes and scorecard fields"
+  ],
+  "pricing": "General meeting notetakers have free tiers and paid plans from roughly $10\u2013$30 per user per month. Recruiting-specific notetakers are priced per interviewer or bundled into a recruiting platform's team plan.",
+  "mistakes": [
+   "Recording without a clear consent notice to the candidate",
+   "Using the transcript as a scoring input without the interviewer's judgement",
+   "Choosing a general notetaker and then rebuilding the scorecard mapping by hand every time",
+   "Letting summaries replace the debrief rather than feed it"
+  ],
+  "faq": [
+   {
+    "q": "What is an AI interview notetaker?",
+    "a": "A bot that joins a live interview, records and transcribes it, and produces a summary and structured notes afterwards. Recruiting-specific versions map the notes to your scorecard and check that planned questions were covered."
+   },
+   {
+    "q": "Is it legal to record interviews with a notetaker?",
+    "a": "Generally yes with consent. Several US states and most of Europe require all participants to be informed; the tools display a notice when they join, and good practice is to tell the candidate in the invitation."
+   },
+   {
+    "q": "Notetaker or interview intelligence tool?",
+    "a": "The same category at different depths. A notetaker gives you transcript and summary; interview intelligence tools add interviewer coaching, question-drift analytics and debrief dashboards, at a higher per-interviewer price."
+   }
+  ]
+ },
+ {
+  "slug": "applicant-fraud-detection",
+  "name": "Applicant Fraud Detection",
+  "short": "Fraud detection",
+  "plural": "applicant fraud detection tools",
+  "what": "Applicant fraud detection tools flag applications and candidates that are not who they claim to be: duplicated or fabricated applications, identities that do not match their stated location, disposable or recycled contact details, proxy candidates in interviews, and profiles with no verifiable footprint. The problem has grown with remote hiring and AI-written applications, and a screening tool that ranks on text cannot see it.",
+  "who": "Remote-first employers, teams hiring in software, finance and customer support where impostor and proxy-candidate schemes are concentrated, and any employer receiving high inbound volume from job boards.",
+  "when": "Buy when you have interviewed someone who was not the person who applied, when duplicate applications under different names are showing up, or when you are hiring remotely at volume without meeting candidates in person before offer.",
+  "features": [
+   "Correlation of signals across identity, location, email and online footprint rather than isolated checks",
+   "Explainable flags that list the signals that triggered them",
+   "Persistence across roles, so a flagged applicant is caught when they reapply",
+   "Reviewer-in-the-loop: flags are surfaced for a human to decide, not auto-rejected",
+   "Coverage of both inbound applicants and candidates found through sourcing",
+   "Government ID and liveness verification where the role justifies it"
+  ],
+  "pricing": "Identity verification is priced per verification, typically a few dollars each with volume tiers. Social media and footprint screening is per report or per seat on quote. Fraud detection built into a recruiting platform is usually included in the platform's team plan rather than priced separately.",
+  "mistakes": [
+   "Rejecting on a single signal such as a VPN or a new email address, which also catches legitimate candidates",
+   "Running ID verification on every applicant at the top of the funnel instead of at offer, which hurts conversion",
+   "Assuming the background check will catch application fraud; it checks the identity you give it, not whether that identity applied",
+   "Keeping no record of flags, so the same fraudulent applicant returns on the next role"
+  ],
+  "faq": [
+   {
+    "q": "What is applicant fraud?",
+    "a": "Applications and candidates that misrepresent identity, location or qualifications: fabricated or duplicated applications, proxy candidates who interview in someone else's place, and profiles with no verifiable footprint. It has grown with remote hiring and AI-generated applications."
+   },
+   {
+    "q": "How do fraud detection tools work?",
+    "a": "They correlate signals from several layers (identity and location consistency, email characteristics, network patterns, online footprint) and raise an explainable flag for a reviewer when the combination looks wrong. Single-signal rules produce too many false positives."
+   },
+   {
+    "q": "Is fraud detection the same as a background check?",
+    "a": "No. A background check verifies the history of the identity you submit, usually after offer. Fraud detection asks whether the applicant is that identity at all, and runs earlier in the process."
+   }
+  ]
  }
 ]
