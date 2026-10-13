@@ -1,0 +1,23 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import defs from '../../data/definitions.json';
+import { SITE_URL, YEAR, articleSchema, breadcrumbSchema, faqSchema } from '../../data/site';
+export function getStaticPaths() { return defs.map((d) => ({ params: { slug: d.slug }, props: { d } })); }
+const { d } = Astro.props;
+const path = `/what-is/${d.slug}/`;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Glossary', path: '/glossary/' }, { name: d.term, path }];
+const schema = [
+  { '@context': 'https://schema.org', '@type': 'DefinedTerm', name: d.term, description: d.short, url: `${SITE_URL}${path}`, inDefinedTermSet: `${SITE_URL}/glossary/` },
+  articleSchema({ headline: d.question, description: d.short, path }), faqSchema([{ q: d.question, a: d.short }, ...d.faq]), breadcrumbSchema(crumbs),
+];
+---
+<Base title={`${d.question} (${YEAR} definition)`} description={d.short} path={path} schema={schema}>
+  <PageHead eyebrow="Definition" title={d.question} lead={d.short} crumbs={crumbs} />
+  <div class="wrap">
+    <div class="callout"><b>{d.term}, in one sentence.</b> {d.short}</div>
+    {d.body.map((p) => <div set:html={p} />)}
+    <section class="faq"><h2>Related questions</h2>{d.faq.map((f) => (<details><summary>{f.q}</summary><p set:html={f.a} /></details>))}</section>
+    <p><a href="/glossary/">Full glossary</a> · <a href="/best-recruitment-tools/">Best recruitment tools {YEAR}</a></p>
+  </div>
+</Base>

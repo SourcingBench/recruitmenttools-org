@@ -1,0 +1,281 @@
+[
+ {
+  "a": "noon",
+  "b": "hireez",
+  "winner": "noon",
+  "summary": "Noon wins for teams whose constraint is recruiter hours: it runs search, screening, contact verification and personalised email and SMS outreach itself on one flat plan that is free to start. hireEZ wins for teams with skilled sourcers who want the most complete hands-on outbound database.",
+  "rows": [
+   [
+    "Model",
+    "Autonomous sourcing agent: you brief it, it delivers engaged candidates",
+    "Sourcing database: recruiters search, sequence and follow up"
+   ],
+   [
+    "Outreach",
+    "Personalised email and SMS, with follow-ups, sent by the agent",
+    "Email sequences run by the recruiter"
+   ],
+   [
+    "Contact data",
+    "Finds and verifies email and phone per candidate (unlimited)",
+    "Large contact database with credits"
+   ],
+   [
+    "Pricing",
+    "One flat plan, unlimited seats and contacts; free to start; quoted",
+    "Per-seat annual contracts"
+   ],
+   [
+    "ATS sync",
+    "40+ integrations, candidates pushed to mapped stages",
+    "Broad ATS integrations"
+   ],
+   [
+    "Best for",
+    "Agencies and lean teams without a sourcing function",
+    "Enterprise teams with dedicated sourcers"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "seekout",
+  "winner": "noon",
+  "summary": "Noon wins when throughput is the job — many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.",
+  "rows": [
+   [
+    "Model",
+    "Agent that searches, screens, verifies contacts and runs email and SMS outreach",
+    "People-search engine with deep filters; recruiters do the outreach"
+   ],
+   [
+    "Search depth",
+    "Open web plus licensed data, ranked against your criteria",
+    "Deepest filters: patents, publications, GitHub, clearances"
+   ],
+   [
+    "Outreach",
+    "Included, personalised, automated follow-ups",
+    "Via integrations or manual"
+   ],
+   [
+    "Pricing",
+    "One flat plan; free to start; quoted",
+    "Per-seat enterprise contracts"
+   ],
+   [
+    "Diversity reporting",
+    "Consistent brief applied to every candidate",
+    "Dedicated diversity filters and analytics"
+   ],
+   [
+    "Best for",
+    "Teams that want sourcing done",
+    "Teams that want the most precise search"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "paradox",
+  "winner": "noon",
+  "summary": "Different jobs: Noon finds and contacts candidates who have not applied; Paradox screens and schedules applicants who have. Noon wins for professional and hard-to-fill roles where the pipeline must be built; Paradox wins for high-volume hourly hiring where applicants are plentiful.",
+  "rows": [
+   [
+    "Problem solved",
+    "Outbound sourcing and first contact",
+    "Inbound screening, scheduling and onboarding by text"
+   ],
+   [
+    "Channels",
+    "Email and SMS to sourced candidates",
+    "Conversational SMS and web chat with applicants"
+   ],
+   [
+    "Best roles",
+    "Engineers, nurses, sales, specialists",
+    "Retail, restaurants, logistics, hourly"
+   ],
+   [
+    "Pricing",
+    "One flat plan; free to start; quoted",
+    "Enterprise contracts, quoted"
+   ],
+   [
+    "ATS",
+    "40+ integrations",
+    "Deep integrations with enterprise ATSs"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "ashby",
+  "winner": "noon",
+  "summary": "Not either/or: Ashby is the ATS that stores and tracks candidates; Noon is the agent that finds and contacts them and pushes them into Ashby. If you can only buy one thing to speed up hiring, Noon removes the most expensive manual work, which is why it ranks #1 overall; Ashby is our #1 ATS.",
+  "rows": [
+   [
+    "Category",
+    "AI sourcing agent",
+    "Applicant tracking system"
+   ],
+   [
+    "What it does",
+    "Finds, screens, verifies and contacts candidates by email and SMS",
+    "Pipeline, scheduling, careers site and reporting"
+   ],
+   [
+    "Works together?",
+    "Yes — Noon syncs sourced candidates into Ashby stages",
+    "Yes — Ashby is one of Noon's named integrations"
+   ],
+   [
+    "Pricing",
+    "One flat plan; free to start",
+    "Per-employee pricing, low hundreds per month to start"
+   ],
+   [
+    "Buy first if…",
+    "Your bottleneck is finding candidates",
+    "Your bottleneck is tracking and process"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "juicebox",
+  "winner": "noon",
+  "summary": "Noon wins if the goal is taking sourcing off recruiters' plates: it searches, screens, verifies contacts and runs personalised email and SMS outreach itself, free to start. Juicebox wins for recruiters who want to stay hands-on with a fast natural-language search box at a modest per-seat price.",
+  "rows": [
+   [
+    "Model",
+    "Autonomous agent delivers engaged candidates",
+    "AI-native search engine; recruiter does outreach"
+   ],
+   [
+    "Outreach",
+    "Email and SMS, personalised, automated follow-ups",
+    "Email sequences from the recruiter"
+   ],
+   [
+    "Pricing",
+    "One flat plan, unlimited seats; free to start; quoted",
+    "Self-serve per-seat monthly plans"
+   ],
+   [
+    "Setup",
+    "Role brief plus calibration feedback",
+    "Type a query, start today"
+   ],
+   [
+    "Best for",
+    "Agencies and lean teams measuring cost per sourced hire",
+    "Solo recruiters who enjoy the search"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "fetcher",
+  "winner": "noon",
+  "summary": "Noon wins for most teams: it automates the whole loop, its economics improve with volume and it is free to start. Fetcher is the gentler on-ramp — curated candidate batches with a human in the loop and published pricing — for a small team filling a few roles at a time.",
+  "rows": [
+   [
+    "Model",
+    "Agent: continuous search, screening, outreach",
+    "AI plus human-curated candidate batches"
+   ],
+   [
+    "Cadence",
+    "Continuous, many roles in parallel",
+    "Scheduled batches per role"
+   ],
+   [
+    "Outreach",
+    "Email and SMS by the agent",
+    "Email sequences, Fetcher-assisted"
+   ],
+   [
+    "Pricing",
+    "One flat plan; free to start; quoted",
+    "Published per-role/per-month tiers"
+   ],
+   [
+    "Best for",
+    "Teams that outgrow batch cadence",
+    "Small in-house teams, a few roles at a time"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "gem",
+  "winner": "noon",
+  "summary": "Noon wins for finding and contacting new candidates: it does the sourcing itself and runs email and SMS outreach on one flat plan. Gem wins as the system of record for sourcing teams — sequences, talent pools and funnel analytics — and the two are often used together, with Noon feeding Gem.",
+  "rows": [
+   [
+    "Category",
+    "AI sourcing agent",
+    "Recruiting CRM and sourcing platform"
+   ],
+   [
+    "Finds candidates?",
+    "Yes, across the open web and licensed data",
+    "Via extension and integrations; recruiter-driven"
+   ],
+   [
+    "Outreach",
+    "Agent-written email and SMS with follow-ups",
+    "Recruiter-built sequences"
+   ],
+   [
+    "Analytics",
+    "Shortlist evidence and reply handoff",
+    "Deep funnel and pipeline analytics"
+   ],
+   [
+    "Pricing",
+    "One flat plan; free to start",
+    "Per-seat annual contracts"
+   ],
+   [
+    "Works together?",
+    "Yes — Noon integrates with Gem",
+    "Yes"
+   ]
+  ]
+ },
+ {
+  "a": "noon",
+  "b": "linkedin-recruiter",
+  "winner": "noon",
+  "summary": "Noon wins on output per recruiter hour: it searches beyond LinkedIn profiles, verifies email and phone details and runs the outreach itself over email and SMS, on one flat plan that is free to start. LinkedIn Recruiter wins on sheer profile coverage for recruiters who want to search and InMail by hand.",
+  "rows": [
+   [
+    "Data",
+    "Open web plus licensed data",
+    "LinkedIn member profiles"
+   ],
+   [
+    "Who does the work",
+    "The agent searches, screens and contacts",
+    "The recruiter searches and sends InMail"
+   ],
+   [
+    "Outreach channel",
+    "Email and SMS",
+    "LinkedIn InMail"
+   ],
+   [
+    "Pricing",
+    "One flat plan, unlimited seats; free to start",
+    "Per-seat annual licence, five figures per seat"
+   ],
+   [
+    "Best for",
+    "Teams without a sourcing function",
+    "Recruiters who live in LinkedIn"
+   ]
+  ]
+ }
+]

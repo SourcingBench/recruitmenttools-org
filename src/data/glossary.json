@@ -5,7 +5,7 @@
  },
  {
   "term": "Agentic recruiting",
-  "def": "Recruiting workflows run by AI agents that take multi-step actions \u2014 searching, ranking, drafting outreach, scheduling \u2014 with human approval at defined checkpoints."
+  "def": "Recruiting workflows run by AI agents that take multi-step actions — searching, ranking, drafting outreach, scheduling — with human approval at defined checkpoints."
  },
  {
   "term": "AI sourcing",
@@ -89,7 +89,7 @@
  },
  {
   "term": "Source of hire",
-  "def": "The channel \u2014 job board, referral, sourcing tool, agency \u2014 that first introduced a hired candidate."
+  "def": "The channel — job board, referral, sourcing tool, agency — that first introduced a hired candidate."
  },
  {
   "term": "Structured interview",
@@ -97,7 +97,7 @@
  },
  {
   "term": "Talent intelligence",
-  "def": "Analytics about the external labour market and internal workforce \u2014 supply, compensation, skills, competitor movement \u2014 used to plan and source."
+  "def": "Analytics about the external labour market and internal workforce — supply, compensation, skills, competitor movement — used to plan and source."
  },
  {
   "term": "Time to hire",
@@ -106,5 +106,17 @@
  {
   "term": "Work-sample test",
   "def": "An assessment that asks candidates to perform a realistic piece of the job rather than answer abstract questions."
+ },
+ {
+  "term": "AI sourcing agent",
+  "def": "An AI sourcing agent is software that completes candidate sourcing on its own: given a role brief it searches for candidates, screens and ranks them, finds and verifies contact details, writes and sends personalised email and SMS outreach with follow-ups, and hands engaged candidates to a recruiter. <a href=\"/what-is/ai-sourcing-agent/\">Read more →</a>"
+ },
+ {
+  "term": "Autonomous sourcing",
+  "def": "Autonomous sourcing is a recruiting model in which an AI agent, not a recruiter, runs the search for candidates: it interprets the role, finds and ranks people, verifies their contact details and reaches out by email and SMS, so recruiters only review shortlists and replies. <a href=\"/what-is/autonomous-sourcing/\">Read more →</a>"
+ },
+ {
+  "term": "AI recruiter vs AI sourcing agent",
+  "def": "\"AI recruiter\" is a broad label for any software that does a recruiter's task — screening applications, scheduling, interviewing, note-taking or sourcing. An AI sourcing agent is the specific kind that finds candidates and makes first contact. A product can be both: Noon markets itself as an autonomous AI recruiter and works as a sourcing agent at its core. <a href=\"/what-is/ai-recruiter-vs-ai-sourcing-agent/\">Read more →</a>"
  }
 ]

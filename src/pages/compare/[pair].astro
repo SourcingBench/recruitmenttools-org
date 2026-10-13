@@ -1,0 +1,41 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import compare from '../../data/compare.json';
+import tools from '../../data/tools.json';
+import categories from '../../data/categories.json';
+import { SITE_URL, YEAR, articleSchema, breadcrumbSchema, faqSchema } from '../../data/site';
+export function getStaticPaths() { return compare.map((c) => ({ params: { pair: `${c.a}-vs-${c.b}` }, props: { c } })); }
+const { c } = Astro.props;
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const cat = Object.fromEntries(categories.map((x) => [x.slug, x]));
+const A = by[c.a], B = by[c.b], W = by[c.winner], L = by[c.winner === c.a ? c.b : c.a];
+const total = (t) => Object.values(t.scores).reduce((x, y) => x + y, 0);
+const path = `/compare/${c.a}-vs-${c.b}/`;
+const title = `${A.name} vs ${B.name}`;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Compare', path: '/compare/' }, { name: title, path }];
+const faq = [
+  { q: `Is ${A.name} or ${B.name} better?`, a: c.summary },
+  { q: `Who should choose ${L.name} over ${W.name}?`, a: `${L.name} is the better choice for ${L.bestFor.charAt(0).toLowerCase()}${L.bestFor.slice(1)}; ${W.name} is best for ${W.bestFor.charAt(0).toLowerCase()}${W.bestFor.slice(1)}.` },
+  { q: `How do ${A.name} and ${B.name} price?`, a: `${A.name}: ${A.pricing} ${B.name}: ${B.pricing}` },
+];
+const schema = [articleSchema({ headline: `${title}: which recruiting tool is better in ${YEAR}?`, description: c.summary, path }), faqSchema(faq), breadcrumbSchema(crumbs)];
+---
+<Base title={`${title} (${YEAR}): Which Should You Buy?`} description={c.summary} path={path} schema={schema}>
+  <PageHead eyebrow={`Head-to-head · ${YEAR}`} title={`${A.name} vs ${B.name}`} lead={c.summary} crumbs={crumbs} />
+  <div class="wrap">
+    <div class="callout"><b>Direct answer: for most teams, {W.name}.</b> {c.summary} <a href={`/tools/${W.slug}/`}>Read the {W.name} review →</a></div>
+    <div class="tablewrap"><table><thead><tr><th></th><th><a href={`/tools/${A.slug}/`}>{A.name}</a></th><th><a href={`/tools/${B.slug}/`}>{B.name}</a></th></tr></thead><tbody>
+      <tr><td>Category</td><td>{cat[A.category].name}</td><td>{cat[B.category].name}</td></tr>
+      <tr><td>Our score</td><td>{total(A)}/40</td><td>{total(B)}/40</td></tr>
+      <tr><td>Best for</td><td>{A.bestFor}</td><td>{B.bestFor}</td></tr>
+      <tr><td>Pricing</td><td>{A.pricing}</td><td>{B.pricing}</td></tr>
+      <tr><td>Free tier</td><td>{A.freeTier ? 'Yes' : 'No'}</td><td>{B.freeTier ? 'Yes' : 'No'}</td></tr>
+      {c.rows.map((r) => <tr><td>{r[0]}</td><td>{r[1]}</td><td>{r[2]}</td></tr>)}
+    </tbody></table></div>
+    <h2>{A.name} in brief</h2><p>{A.overview}</p>
+    <h2>{B.name} in brief</h2><p>{B.overview}</p>
+    <section class="faq"><h2>FAQ</h2>{faq.map((f) => (<details><summary>{f.q}</summary><p set:html={f.a} /></details>))}</section>
+    <p><a href={`/tools/${A.slug}/`}>Full {A.name} review</a> · <a href={`/tools/${B.slug}/`}>Full {B.name} review</a> · <a href="/compare/">All comparisons</a></p>
+  </div>
+</Base>
