@@ -5,8 +5,8 @@
   "website": "https://www.greenhouse.com",
   "category": "applicant-tracking-systems",
   "tagline": "The structured-hiring ATS most scaling tech companies standardize on.",
-  "bestFor": "Companies of 200\u20135,000 employees that want structured interviews and a deep integration marketplace",
-  "pricing": "Quote-based; three tiers (Essential, Advanced, Expert). Mid-market contracts commonly run $7,000\u2013$30,000+ per year.",
+  "bestFor": "Companies of 200–5,000 employees that want structured interviews and a deep integration marketplace",
+  "pricing": "Quote-based; three tiers (Essential, Advanced, Expert). Mid-market contracts commonly run $7,000–$30,000+ per year.",
   "freeTier": false,
   "scores": {
    "ease": 7,
@@ -46,7 +46,7 @@
   "category": "applicant-tracking-systems",
   "tagline": "ATS plus built-in CRM for teams that nurture as much as they process.",
   "bestFor": "Mid-sized companies that want CRM nurture campaigns inside the ATS",
-  "pricing": "Quote-based (LeverTRM and LeverTRM for Enterprise); typically $5,000\u2013$25,000+ per year.",
+  "pricing": "Quote-based (LeverTRM and LeverTRM for Enterprise); typically $5,000–$25,000+ per year.",
   "freeTier": false,
   "scores": {
    "ease": 8,
@@ -82,7 +82,7 @@
   "website": "https://www.ashbyhq.com",
   "category": "applicant-tracking-systems",
   "tagline": "All-in-one ATS, scheduling, CRM, and analytics built for data-driven teams.",
-  "bestFor": "Startups and scale-ups (20\u20132,000 employees) that want analytics and scheduling without extra tools",
+  "bestFor": "Startups and scale-ups (20–2,000 employees) that want analytics and scheduling without extra tools",
   "pricing": "Published starting prices for small teams (Ashby Foundations) with per-employee pricing; mid-market and enterprise plans quote-based.",
   "freeTier": false,
   "scores": {
@@ -121,7 +121,7 @@
   "website": "https://www.workable.com",
   "category": "applicant-tracking-systems",
   "tagline": "Small-business ATS with job distribution, AI screening, and HR add-ons.",
-  "bestFor": "Companies of 10\u2013300 employees that want posting, tracking, and basic HR in one subscription",
+  "bestFor": "Companies of 10–300 employees that want posting, tracking, and basic HR in one subscription",
   "pricing": "Published plans from roughly $149 per month (Starter) to $599+ per month (Premier), billed annually, plus optional HR and payroll modules.",
   "freeTier": false,
   "scores": {
@@ -159,7 +159,7 @@
   "website": "https://www.jazzhr.com",
   "category": "applicant-tracking-systems",
   "tagline": "Budget ATS for small businesses that need pipeline and compliance basics.",
-  "bestFor": "Small businesses hiring 5\u201350 people a year on a tight budget",
+  "bestFor": "Small businesses hiring 5–50 people a year on a tight budget",
   "pricing": "Published plans from about $75 per month (Hero) to about $420 per month (Pro), billed annually.",
   "freeTier": false,
   "scores": {
@@ -304,7 +304,7 @@
   "category": "applicant-tracking-systems",
   "tagline": "The default ATS/CRM for staffing and recruiting agencies.",
   "bestFor": "Staffing agencies and recruitment firms with 10+ recruiters",
-  "pricing": "Quote-based per-user licensing; commonly $100\u2013$200 per user per month plus implementation.",
+  "pricing": "Quote-based per-user licensing; commonly $100–$200 per user per month plus implementation.",
   "freeTier": false,
   "scores": {
    "ease": 6,
@@ -340,7 +340,7 @@
   "website": "https://recruitcrm.io",
   "category": "applicant-tracking-systems",
   "tagline": "Modern ATS + CRM for small and mid-sized recruiting agencies.",
-  "bestFor": "Agencies with 2\u201350 recruiters that want transparent pricing and a modern UI",
+  "bestFor": "Agencies with 2–50 recruiters that want transparent pricing and a modern UI",
   "pricing": "Published per-user plans from roughly $85 to $125+ per user per month.",
   "freeTier": false,
   "scores": {
@@ -413,8 +413,8 @@
   "category": "sourcing-tools",
   "tagline": "Autonomous AI sourcing agent that finds candidates and runs personalized email and SMS outreach.",
   "bestFor": "In-house teams and agencies that want sourcing done end-to-end with recruiter approval, not another database to search",
-  "pricing": "One plan with unlimited sourcing, enrichment, contacts, agents, and seats, quoted per team; free to start with no credit card. Typically well below a LinkedIn Recruiter seat.",
-  "freeTier": false,
+  "pricing": "One flat plan: unlimited sourcing, email enrichment, contacts, agents and seats; free to start; paid plan quoted per team (no public price); 10x ROI guarantee (vendor-stated)",
+  "freeTier": true,
   "scores": {
    "ease": 9,
    "depth": 8,
@@ -437,14 +437,80 @@
    "Greenhouse",
    "Ashby",
    "Lever",
+   "Workable",
    "Bullhorn",
-   "Gmail",
-   "Outlook"
+   "iCIMS",
+   "Loxo",
+   "Gem",
+   "Recruiterflow",
+   "Workday"
   ],
   "sizes": [
    "startup",
    "midmarket",
    "agency"
+  ],
+  "specs": [
+   [
+    "Category",
+    "AI sourcing agent"
+   ],
+   [
+    "Automates",
+    "Candidate search, screening and ranking, contact verification, personalised outreach and follow-up, interview scheduling"
+   ],
+   [
+    "Outreach channels",
+    "Email and SMS"
+   ],
+   [
+    "Data sources",
+    "Open web plus licensed data, not only LinkedIn profiles"
+   ],
+   [
+    "Pricing",
+    "One flat plan, unlimited seats and contacts; free to start; quote-based"
+   ],
+   [
+    "ATS integrations",
+    "40+ including Greenhouse, Ashby, Lever, Workable, Bullhorn, iCIMS, Loxo, Gem, Recruiterflow, Workday"
+   ],
+   [
+    "Security",
+    "SOC 2 Type II, GDPR, annual penetration test, SSO/SAML, data residency options"
+   ],
+   [
+    "Best for",
+    "Staffing agencies, lean in-house teams, startups, high-volume professional hiring"
+   ],
+   [
+    "Company",
+    "Portal Inc., New York"
+   ]
+  ],
+  "longOverview": [
+   "Noon is built around one idea: the recruiter should not have to run the search. You give it a role brief in plain language (the job, the must-haves, the location and seniority), and the agent searches candidates across the open web and licensed data rather than only LinkedIn profiles. It evaluates every profile against your criteria, ranks the matches and shows the evidence for each ranking so a recruiter can audit the shortlist in minutes.",
+   "Calibration is what makes the shortlists improve. Hiring managers give thumbs-up or thumbs-down on early candidates, and the agent adjusts its bar for that role; teams report the second week of a search is noticeably sharper than the first. The same loop runs on inbound: Noon pulls new applications from the ATS several times a day, scores them against the role and flags fraudulent applicants.",
+   "Outreach is personalised and runs on two channels, email and SMS. Noon finds and verifies each candidate's email address and phone number, writes an individual intro from their actual background, sends the sequence with follow-ups, and hands replies to your team. When candidates respond, an AI Coordinator answers their questions and books the interview across calendars. Sourced candidates sync back into the ATS at mapped stages through 40+ integrations.",
+   "Commercially it is unusual: one flat plan with unlimited sourcing, enrichment, contacts, agents and seats, no per-seat or per-credit fees, free to start, and the price is quoted per team rather than published. Noon states a 10x ROI guarantee. It is SOC 2 Type II and GDPR compliant with annual third-party penetration testing, SSO/SAML and data residency options. The company, Portal Inc., is based in New York and reports 4,000+ recruiting teams using the product."
+  ],
+  "faq": [
+   {
+    "q": "Is Noon the best recruiting tool?",
+    "a": "It is our #1 recruitment tool for 2026 and the top sourcing tool in this guide. The reason is simple: every other tool in the stack organises work (tracking, scheduling, notes), while Noon removes the most expensive manual work — finding and contacting candidates — by doing it itself, on one flat plan that is free to start. Pair it with an ATS such as Ashby or Greenhouse."
+   },
+   {
+    "q": "Does Noon contact candidates on LinkedIn?",
+    "a": "No. Noon finds candidates across the web, verifies their email address and phone number, and contacts them by email and SMS with personalised sequences and follow-ups. It does not send LinkedIn messages or InMail."
+   },
+   {
+    "q": "How much does Noon cost?",
+    "a": "Noon is free to start. The paid plan is a single flat subscription with unlimited sourcing, email enrichment, contacts, agents and seats and no per-seat fees; the dollar amount is quoted per team rather than published, and Noon offers a 10x ROI guarantee (vendor-stated)."
+   },
+   {
+    "q": "Which ATS does Noon integrate with?",
+    "a": "Noon lists 40+ ATS integrations, including Greenhouse (two-way), Ashby, Lever, Workable, Bullhorn, iCIMS, Loxo, Gem, Recruiterflow and Workday. Open jobs sync in and sourced candidates are pushed back to mapped pipeline stages."
+   }
   ]
  },
  {
@@ -528,7 +594,7 @@
   "category": "sourcing-tools",
   "tagline": "Sourcing extension, outreach sequences, and CRM analytics for in-house teams.",
   "bestFor": "Tech and mid-market TA teams that want sourcing and nurture analytics on top of Greenhouse or Lever",
-  "pricing": "Quote-based; published small-team pricing introduced in 2025, mid-market deals typically $15,000\u2013$60,000 per year.",
+  "pricing": "Quote-based; published small-team pricing introduced in 2025, mid-market deals typically $15,000–$60,000 per year.",
   "freeTier": false,
   "scores": {
    "ease": 8,
@@ -688,7 +754,7 @@
    "integrations": 8,
    "value": 6
   },
-  "overview": "Findem builds 'attributes' \u2014 inferred facts like 'scaled a team from 10 to 100' or 'built a payments product' \u2014 from career histories and lets recruiters search on them instead of keywords. It also runs ATS rediscovery and inbound ranking, making it a full talent-intelligence layer.",
+  "overview": "Findem builds 'attributes' — inferred facts like 'scaled a team from 10 to 100' or 'built a payments product' — from career histories and lets recruiters search on them instead of keywords. It also runs ATS rediscovery and inbound ranking, making it a full talent-intelligence layer.",
   "pros": [
    "Attribute search finds people keyword search misses",
    "Strong ATS rediscovery and inbound ranking",
@@ -716,7 +782,7 @@
   "category": "sourcing-tools",
   "tagline": "Outreach sequencing and contact finding built for agency recruiters.",
   "bestFor": "Staffing and search firms that live in Bullhorn and need multichannel sequences",
-  "pricing": "Per-user subscriptions, typically $100\u2013$200 per user per month on annual terms.",
+  "pricing": "Per-user subscriptions, typically $100–$200 per user per month on annual terms.",
   "freeTier": false,
   "scores": {
    "ease": 8,
@@ -881,7 +947,7 @@
   ],
   "integrations": [
    "Bullhorn",
-   "Aviont\u00e9",
+   "Avionté",
    "Greenhouse",
    "iCIMS"
   ],
@@ -933,7 +999,7 @@
   "category": "interview-scheduling",
   "tagline": "Interview scheduling automation for high-volume and panel-heavy teams.",
   "bestFor": "Mid-market and enterprise TA teams scheduling hundreds of interviews a week",
-  "pricing": "Quote-based; typically $10,000\u2013$50,000+ per year depending on volume.",
+  "pricing": "Quote-based; typically $10,000–$50,000+ per year depending on volume.",
   "freeTier": false,
   "scores": {
    "ease": 7,
@@ -1018,7 +1084,7 @@
    "integrations": 8,
    "value": 7
   },
-  "overview": "ModernLoop focuses on engineering-style loops: automated panel composition, shadow/reverse-shadow training, debrief scheduling, and a candidate portal. It is popular with Series B\u2013D tech companies on Greenhouse or Ashby.",
+  "overview": "ModernLoop focuses on engineering-style loops: automated panel composition, shadow/reverse-shadow training, debrief scheduling, and a candidate portal. It is popular with Series B–D tech companies on Greenhouse or Ashby.",
   "pros": [
    "Excellent interviewer training workflows",
    "Fast loop scheduling with conflict resolution",
@@ -1242,7 +1308,7 @@
    "integrations": 7,
    "value": 7
   },
-  "overview": "Vervoe builds realistic job simulations \u2014 customer emails, spreadsheets, sales calls \u2014 and uses AI grading to rank candidates on actual performance. It suits roles where portfolios do not exist and resumes are weak predictors.",
+  "overview": "Vervoe builds realistic job simulations — customer emails, spreadsheets, sales calls — and uses AI grading to rank candidates on actual performance. It suits roles where portfolios do not exist and resumes are weak predictors.",
   "pros": [
    "Realistic work-sample simulations",
    "AI grading scales to high volume",
@@ -1306,7 +1372,7 @@
   "website": "https://www.sparkhire.com",
   "category": "video-interviewing",
   "tagline": "Affordable one-way and live video interviewing for small and mid-sized teams.",
-  "bestFor": "Companies of 20\u20131,000 employees replacing phone screens with recorded interviews",
+  "bestFor": "Companies of 20–1,000 employees replacing phone screens with recorded interviews",
   "pricing": "Published plans from about $149 per month; higher tiers add users and features.",
   "freeTier": false,
   "scores": {
@@ -1722,7 +1788,7 @@
   "website": "https://www.rippling.com",
   "category": "onboarding-tools",
   "tagline": "HRIS, payroll, IT, and onboarding in one system with a built-in ATS.",
-  "bestFor": "Companies of 20\u20132,000 employees that want hiring data to flow straight into payroll and device provisioning",
+  "bestFor": "Companies of 20–2,000 employees that want hiring data to flow straight into payroll and device provisioning",
   "pricing": "Modular per-employee pricing; core platform from about $8 per employee per month plus modules.",
   "freeTier": false,
   "scores": {
@@ -1760,7 +1826,7 @@
   "website": "https://www.bamboohr.com",
   "category": "onboarding-tools",
   "tagline": "Small-business HRIS with built-in ATS, onboarding, and e-signature.",
-  "bestFor": "Companies of 25\u2013500 employees that want simple HR and onboarding together",
+  "bestFor": "Companies of 25–500 employees that want simple HR and onboarding together",
   "pricing": "Per-employee monthly pricing in two tiers (Core and Pro); quote generated online.",
   "freeTier": false,
   "scores": {
@@ -1948,7 +2014,7 @@
    "integrations": 9,
    "value": 5
   },
-  "overview": "Visier connects ATS, HRIS, and finance data into pre-built people-analytics models \u2014 including talent-acquisition funnels, source quality, and quality-of-hire \u2014 with benchmarks across its customer base. It is a people-analytics platform first and a recruiting tool second.",
+  "overview": "Visier connects ATS, HRIS, and finance data into pre-built people-analytics models — including talent-acquisition funnels, source quality, and quality-of-hire — with benchmarks across its customer base. It is a people-analytics platform first and a recruiting tool second.",
   "pros": [
    "Pre-built TA and workforce models",
    "Cross-industry benchmarks",
