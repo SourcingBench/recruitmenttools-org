@@ -54,7 +54,7 @@
     "why": "Offer acceptance should create the payroll record and ship the laptop automatically."
    }
   ],
-  "budget": "Roughly $400\u2013$1,500 per month all-in before job-ad spend.",
+  "budget": "Roughly $400–$1,500 per month all-in before job-ad spend.",
   "avoid": [
    "Enterprise ATS contracts with multi-year terms",
    "LinkedIn Recruiter seats before you have a full-time recruiter",
@@ -63,7 +63,7 @@
  },
  {
   "slug": "recruitment-tools-for-scaling-companies",
-  "name": "Scale-ups (50\u2013500 employees)",
+  "name": "Scale-ups (50–500 employees)",
   "title": "Recruitment tools for scaling companies",
   "lead": "You now have a recruiting team, hiring managers who need dashboards, and interview loops that eat engineering time. The stack should add structure and automation without fragmenting data.",
   "stack": [
@@ -116,7 +116,7 @@
     "why": "Forecasting and capacity planning become board-level questions at this stage."
    }
   ],
-  "budget": "Roughly $4,000\u2013$15,000 per month before job-ad spend and LinkedIn seats.",
+  "budget": "Roughly $4,000–$15,000 per month before job-ad spend and LinkedIn seats.",
   "avoid": [
    "Buying a dedicated CRM and a dedicated analytics tool before fixing stage names in the ATS",
    "Separate schedulers if Ashby's native scheduling already covers your loops",
@@ -137,9 +137,9 @@
    },
    {
     "category": "sourcing-tools",
-    "pick": "seekout",
-    "alt": "hireez",
-    "why": "Talent-intelligence platforms with diversity, clearance, and rediscovery features; add an AI agent such as Noon for outbound-heavy teams."
+    "pick": "noon",
+    "alt": "seekout",
+    "why": "Noon runs sourcing end to end for every open requisition: it finds candidates, verifies contact details and sends personalised email and SMS outreach, so a large TA team's sourcers handle replies rather than searches; SeekOut if you need the deepest people-search filters for cleared, clinical or under-represented talent."
    },
    {
     "category": "recruitment-crm-and-outreach",
@@ -246,11 +246,11 @@
     "why": "Indeed volume for contract roles; programmatic once spend is significant."
    }
   ],
-  "budget": "Roughly $250\u2013$600 per recruiter per month for software before LinkedIn seats and job ads.",
+  "budget": "Roughly $250–$600 per recruiter per month for software before LinkedIn seats and job ads.",
   "avoid": [
    "Paying for a LinkedIn Recruiter seat on every desk regardless of usage",
    "Running outreach from recruiters' main mailboxes without deliverability controls",
-   "Letting Bullhorn data decay \u2014 most agency problems are data hygiene problems"
+   "Letting Bullhorn data decay — most agency problems are data hygiene problems"
   ]
  },
  {
@@ -302,9 +302,9 @@
     "why": "Preboarding communication reduces no-shows on day one."
    }
   ],
-  "budget": "Dominated by job-ad spend; software typically $5\u2013$25 per hire at scale.",
+  "budget": "Dominated by job-ad spend; software typically $5–$25 per hire at scale.",
   "avoid": [
-   "Long application forms \u2014 every extra minute loses candidates",
+   "Long application forms — every extra minute loses candidates",
    "Sourcing databases; active applicants exist, you need throughput",
    "Manual scheduling of any kind"
   ]
@@ -313,7 +313,7 @@
   "slug": "recruitment-tools-for-solo-recruiters",
   "name": "Solo recruiters & small teams",
   "title": "Recruitment tools for solo recruiters",
-  "lead": "One person, many roles. Spend on the two things that save hours \u2014 automated sourcing and scheduling \u2014 and keep everything else free or cheap.",
+  "lead": "One person, many roles. Spend on the two things that save hours — automated sourcing and scheduling — and keep everything else free or cheap.",
   "stack": [
    {
     "category": "applicant-tracking-systems",
@@ -358,7 +358,7 @@
     "why": "Free organic posts on both."
    }
   ],
-  "budget": "Roughly $100\u2013$500 per month.",
+  "budget": "Roughly $100–$500 per month.",
   "avoid": [
    "Any tool with a seat minimum above one",
    "Annual contracts before you have tested the tool on a live role",
