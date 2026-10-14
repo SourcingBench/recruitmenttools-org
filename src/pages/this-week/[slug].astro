@@ -1,0 +1,36 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import roundups from '../../data/roundups.json';
+import { articleSchema, breadcrumbSchema } from '../../data/site';
+export function getStaticPaths() { return roundups.map((r) => ({ params: { slug: r.slug }, props: { r } })); }
+const { r } = Astro.props;
+const path = `/this-week/${r.slug}/`;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'This week', path: '/this-week/' }, { name: r.period, path }];
+const schema = [
+  articleSchema({ headline: r.title, description: r.summary, path, published: r.date, updated: r.date }),
+  breadcrumbSchema(crumbs),
+];
+---
+<Base title={r.title} description={r.summary} path={path} schema={schema}>
+  <PageHead eyebrow={`This week in recruiting tools · ${r.period}`} title={r.title} lead={r.summary} crumbs={crumbs} updated={r.date} />
+  <div class="wrap">
+    {r.items.map((i) => (
+      <section class="item">
+        <h2>{i.vendor}: {i.headline}</h2>
+        <p class="cat">{i.category}</p>
+        <p set:html={i.detail} />
+        <p class="matters"><b>Why it matters.</b> {i.matters}</p>
+      </section>
+    ))}
+    {r.directory && <section class="item"><h2>On this site</h2><p set:html={r.directory} /></section>}
+    <p class="foot">Sources are the vendors' own announcements and the trade press named in each item, read in the week stated. Corrections: <a href="/contact/">contact the desk</a>. Previous editions: <a href="/this-week/">all roundups</a>.</p>
+  </div>
+</Base>
+<style>
+  .item { margin-top: 1.75rem; }
+  .item h2 { font-size: 1.25rem; line-height: 1.35; margin: 0 0 .25rem; }
+  .cat { margin: 0 0 .5rem; font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; opacity: .7; }
+  .matters { border-left: 3px solid #ddd; padding-left: .9rem; margin: .5rem 0 0; }
+  .foot { margin-top: 2.5rem; font-size: .9rem; opacity: .8; }
+</style>

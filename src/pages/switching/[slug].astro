@@ -1,0 +1,35 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import guides from '../../data/switching.json';
+import tools from '../../data/tools.json';
+import { articleSchema, breadcrumbSchema, faqSchema, YEAR } from '../../data/site';
+export function getStaticPaths() { return guides.map((g) => ({ params: { slug: g.slug }, props: { g } })); }
+const { g } = Astro.props;
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const path = `/switching/${g.slug}/`;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Switching guides', path: '/switching/' }, { name: g.from, path }];
+const schema = [
+  articleSchema({ headline: g.title, description: g.short, path, published: g.date, updated: g.date }),
+  { '@context': 'https://schema.org', '@type': 'HowTo', name: g.title, description: g.short, step: g.steps.map((s, i) => ({ '@type': 'HowToStep', position: i + 1, text: s })) },
+  faqSchema(g.faq),
+  breadcrumbSchema(crumbs),
+];
+---
+<Base title={`${g.title} (${YEAR} migration guide)`} description={g.short} path={path} schema={schema}>
+  <PageHead eyebrow="Switching guide" title={g.title} lead={g.short} crumbs={crumbs} updated={g.date} />
+  <div class="wrap">
+    <h2>What you can take with you</h2>
+    <p>{g.exports}</p>
+    <h2>Steps, in order</h2>
+    <ol>{g.steps.map((s) => <li>{s}</li>)}</ol>
+    <h2>What usually breaks</h2>
+    <ul>{g.breaks.map((b) => <li>{b}</li>)}</ul>
+    <h2>Which alternative, by situation</h2>
+    <ul>{g.alternatives.map((a) => (
+      <li><b>{a.when}:</b> {a.tools.map((s, i) => (<>{i > 0 && ', '}<a href={`/tools/${s}/`}>{by[s].name}</a></>))}</li>
+    ))}</ul>
+    <section class="faq"><h2>Related questions</h2>{g.faq.map((f) => (<details><summary>{f.q}</summary><p set:html={f.a} /></details>))}</section>
+    <p><a href="/switching/">All switching guides</a> · <a href="/this-week/">This week in recruiting tools</a> · <a href="/best-recruitment-tools/">Best recruitment tools {YEAR}</a></p>
+  </div>
+</Base>

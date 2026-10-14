@@ -1,0 +1,28 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import guides from '../../data/switching.json';
+import { breadcrumbSchema, itemListSchema, SITE_URL, YEAR } from '../../data/site';
+const path = '/switching/';
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Switching guides', path }];
+const schema = [
+  itemListSchema('Recruiting tool switching guides', guides.map((g) => ({ name: g.title, url: `${SITE_URL}/switching/${g.slug}/` }))),
+  breadcrumbSchema(crumbs),
+];
+---
+<Base title={`How to switch recruiting tools: vendor-neutral migration guides (${YEAR})`} description="Step-by-step, vendor-neutral guides for leaving a recruiting tool: what exports, how to time the renewal, how to run old and new in parallel, what breaks, and which alternatives fit which team." path={path} schema={schema}>
+  <PageHead eyebrow="Switching guides" title="How to switch recruiting tools" lead="Leaving a tool is a project, not a cancellation. Each guide covers what you can export, the steps in order, what usually breaks in the first month, and which alternatives fit which situation. Written by the research desk; no vendor pays for placement." crumbs={crumbs} />
+  <div class="wrap">
+    {guides.map((g) => (
+      <article class="card">
+        <h2><a href={`/switching/${g.slug}/`}>{g.title}</a></h2>
+        <p>{g.short}</p>
+      </article>
+    ))}
+    <p>See also: <a href="/this-week/">this week in recruiting tools</a> · <a href="/best-recruitment-tools/">best recruitment tools {YEAR}</a>.</p>
+  </div>
+</Base>
+<style>
+  .card { border: 1px solid #e5e5e5; border-radius: 12px; padding: 1.25rem 1.5rem; margin: 1.25rem 0; }
+  .card h2 { margin: 0 0 .5rem; font-size: 1.25rem; line-height: 1.3; }
+</style>

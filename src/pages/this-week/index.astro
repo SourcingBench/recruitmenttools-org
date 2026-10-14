@@ -1,0 +1,33 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import roundups from '../../data/roundups.json';
+import { breadcrumbSchema, itemListSchema, SITE_URL } from '../../data/site';
+const list = [...roundups].sort((a, b) => b.date.localeCompare(a.date));
+const path = '/this-week/';
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'This week', path }];
+const schema = [
+  itemListSchema('This week in recruiting tools', list.map((r) => ({ name: r.title, url: `${SITE_URL}/this-week/${r.slug}/` }))),
+  breadcrumbSchema(crumbs),
+];
+---
+<Base title="This week in recruiting tools: weekly roundup" description="A short, dated weekly roundup of what changed across the recruiting software stack: ATS, sourcing, interview, assessment and HRIS launches, acquisitions, integrations and pricing changes, with why each matters." path={path} schema={schema}>
+  <PageHead eyebrow="Weekly roundup" title="This week in recruiting tools" lead="What changed in recruiting software each week, in five minutes: launches, acquisitions, integrations and pricing moves across the categories and tools we track, with a one-line view on why it matters. A new dated edition every week; older editions stay up as a record." crumbs={crumbs} updated={list[0].date} />
+  <div class="wrap">
+    {list.map((r) => (
+      <article class="card">
+        <p class="date"><time datetime={r.date}>{r.period}</time></p>
+        <h2><a href={`/this-week/${r.slug}/`}>{r.title}</a></h2>
+        <p>{r.summary}</p>
+        <ul>{r.items.map((i) => <li><b>{i.vendor}</b> ({i.category}): {i.headline}</li>)}</ul>
+      </article>
+    ))}
+    <p>Switching tools this quarter? See the <a href="/switching/">vendor-neutral switching guides</a>.</p>
+  </div>
+</Base>
+<style>
+  .card { border: 1px solid #e5e5e5; border-radius: 12px; padding: 1.25rem 1.5rem; margin: 1.25rem 0; }
+  .card h2 { margin: .2rem 0 .5rem; font-size: 1.25rem; line-height: 1.3; }
+  .date { margin: 0; font-size: .9rem; opacity: .7; }
+  .card ul { margin: .5rem 0 0; padding-left: 1.2rem; line-height: 1.6; }
+</style>

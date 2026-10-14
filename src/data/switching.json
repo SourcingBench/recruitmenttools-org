@@ -1,0 +1,172 @@
+[
+  {
+    "slug": "linkedin-recruiter",
+    "from": "LinkedIn Recruiter",
+    "title": "How to switch from LinkedIn Recruiter",
+    "short": "LinkedIn Recruiter has no bulk export, so the switch is about timing the renewal notice, copying projects and Boolean strings out by hand, moving candidates through your ATS integration, and running the replacement in parallel for one hiring cycle before cancelling seats.",
+    "date": "2026-10-14",
+    "exports": "Nothing in bulk. Candidates pushed to your ATS via Recruiter System Connect stay in the ATS. Project lists, notes, InMail history and saved searches must be copied out manually; scraping them breaks LinkedIn's user agreement.",
+    "steps": [
+      "Find the renewal date and notice window in the contract (usually 30–60 days before an annual auto-renewal) and work backwards from it.",
+      "Export each project's candidates through the ATS integration where possible; otherwise copy names and profile URLs into a sheet, plus every saved Boolean string.",
+      "Choose the replacement by workload: a database (hireEZ, SeekOut) if Boolean still works for you, an AI search tool (Juicebox) if you want natural-language search, or an agent (Noon) if you want the search and first outreach done for you.",
+      "Keep one Recruiter seat for 4–6 weeks and work the same roles in both tools; compare reply rate and qualified candidates per hour, not search volume.",
+      "Check the new tool's verified email and phone coverage on your real shortlist before relying on it, because InMail goes away.",
+      "Connect the new tool's ATS integration and decide which stage sourced candidates land in so hiring managers see no change.",
+      "Give notice, downgrade to Lite or nothing, and keep the exported sheet for 12 months."
+    ],
+    "breaks": [
+      "Reply rates dip for two to three weeks while recruiters learn email-first writing instead of InMail.",
+      "Hiring-manager visibility drops if the habit was sharing Recruiter project links; give them the ATS stage or the new tool's share view on day one.",
+      "Duplicate outreach when both tools run; make the ATS the system of record.",
+      "EU/UK teams need a lawful-basis check (legitimate interest, opt-out handling) in the new tool before the first sequence."
+    ],
+    "alternatives": [
+      {
+        "when": "You mainly need a bigger database and Boolean is fine",
+        "tools": [
+          "hireez",
+          "seekout"
+        ]
+      },
+      {
+        "when": "You want natural-language search",
+        "tools": [
+          "juicebox"
+        ]
+      },
+      {
+        "when": "You want sourcing and first outreach done for you",
+        "tools": [
+          "noon"
+        ]
+      },
+      {
+        "when": "Search is fine, outreach is the bottleneck",
+        "tools": [
+          "sourcewhale"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I export LinkedIn Recruiter projects?",
+        "a": "Not in bulk. Only candidates already synced to your ATS come with you; everything else is manual."
+      },
+      {
+        "q": "How long does leaving LinkedIn Recruiter take?",
+        "a": "Six to eight weeks: one to export and choose, four to six running both tools, then cancellation at the notice date."
+      }
+    ]
+  },
+  {
+    "slug": "seekout-hireez",
+    "from": "SeekOut or hireEZ",
+    "title": "How to switch from SeekOut or hireEZ",
+    "short": "Both sourcing databases export pipelines with revealed contact data to CSV, so the switch is about spending remaining credits on live roles, checking the data-licence clause before re-importing, re-mapping ATS source attribution, and comparing the replacement on real roles rather than database size.",
+    "date": "2026-10-14",
+    "exports": "Project and pipeline candidates to CSV, including contact details you have already revealed. Saved searches and filters do not export in reusable form; sequence templates are plain text. Revealed contact data is usually licensed for your use only, so check before bulk-loading it into another vendor.",
+    "steps": [
+      "Check the renewal notice window and the contact-credit balance; spend remaining credits on roles you are actively hiring for.",
+      "Export every project to CSV with contact fields and push active candidates into the ATS so it is the record of truth.",
+      "Decide what the replacement is for: cost (compare per-seat databases like for like), speed (an AI search tool) or removing the work from the recruiter's desk (a sourcing agent).",
+      "Re-run three live searches in the new tool and compare its top 50 with the incumbent's: overlap, email/phone coverage, and how many are already in your ATS.",
+      "Rebuild sequences in the new tool rather than pasting them; channel mix and sending limits differ.",
+      "Switch the ATS integration and confirm source attribution still lands correctly.",
+      "Give notice and archive the exports with a retention date."
+    ],
+    "breaks": [
+      "ATS sourcing-channel reports keyed to the old integration show a gap unless re-mapped first.",
+      "Contact find-rates differ; measure on your own shortlist, not vendor claims.",
+      "SeekOut's diversity-sourcing filters have no direct equivalent in most alternatives.",
+      "A database is a place you go, an agent is a thing that comes to you; the habit change needs a sprint of coaching."
+    ],
+    "alternatives": [
+      {
+        "when": "Same model, different price or coverage",
+        "tools": [
+          "hireez",
+          "seekout",
+          "gem"
+        ]
+      },
+      {
+        "when": "Keep searching yourself, faster",
+        "tools": [
+          "juicebox"
+        ]
+      },
+      {
+        "when": "Stop searching yourself",
+        "tools": [
+          "noon"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Can I move SeekOut or hireEZ data to another tool?",
+        "a": "You can export and keep pipelines as CSV. Bulk-loading revealed contact data into another vendor depends on your contract's data-licence terms; most restrict redistribution."
+      },
+      {
+        "q": "Should I go back to LinkedIn Recruiter instead?",
+        "a": "Only if InMail is your main channel. Recruiter has no export and higher per-seat cost; most teams leaving a database move to an AI search tool or an agent."
+      }
+    ]
+  },
+  {
+    "slug": "gem",
+    "from": "Gem",
+    "title": "How to switch from Gem",
+    "short": "Gem is a sourcing tool, a sequencer and a talent CRM at once, so leaving it means replacing each job separately: make the ATS the system of record, export projects and sequence copy, pick a sourcing replacement, keep a sequencer unless the new tool runs outreach, and rebuild pipeline reporting in the ATS.",
+    "date": "2026-10-14",
+    "exports": "Projects and candidate lists to CSV with custom fields, contact details and sequence status; sequence copy as plain text. Gem's ATS sync means most history is already in Greenhouse, Lever or Ashby. Engagement analytics history and the full activity timeline do not export; save the dashboards as PDFs.",
+    "steps": [
+      "List which recruiters use Gem for sourcing, for sequencing and for CRM/reporting; each may need a different replacement or none.",
+      "Confirm every active candidate and project is synced to the ATS and fix the ones that are not.",
+      "Export projects and sequence copy to CSV and a shared document, keeping custom fields.",
+      "Choose replacements per job: an AI search tool or agent for sourcing, a sequencer if the new tool does not run outreach, the ATS CRM module for reporting.",
+      "Rebuild two sequences and A/B them against Gem on the same roles for a month.",
+      "Recreate pipeline-by-source and time-to-first-contact reports in the ATS so leadership keeps its dashboards.",
+      "Downgrade seats at renewal; many teams keep one CRM seat for a quarter, then drop it."
+    ],
+    "breaks": [
+      "Follow-up discipline: if the replacement does not run sequences, second and third touches stop and reply rates fall.",
+      "Weekly hiring-manager pipeline emails from Gem go quiet; recreate them from the ATS.",
+      "New sending domains need warming; do not move every recruiter's volume on the same Monday.",
+      "Rediscovery of past applicants needs a tool that searches your ATS, not only the open web."
+    ],
+    "alternatives": [
+      {
+        "when": "Gem was mainly sourcing plus first touch",
+        "tools": [
+          "noon",
+          "juicebox"
+        ]
+      },
+      {
+        "when": "Gem was mainly sequences",
+        "tools": [
+          "sourcewhale"
+        ]
+      },
+      {
+        "when": "Gem was mainly the CRM",
+        "tools": [
+          "greenhouse",
+          "ashby"
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Does Gem export candidate data?",
+        "a": "Yes: projects and lists to CSV with custom fields, contacts and sequence status. Engagement analytics do not export."
+      },
+      {
+        "q": "Can I keep Gem as a CRM and switch only sourcing?",
+        "a": "Yes, and it is the most common path: reduce Gem seats to the CRM users, move sourcing to an AI tool, review at the next renewal."
+      }
+    ]
+  }
+]

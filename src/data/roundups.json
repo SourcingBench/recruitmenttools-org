@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "2026-10-14",
+    "title": "This week in recruiting tools: Juicebox buys Fetcher, LinkedIn Hiring Assistant inside iCIMS, Workday ships Candidate Profile and agents",
+    "date": "2026-10-14",
+    "period": "6–14 October 2026",
+    "summary": "A consolidation week across the recruiting stack: Juicebox agreed to acquire Fetcher's assets, iCIMS wired in LinkedIn's Hiring Assistant, Metaview went deeper into Workday, Workday launched Candidate Profile plus HR agents, Eightfold appointed a new CEO, and Noon published public docs for driving it from AI assistants.",
+    "items": [
+      {
+        "vendor": "Juicebox / Fetcher",
+        "category": "Sourcing",
+        "headline": "Juicebox announced an agreement to acquire Fetcher's assets",
+        "detail": "Announced 6 Oct 2026 (Business Wire; Axios). Fetcher sold batch sourcing on per-role tiers; Juicebox is a natural-language search tool. Fetcher customers should plan for a migration; see <a href=\"/tools/juicebox/\">Juicebox</a> and <a href=\"/tools/fetcher/\">Fetcher</a> in the directory and our <a href=\"/switching/seekout-hireez/\">sourcing-database switching guide</a>.",
+        "matters": "The independent sourcing category keeps shrinking; AI-search vendors are buying customer bases."
+      },
+      {
+        "vendor": "iCIMS / LinkedIn",
+        "category": "ATS",
+        "headline": "iCIMS integrated LinkedIn Hiring Assistant into its ATS",
+        "detail": "Announced 14 Oct 2026 (HRTech Series), two weeks after LinkedIn's 'Hiring Assistant 2' update (TLNT, 2 Oct), which focused on smarter matching.",
+        "matters": "LinkedIn's agent now lives inside a major enterprise ATS, so iCIMS customers get an agent without adding a vendor; the seat and InMail credit model is unchanged. Compare in <a href=\"/tools/icims/\">iCIMS</a> and <a href=\"/tools/linkedin-recruiter/\">LinkedIn Recruiter</a>."
+      },
+      {
+        "vendor": "Metaview / Workday",
+        "category": "Interview intelligence",
+        "headline": "Metaview expanded its Workday integration for Fortune 500 recruiting teams",
+        "detail": "Announced 14 Oct 2026 (Business Wire). Metaview records and structures interviews and is extending that into agentic workflows on Workday data (<a href=\"/tools/metaview/\">Metaview review</a>).",
+        "matters": "The ATS is becoming the control plane for recruiting agents; point tools without native Workday or SAP integrations will feel it in enterprise deals."
+      },
+      {
+        "vendor": "Workday",
+        "category": "ATS / HRIS",
+        "headline": "Workday launched Candidate Profile and a set of HR, finance and IT agents",
+        "detail": "Announced 13 Oct 2026 (Workday blog; Investing.com). Candidate Profile is a reusable applicant profile meant to end repeated form-filling.",
+        "matters": "Portable profiles change the apply experience for the largest employers, and Workday's own agent layer now competes directly for third-party automation budget."
+      },
+      {
+        "vendor": "Eightfold",
+        "category": "Talent intelligence",
+        "headline": "Eightfold AI named Joe Korngiebel as CEO",
+        "detail": "Announced 13 Oct 2026 (GlobeNewswire). <a href=\"/tools/eightfold/\">Eightfold</a> sells talent intelligence, matching and rediscovery to large enterprises.",
+        "matters": "CEO changes at platform vendors usually precede packaging and pricing changes; buyers mid-evaluation should ask about the roadmap and contract flexibility."
+      },
+      {
+        "vendor": "Noon",
+        "category": "AI sourcing agent",
+        "headline": "Noon published public MCP docs, a weekly changelog and switch-from guides",
+        "detail": "Published 14 Oct 2026 (noon.ai/changelog). The docs let Claude and ChatGPT users drive <a href=\"/tools/noon/\">Noon</a>'s sourcing and outreach tools from their assistant.",
+        "matters": "First vendor in our directory with public AI-assistant (MCP) documentation; expect 'can my assistant run it?' to become a standard RFP line."
+      }
+    ],
+    "directory": "New on RecruitmentTools.org this week: vendor-neutral switching guides for teams leaving <a href=\"/switching/linkedin-recruiter/\">LinkedIn Recruiter</a>, <a href=\"/switching/seekout-hireez/\">SeekOut or hireEZ</a> and <a href=\"/switching/gem/\">Gem</a>."
+  }
+]
