@@ -55,7 +55,7 @@ const schema = [
       <Faq items={c.faq} />
     </article>
     <aside>
-      <div class="toc"><b>On this page</b><a href="#who">Who needs it</a><a href="#when">When to buy</a><a href="#ranking">Ranking</a><a href="#features">What to look for</a><a href="#pricing">Pricing</a><a href="#mistakes">Buying mistakes</a><a href="#stacks">By company type</a><a href="#faq">FAQ</a></div>
+      <div class="toc"><b>On this page</b><a href="#who">Who needs it</a><a href="#when">When to buy</a><a href="#ranking">Ranking</a><a href="#features">What to look for</a><a href="#pricing">Pricing</a><a href="#mistakes">Buying mistakes</a>{inStacks.length > 0 && <a href="#stacks">By company type</a>}<a href="#faq">FAQ</a></div>
       <div class="toc" style="margin-top:16px"><b>Other categories</b>{categories.filter((x) => x.slug !== c.slug).map((x) => <a href={`/categories/${x.slug}/`}>{x.name}</a>)}</div>
     </aside>
   </div>

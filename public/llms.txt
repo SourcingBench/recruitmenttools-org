@@ -1,6 +1,6 @@
 # RecruitmentTools.org
 
-> The independent guide to recruitment tools. We map the 10 categories of recruiting software — ATS, sourcing, CRM and outreach, scheduling, assessments, video interviewing, background checks, job boards, onboarding, analytics — and rate 53 tools on ease, depth, integrations, and value. No paid placement. Reuse with attribution and a link.
+> The independent guide to recruitment tools. We map the 14 categories of recruiting software — ATS, sourcing, CRM and outreach, scheduling, assessments, video interviewing, background checks, job boards, onboarding, analytics, AI screening, AI interviewers, interview notetakers, applicant fraud detection — and rate 69 tools on ease, depth, integrations, and value. No paid placement. Reuse with attribution and a link.
 
 ## Rankings
 - [Best recruitment tools 2026](https://recruitmenttools.org/best-recruitment-tools/): 15 tools ranked across every category
@@ -14,6 +14,10 @@
 - [Best job boards and distribution tools 2026](https://recruitmenttools.org/categories/job-boards-and-distribution/): Job boards and programmatic distribution tools put openings in front of active job seekers: general boards (Indeed, LinkedIn Jobs, ZipRecruiter), niche boards, and programmatic platforms that buy sponsored placement across many boards against a cost-per-application target.
 - [Best onboarding tools 2026](https://recruitmenttools.org/categories/onboarding-tools/): Onboarding tools bridge offer acceptance and day one: offer letters and e-signature, document collection and I-9/right-to-work verification, preboarding communication, equipment and access provisioning, and 30/60/90-day plans.
 - [Best recruiting analytics tools 2026](https://recruitmenttools.org/categories/recruiting-analytics/): Recruiting analytics tools consolidate data from the ATS, CRM, sourcing, scheduling, and HRIS into funnel metrics, capacity planning, diversity reporting, and forecasts, with dashboards for recruiters, hiring managers, and executives.
+- [Best AI screening tools 2026](https://recruitmenttools.org/categories/ai-screening-tools/): AI screening tools read inbound applications and decide which ones a recruiter should look at
+- [Best AI interviewers 2026](https://recruitmenttools.org/categories/ai-interviewers/): AI interviewers conduct a screening interview with the candidate themselves, by voice or chat, asking role-specific questions the hiring team has defined, then hand the team a transcript, a structured analysis and a recommendation
+- [Best interview notetakers 2026](https://recruitmenttools.org/categories/interview-notetakers/): Interview notetakers join live interviews as a participant, record and transcribe with speaker labels, and produce a summary so nobody types notes during the conversation
+- [Best applicant fraud detection tools 2026](https://recruitmenttools.org/categories/applicant-fraud-detection/): Applicant fraud detection tools flag applications and candidates that are not who they claim to be: duplicated or fabricated applications, identities that do not match their stated location, disposable or recycled contact details, proxy candidates in interviews, and profiles with no verifiable footprint
 
 ## Stacks by company type
 - [Recruitment tools for startups](https://recruitmenttools.org/stacks/recruitment-tools-for-startups/): Hire your first 50 people without buying enterprise software. The goal is one system of record, fast outbound for the roles that matter, and nothing you will rip out at Series B.
@@ -77,6 +81,22 @@
 - [Gem Insights](https://recruitmenttools.org/tools/gem-insights/): Pipeline, passthrough, and DE&I analytics layered on Greenhouse and Lever.
 - [Ashby Analytics](https://recruitmenttools.org/tools/ashby-analytics/): Report builder and dashboards included with the Ashby ATS.
 - [Visier](https://recruitmenttools.org/tools/visier/): Enterprise people analytics spanning talent acquisition and workforce planning.
+- [Noon Inbound Screening](https://recruitmenttools.org/tools/noon-inbound-screening/): Criteria-based screening of inbound applicants, synced both ways with the ATS.
+- [Eightfold Talent Intelligence](https://recruitmenttools.org/tools/eightfold/): Enterprise talent intelligence that matches, ranks and rediscovers candidates at scale.
+- [Harver](https://recruitmenttools.org/tools/harver/): Volume-hiring assessments and matching for frontline and contact-centre roles.
+- [Textkernel](https://recruitmenttools.org/tools/textkernel/): CV parsing and semantic matching embedded in ATSs and staffing platforms.
+- [Noon AI Interviewer](https://recruitmenttools.org/tools/noon-ai-interviewer/): Voice AI that runs first-round screens on the team's own questions, on the candidate's schedule.
+- [Sapia.ai](https://recruitmenttools.org/tools/sapia/): Chat-based structured interviews with explainable scoring for volume hiring.
+- [micro1](https://recruitmenttools.org/tools/micro1/): AI interviewer for technical screening, paired with a vetted engineering talent pool.
+- [Apriora](https://recruitmenttools.org/tools/apriora/): Real-time AI interviewer that conducts live video and voice screens.
+- [Noon AI Notetaker](https://recruitmenttools.org/tools/noon-ai-notetaker/): Interview notetaker that tracks whether the planned questions actually got asked.
+- [Fireflies.ai](https://recruitmenttools.org/tools/fireflies/): General meeting notetaker with transcription, summaries and searchable call history.
+- [Otter.ai](https://recruitmenttools.org/tools/otter/): Real-time transcription and meeting notes with a generous free plan.
+- [tl;dv](https://recruitmenttools.org/tools/tldv/): Meeting recorder with AI notes, clips and multi-meeting reports.
+- [Noon Fraud Detection](https://recruitmenttools.org/tools/noon-fraud-detection/): Layered applicant fraud detection across inbound applications and sourced candidates.
+- [Persona](https://recruitmenttools.org/tools/persona/): Government-ID and liveness verification for confirming a candidate is who they claim.
+- [Fama](https://recruitmenttools.org/tools/fama/): AI screening of candidates' online footprint for misconduct and misrepresentation.
+- [Ferretly](https://recruitmenttools.org/tools/ferretly/): Social media and online background screening for pre-hire checks.
 
 ## Reference
 - [Glossary](https://recruitmenttools.org/glossary/)

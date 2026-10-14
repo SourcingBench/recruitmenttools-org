@@ -2034,5 +2034,627 @@
   "sizes": [
    "enterprise"
   ]
+ },
+ {
+  "slug": "noon-inbound-screening",
+  "name": "Noon Inbound Screening",
+  "website": "https://noon.ai/product/inbound-screening",
+  "category": "ai-screening-tools",
+  "tagline": "Criteria-based screening of inbound applicants, synced both ways with the ATS.",
+  "bestFor": "Teams on Greenhouse, Lever, Ashby, Workable or Loxo that want every applicant evaluated against the role's actual criteria, with the decision written back to the ATS stage",
+  "pricing": "Included in Noon's single team plan with unlimited seats, quoted per team; not sold separately.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Noon pulls inbound applications from the connected ATS several times a day, evaluates each one against the role's criteria and non-negotiables with a reason per criterion, and ranks the queue. Advance and reject decisions sync back to mapped ATS stages with the ATS's own rejection reasons. Hiring-manager feedback recalibrates the weighting per role, and changing the criteria re-ranks everyone already in the queue. It is the same evaluation engine Noon uses for outbound sourcing, applied to applicants; it does not run outreach on inbound roles.",
+  "pros": [
+   "Evaluation against written criteria with evidence, not a similarity score",
+   "Two-way sync with the ATS, including rejection reasons",
+   "Re-ranks the whole queue when criteria change",
+   "Shares one team plan with Noon's sourcing, interviewer and fraud tools"
+  ],
+  "cons": [
+   "Requires one of the supported ATSs; no standalone applicant inbox",
+   "Newer than the enterprise matching suites",
+   "Screening quality depends on how specific the role criteria are"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable",
+   "Atlas",
+   "Loxo"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket",
+   "agency"
+  ]
+ },
+ {
+  "slug": "eightfold",
+  "name": "Eightfold Talent Intelligence",
+  "website": "https://eightfold.ai",
+  "category": "ai-screening-tools",
+  "tagline": "Enterprise talent intelligence that matches, ranks and rediscovers candidates at scale.",
+  "bestFor": "Large enterprises that want one matching model across applicants, internal mobility and the existing talent pool",
+  "pricing": "Quote-based enterprise contracts; typically six figures a year.",
+  "freeTier": false,
+  "scores": {
+   "ease": 5,
+   "depth": 10,
+   "integrations": 8,
+   "value": 6
+  },
+  "overview": "Eightfold applies a skills-based matching model across every candidate a company has ever seen: new applicants, past applicants and current employees. It ranks applicants against roles, infers adjacent skills, and powers career sites and internal mobility from the same model. It is a platform decision rather than a tool purchase, with the implementation effort and price to match.",
+  "pros": [
+   "Skills inference that goes well beyond keyword matching",
+   "One model across applicants, alumni and employees",
+   "Mature enterprise security and audit controls"
+  ],
+  "cons": [
+   "Long implementation and high price",
+   "Overkill below several thousand employees",
+   "Matching logic is less transparent to the end recruiter than criteria-based tools"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "Oracle",
+   "iCIMS",
+   "Greenhouse"
+  ],
+  "sizes": [
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "harver",
+  "name": "Harver",
+  "website": "https://harver.com",
+  "category": "ai-screening-tools",
+  "tagline": "Volume-hiring assessments and matching for frontline and contact-centre roles.",
+  "bestFor": "Retail, logistics, hospitality and contact-centre employers screening thousands of applicants a month",
+  "pricing": "Quote-based; priced on application volume with annual contracts.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 8,
+   "integrations": 7,
+   "value": 7
+  },
+  "overview": "Harver (which absorbed pymetrics and Outmatch) screens high-volume applicants with short assessments, realistic job previews and automated matching, then routes qualified people straight to scheduling. It is built for roles where the application is thin and the predictive signal comes from the assessment rather than the CV.",
+  "pros": [
+   "Assessment-based screening suits roles with thin CVs",
+   "Realistic job previews cut early attrition",
+   "Strong volume-hiring ATS integrations"
+  ],
+  "cons": [
+   "Assessment-first flow is wrong for senior and specialist roles",
+   "Volume pricing is expensive for small employers",
+   "Several merged products with uneven user experience"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "iCIMS",
+   "SmartRecruiters",
+   "Fountain"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "textkernel",
+  "name": "Textkernel",
+  "website": "https://www.textkernel.com",
+  "category": "ai-screening-tools",
+  "tagline": "CV parsing and semantic matching embedded in ATSs and staffing platforms.",
+  "bestFor": "Staffing firms and ATS vendors that need high-accuracy parsing and matching inside an existing system",
+  "pricing": "Quote-based, usually priced per parsed document or per seat; often bundled by the ATS vendor.",
+  "freeTier": false,
+  "scores": {
+   "ease": 6,
+   "depth": 8,
+   "integrations": 9,
+   "value": 7
+  },
+  "overview": "Textkernel is the parsing and matching engine behind many ATS and staffing products rather than a recruiter-facing application in its own right. It parses CVs and job descriptions in many languages, normalises skills and titles to a taxonomy, and matches candidates to jobs and jobs to candidates. Staffing agencies buy it to search their own database; ATS vendors embed it.",
+  "pros": [
+   "Multilingual parsing accuracy",
+   "Skills and title taxonomy that makes search consistent",
+   "Embedded in many staffing platforms already"
+  ],
+  "cons": [
+   "Infrastructure, not a workflow: no screening decisions or ATS write-back of its own",
+   "Value depends on the host system",
+   "Little use to in-house teams without a large candidate database"
+  ],
+  "integrations": [
+   "Bullhorn",
+   "Salesforce",
+   "SAP SuccessFactors",
+   "Oracle",
+   "Workday"
+  ],
+  "sizes": [
+   "agency",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "noon-ai-interviewer",
+  "name": "Noon AI Interviewer",
+  "website": "https://noon.ai/product/ai-interviewer",
+  "category": "ai-interviewers",
+  "tagline": "Voice AI that runs first-round screens on the team's own questions, on the candidate's schedule.",
+  "bestFor": "Teams that want every qualified applicant or sourced candidate screened within a day without adding recruiter phone-screen capacity",
+  "pricing": "Included in Noon's single team plan with unlimited seats, quoted per team; not sold separately.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Candidates receive an email link and start the interview whenever they are ready. The AI conducts a live voice conversation asking the role-specific questions the team defined, with configurable duration, voice and link expiry, and a sandbox mode for testing the script. The team receives a full transcript, a structured analysis against the questions, and a next-round recommendation. It is a voice screen, not a video interview, and it is one component of Noon's recruiting platform alongside sourcing, inbound screening and the notetaker.",
+  "pros": [
+   "Candidate chooses the time; no scheduling step",
+   "Role-specific questions set by the team, not a generic bank",
+   "Transcript plus structured analysis and recommendation",
+   "Included in the team plan with Noon's other tools"
+  ],
+  "cons": [
+   "Not sold without the rest of the Noon platform",
+   "Voice only; no video or coding assessment",
+   "Shorter track record than the volume-hiring specialists"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable",
+   "Gmail",
+   "Outlook"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket",
+   "agency"
+  ]
+ },
+ {
+  "slug": "sapia",
+  "name": "Sapia.ai",
+  "website": "https://sapia.ai",
+  "category": "ai-interviewers",
+  "tagline": "Chat-based structured interviews with explainable scoring for volume hiring.",
+  "bestFor": "Large employers in retail, hospitality and financial services running thousands of first-round screens",
+  "pricing": "Quote-based enterprise contracts, priced on hiring volume.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 7,
+   "value": 7
+  },
+  "overview": "Sapia runs an untimed, text-based structured interview that candidates complete on their phone, scores the answers against a validated competency model, and gives every candidate personalised feedback. It publishes its fairness testing and is one of the more mature products on bias documentation, which matters for employers under NYC Local Law 144 or EU AI Act obligations.",
+  "pros": [
+   "Published fairness and validity documentation",
+   "Every candidate gets feedback, which protects employer brand at volume",
+   "Text format is accessible and low-pressure"
+  ],
+  "cons": [
+   "Text-only; no voice conversation",
+   "Built for volume; expensive for small teams",
+   "Competency model takes configuration per role family"
+  ],
+  "integrations": [
+   "Workday",
+   "SAP SuccessFactors",
+   "SmartRecruiters",
+   "iCIMS",
+   "Greenhouse"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "micro1",
+  "name": "micro1",
+  "website": "https://www.micro1.ai",
+  "category": "ai-interviewers",
+  "tagline": "AI interviewer for technical screening, paired with a vetted engineering talent pool.",
+  "bestFor": "Companies screening software engineers at volume, or hiring from micro1's pre-vetted pool",
+  "pricing": "Quote-based; the interviewer is also offered as part of micro1's talent marketplace.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 5,
+   "value": 7
+  },
+  "overview": "micro1's interviewer conducts a conversational technical screen, including follow-up questions on the candidate's answers and a coding component, and returns a scored report. The company also runs a marketplace of engineers who have already passed it, so some buyers use the interviewer and others buy the pre-screened pool.",
+  "pros": [
+   "Technical follow-up questions rather than a fixed script",
+   "Coding assessment built into the conversation",
+   "Fast to run at volume"
+  ],
+  "cons": [
+   "Engineering-focused; thin for non-technical roles",
+   "Fewer ATS integrations than established vendors",
+   "Dual marketplace model can blur the vendor relationship"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "apriora",
+  "name": "Apriora",
+  "website": "https://www.apriora.ai",
+  "category": "ai-interviewers",
+  "tagline": "Real-time AI interviewer that conducts live video and voice screens.",
+  "bestFor": "Teams that want a live, conversational first-round screen with scheduling handled by the tool",
+  "pricing": "Quote-based; per-interview and per-role plans reported.",
+  "freeTier": false,
+  "scores": {
+   "ease": 8,
+   "depth": 7,
+   "integrations": 6,
+   "value": 7
+  },
+  "overview": "Apriora's interviewer, Alex, runs a live two-way conversation, adapts follow-ups to the candidate's answers, and returns a transcript, scorecard and recommendation. It targets the same first-round screen as the other tools here and differentiates on the realism of the live conversation.",
+  "pros": [
+   "Adaptive follow-up questions",
+   "Live conversation that feels closer to a human screen",
+   "Scorecard mapped to the role's requirements"
+  ],
+  "cons": [
+   "Young company and product",
+   "Integrations still being built out",
+   "Live format means candidates must book a time, unlike asynchronous tools"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "noon-ai-notetaker",
+  "name": "Noon AI Notetaker",
+  "website": "https://noon.ai/product/ai-notetaker",
+  "category": "interview-notetakers",
+  "tagline": "Interview notetaker that tracks whether the planned questions actually got asked.",
+  "bestFor": "Teams whose hiring managers interview occasionally and need the plan kept on track, with notes landing beside the sourcing and screening record",
+  "pricing": "Included in Noon's single team plan with unlimited seats, quoted per team; not sold separately.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 7,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Noon's notetaker joins live interview meetings such as Google Meet as a participant, records and transcribes with speaker labels, and produces a post-meeting summary. Its distinctive feature is coverage tracking: the team sets the questions the interview is expected to cover, and the notetaker tracks which were asked and reminds the interviewer about the ones missed. It sits alongside Noon's sourcing, inbound screening and AI interviewer on the same candidate record.",
+  "pros": [
+   "Coverage tracking against pre-set expected questions",
+   "Speaker-labelled transcript and structured summary",
+   "Notes live with the candidate's sourcing and screening history",
+   "Included in the team plan"
+  ],
+  "cons": [
+   "Not sold without the rest of the Noon platform",
+   "Fewer interviewer-coaching analytics than BrightHire",
+   "Meeting-platform coverage narrower than general notetakers"
+  ],
+  "integrations": [
+   "Google Meet",
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket",
+   "agency"
+  ]
+ },
+ {
+  "slug": "fireflies",
+  "name": "Fireflies.ai",
+  "website": "https://fireflies.ai",
+  "category": "interview-notetakers",
+  "tagline": "General meeting notetaker with transcription, summaries and searchable call history.",
+  "bestFor": "Small teams that want one notetaker for interviews and every other meeting, with a free tier to start",
+  "pricing": "Free tier with limited transcription credits; paid plans from roughly $10\u2013$20 per seat per month, enterprise on quote.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 6,
+   "integrations": 8,
+   "value": 8
+  },
+  "overview": "Fireflies joins Zoom, Meet and Teams calls, transcribes, summarises and makes every meeting searchable. It is not built for recruiting, so there is no scorecard mapping or question coverage, but the price and the breadth of integrations make it the default for teams that interview occasionally.",
+  "pros": [
+   "Free tier and low paid price",
+   "Broad meeting-platform and CRM integrations",
+   "Searchable transcript archive"
+  ],
+  "cons": [
+   "No recruiting structure: scorecards and coverage have to be rebuilt by hand",
+   "Summaries are generic meeting summaries",
+   "Candidate-consent flow is the generic recording notice"
+  ],
+  "integrations": [
+   "Zoom",
+   "Google Meet",
+   "Microsoft Teams",
+   "Slack",
+   "HubSpot",
+   "Salesforce"
+  ],
+  "sizes": [
+   "startup",
+   "smb"
+  ]
+ },
+ {
+  "slug": "otter",
+  "name": "Otter.ai",
+  "website": "https://otter.ai",
+  "category": "interview-notetakers",
+  "tagline": "Real-time transcription and meeting notes with a generous free plan.",
+  "bestFor": "Individuals and small teams that want live transcription during interviews at the lowest cost",
+  "pricing": "Free plan with monthly transcription minutes; Pro from roughly $17 per user per month, Business from roughly $30.",
+  "freeTier": true,
+  "scores": {
+   "ease": 9,
+   "depth": 5,
+   "integrations": 6,
+   "value": 8
+  },
+  "overview": "Otter transcribes live, so the interviewer can see the transcript appear during the conversation, and produces a summary and action items afterwards. Like Fireflies it has no recruiting-specific structure; it wins on real-time transcription and price.",
+  "pros": [
+   "Live transcription during the call",
+   "Generous free plan",
+   "Simple to adopt for one interviewer"
+  ],
+  "cons": [
+   "No scorecard or ATS integration",
+   "Speaker identification needs training",
+   "Team administration is thin"
+  ],
+  "integrations": [
+   "Zoom",
+   "Google Meet",
+   "Microsoft Teams",
+   "Google Calendar",
+   "Slack"
+  ],
+  "sizes": [
+   "startup",
+   "smb"
+  ]
+ },
+ {
+  "slug": "tldv",
+  "name": "tl;dv",
+  "website": "https://tldv.io",
+  "category": "interview-notetakers",
+  "tagline": "Meeting recorder with AI notes, clips and multi-meeting reports.",
+  "bestFor": "Teams that want to share interview clips and highlights with hiring managers who were not on the call",
+  "pricing": "Free plan with limits; paid plans from roughly $20\u2013$30 per seat per month.",
+  "freeTier": true,
+  "scores": {
+   "ease": 8,
+   "depth": 6,
+   "integrations": 7,
+   "value": 7
+  },
+  "overview": "tl;dv records and transcribes meetings and is strongest at sharing: timestamped clips, highlight reels and recurring reports across many meetings. For hiring, that makes it useful for showing a hiring manager the three minutes that mattered rather than a 45-minute recording.",
+  "pros": [
+   "Clip and highlight sharing",
+   "Reports across multiple meetings",
+   "Free plan to start"
+  ],
+  "cons": [
+   "General-purpose; no recruiting templates",
+   "Fewer integrations than Fireflies",
+   "Recording-first design can feel intrusive to candidates"
+  ],
+  "integrations": [
+   "Zoom",
+   "Google Meet",
+   "Microsoft Teams",
+   "Slack",
+   "Notion",
+   "HubSpot"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket"
+  ]
+ },
+ {
+  "slug": "noon-fraud-detection",
+  "name": "Noon Fraud Detection",
+  "website": "https://noon.ai/product/fraud-detection",
+  "category": "applicant-fraud-detection",
+  "tagline": "Layered applicant fraud detection across inbound applications and sourced candidates.",
+  "bestFor": "Remote-first and high-inbound teams that want fraudulent applicants flagged with the reasons shown, before anyone books an interview",
+  "pricing": "Included in Noon's single team plan with unlimited seats, quoted per team; not sold separately.",
+  "freeTier": false,
+  "scores": {
+   "ease": 9,
+   "depth": 8,
+   "integrations": 7,
+   "value": 9
+  },
+  "overview": "Noon's fraud detection is a layered system that correlates signals across network, identity and location, email and online footprint, rather than applying isolated rules. When the combination looks wrong it raises an explainable flag listing the signals that triggered it, keeps the flag across roles so a reapplying candidate is caught, and leaves the decision to a reviewer. It covers both inbound applicants and candidates Noon finds through sourcing, and runs inside the same platform as the screening and interviewer tools.",
+  "pros": [
+   "Signals correlated across layers, not single-rule rejection",
+   "Explainable flags with the triggering signals shown",
+   "Persists across roles; reviewer stays in the loop",
+   "Covers inbound and outbound candidates"
+  ],
+  "cons": [
+   "Not sold standalone outside the Noon platform",
+   "No government-ID or liveness verification; pair with an IDV tool at offer stage for regulated roles",
+   "Newer than the identity-verification incumbents"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "Ashby",
+   "Workable",
+   "Atlas",
+   "Loxo"
+  ],
+  "sizes": [
+   "startup",
+   "smb",
+   "midmarket",
+   "agency"
+  ]
+ },
+ {
+  "slug": "persona",
+  "name": "Persona",
+  "website": "https://withpersona.com",
+  "category": "applicant-fraud-detection",
+  "tagline": "Government-ID and liveness verification for confirming a candidate is who they claim.",
+  "bestFor": "Regulated or remote employers that need identity verified at offer or onboarding, and platforms vetting contractors",
+  "pricing": "Usage-based per verification with a free starter tier; enterprise on quote.",
+  "freeTier": true,
+  "scores": {
+   "ease": 7,
+   "depth": 9,
+   "integrations": 8,
+   "value": 7
+  },
+  "overview": "Persona verifies identity documents, matches a live selfie to the document, and checks for known fraud patterns. It is a general identity platform rather than a recruiting tool, so teams use it at the offer or onboarding step, or inside a candidate marketplace, rather than at the top of the funnel.",
+  "pros": [
+   "Document and liveness verification that catches impostor candidates",
+   "Configurable flows and strong API",
+   "Usage-based pricing scales down to small volumes"
+  ],
+  "cons": [
+   "Too much friction for top-of-funnel screening",
+   "No signal on duplicate or fabricated applications before the ID step",
+   "Requires integration work; no native ATS connectors"
+  ],
+  "integrations": [
+   "API",
+   "Zapier",
+   "Salesforce",
+   "Okta"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "fama",
+  "name": "Fama",
+  "website": "https://fama.io",
+  "category": "applicant-fraud-detection",
+  "tagline": "AI screening of candidates' online footprint for misconduct and misrepresentation.",
+  "bestFor": "Employers that want a compliant, consent-based check of a candidate's public online presence before offer",
+  "pricing": "Per-report pricing with volume tiers; quote-based for enterprise.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 7,
+   "integrations": 7,
+   "value": 6
+  },
+  "overview": "Fama screens a candidate's public web and social presence with the candidate's consent, flagging behaviour the employer has defined as relevant and redacting protected-class information so recruiters only see what they are allowed to consider. It is a pre-hire compliance tool; it helps confirm that a footprint exists and matches the application, but it is not designed to detect duplicate or proxy applications.",
+  "pros": [
+   "FCRA-compliant process with candidate consent",
+   "Redacts protected information from the report",
+   "Integrates with background-check workflows"
+  ],
+  "cons": [
+   "Pre-offer timing; no help at application screening",
+   "Per-report pricing adds up at volume",
+   "Not built for duplicate-application or proxy-candidate detection"
+  ],
+  "integrations": [
+   "Greenhouse",
+   "Lever",
+   "iCIMS",
+   "Checkr",
+   "Sterling"
+  ],
+  "sizes": [
+   "midmarket",
+   "enterprise"
+  ]
+ },
+ {
+  "slug": "ferretly",
+  "name": "Ferretly",
+  "website": "https://www.ferretly.com",
+  "category": "applicant-fraud-detection",
+  "tagline": "Social media and online background screening for pre-hire checks.",
+  "bestFor": "Staffing firms and employers adding a consent-based online screen to their existing background-check step",
+  "pricing": "Per-report pricing; volume and partner plans on quote.",
+  "freeTier": false,
+  "scores": {
+   "ease": 7,
+   "depth": 6,
+   "integrations": 6,
+   "value": 6
+  },
+  "overview": "Ferretly produces a consent-based report on a candidate's public social media and web presence, categorised against the behaviours the employer selected, with protected-class content filtered out. Like Fama it is a late-stage compliance check that can corroborate a candidate's claimed footprint rather than a tool for catching fraudulent applications at the top of the funnel.",
+  "pros": [
+   "Fast report turnaround",
+   "Consent and compliance handled in the flow",
+   "Partner pricing for staffing firms"
+  ],
+  "cons": [
+   "Narrow scope: social media only",
+   "No signal on identity or duplicate applications",
+   "Few native ATS integrations"
+  ],
+  "integrations": [
+   "API",
+   "Bullhorn",
+   "Checkr"
+  ],
+  "sizes": [
+   "smb",
+   "midmarket",
+   "agency"
+  ]
  }
 ]
