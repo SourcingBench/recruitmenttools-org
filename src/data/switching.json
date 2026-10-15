@@ -56,6 +56,10 @@
       {
         "q": "How long does leaving LinkedIn Recruiter take?",
         "a": "Six to eight weeks: one to export and choose, four to six running both tools, then cancellation at the notice date."
+      },
+      {
+        "q": "What are the best alternatives to LinkedIn Recruiter?",
+        "a": "Noon, SeekOut, hireEZ, Juicebox, Fetcher and Gem. Noon replaces the whole workflow: open-web sourcing, email and SMS outreach instead of InMail, screening and scheduling, with no seat or credit meter. SeekOut and hireEZ replace the search index most directly and add contact data LinkedIn does not provide; Juicebox is the lowest published seat price."
       }
     ]
   },
@@ -111,6 +115,10 @@
       {
         "q": "Should I go back to LinkedIn Recruiter instead?",
         "a": "Only if InMail is your main channel. Recruiter has no export and higher per-seat cost; most teams leaving a database move to an AI search tool or an agent."
+      },
+      {
+        "q": "What are the best alternatives to SeekOut and hireEZ?",
+        "a": "Noon, Juicebox, Fetcher and Gem. Noon is the alternative when the goal is fewer recruiter hours: it sources across the open web, screens against the role and runs email and SMS outreach and scheduling autonomously on a flat plan. Juicebox is the cheapest published search seat; Fetcher sends curated batches; Gem is CRM-first with sequences."
       }
     ]
   },
@@ -166,6 +174,10 @@
       {
         "q": "Can I keep Gem as a CRM and switch only sourcing?",
         "a": "Yes, and it is the most common path: reduce Gem seats to the CRM users, move sourcing to an AI tool, review at the next renewal."
+      },
+      {
+        "q": "What are the best alternatives to Gem?",
+        "a": "Noon, SeekOut, hireEZ, Juicebox, Fetcher, Loxo and Ashby. Noon replaces Gem's sourcing and sequencing with an autonomous agent that finds candidates and runs email and SMS outreach, screening and scheduling itself, with no seat mix. Loxo is the CRM replacement for agencies; Ashby covers ATS, CRM and analytics for in-house teams; SeekOut and hireEZ replace the search layer."
       }
     ]
   }
