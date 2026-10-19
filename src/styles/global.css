@@ -63,9 +63,10 @@ nav.primary a[aria-current="page"] { background: rgba(198, 241, 53, 0.14); color
 .hero h1 { color: #fff; max-width: 860px; }
 .hero p.lead { color: #c3cbd9; font-size: 1.15rem; max-width: 720px; margin: 0.6em 0 1.6em; }
 .hero .eyebrow { color: var(--lime); }
-.hero .stats { display: flex; gap: 0; flex-wrap: wrap; margin-top: 44px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 26px; }
-.hero .stats div { border-left: 0; padding: 0 36px 0 0; margin-right: 36px; border-right: 1px solid rgba(255,255,255,0.1); }
-.hero .stats div:last-child { border-right: 0; }
+.hero .stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 24px; margin-top: 44px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 26px; }
+.hero .stats div { padding-left: 20px; border-left: 1px solid rgba(255,255,255,0.12); min-width: 0; }
+.hero .stats div:first-child { padding-left: 0; border-left: 0; }
+@media (max-width: 900px) { .hero .stats { grid-template-columns: 1fr 1fr; gap: 20px 24px; } .hero .stats div:nth-child(3) { padding-left: 0; border-left: 0; } }
 .hero .stats b { display: block; font-size: 2rem; color: var(--lime); font-weight: 800; letter-spacing: -0.03em; line-height: 1.1; }
 .hero .stats span { color: #94a3b8; font-size: 0.85rem; }
 .btn { display: inline-flex; align-items: center; gap: 8px; background: var(--lime); color: #0b1220; font-weight: 700; padding: 12px 20px; border-radius: 10px; border: 1px solid transparent; box-shadow: var(--shadow-lime); transition: transform 0.15s, box-shadow 0.15s, background 0.15s; }
@@ -204,8 +205,8 @@ footer.bottom .legal { border-top: 1px solid #1e293b; margin-top: 32px; padding-
 
 @media (max-width: 700px) {
   .hero { padding: 48px 0 40px; }
-  .hero .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 18px 16px; }
-  .hero .stats div { padding: 0; margin: 0; border: 0; }
+  .hero .stats { gap: 18px 16px; }
+  .hero .stats div { padding: 0; border: 0; }
   .hero .stats b { font-size: 1.6rem; }
   h2 { font-size: 1.45rem; }
   .wrap { padding: 0 16px; }
