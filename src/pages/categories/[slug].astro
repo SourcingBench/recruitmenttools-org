@@ -1,5 +1,6 @@
 ---
 import Base from '../../layouts/Base.astro';
+import Logo from '../../components/Logo.astro';
 import Faq from '../../components/Faq.astro';
 import PageHead from '../../components/PageHead.astro';
 import { SITE_URL, articleSchema, faqSchema, itemListSchema, breadcrumbSchema } from '../../data/site';
@@ -29,11 +30,11 @@ const schema = [
       <h2 id="ranking">The best {c.plural}, ranked</h2>
       <div class="tablewrap"><table>
         <thead><tr><th>#</th><th>Tool</th><th>Best for</th><th>Score /40</th><th>Free tier</th></tr></thead>
-        <tbody>{list.map((t, i) => (<tr><td>{i + 1}</td><td><a href={`/tools/${t.slug}/`}><b>{t.name}</b></a></td><td>{t.bestFor}</td><td>{total(t)}</td><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>))}</tbody>
+        <tbody>{list.map((t, i) => (<tr><td><span class="pos-pill">{i + 1}</span></td><td><div class="tool-cell"><Logo slug={t.slug} name={t.name} class="sm" /><a href={`/tools/${t.slug}/`}>{t.name}</a></div></td><td>{t.bestFor}</td><td>{total(t)}</td><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>))}</tbody>
       </table></div>
       {list.map((t, i) => (
-        <div class="rank" id={t.slug}>
-          <div class="n">{i + 1}</div>
+        <div class={`rank${i === 0 ? ' top' : ''}`} id={t.slug}>
+          <div class="n"><Logo slug={t.slug} name={t.name} /><span class="pos">{i + 1}</span></div>
           <div>
             <h3><a href={`/tools/${t.slug}/`}>{t.name}</a></h3>
             <div class="meta"><span>Best for: {t.bestFor}</span>{t.freeTier && <span>Free tier</span>}<span>Score {total(t)}/40</span></div>

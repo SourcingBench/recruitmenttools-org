@@ -1,5 +1,8 @@
 ---
+import '@fontsource-variable/inter';
 import '../styles/global.css';
+const path = Astro.url.pathname;
+const cur = (href: string): 'page' | undefined => (path === href || (href !== '/' && path.startsWith(href)) ? 'page' : undefined);
 import { SITE_URL, SITE_NAME, CONTACT_EMAIL } from '../data/site';
 import categories from '../data/categories.json';
 const { title, description, schema = null, ogType = 'website' } = Astro.props;
@@ -37,13 +40,13 @@ const schemas = schema ? (Array.isArray(schema) ? schema : [schema]) : [];
         <input type="checkbox" id="navToggle" class="nav-toggle" hidden />
         <label class="nav-btn" for="navToggle" aria-label="Toggle navigation"><span></span></label>
         <nav class="primary">
-          <a href="/best-recruitment-tools/">Best of 2026</a>
-          <a href="/categories/">Categories</a>
-          <a href="/tools/">All Tools</a>
-          <a href="/stacks/">Stack Builder</a>
-          <a href="/glossary/">Glossary</a>
-          <a href="/this-week/">This Week</a>
-          <a href="/methodology/">How We Rate</a>
+          <a href="/best-recruitment-tools/" aria-current={cur("/best-recruitment-tools/")}>Best of 2026</a>
+          <a href="/categories/" aria-current={cur("/categories/")}>Categories</a>
+          <a href="/tools/" aria-current={cur("/tools/")}>All Tools</a>
+          <a href="/stacks/" aria-current={cur("/stacks/")}>Stack Builder</a>
+          <a href="/glossary/" aria-current={cur("/glossary/")}>Glossary</a>
+          <a href="/this-week/" aria-current={cur("/this-week/")}>This Week</a>
+          <a href="/methodology/" aria-current={cur("/methodology/")}>How We Rate</a>
         </nav>
       </div>
     </header>

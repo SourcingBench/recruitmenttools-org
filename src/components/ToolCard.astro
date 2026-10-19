@@ -1,12 +1,17 @@
 ---
 import categories from '../data/categories.json';
+import Logo from './Logo.astro';
 const { tool, num = null } = Astro.props;
 const cat = categories.find((c) => c.slug === tool.category);
+const total = tool.scores ? (Object.values(tool.scores) as number[]).reduce((x, y) => x + y, 0) : null;
 ---
-<a class="card" href={`/tools/${tool.slug}/`} style="display:block;color:inherit">
-  {num && <div class="num">#{num}</div>}
-  <span class="tag">{cat?.short ?? tool.category}</span>
-  <h3>{tool.name}</h3>
-  <p>{tool.tagline}</p>
-  <p class="muted" style="margin-top:10px"><b>Best for:</b> {tool.bestFor}</p>
+<a class="card tool" href={`/tools/${tool.slug}/`} style="color:inherit">
+  <Logo slug={tool.slug} name={tool.name} />
+  <div>
+    {num && <div class="num">#{num}</div>}
+    <span class="tag">{cat?.short ?? tool.category}</span>
+    <div class="head"><h3>{tool.name}</h3>{total && <span class="score-chip">{total}<small>/40</small></span>}</div>
+    <p>{tool.tagline}</p>
+    <p class="muted" style="margin-top:10px"><b>Best for:</b> {tool.bestFor}</p>
+  </div>
 </a>

@@ -26,7 +26,7 @@ const schema = [
 ];
 ---
 <Base title={`${t.name} Review (2026): Pricing, Pros & Cons, Alternatives`} description={`${t.name}: ${t.tagline} Best for ${t.bestFor.toLowerCase()}. Independent score ${total}/40, pricing, strengths, weaknesses, and alternatives.`} schema={schema} ogType="article">
-  <PageHead eyebrow={c.name} title={`${t.name} review`} lead={t.tagline} crumbs={[{ name: 'Home', path: '/' }, { name: c.name, path: `/categories/${c.slug}/` }, { name: t.name, path }]} />
+  <PageHead eyebrow={c.name} logo={{ slug: t.slug, name: t.name }} title={`${t.name} review`} lead={t.tagline} crumbs={[{ name: 'Home', path: '/' }, { name: c.name, path: `/categories/${c.slug}/` }, { name: t.name, path }]} />
   <div class="wrap cols">
     <article>
       <div class="scores">{Object.entries(t.scores).map(([k, v]) => (<div class="score">{labels[k]}<b>{v}<span class="muted">/10</span></b><div class="bar"><i style={`width:${v * 10}%`}></i></div></div>))}<div class="score">Overall<b>{total}<span class="muted">/40</span></b><div class="bar"><i style={`width:${total * 2.5}%`}></i></div></div></div>

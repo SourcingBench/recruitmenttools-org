@@ -45,7 +45,7 @@ const schema = [
     <div class="grid">
       {categories.map((c, i) => (
         <a class="card" href={`/categories/${c.slug}/`} style="display:block;color:inherit">
-          <div class="num">0{i + 1 > 9 ? '' : ''}{i + 1}</div>
+          <div class="num">{String(i + 1).padStart(2, '0')}</div><span class="arrow">→</span>
           <h3>{c.name}</h3>
           <p>{c.what.split('. ')[0]}.</p>
           <p class="muted" style="margin-top:10px">{tools.filter((t) => t.category === c.slug).length} tools rated →</p>
