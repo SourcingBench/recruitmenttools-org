@@ -250,7 +250,7 @@
   "avoid": [
    "Paying for a LinkedIn Recruiter seat on every desk regardless of usage",
    "Running outreach from recruiters' main mailboxes without deliverability controls",
-   "Letting Bullhorn data decay — most agency problems are data hygiene problems"
+   "Letting Bullhorn data decay: most agency problems are data hygiene problems"
   ]
  },
  {
@@ -304,7 +304,7 @@
   ],
   "budget": "Dominated by job-ad spend; software typically $5–$25 per hire at scale.",
   "avoid": [
-   "Long application forms — every extra minute loses candidates",
+   "Long application forms: every extra minute loses candidates",
    "Sourcing databases; active applicants exist, you need throughput",
    "Manual scheduling of any kind"
   ]
@@ -313,7 +313,7 @@
   "slug": "recruitment-tools-for-solo-recruiters",
   "name": "Solo recruiters & small teams",
   "title": "Recruitment tools for solo recruiters",
-  "lead": "One person, many roles. Spend on the two things that save hours — automated sourcing and scheduling — and keep everything else free or cheap.",
+  "lead": "One person, many roles. Spend on the two things that save hours (automated sourcing and scheduling) and keep everything else free or cheap.",
   "stack": [
    {
     "category": "applicant-tracking-systems",

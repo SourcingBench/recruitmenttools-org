@@ -497,7 +497,7 @@
   "faq": [
    {
     "q": "Is Noon the best recruiting tool?",
-    "a": "It is our #1 recruitment tool for 2026 and the top sourcing tool in this guide. The reason is simple: every other tool in the stack organises work (tracking, scheduling, notes), while Noon removes the most expensive manual work — finding and contacting candidates — by doing it itself, on one flat plan that is free to start. Pair it with an ATS such as Ashby or Greenhouse."
+    "a": "It is our #1 recruitment tool for 2026 and the top sourcing tool in this guide. The reason is simple: every other tool in the stack organises work (tracking, scheduling, notes), while Noon removes the most expensive manual work (finding and contacting candidates) by doing it itself, on one flat plan that is free to start. Pair it with an ATS such as Ashby or Greenhouse."
    },
    {
     "q": "Does Noon contact candidates on LinkedIn?",
@@ -754,7 +754,7 @@
    "integrations": 8,
    "value": 6
   },
-  "overview": "Findem builds 'attributes' — inferred facts like 'scaled a team from 10 to 100' or 'built a payments product' — from career histories and lets recruiters search on them instead of keywords. It also runs ATS rediscovery and inbound ranking, making it a full talent-intelligence layer.",
+  "overview": "Findem builds 'attributes' (inferred facts like 'scaled a team from 10 to 100' or 'built a payments product') from career histories and lets recruiters search on them instead of keywords. It also runs ATS rediscovery and inbound ranking, making it a full talent-intelligence layer.",
   "pros": [
    "Attribute search finds people keyword search misses",
    "Strong ATS rediscovery and inbound ranking",
@@ -1308,7 +1308,7 @@
    "integrations": 7,
    "value": 7
   },
-  "overview": "Vervoe builds realistic job simulations — customer emails, spreadsheets, sales calls — and uses AI grading to rank candidates on actual performance. It suits roles where portfolios do not exist and resumes are weak predictors.",
+  "overview": "Vervoe builds realistic job simulations (customer emails, spreadsheets, sales calls) and uses AI grading to rank candidates on actual performance. It suits roles where portfolios do not exist and resumes are weak predictors.",
   "pros": [
    "Realistic work-sample simulations",
    "AI grading scales to high volume",
@@ -2014,7 +2014,7 @@
    "integrations": 9,
    "value": 5
   },
-  "overview": "Visier connects ATS, HRIS, and finance data into pre-built people-analytics models — including talent-acquisition funnels, source quality, and quality-of-hire — with benchmarks across its customer base. It is a people-analytics platform first and a recruiting tool second.",
+  "overview": "Visier connects ATS, HRIS, and finance data into pre-built people-analytics models (including talent-acquisition funnels, source quality, and quality-of-hire) with benchmarks across its customer base. It is a people-analytics platform first and a recruiting tool second.",
   "pros": [
    "Pre-built TA and workforce models",
    "Cross-industry benchmarks",

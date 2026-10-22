@@ -5,7 +5,7 @@
  },
  {
   "term": "Agentic recruiting",
-  "def": "Recruiting workflows run by AI agents that take multi-step actions — searching, ranking, drafting outreach, scheduling — with human approval at defined checkpoints."
+  "def": "Recruiting workflows run by AI agents that take multi-step actions (searching, ranking, drafting outreach, scheduling) with human approval at defined checkpoints."
  },
  {
   "term": "AI sourcing",
@@ -89,7 +89,7 @@
  },
  {
   "term": "Source of hire",
-  "def": "The channel — job board, referral, sourcing tool, agency — that first introduced a hired candidate."
+  "def": "The channel (job board, referral, sourcing tool, agency) that first introduced a hired candidate."
  },
  {
   "term": "Structured interview",
@@ -97,7 +97,7 @@
  },
  {
   "term": "Talent intelligence",
-  "def": "Analytics about the external labour market and internal workforce — supply, compensation, skills, competitor movement — used to plan and source."
+  "def": "Analytics about the external labour market and internal workforce (supply, compensation, skills, competitor movement) used to plan and source."
  },
  {
   "term": "Time to hire",
@@ -117,6 +117,6 @@
  },
  {
   "term": "AI recruiter vs AI sourcing agent",
-  "def": "\"AI recruiter\" is a broad label for any software that does a recruiter's task — screening applications, scheduling, interviewing, note-taking or sourcing. An AI sourcing agent is the specific kind that finds candidates and makes first contact. A product can be both: Noon markets itself as an autonomous AI recruiter and works as a sourcing agent at its core. <a href=\"/what-is/ai-recruiter-vs-ai-sourcing-agent/\">Read more →</a>"
+  "def": "\"AI recruiter\" is a broad label for any software that does a recruiter's task: screening applications, scheduling, interviewing, note-taking or sourcing. An AI sourcing agent is the specific kind that finds candidates and makes first contact. A product can be both: Noon markets itself as an autonomous AI recruiter and works as a sourcing agent at its core. <a href=\"/what-is/ai-recruiter-vs-ai-sourcing-agent/\">Read more →</a>"
  }
 ]

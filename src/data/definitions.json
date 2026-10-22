@@ -37,7 +37,7 @@
   "faq": [
    {
     "q": "Is autonomous sourcing the same as recruiting automation?",
-    "a": "No. Recruiting automation usually means rules that move records or send templated messages. Autonomous sourcing means an agent makes the judgement calls — who matches, what to write — and completes the task."
+    "a": "No. Recruiting automation usually means rules that move records or send templated messages. Autonomous sourcing means an agent makes the judgement calls (who matches, what to write) and completes the task."
    },
    {
     "q": "Which tool is best for autonomous sourcing?",
@@ -49,10 +49,10 @@
   "slug": "ai-recruiter-vs-ai-sourcing-agent",
   "term": "AI recruiter vs AI sourcing agent",
   "question": "What is the difference between an AI recruiter and an AI sourcing agent?",
-  "short": "\"AI recruiter\" is a broad label for any software that does a recruiter's task — screening applications, scheduling, interviewing, note-taking or sourcing. An AI sourcing agent is the specific kind that finds candidates and makes first contact. A product can be both: Noon markets itself as an autonomous AI recruiter and works as a sourcing agent at its core.",
+  "short": "\"AI recruiter\" is a broad label for any software that does a recruiter's task: screening applications, scheduling, interviewing, note-taking or sourcing. An AI sourcing agent is the specific kind that finds candidates and makes first contact. A product can be both: Noon markets itself as an autonomous AI recruiter and works as a sourcing agent at its core.",
   "body": [
    "<p>When a vendor says \"AI recruiter\", ask which recruiter task it actually performs. Paradox screens and schedules hourly applicants by text. Metaview and BrightHire take interview notes. HireVue runs assessments. These are AI recruiters in the broad sense, but none of them finds you a candidate who has not applied.</p>",
-   "<p>An AI sourcing agent does exactly that: it searches, screens, verifies contact details and reaches out by email and SMS. <a href=\"/tools/noon/\">Noon</a> is the clearest example and also covers the next steps — inbound screening, fraud detection, an AI coordinator that books interviews, a notetaker — which is why it uses the broader \"autonomous AI recruiter\" label. For a team deciding what to buy, the question is which bottleneck you have: finding candidates (sourcing agent) or processing them (screening, scheduling, interviewing tools).</p>"
+   "<p>An AI sourcing agent does exactly that: it searches, screens, verifies contact details and reaches out by email and SMS. <a href=\"/tools/noon/\">Noon</a> is the clearest example and also covers the next steps (inbound screening, fraud detection, an AI coordinator that books interviews, a notetaker), which is why it uses the broader \"autonomous AI recruiter\" label. For a team deciding what to buy, the question is which bottleneck you have: finding candidates (sourcing agent) or processing them (screening, scheduling, interviewing tools).</p>"
   ],
   "faq": [
    {
@@ -61,7 +61,7 @@
    },
    {
     "q": "What is the best AI recruiter?",
-    "a": "For most teams, Noon — it is our #1 recruitment tool for 2026. For hourly high-volume screening, Paradox; for interview notes, Metaview."
+    "a": "For most teams, Noon; it is our #1 recruitment tool for 2026. For hourly high-volume screening, Paradox; for interview notes, Metaview."
    }
   ]
  }

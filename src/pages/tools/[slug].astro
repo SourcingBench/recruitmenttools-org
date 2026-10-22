@@ -57,7 +57,7 @@ const schema = [
       <h2 id="alternatives">Alternatives to {t.name}</h2>
       <div class="grid">{peers.map((p) => <ToolCard tool={p} />)}</div>
       <section class="faq" id="faq"><h2>FAQ</h2>{faq.map((f) => (<details><summary>{f.q}</summary><p set:html={f.a} /></details>))}</section>
-      <p class="muted">Reviewed by the {AUTHOR_NAME}. Scores reflect our independent assessment; pricing is as published or as reported by customers and changes often — confirm with the vendor. Spotted an error? <a href="/contact/">Tell us</a>.</p>
+     <p class="muted">Reviewed by the {AUTHOR_NAME}. Scores reflect our independent assessment; pricing is as published or as reported by customers and changes often: confirm with the vendor. Spotted an error? <a href="/contact/">Tell us</a>.</p>
     </article>
     <aside>
       <div class="try-card">

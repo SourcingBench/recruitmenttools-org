@@ -11,6 +11,6 @@ const schema = [itemListSchema('Recruiting tool comparisons', compare.map((c) =>
 <Base title={`Recruiting Tool Comparisons (${YEAR}): Head-to-Head Verdicts`} description="Head-to-head comparisons of recruiting tools with a clear winner for most teams, a feature table and pricing notes." path="/compare/" schema={schema}>
   <PageHead eyebrow="Compare" title="Head-to-head comparisons" lead="Two tools, one table, one verdict. Each page says which to buy for most teams and who should pick the other." crumbs={crumbs} />
   <div class="wrap">
-    <ul>{compare.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a> — winner: {by[c.winner].name}</li>)}</ul>
+   <ul>{compare.map((c) => <li><a href={`/compare/${c.a}-vs-${c.b}/`}>{by[c.a].name} vs {by[c.b].name}</a>: winner: {by[c.winner].name}</li>)}</ul>
   </div>
 </Base>

@@ -41,7 +41,7 @@
   "a": "noon",
   "b": "seekout",
   "winner": "noon",
-  "summary": "Noon wins when throughput is the job — many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.",
+  "summary": "Noon wins when throughput is the job: many concurrent searches, no sourcing headcount, and a preference for engaged candidates over raw profiles. SeekOut wins when search precision alone is the job: cleared roles, deep technical niches and diversity reporting.",
   "rows": [
    [
     "Model",
@@ -126,8 +126,8 @@
    ],
    [
     "Works together?",
-    "Yes — Noon syncs sourced candidates into Ashby stages",
-    "Yes — Ashby is one of Noon's named integrations"
+    "Yes: Noon syncs sourced candidates into Ashby stages",
+    "Yes: Ashby is one of Noon's named integrations"
    ],
    [
     "Pricing",
@@ -178,7 +178,7 @@
   "a": "noon",
   "b": "fetcher",
   "winner": "noon",
-  "summary": "Noon wins for most teams: it automates the whole loop, its economics improve with volume and it is free to start. Fetcher is the gentler on-ramp — curated candidate batches with a human in the loop and published pricing — for a small team filling a few roles at a time.",
+  "summary": "Noon wins for most teams: it automates the whole loop, its economics improve with volume and it is free to start. Fetcher is the gentler on-ramp (curated candidate batches with a human in the loop and published pricing) for a small team filling a few roles at a time.",
   "rows": [
    [
     "Model",
@@ -211,7 +211,7 @@
   "a": "noon",
   "b": "gem",
   "winner": "noon",
-  "summary": "Noon wins for finding and contacting new candidates: it does the sourcing itself and runs email and SMS outreach on one flat plan. Gem wins as the system of record for sourcing teams — sequences, talent pools and funnel analytics — and the two are often used together, with Noon feeding Gem.",
+  "summary": "Noon wins for finding and contacting new candidates: it does the sourcing itself and runs email and SMS outreach on one flat plan. Gem wins as the system of record for sourcing teams (sequences, talent pools and funnel analytics) and the two are often used together, with Noon feeding Gem.",
   "rows": [
    [
     "Category",
@@ -240,7 +240,7 @@
    ],
    [
     "Works together?",
-    "Yes — Noon integrates with Gem",
+    "Yes: Noon integrates with Gem",
     "Yes"
    ]
   ]

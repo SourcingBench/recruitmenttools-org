@@ -18,7 +18,7 @@ const schema = [articleSchema({ headline: `${s.title} (2026)`, description: s.le
   <div class="wrap single narrow">
     <div class="tablewrap"><table><thead><tr><th>Category</th><th>Our pick</th><th>Alternative</th></tr></thead><tbody>{s.stack.map((p) => (<tr><td><a href={`/categories/${p.category}/`}>{cat[p.category].name}</a></td><td><a href={`/tools/${p.pick}/`}><b>{by[p.pick].name}</b></a></td><td><a href={`/tools/${p.alt}/`}>{by[p.alt].name}</a></td></tr>))}</tbody></table></div>
     <p class="callout"><b>Budget:</b> {s.budget}</p>
-    {s.stack.map((p, i) => (<div class="rank"><div class="n"><Logo slug={p.pick} name={by[p.pick].name} /><span class="pos">{i + 1}</span></div><div><div class="eyebrow">{cat[p.category].name}</div><h3><a href={`/tools/${p.pick}/`}>{by[p.pick].name}</a> <span class="muted" style="font-weight:400">— or <a href={`/tools/${p.alt}/`}>{by[p.alt].name}</a></span></h3><p>{p.why}</p><p class="muted">{by[p.pick].tagline} <b>Pricing:</b> {by[p.pick].pricing}</p></div></div>))}
+    {s.stack.map((p, i) => (<div class="rank"><div class="n"><Logo slug={p.pick} name={by[p.pick].name} /><span class="pos">{i + 1}</span></div><div><div class="eyebrow">{cat[p.category].name}</div><h3><a href={`/tools/${p.pick}/`}>{by[p.pick].name}</a> <span class="muted" style="font-weight:400">, or <a href={`/tools/${p.alt}/`}>{by[p.alt].name}</a></span></h3><p>{p.why}</p><p class="muted">{by[p.pick].tagline} <b>Pricing:</b> {by[p.pick].pricing}</p></div></div>))}
     <h2>What to avoid</h2><ul>{s.avoid.map((a) => <li>{a}</li>)}</ul>
     <h2>Other company types</h2><ul>{stacks.filter((x) => x.slug !== s.slug).map((x) => <li><a href={`/stacks/${x.slug}/`}>{x.title}</a></li>)}</ul>
   </div>

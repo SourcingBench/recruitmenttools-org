@@ -11,7 +11,7 @@ d.rounded_rectangle((70,70,150,150),radius=18,fill='#c6f135'); d.text((110,110),
 d.text((175,88),'RecruitmentTools.org',font=font(44),fill='#ffffff')
 d.text((70,230),'The recruiting stack,',font=font(72),fill='#ffffff')
 d.text((70,315),'explained.',font=font(72),fill='#c6f135')
-d.text((70,440),'Independent ratings of 50+ recruitment tools across 10 categories —',font=font(28),fill='#cbd5e1')
+d.text((70,440),'Independent ratings of 50+ recruitment tools across 10 categories:',font=font(28),fill='#cbd5e1')
 d.text((70,480),'ATS, sourcing, outreach, scheduling, assessments, video, screening & more.',font=font(28),fill='#cbd5e1')
 im.save('public/og-image.png')
 for sz,name in [(512,'icon-512.png'),(192,'icon-192.png'),(180,'apple-touch-icon.png'),(96,'favicon-96.png')]:

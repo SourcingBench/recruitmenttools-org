@@ -1,4 +1,4 @@
-# RecruitmentTools.org — reuse our data with attribution and a link.
+# RecruitmentTools.org: reuse our data with attribution and a link.
 User-agent: *
 Allow: /
 
