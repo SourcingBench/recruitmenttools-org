@@ -86,9 +86,9 @@ nav.primary a[aria-current="page"] { background: rgba(198, 241, 53, 0.14); color
 .byline { font-size: 0.85rem; color: var(--text-3); margin-top: 16px; display: flex; gap: 14px; flex-wrap: wrap; }
 
 /* layout with sidebar */
-.cols { display: grid; grid-template-columns: 1fr 280px; gap: 56px; padding: 36px 0 64px; align-items: start; }
+.cols { display: grid; grid-template-columns: minmax(0, 1fr) 280px; gap: 56px; padding: 36px 0 64px; align-items: start; }
 .cols > aside { position: sticky; top: 84px; }
-@media (max-width: 960px) { .cols { grid-template-columns: 1fr; } .cols > aside { position: static; order: -1; } }
+@media (max-width: 960px) { .cols { grid-template-columns: minmax(0, 1fr); } .cols > aside { position: static; order: -1; } }
 .toc { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; font-size: 0.9rem; box-shadow: var(--shadow-1); }
 .toc b { display: block; margin-bottom: 8px; font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-3); }
 .toc a { display: block; padding: 4px 0; color: var(--text-2); }
@@ -236,3 +236,19 @@ footer.bottom .legal { border-top: 1px solid #1e293b; margin-top: 32px; padding-
 .vs-card .tag { margin-bottom: 0; }
 @media (max-width: 1000px) { .vs-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 520px) { .vs-grid { grid-template-columns: 1fr; } }
+
+/* tool page: StackShare-style "try it" card */
+.try-card { background: #fff; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow-1); padding: 18px; }
+.try-card .tc-head { display: flex; align-items: center; gap: 12px; }
+.try-card .tc-head b { display: block; font-size: 1.05rem; color: var(--text); }
+.try-card .tc-head small { font-size: 0.78rem; color: var(--text-3); }
+.try-card .tc-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 14px 0 10px; }
+.try-card .tc-stats div { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.try-card .tc-stats div:first-child { background: var(--bg-dark); border-color: var(--bg-dark); }
+.try-card .tc-stats b { display: block; font-size: 1.35rem; font-weight: 800; color: var(--text); letter-spacing: -0.02em; line-height: 1.1; }
+.try-card .tc-stats div:first-child b { color: var(--lime); }
+.try-card .tc-stats b small { font-size: 0.75rem; color: var(--text-3); font-weight: 600; }
+.try-card .tc-stats span { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.08em; font-weight: 700; color: var(--text-3); }
+.try-card .tc-line { font-size: 0.85rem; color: var(--text-2); margin: 0 0 12px; }
+.try-card .tc-btn { display: block; text-align: center; margin: 0; }
+@media (max-width: 960px) { .cols > aside .toc + .toc { display: none; } }

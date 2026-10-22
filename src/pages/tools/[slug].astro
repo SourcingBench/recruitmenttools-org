@@ -2,6 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import PageHead from '../../components/PageHead.astro';
 import ToolCard from '../../components/ToolCard.astro';
+import Logo from '../../components/Logo.astro';
 import { SITE_URL, AUTHOR_NAME, author, publisher, LAST_REVIEWED, SITE_PUBLISHED, breadcrumbSchema, faqSchema } from '../../data/site';
 import categories from '../../data/categories.json';
 import tools from '../../data/tools.json';
@@ -11,6 +12,8 @@ const c = categories.find((x) => x.slug === t.category);
 const peers = tools.filter((x) => x.category === t.category && x.slug !== t.slug).slice(0, 3);
 const total = Object.values(t.scores).reduce((x, y) => x + y, 0);
 const path = `/tools/${t.slug}/`;
+const catList = tools.filter((x) => x.category === t.category).sort((a, b) => (Object.values(b.scores) as number[]).reduce((x, y) => x + y, 0) - (Object.values(a.scores) as number[]).reduce((x, y) => x + y, 0));
+const catRank = catList.findIndex((x) => x.slug === t.slug) + 1;
 const labels = { ease: 'Ease of use', depth: 'Depth', integrations: 'Integrations', value: 'Value' };
 const faq = [
   { q: `What is ${t.name}?`, a: `${t.name} is ${c.short === 'ATS' ? 'an' : 'a'} ${c.name.toLowerCase().replace(/s$/, '')} product: ${t.tagline}` },
@@ -57,7 +60,16 @@ const schema = [
       <p class="muted">Reviewed by the {AUTHOR_NAME}. Scores reflect our independent assessment; pricing is as published or as reported by customers and changes often — confirm with the vendor. Spotted an error? <a href="/contact/">Tell us</a>.</p>
     </article>
     <aside>
-      <div class="toc"><b>On this page</b><a href="#overview">Overview</a><a href="#pros">Strengths</a><a href="#cons">Weaknesses</a><a href="#fit">Where it fits</a><a href="#alternatives">Alternatives</a><a href="#faq">FAQ</a></div>
+      <div class="try-card">
+        <div class="tc-head"><Logo slug={t.slug} name={t.name} /><div><b>{t.name}</b><small>{c.name}</small></div></div>
+        <div class="tc-stats">
+          <div><b>{total}<small>/40</small></b><span>Our score</span></div>
+          <div><b>#{catRank}<small> of {catList.length}</small></b><span>In {c.short}</span></div>
+        </div>
+        <p class="tc-line">{t.freeTier ? 'Free tier available' : 'Paid plans only'}</p>
+        <a class="btn tc-btn" href={t.website} rel="nofollow noopener" target="_blank">Visit website ↗</a>
+      </div>
+      <div class="toc" style="margin-top:16px"><b>On this page</b><a href="#overview">Overview</a><a href="#pros">Strengths</a><a href="#cons">Weaknesses</a><a href="#fit">Where it fits</a><a href="#alternatives">Alternatives</a><a href="#faq">FAQ</a></div>
       <div class="toc" style="margin-top:16px"><b>More {c.plural}</b>{tools.filter((x) => x.category === t.category && x.slug !== t.slug).map((x) => <a href={`/tools/${x.slug}/`}>{x.name}</a>)}<a href={`/categories/${c.slug}/`} style="font-weight:700">Full ranking →</a></div>
     </aside>
   </div>
