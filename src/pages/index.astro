@@ -6,6 +6,10 @@ import { SITE_URL, SITE_NAME, author, publisher, SITE_PUBLISHED, LAST_REVIEWED, 
 import categories from '../data/categories.json';
 import tools from '../data/tools.json';
 import stacks from '../data/stacks.json';
+import compare from '../data/compare.json';
+import Logo from '../components/Logo.astro';
+const total = (t) => (t.scores ? (Object.values(t.scores) as number[]).reduce((x, y) => x + y, 0) : 0);
+const ranked = (slug) => tools.filter((t) => t.category === slug).sort((a, b) => (a.slug === 'noon' ? -1 : b.slug === 'noon' ? 1 : total(b) - total(a)));
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const picks = ['noon','ashby','gem','goodtime','codesignal','brighthire','checkr','indeed'].map((s) => by[s]);
 const faq = [
@@ -43,14 +47,22 @@ const schema = [
     <h2>The fourteen categories of recruitment tools</h2>
     <p>Follow the hiring process left to right: attract and find people, evaluate them, verify them, and bring them aboard — with a system of record underneath and analytics on top.</p>
     <div class="grid">
-      {categories.map((c, i) => (
-        <a class="card" href={`/categories/${c.slug}/`} style="display:block;color:inherit">
-          <div class="num">{String(i + 1).padStart(2, '0')}</div><span class="arrow">→</span>
-          <h3>{c.name}</h3>
-          <p>{c.what.split('. ')[0]}.</p>
-          <p class="muted" style="margin-top:10px">{tools.filter((t) => t.category === c.slug).length} tools rated →</p>
-        </a>
-      ))}
+      {categories.map((c, i) => {
+        const pick = picks.find((t) => t.category === c.slug);
+        const list = pick ? [pick, ...ranked(c.slug).filter((t) => t.slug !== pick.slug)] : ranked(c.slug);
+        return (
+          <a class="card cat" href={`/categories/${c.slug}/`} style="color:inherit">
+            <div class="cat-top"><div class="num">{String(i + 1).padStart(2, '0')}</div><span class="arrow">→</span></div>
+            <h3>{c.name}</h3>
+            <p class="clamp">{c.what.split('. ')[0]}.</p>
+            <div class="cat-foot">
+              <span class="logo-stack">{list.slice(0, 4).map((t) => <Logo slug={t.slug} name={t.name} class="xs" />)}{list.length > 4 && <span class="more">+{list.length - 4}</span>}</span>
+              <span class="muted">{list.length} rated</span>
+            </div>
+            {list[0] && <p class="pick-line">Top pick: <b>{list[0].name}</b></p>}
+          </a>
+        );
+      })}
     </div>
   </section>
 
@@ -58,6 +70,20 @@ const schema = [
     <h2>Editor's picks, one per category</h2>
     <p>The tool we would recommend to a typical mid-sized hiring team today. Alternatives for startups, agencies, and enterprises are on each category page and in the <a href="/stacks/">stack builder</a>.</p>
     <div class="grid">{picks.map((t) => <ToolCard tool={t} />)}</div>
+  </section>
+
+  <section class="wrap">
+    <h2>Popular comparisons</h2>
+    <p>Head-to-head breakdowns of the pairs buyers ask about most, with a side-by-side table and a direct answer on which to pick.</p>
+    <div class="vs-grid">
+      {compare.map((c) => (
+        <a class="card vs-card" href={`/compare/${c.a}-vs-${c.b}/`} style="color:inherit">
+          <div class="vs-logos"><Logo slug={c.a} name={by[c.a].name} /><span class="vs">vs</span><Logo slug={c.b} name={by[c.b].name} /></div>
+          <h3>{by[c.a].name} vs {by[c.b].name}</h3>
+          <span class="tag">{categories.find((x) => x.slug === by[c.b].category)?.short ?? 'Comparison'}</span>
+        </a>
+      ))}
+    </div>
   </section>
 
   <section class="wrap narrow">

@@ -214,3 +214,25 @@ footer.bottom .legal { border-top: 1px solid #1e293b; margin-top: 32px; padding-
   .pagehead { padding: 30px 0 20px; }
   .pagehead .with-logo .tool-logo.lg { width: 52px; height: 52px; }
 }
+
+/* home: category directory + comparisons */
+.card.cat { display: flex; flex-direction: column; }
+.card.cat .cat-top { display: flex; justify-content: space-between; align-items: flex-start; }
+.card.cat .arrow { position: static; }
+.card.cat h3 { margin-bottom: 4px; }
+.card.cat .clamp { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.card.cat .cat-foot { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-top: auto; padding-top: 16px; }
+.card.cat .pick-line { font-size: 0.82rem; color: var(--text-3); margin: 10px 0 0; padding-top: 10px; border-top: 1px dashed var(--line); }
+.card.cat .pick-line b { color: var(--text); }
+.logo-stack { display: inline-flex; align-items: center; }
+.logo-stack .tool-logo.xs { width: 30px; height: 30px; border-radius: 8px; padding: 2px; border: 2px solid #fff; box-shadow: 0 0 0 1px var(--line); background: #fff; }
+.logo-stack .tool-logo.xs + .tool-logo.xs { margin-left: -8px; }
+.logo-stack .more { margin-left: 6px; font-size: 0.78rem; font-weight: 700; color: var(--text-3); }
+.vs-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; margin: 24px 0; }
+.vs-card { text-align: center; padding: 22px 16px 18px; }
+.vs-card .vs-logos { display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 14px; }
+.vs-card .vs { font-size: 0.75rem; font-weight: 800; text-transform: uppercase; color: var(--text-3); background: var(--bg-soft); border-radius: 999px; padding: 3px 8px; }
+.vs-card h3 { font-size: 1rem; margin-bottom: 10px; }
+.vs-card .tag { margin-bottom: 0; }
+@media (max-width: 1000px) { .vs-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 520px) { .vs-grid { grid-template-columns: 1fr; } }
