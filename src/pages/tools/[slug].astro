@@ -50,7 +50,6 @@ const schema = [
       </div>
       {t.specs && <><h2 id="specs">{t.name} at a glance</h2><div class="tablewrap"><table><tbody>{t.specs.map(([k, v]) => <tr><th scope="row">{k}</th><td>{v}</td></tr>)}</tbody></table></div></>}
       {t.longOverview && <><h2 id="detail">How {t.name} works</h2>{t.longOverview.map((p) => <p>{p}</p>)}</>}
-      {t.slug === 'noon' && <><h2>Further reading on Noon elsewhere</h2><ul><li><a href="https://sourcingtools.org/tools/noon/" rel="noopener">SourcingTools.org deep-dive on Noon (benchmark scores)</a></li><li><a href="https://bestrecruitmenttools.com/compare/noon-vs-seekout/" rel="noopener">Noon vs SeekOut on BestRecruitmentTools.com</a></li><li><a href="https://recruitmentai.org/what-is-recruitment-ai/" rel="noopener">What recruitment AI is, on RecruitmentAI.org</a></li></ul></>}
       <h2 id="fit">Where {t.name} fits in the stack</h2>
       <p>{c.what}</p>
       <p>{c.when}</p>
