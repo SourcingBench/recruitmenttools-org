@@ -1,0 +1,22 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import { SITE_URL } from '../../data/site';
+import categories from '../../data/categories.json';
+import stacks from '../../data/stacks.json';
+import { WRITERS, writerFor, personLd } from '../../data/writers';
+const ALL = [{ path: '/best-recruitment-tools/', name: 'Best recruitment tools 2026' }, { path: '/best-ai-recruitment-tools/', name: 'Best AI recruitment tools 2026' }, ...categories.map((c) => ({ path: `/categories/${c.slug}/`, name: `Best ${c.plural}` })), ...stacks.map((s) => ({ path: `/stacks/${s.slug}/`, name: s.title }))];
+export function getStaticPaths() { return WRITERS.map((w) => ({ params: { slug: w.slug }, props: { w } })); }
+const { w } = Astro.props as any;
+const mine = ALL.filter((p) => writerFor(p.path).slug === w.slug);
+const schema = [{ '@context': 'https://schema.org', '@type': 'ProfilePage', mainEntity: { ...personLd(w), description: w.bio } }];
+---
+<Base title={`${w.name}, Writer | RecruitmentTools.org`} description={w.bio} schema={schema}>
+  <PageHead title={w.name} crumbs={[{ name: 'Home', path: '/' }, { name: 'Writers', path: '/authors/' }, { name: w.name, path: `/authors/${w.slug}/` }]} />
+  <div class="wrap single narrow">
+      <p>{w.bio}</p>
+      <h2>Pages by {w.name}</h2>
+      <ul>{mine.map((m) => <li><a href={m.path}>{m.name}</a></li>)}</ul>
+      <p><a href="/authors/">All writers</a></p>
+  </div>
+</Base>

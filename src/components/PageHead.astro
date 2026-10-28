@@ -1,4 +1,5 @@
 ---
+import WriterByline from './WriterByline.astro';
 import { fmtDate, LAST_REVIEWED, AUTHOR_NAME } from '../data/site';
 import Logo from './Logo.astro';
 const { title, lead, crumbs = [], updated = LAST_REVIEWED, eyebrow = null, logo = null } = Astro.props;
@@ -9,6 +10,6 @@ const { title, lead, crumbs = [], updated = LAST_REVIEWED, eyebrow = null, logo 
     {eyebrow && <div class="eyebrow">{eyebrow}</div>}
     {logo ? <div class="with-logo"><Logo slug={logo.slug} name={logo.name} class="lg" /><h1>{title}</h1></div> : <h1>{title}</h1>}
     {lead && <p class="lead">{lead}</p>}
-    <div class="byline"><span>By {AUTHOR_NAME}</span><span>Reviewed {fmtDate(updated)}</span></div>
+    <div class="byline"><span><WriterByline /></span><span>Reviewed {fmtDate(updated)}</span></div>
   </div>
 </div>

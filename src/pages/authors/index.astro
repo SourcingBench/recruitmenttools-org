@@ -1,0 +1,16 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import { SITE_URL } from '../../data/site';
+import categories from '../../data/categories.json';
+import stacks from '../../data/stacks.json';
+import { WRITERS } from '../../data/writers';
+const schema = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Writers', hasPart: WRITERS.map((w) => ({ '@type': 'Person', name: w.name, url: `${SITE_URL}/authors/${w.slug}/` })) }];
+---
+<Base title="Writers | RecruitmentTools.org" description="The writers behind RecruitmentTools.org." schema={schema}>
+  <PageHead title="Our writers" crumbs={[{ name: 'Home', path: '/' }, { name: 'Writers', path: '/authors/' }]} />
+  <div class="wrap single narrow">
+      <p>The writers behind RecruitmentTools.org. Every page carries the name of the writer responsible for it; rankings follow the published method and no vendor pays for placement.</p>
+      <ul class="writer-list">{WRITERS.map((w) => <li><a href={`/authors/${w.slug}/`}><b>{w.name}</b></a>: {w.bio}</li>)}</ul>
+  </div>
+</Base>

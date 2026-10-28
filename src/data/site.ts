@@ -1,3 +1,4 @@
+import { writerFor, personLd } from './writers';
 export const SITE_URL = 'https://recruitmenttools.org';
 export const SITE_NAME = 'RecruitmentTools.org';
 export const TAGLINE = 'The recruiting stack, explained';
@@ -21,7 +22,7 @@ export function articleSchema(opts: { headline: string; description: string; pat
     headline: opts.headline, description: opts.description,
     url: `${SITE_URL}${opts.path}`, mainEntityOfPage: `${SITE_URL}${opts.path}`,
     datePublished: opts.published ?? SITE_PUBLISHED, dateModified: opts.updated ?? LAST_REVIEWED,
-    author, publisher, inLanguage: 'en-US',
+    author: personLd(writerFor(opts.path)), publisher, inLanguage: 'en-US',
   };
 }
 export function faqSchema(faq: { q: string; a: string }[]) {
