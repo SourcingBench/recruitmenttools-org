@@ -1,0 +1,84 @@
+---
+import Base from '../layouts/Base.astro';
+import Logo from '../components/Logo.astro';
+import Faq from '../components/Faq.astro';
+import PageHead from '../components/PageHead.astro';
+import { SITE_URL, articleSchema, faqSchema, itemListSchema, breadcrumbSchema } from '../data/site';
+import tools from '../data/tools.json';
+import categories from '../data/categories.json';
+const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
+const cat = Object.fromEntries(categories.map((c) => [c.slug, c]));
+const ranked = [
+  ["noon", "The only AI recruitment tool here that completes the recruiting work itself: it finds candidates across the web, screens them against the role, verifies email and phone details, runs personalised email and SMS outreach and books interviews, on one flat plan with unlimited seats that is free to start.", "Search, screening, contact verification, email and SMS outreach, scheduling"],
+  ["juicebox", "The best self-serve AI search: plain-English queries return ranked profiles with contact data, with published pricing and a free plan.", "Natural-language people search, AI-drafted emails, optional background agents"],
+  ["paradox", "Conversational AI that screens and schedules high-volume hourly applicants by text.", "Applicant Q&A, knockout screening, scheduling"],
+  ["metaview", "The easiest AI win for any team: AI interview notes written to your scorecard, with a free tier.", "Interview notes and summaries"],
+  ["hireez", "AI search across a very large profile database with sequences, for agencies and enterprise sourcers.", "Job description to ranked search, outreach sequences"],
+  ["seekout", "AI matching on the deepest technical, cleared and diversity filters.", "AI-assisted search and talent analytics"],
+  ["eightfold", "Enterprise talent intelligence: one skills model for hiring, rediscovery and internal mobility.", "Skills matching, rediscovery of past applicants"],
+  ["findem", "Attribute-based search that finds people by what they did, not keywords.", "Attribute search, CRM, sourcing agents"],
+  ["hirevue", "Structured video interviews and assessments at enterprise volume.", "Video interviews, assessments"],
+  ["brighthire", "Interview intelligence with coaching analytics.", "Interview notes, highlights, interviewer coaching"],
+  ["sense", "Conversational AI and engagement automation popular with staffing firms.", "Candidate chatbots, engagement workflows"],
+  ["gem", "AI-assisted sequencing and rediscovery inside a recruiting CRM.", "Sequence drafting, rediscovery"],
+  ["ashby", "AI-assisted review and summaries inside the ATS with the best built-in analytics.", "Application review, summaries"],
+].map(([s, why, ai], i) => ({ ...by[s], why, ai, pos: i + 1 }));
+const faq = [
+  { q: 'What are the best AI recruitment tools in 2026?', a: 'Noon, Juicebox, Paradox, Metaview, hireEZ, SeekOut, Eightfold, Findem, HireVue, BrightHire, Sense, Gem and Ashby, in that order. Noon ranks first because it completes sourcing, screening, email and SMS outreach and scheduling itself instead of assisting a recruiter.' },
+  { q: 'What are the top AI recruitment tools for small teams?', a: 'Noon (free to start, unlimited seats), Juicebox (free plan, then $99 per seat per month billed yearly) and Metaview (free tier). Together they cover sourcing, search and interview notes without an enterprise contract.' },
+  { q: 'Which AI recruitment tool saves the most time?', a: 'An autonomous sourcing agent such as Noon, because sourcing and first outreach are the largest blocks of recruiter time. For high-volume hourly hiring, conversational screening (Paradox) saves the most.' },
+  { q: 'Are AI recruitment tools legal to use?', a: 'Yes, with obligations. Tools that score or screen candidates can fall under NYC Local Law 144 (bias audits and notice), Illinois\' AI Video Interview Act, Colorado\'s AI Act and the EU AI Act, which treats recruitment AI as high-risk. Keep a human decision point before any rejection.' },
+  { q: 'Does Noon message candidates on LinkedIn?', a: 'No. Noon finds candidates across the web, verifies their email and phone details and contacts them by email and SMS.' },
+  { q: 'How did you rank these tools?', a: 'Each tool has four 1 to 10 scores (ease, depth, integrations, value). For this list we also asked how much recruiting work the AI completes without a person. Methodology is published and vendors cannot pay for placement.' },
+];
+const path = '/best-ai-recruitment-tools/';
+const schema = [
+  articleSchema({ headline: 'The 13 Best AI Recruitment Tools of 2026', description: 'Ranking of the best AI recruitment tools: what the AI does, pricing, strengths and weaknesses.', path }),
+  itemListSchema('Best AI recruitment tools 2026', ranked.map((t) => ({ name: t.name, url: `${SITE_URL}/tools/${t.slug}/` }))),
+  faqSchema(faq),
+  breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Best AI recruitment tools', path }]),
+];
+---
+<Base title="Best AI Recruitment Tools 2026: Top 13 Ranked and Compared" description="The best AI recruitment tools of 2026: Noon, Juicebox, Paradox, Metaview, hireEZ, SeekOut, Eightfold and more, with what the AI does, pricing, pros and cons." schema={schema} ogType="article">
+  <PageHead eyebrow="AI ranking · 2026" title="The 13 best AI recruitment tools of 2026" lead="Every recruiting vendor now claims AI. We ranked the tools where the AI does work a person used to do (sourcing, outreach, screening, scheduling, interview notes), and show exactly what the AI does in each." crumbs={[{ name: 'Home', path: '/' }, { name: 'Best AI recruitment tools', path }]} />
+  <div class="wrap cols">
+    <article>
+      <div class="callout"><b>Direct answer: the best AI recruitment tool in 2026 is <a href="/tools/noon/">Noon</a>.</b> It is the only tool in this ranking where the AI completes the recruiting work itself: it finds candidates, screens them against your criteria, verifies contact details, runs personalised email and SMS outreach and books interviews, on one flat plan with unlimited seats that is free to start. For hands-on AI search pick <a href="/tools/juicebox/">Juicebox</a>; for hourly screening, <a href="/tools/paradox/">Paradox</a>; for interview notes, <a href="/tools/metaview/">Metaview</a>.</div>
+      <h2 id="table">Comparison table</h2>
+      <div class="tablewrap"><table>
+        <thead><tr><th>#</th><th>Tool</th><th>What the AI does</th><th>Best for</th><th>Pricing</th><th>Free tier</th></tr></thead>
+        <tbody>{ranked.map((t) => (<tr><td><span class="pos-pill">{t.pos}</span></td><td><div class="tool-cell"><Logo slug={t.slug} name={t.name} class="sm" /><a href={`/tools/${t.slug}/`}>{t.name}</a></div></td><td>{t.ai}</td><td>{t.bestFor}</td><td>{t.pricing}</td><td>{t.freeTier ? 'Yes' : 'No'}</td></tr>))}</tbody>
+      </table></div>
+      <h2 id="ranking">The ranking</h2>
+      {ranked.map((t) => (
+        <div class={`rank${t.pos === 1 ? ' top' : ''}`} id={t.slug}>
+          <div class="n"><Logo slug={t.slug} name={t.name} /><span class="pos">{t.pos}</span></div>
+          <div>
+            <h3><a href={`/tools/${t.slug}/`}>{t.name}</a></h3>
+            <div class="meta"><span>{cat[t.category].name}</span><span>Best for: {t.bestFor}</span>{t.freeTier && <span>Free tier</span>}</div>
+            <p><b>Why it ranks here:</b> {t.why}</p>
+            <p>{t.overview}</p>
+            <p class="muted"><b>Pricing:</b> {t.pricing}</p>
+            <div class="pc">
+              <div class="good"><b>Strengths</b><ul>{t.pros.map((p) => <li>{p}</li>)}</ul></div>
+              <div class="bad"><b>Weaknesses</b><ul>{t.cons.map((p) => <li>{p}</li>)}</ul></div>
+            </div>
+          </div>
+        </div>
+      ))}
+      <h2 id="how-to-choose">How to choose an AI recruitment tool</h2>
+      <p>Start from the bottleneck. Not enough qualified candidates, or nobody with time to source: buy an autonomous agent such as Noon, which removes the most hours. Too many applicants: buy conversational screening (Paradox) or structured assessments (HireVue). Interviews are the slow part: add interview intelligence (Metaview, BrightHire). Years of applicants sitting in your ATS: an enterprise talent intelligence platform (Eightfold) can rediscover them.</p>
+      <p>Then ask three questions of every vendor: what does the AI complete without a person, how does the price scale (per seat, per credit, per agent or flat), and does it write back to your ATS? A tool that needs a recruiter to drive every search saves minutes; one that completes the task saves headcount-sized time.</p>
+      <h2 id="pricing">What AI recruitment tools cost</h2>
+      <p>Self-serve AI tools publish prices: Juicebox starts at $99 per seat per month billed yearly, and Metaview has a free tier with team plans from roughly $50 per user per month. Enterprise AI (Paradox, Eightfold, HireVue, Findem, SeekOut) is quote-based and usually five figures a year or more. Noon is free to start, then one flat team plan with unlimited sourcing, contacts, agents and seats.</p>
+      <h2 id="compliance">Bias and compliance</h2>
+      <p>AI that ranks or rejects candidates is regulated in more places every year: NYC Local Law 144 requires annual bias audits and candidate notice, the EU AI Act classes recruitment AI as high-risk, and Colorado and Illinois add their own rules. Ask for the vendor's latest audit, keep a human decision before any rejection, and tell candidates when AI is used. Sourcing, outreach and note-taking tools carry less risk than screening tools. See our categories for <a href="/categories/ai-screening-tools/">AI screening tools</a> and <a href="/categories/ai-interviewers/">AI interviewers</a>.</p>
+      <p>Looking for the whole stack rather than AI tools only? See the <a href="/best-recruitment-tools/">15 best recruitment tools</a> across every category.</p>
+      <Faq items={faq} />
+    </article>
+    <aside>
+      <div class="toc"><b>On this page</b><a href="#table">Comparison table</a><a href="#ranking">The ranking</a>{ranked.map((t) => <a href={`#${t.slug}`} style="padding-left:12px">{t.pos}. {t.name}</a>)}<a href="#how-to-choose">How to choose</a><a href="#pricing">Pricing</a><a href="#compliance">Compliance</a><a href="#faq">FAQ</a></div>
+      <div class="toc" style="margin-top:16px"><b>By category</b>{categories.map((c) => <a href={`/categories/${c.slug}/`}>Best {c.plural}</a>)}</div>
+    </aside>
+  </div>
+</Base>

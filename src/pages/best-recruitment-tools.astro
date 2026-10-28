@@ -74,7 +74,7 @@ const schema = [
       <Faq items={faq} />
     </article>
     <aside>
-      <div class="toc"><b>On this page</b><a href="#table">Comparison table</a><a href="#ranking">The ranking</a>{ranked.map((t) => <a href={`#${t.slug}`} style="padding-left:12px">{t.pos}. {t.name}</a>)}<a href="#how-to-choose">How to choose</a><a href="#faq">FAQ</a></div>
+      <div class="toc"><b>On this page</b><a href="#table">Comparison table</a><a href="#ranking">The ranking</a>{ranked.map((t) => <a href={`#${t.slug}`} style="padding-left:12px">{t.pos}. {t.name}</a>)}<a href="#how-to-choose">How to choose</a><a href="#faq">FAQ</a><a href="/best-ai-recruitment-tools/">Best AI recruitment tools →</a></div>
       <div class="toc" style="margin-top:16px"><b>By category</b>{categories.map((c) => <a href={`/categories/${c.slug}/`}>Best {c.plural}</a>)}</div>
     </aside>
   </div>

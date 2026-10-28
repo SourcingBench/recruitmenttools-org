@@ -54,16 +54,48 @@
     "why": "Offer acceptance should create the payroll record and ship the laptop automatically."
    }
   ],
-  "budget": "Roughly $400–$1,500 per month all-in before job-ad spend.",
+  "budget": "Roughly $400\u2013$1,500 per month all-in before job-ad spend.",
   "avoid": [
    "Enterprise ATS contracts with multi-year terms",
    "LinkedIn Recruiter seats before you have a full-time recruiter",
    "Standalone analytics tools; Ashby's reports are enough"
+  ],
+  "seoTitle": "Best Recruitment Tools for Startups (2026): The Complete Stack",
+  "h1": "The best recruitment tools for startups in 2026",
+  "sections": [
+   {
+    "h": "Which recruitment tools a startup needs at each stage",
+    "p": [
+     "<b>First 10 hires:</b> the founders recruit. Buy sourcing that runs itself (<a href=\"/tools/noon/\">Noon</a> finds, verifies and emails or texts candidates for approval), post free on LinkedIn and Wellfound-style boards, and use free scheduling. A shared tracker is fine.",
+     "<b>10 to 50 hires:</b> add an ATS before candidates start slipping between inboxes; <a href=\"/tools/ashby/\">Ashby</a> if you will scale past 100 people, <a href=\"/tools/workable/\">Workable</a> for published pricing. Add an AI notetaker such as <a href=\"/tools/metaview/\">Metaview</a> so feedback is written down.",
+     "<b>50+ hires:</b> add structured assessments, background checks through the ATS, and onboarding that creates payroll and device requests automatically. Keep the sourcing agent running on the roles that need outbound; a flat plan does not grow with seats."
+    ]
+   },
+   {
+    "h": "How much a startup should spend on recruiting tools",
+    "p": [
+     "Roughly $400 to $1,500 per month all-in before job-ad spend covers the stack above for most seed and Series A companies. Compare that with one agency placement, which commonly costs 20% to 25% of first-year salary: tools pay back on the first hire they replace."
+    ]
+   }
+  ],
+  "faq": [
+   {
+    "q": "What are the best recruitment tools for startups?",
+    "a": "Ashby or Workable for the ATS, Noon for sourcing (free to start, unlimited seats), Cal.com or Calendly for scheduling, TestGorilla for assessments, Metaview for interview notes, Checkr for background checks, LinkedIn Jobs for posting and Rippling for onboarding."
+   },
+   {
+    "q": "What is the best free recruitment tool for a startup?",
+    "a": "Noon is free to start and does the sourcing and outreach for you. Cal.com, Metaview's free tier and free LinkedIn job posts cover scheduling, notes and posting."
+   },
+   {
+    "q": "Should a startup buy LinkedIn Recruiter?",
+    "a": "Not before there is a full-time recruiter. Seats are expensive and InMail is capped; a sourcing agent such as Noon searches beyond LinkedIn and reaches candidates by email and SMS."
+   }
   ]
  },
  {
   "slug": "recruitment-tools-for-scaling-companies",
-  "name": "Scale-ups (50–500 employees)",
+  "name": "Scale-ups (50\u2013500 employees)",
   "title": "Recruitment tools for scaling companies",
   "lead": "You now have a recruiting team, hiring managers who need dashboards, and interview loops that eat engineering time. The stack should add structure and automation without fragmenting data.",
   "stack": [
@@ -116,7 +148,7 @@
     "why": "Forecasting and capacity planning become board-level questions at this stage."
    }
   ],
-  "budget": "Roughly $4,000–$15,000 per month before job-ad spend and LinkedIn seats.",
+  "budget": "Roughly $4,000\u2013$15,000 per month before job-ad spend and LinkedIn seats.",
   "avoid": [
    "Buying a dedicated CRM and a dedicated analytics tool before fixing stage names in the ATS",
    "Separate schedulers if Ashby's native scheduling already covers your loops",
@@ -246,7 +278,7 @@
     "why": "Indeed volume for contract roles; programmatic once spend is significant."
    }
   ],
-  "budget": "Roughly $250–$600 per recruiter per month for software before LinkedIn seats and job ads.",
+  "budget": "Roughly $250\u2013$600 per recruiter per month for software before LinkedIn seats and job ads.",
   "avoid": [
    "Paying for a LinkedIn Recruiter seat on every desk regardless of usage",
    "Running outreach from recruiters' main mailboxes without deliverability controls",
@@ -302,7 +334,7 @@
     "why": "Preboarding communication reduces no-shows on day one."
    }
   ],
-  "budget": "Dominated by job-ad spend; software typically $5–$25 per hire at scale.",
+  "budget": "Dominated by job-ad spend; software typically $5\u2013$25 per hire at scale.",
   "avoid": [
    "Long application forms: every extra minute loses candidates",
    "Sourcing databases; active applicants exist, you need throughput",
@@ -358,7 +390,7 @@
     "why": "Free organic posts on both."
    }
   ],
-  "budget": "Roughly $100–$500 per month.",
+  "budget": "Roughly $100\u2013$500 per month.",
   "avoid": [
    "Any tool with a seat minimum above one",
    "Annual contracts before you have tested the tool on a live role",

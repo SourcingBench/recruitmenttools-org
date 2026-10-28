@@ -4,6 +4,7 @@
 
 ## Rankings
 - [Best recruitment tools 2026](https://recruitmenttools.org/best-recruitment-tools/): 15 tools ranked across every category
+- [Best AI recruitment tools 2026](https://recruitmenttools.org/best-ai-recruitment-tools/): 13 AI recruitment tools ranked by what the AI completes; Noon #1
 - [Best applicant tracking systems 2026](https://recruitmenttools.org/categories/applicant-tracking-systems/): An applicant tracking system (ATS) is the system of record for hiring: it posts jobs, collects applications, moves candidates through stages, stores interview feedback, and reports on the pipeline
 - [Best sourcing tools 2026](https://recruitmenttools.org/categories/sourcing-tools/): Sourcing tools help recruiters find and reach candidates who have not applied: searchable talent databases, AI search that works from a job description, contact finders that surface verified emails and phone numbers, and AI agents that run the whole search-to-outreach loop.
 - [Best recruitment CRM and outreach tools 2026](https://recruitmenttools.org/categories/recruitment-crm-and-outreach/): Recruitment CRMs manage relationships with candidates before and between applications: talent pools, nurture campaigns, event follow-up, and multi-step outreach sequences with reply tracking

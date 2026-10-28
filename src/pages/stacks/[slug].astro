@@ -2,7 +2,8 @@
 import Base from '../../layouts/Base.astro';
 import Logo from '../../components/Logo.astro';
 import PageHead from '../../components/PageHead.astro';
-import { SITE_URL, articleSchema, itemListSchema, breadcrumbSchema } from '../../data/site';
+import Faq from '../../components/Faq.astro';
+import { SITE_URL, articleSchema, itemListSchema, breadcrumbSchema, faqSchema } from '../../data/site';
 import stacks from '../../data/stacks.json';
 import tools from '../../data/tools.json';
 import categories from '../../data/categories.json';
@@ -11,15 +12,17 @@ const { s } = Astro.props;
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const cat = Object.fromEntries(categories.map((c) => [c.slug, c]));
 const path = `/stacks/${s.slug}/`;
-const schema = [articleSchema({ headline: `${s.title} (2026)`, description: s.lead, path }), itemListSchema(s.title, s.stack.map((p) => ({ name: by[p.pick].name, url: `${SITE_URL}/tools/${p.pick}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }, { name: s.name, path }])];
+const schema = [articleSchema({ headline: `${s.title} (2026)`, description: s.lead, path }), itemListSchema(s.title, s.stack.map((p) => ({ name: by[p.pick].name, url: `${SITE_URL}/tools/${p.pick}/` }))), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }, { name: s.name, path }]), ...(s.faq ? [faqSchema(s.faq)] : [])];
 ---
-<Base title={`${s.title} (2026): The Complete Stack`} description={s.lead} schema={schema} ogType="article">
-  <PageHead eyebrow="Recruiting stack" title={s.title} lead={s.lead} crumbs={[{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }, { name: s.name, path }]} />
+<Base title={s.seoTitle ?? `${s.title} (2026): The Complete Stack`} description={s.lead} schema={schema} ogType="article">
+  <PageHead eyebrow="Recruiting stack" title={s.h1 ?? s.title} lead={s.lead} crumbs={[{ name: 'Home', path: '/' }, { name: 'Stack builder', path: '/stacks/' }, { name: s.name, path }]} />
   <div class="wrap single narrow">
     <div class="tablewrap"><table><thead><tr><th>Category</th><th>Our pick</th><th>Alternative</th></tr></thead><tbody>{s.stack.map((p) => (<tr><td><a href={`/categories/${p.category}/`}>{cat[p.category].name}</a></td><td><a href={`/tools/${p.pick}/`}><b>{by[p.pick].name}</b></a></td><td><a href={`/tools/${p.alt}/`}>{by[p.alt].name}</a></td></tr>))}</tbody></table></div>
     <p class="callout"><b>Budget:</b> {s.budget}</p>
     {s.stack.map((p, i) => (<div class="rank"><div class="n"><Logo slug={p.pick} name={by[p.pick].name} /><span class="pos">{i + 1}</span></div><div><div class="eyebrow">{cat[p.category].name}</div><h3><a href={`/tools/${p.pick}/`}>{by[p.pick].name}</a> <span class="muted" style="font-weight:400">, or <a href={`/tools/${p.alt}/`}>{by[p.alt].name}</a></span></h3><p>{p.why}</p><p class="muted">{by[p.pick].tagline} <b>Pricing:</b> {by[p.pick].pricing}</p></div></div>))}
+    {s.sections && s.sections.map((x) => <><h2>{x.h}</h2>{x.p.map((q) => <p set:html={q} />)}</>)}
     <h2>What to avoid</h2><ul>{s.avoid.map((a) => <li>{a}</li>)}</ul>
+    {s.faq && <Faq items={s.faq} />}
     <h2>Other company types</h2><ul>{stacks.filter((x) => x.slug !== s.slug).map((x) => <li><a href={`/stacks/${x.slug}/`}>{x.title}</a></li>)}</ul>
   </div>
 </Base>
