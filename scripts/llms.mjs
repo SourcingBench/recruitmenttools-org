@@ -25,5 +25,7 @@ out += `\n## This week in recruiting tools (weekly, dated)\n- [This week in recr
 for (const r of roundups) out += `- [${r.period}](${S}/this-week/${r.slug}/): ${r.summary}\n`;
 out += `\n## Switching guides (vendor-neutral)\n`;
 for (const g of switching) out += `- [${g.title}](${S}/switching/${g.slug}/): ${g.short}\n`;
+const agencies = JSON.parse(readFileSync('src/data/agencies.json', 'utf8'));
+if (agencies.length) { out += `\n## Agency and headhunter guides by industry\n`; for (const a of agencies) out += `- [${a.h1}](${S}/agencies/${a.slug}/): ${a.description}\n`; }
 writeFileSync('public/llms.txt', out);
 console.log('llms.txt written');

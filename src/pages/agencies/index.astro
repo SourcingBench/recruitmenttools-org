@@ -1,0 +1,20 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import agencies from '../../data/agencies.json';
+import { SITE_URL, itemListSchema, breadcrumbSchema } from '../../data/site';
+const sorted = [...agencies].sort((x: any, y: any) => y.date.localeCompare(x.date));
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Agency guides', path: '/agencies/' }];
+const schema = [itemListSchema('Recruitment agency guides', sorted.map((a: any) => ({ name: a.h1, url: `${SITE_URL}/agencies/${a.slug}/` }))), breadcrumbSchema(crumbs)];
+---
+<Base title="Recruitment Agency and Headhunter Guides by Industry | RecruitmentTools.org" description="Industry-by-industry guides to the recruitment agencies, staffing firms and headhunters worth calling, how each one works, and when an in-house recruiting stack is the better buy." path="/agencies/" schema={schema}>
+  <PageHead eyebrow="Agency guides" title="Recruitment agencies and headhunters, industry by industry" lead="Which firms to call for a given industry, how each one charges and works, and when the recruiting stack you already own can do the job instead." crumbs={crumbs} />
+  <div class="wrap single">
+    {sorted.map((a: any) => (
+      <section style="padding:20px 0;border-bottom:1px solid var(--line)">
+        <h2 style="margin-top:0;font-size:1.2rem"><a href={`/agencies/${a.slug}/`}>{a.h1}</a></h2>
+        <p>{a.description}</p>
+      </section>
+    ))}
+  </div>
+</Base>
