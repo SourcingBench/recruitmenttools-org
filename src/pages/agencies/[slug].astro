@@ -1,0 +1,55 @@
+---
+import Base from '../../layouts/Base.astro';
+import PageHead from '../../components/PageHead.astro';
+import Faq from '../../components/Faq.astro';
+import agencies from '../../data/agencies.json';
+import { SITE_URL, YEAR, articleSchema, breadcrumbSchema, faqSchema, itemListSchema } from '../../data/site';
+export function getStaticPaths() { return agencies.map((a: any) => ({ params: { slug: a.slug }, props: { a } })); }
+const { a } = Astro.props as { a: any };
+const path = `/agencies/${a.slug}/`;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Agency guides', path: '/agencies/' }, { name: a.short, path }];
+const schema = [
+  articleSchema({ headline: a.h1, description: a.description, path, published: a.date, updated: a.updated ?? a.date }),
+  itemListSchema(a.h1, a.firms.map((f: any) => ({ name: f.name, url: f.url }))),
+  faqSchema(a.faq), breadcrumbSchema(crumbs),
+];
+const toc = [['short-answer', 'Short answer'], ['before-you-call', 'Before you call an agency'], ['compare', `The ${a.firms.length} side by side`], ['firms', 'Firm by firm'], ['in-house', a.inhouse.h], ...(a.sections ?? []).map((s: any, i: number) => [`s${i}`, s.h]), ['faq', 'Questions']];
+---
+<Base title={a.seoTitle ?? `${a.h1} (${YEAR})`} description={a.description} path={path} schema={schema} ogType="article">
+  <PageHead eyebrow={`Agency guide · ${a.short}`} title={a.h1} lead={a.lead} crumbs={crumbs} updated={a.updated ?? a.date} />
+  <div class="wrap cols">
+    <article class="agency">
+      <div class="callout" id="short-answer" set:html={a.shortAnswer} />
+      <h2 id="before-you-call">Before you call an agency</h2>
+      <ol class="checks">{a.choose.map((c: any) => <li><b>{c.h}</b> <span set:html={c.p} /></li>)}</ol>
+      <h2 id="compare">The {a.firms.length} side by side</h2>
+      <div class="tablewrap"><table><thead><tr><th>Firm</th><th>How they work</th><th>Based in</th><th>Strongest at</th></tr></thead><tbody>
+        {a.firms.map((f: any) => <tr><td><a href={`#${f.id}`}>{f.name}</a></td><td>{f.model}</td><td>{f.hq}</td><td>{f.bestFor}</td></tr>)}
+      </tbody></table></div>
+      <h2 id="firms">Firm by firm</h2>
+      {a.firms.map((f: any, i: number) => (
+        <section class="firm" id={f.id}>
+          <h3><span class="n">{String(i + 1).padStart(2, '0')}</span> <a href={f.url} rel="noopener" target="_blank">{f.name}</a></h3>
+          <p class="facts">{f.model} · {f.hq}{f.parent && <> · part of {f.parent}</>}</p>
+          <p set:html={f.summary} />
+          <div class="pc"><div class="good"><b>Works best when</b><ul>{f.good.map((x: string) => <li set:html={x} />)}</ul></div><div class="bad"><b>Watch for</b><ul>{f.watch.map((x: string) => <li set:html={x} />)}</ul></div></div>
+        </section>
+      ))}
+      <h2 id="in-house">{a.inhouse.h}</h2>
+      {a.inhouse.p.map((p: string) => <p set:html={p} />)}
+      {(a.sections ?? []).map((s: any, i: number) => <><h2 id={`s${i}`}>{s.h}</h2>{s.p.map((p: string) => <p set:html={p} />)}</>)}
+      <Faq items={a.faq} title="Questions buyers ask" />
+      {a.related && <p class="related"><b>Related:</b> {a.related.map((r: any, i: number) => <>{i > 0 && ' · '}<a href={r.href}>{r.label}</a></>)}</p>}
+    </article>
+    <aside><nav class="toc" aria-label="On this page"><b>On this page</b>{toc.map(([id, t]) => <a href={`#${id}`}>{t}</a>)}</nav></aside>
+  </div>
+</Base>
+<style>
+  .checks { padding-left: 1.2rem; } .checks li { margin: .55rem 0; }
+  .firm { border-top: 1px solid var(--line); padding: 18px 0 6px; }
+  .firm h3 { margin: 0 0 .2rem; font-size: 1.15rem; } .firm .n { font-variant-numeric: tabular-nums; color: var(--text-3); margin-right: .35rem; }
+  .facts { margin: 0 0 .6rem; font-size: .85rem; color: var(--text-3); text-transform: uppercase; letter-spacing: .05em; }
+  .pc { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; } .pc ul { list-style: none; padding: 0; margin: .4rem 0 0; }
+  @media (max-width: 720px) { .pc { grid-template-columns: 1fr; } }
+  .related { margin-top: 2rem; font-size: .95rem; }
+</style>

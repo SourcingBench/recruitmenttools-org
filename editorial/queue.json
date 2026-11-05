@@ -1,0 +1,261 @@
+{
+ "note": "Daily article queue. Volumes are US monthly Google searches (DataForSEO, Nov 2026). noon_target is a real noon.ai path; link it in roughly half of articles, never more than once per article.",
+ "items": [
+  {
+   "id": "rt-001",
+   "family": "agency-list",
+   "keyword": "nursing staffing agencies",
+   "volume": 2400,
+   "noon_target": "/built-for/nurses",
+   "status": "queued"
+  },
+  {
+   "id": "rt-002",
+   "family": "agency-list",
+   "keyword": "staffing and recruiting firms",
+   "volume": 2400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-003",
+   "family": "agency-list",
+   "keyword": "hr headhunters",
+   "volume": 1300,
+   "noon_target": "/built-for/talent-teams",
+   "status": "queued"
+  },
+  {
+   "id": "rt-004",
+   "family": "agency-list",
+   "keyword": "engineering headhunters",
+   "volume": 720,
+   "noon_target": "/product/ai-sourcer",
+   "status": "queued"
+  },
+  {
+   "id": "rt-005",
+   "family": "agency-list",
+   "keyword": "electrical staffing agencies",
+   "volume": 720,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-006",
+   "family": "agency-list",
+   "keyword": "oil and gas recruitment agencies",
+   "volume": 320,
+   "noon_target": "/product/ai-sourcer",
+   "status": "queued"
+  },
+  {
+   "id": "rt-007",
+   "family": "agency-list",
+   "keyword": "insurance headhunters",
+   "volume": 480,
+   "noon_target": "/built-for/insurance",
+   "status": "queued"
+  },
+  {
+   "id": "rt-008",
+   "family": "agency-list",
+   "keyword": "pharmaceutical headhunters",
+   "volume": 390,
+   "noon_target": "/built-for/biotech",
+   "status": "queued"
+  },
+  {
+   "id": "rt-009",
+   "family": "agency-list",
+   "keyword": "luxury staffing agencies",
+   "volume": 720,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-010",
+   "family": "agency-list",
+   "keyword": "supply chain headhunters",
+   "volume": 390,
+   "noon_target": "/product/ai-sourcer",
+   "status": "queued"
+  },
+  {
+   "id": "rt-011",
+   "family": "agency-list",
+   "keyword": "life sciences headhunters",
+   "volume": 320,
+   "noon_target": "/built-for/biotech",
+   "status": "queued"
+  },
+  {
+   "id": "rt-012",
+   "family": "agency-list",
+   "keyword": "hospitality headhunters",
+   "volume": 390,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-013",
+   "family": "agency-list",
+   "keyword": "private equity headhunters",
+   "volume": 260,
+   "noon_target": "/built-for/private-equity-vc",
+   "status": "queued"
+  },
+  {
+   "id": "rt-014",
+   "family": "agency-list",
+   "keyword": "restaurant headhunters",
+   "volume": 260,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-015",
+   "family": "agency-list",
+   "keyword": "logistics staffing agencies",
+   "volume": 260,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-016",
+   "family": "agency-list",
+   "keyword": "real estate headhunters",
+   "volume": 210,
+   "noon_target": "/built-for/real-estate",
+   "status": "queued"
+  },
+  {
+   "id": "rt-017",
+   "family": "agency-list",
+   "keyword": "fashion recruitment agencies",
+   "volume": 210,
+   "noon_target": "/built-for/designers",
+   "status": "queued"
+  },
+  {
+   "id": "rt-018",
+   "family": "agency-list",
+   "keyword": "trucking staffing agencies",
+   "volume": 210,
+   "noon_target": "/product/inbound-screening",
+   "status": "queued"
+  },
+  {
+   "id": "rt-019",
+   "family": "agency-list",
+   "keyword": "clinical research staffing agencies",
+   "volume": 170,
+   "noon_target": "/built-for/biotech",
+   "status": "queued"
+  },
+  {
+   "id": "rt-020",
+   "family": "agency-list",
+   "keyword": "software engineering recruitment agencies",
+   "volume": 170,
+   "noon_target": "/built-for/software-engineers",
+   "status": "queued"
+  },
+  {
+   "id": "rt-021",
+   "family": "agency-list",
+   "keyword": "aerospace staffing agencies",
+   "volume": 170,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-022",
+   "family": "agency-list",
+   "keyword": "environmental staffing agencies",
+   "volume": 170,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-023",
+   "family": "agency-list",
+   "keyword": "data science headhunters",
+   "volume": 140,
+   "noon_target": "/built-for/data-scientists",
+   "status": "queued"
+  },
+  {
+   "id": "rt-024",
+   "family": "agency-list",
+   "keyword": "nonprofit headhunters",
+   "volume": 140,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-025",
+   "family": "agency-list",
+   "keyword": "hvac staffing agencies",
+   "volume": 140,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-026",
+   "family": "agency-list",
+   "keyword": "automotive staffing agencies",
+   "volume": 140,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-027",
+   "family": "agency-list",
+   "keyword": "medical recruitment agencies",
+   "volume": 1600,
+   "noon_target": "/built-for/healthcare",
+   "status": "queued"
+  },
+  {
+   "id": "rt-028",
+   "family": "agency-list",
+   "keyword": "architecture recruiting firms",
+   "volume": 90,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-029",
+   "family": "agency-list",
+   "keyword": "renewable energy headhunters",
+   "volume": 90,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-030",
+   "family": "agency-list",
+   "keyword": "veterinary recruiting firms",
+   "volume": 90,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-031",
+   "family": "agency-list",
+   "keyword": "mental health staffing agencies",
+   "volume": 90,
+   "noon_target": "/built-for/healthcare",
+   "status": "queued"
+  },
+  {
+   "id": "rt-032",
+   "family": "agency-list",
+   "keyword": "food and beverage headhunters",
+   "volume": 90,
+   "noon_target": null,
+   "status": "queued"
+  }
+ ]
+}

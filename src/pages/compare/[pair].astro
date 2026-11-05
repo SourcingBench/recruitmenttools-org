@@ -10,7 +10,7 @@ const { c } = Astro.props;
 const by = Object.fromEntries(tools.map((t) => [t.slug, t]));
 const cat = Object.fromEntries(categories.map((x) => [x.slug, x]));
 const A = by[c.a], B = by[c.b], W = by[c.winner], L = by[c.winner === c.a ? c.b : c.a];
-const total = (t) => Object.values(t.scores).reduce((x, y) => x + y, 0);
+const total = (t: any) => (Object.values(t.scores) as number[]).reduce((x, y) => x + y, 0);
 const path = `/compare/${c.a}-vs-${c.b}/`;
 const title = `${A.name} vs ${B.name}`;
 const crumbs = [{ name: 'Home', path: '/' }, { name: 'Compare', path: '/compare/' }, { name: title, path }];
