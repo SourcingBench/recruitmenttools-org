@@ -1,5 +1,5 @@
 {
- "note": "Daily article queue. Volumes are US monthly Google searches (DataForSEO, Nov 2026). noon_target is a real noon.ai path; link it in roughly half of articles, never more than once per article.",
+ "note": "Daily article queue. Volumes are US monthly Google searches (DataForSEO, Nov 2026). noon_target is a real noon.ai path; link it in roughly half of articles, never more than once per article. Items with slot=pm are the afternoon run's firm list (city or service firms); morning takes the first queued item without a slot.",
  "items": [
   {
    "id": "rt-001",
@@ -255,6 +255,429 @@
    "keyword": "food and beverage headhunters",
    "volume": 90,
    "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-001",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in dallas",
+   "volume": 12100,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-002",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in san antonio",
+   "volume": 12100,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-003",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in chicago",
+   "volume": 9900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-004",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in phoenix",
+   "volume": 9900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-005",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "temp agencies",
+   "volume": 33100,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-006",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in charlotte",
+   "volume": 9900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-007",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in las vegas",
+   "volume": 9900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-008",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in memphis",
+   "volume": 9900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-009",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in nyc",
+   "volume": 9900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-010",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "remote staffing agencies",
+   "volume": 3600,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-011",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in houston",
+   "volume": 8100,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-012",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in atlanta",
+   "volume": 6600,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-013",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in jacksonville",
+   "volume": 6600,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-014",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in baltimore",
+   "volume": 6600,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-015",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "virtual assistant agencies",
+   "volume": 3600,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-016",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in orlando",
+   "volume": 5400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-017",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in indianapolis",
+   "volume": 5400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-018",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in louisville",
+   "volume": 5400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-019",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in raleigh",
+   "volume": 5400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-020",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "light industrial staffing agencies",
+   "volume": 1300,
+   "noon_target": "/product/inbound-screening",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-021",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in sacramento",
+   "volume": 5400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-022",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in oklahoma city",
+   "volume": 5400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-023",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in greenville sc",
+   "volume": 5400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-024",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in austin",
+   "volume": 4400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-025",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "recruitment marketing agencies",
+   "volume": 1300,
+   "noon_target": "/product/ai-outreach",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-026",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in tampa",
+   "volume": 4400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-027",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in columbus",
+   "volume": 4400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-028",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in fort worth",
+   "volume": 4400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-029",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in kansas city",
+   "volume": 4400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-030",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "peo companies",
+   "volume": 720,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-031",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in st louis",
+   "volume": 4400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-032",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in denver",
+   "volume": 3600,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-033",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in san diego",
+   "volume": 3600,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-034",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in cincinnati",
+   "volume": 3600,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-035",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "employer of record companies",
+   "volume": 170,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-036",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in nashville",
+   "volume": 2900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-037",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in richmond",
+   "volume": 2900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-038",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in seattle",
+   "volume": 2400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-039",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in boston",
+   "volume": 2400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-040",
+   "slot": "pm",
+   "family": "service-firm-list",
+   "keyword": "offshore recruitment companies",
+   "volume": 110,
+   "noon_target": "/product/ai-sourcer",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-041",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in salt lake city",
+   "volume": 2400,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-042",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in minneapolis",
+   "volume": 2400,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-043",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in miami",
+   "volume": 1900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-044",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in philadelphia",
+   "volume": 1900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-045",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in detroit",
+   "volume": 1900,
+   "noon_target": "/built-for/staffing-agencies",
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-046",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in cleveland",
+   "volume": 1900,
+   "noon_target": null,
+   "status": "queued"
+  },
+  {
+   "id": "rt-pm-047",
+   "slot": "pm",
+   "family": "local-agency-list",
+   "keyword": "staffing agencies in pittsburgh",
+   "volume": 1600,
+   "noon_target": "/built-for/staffing-agencies",
    "status": "queued"
   }
  ]
