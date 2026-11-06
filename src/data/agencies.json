@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "slug": "nursing-staffing-agencies",
+    "short": "Nursing staffing",
+    "h1": "Nursing staffing agencies: 10 firms sorted by how they actually fill shifts",
+    "seoTitle": "Nursing Staffing Agencies: 10 Firms by Staffing Model (2026)",
+    "description": "Ten nursing staffing agencies grouped by the job they do best: travel contracts, rapid response, per diem apps, franchise networks and international RN pipelines, with where each is based and what to check before you sign.",
+    "date": "2026-11-06",
+    "updated": "2026-11-06",
+    "lead": "A director of nursing with three open night shifts and a unit going on a 13 week census spike needs two different agencies, not one. This guide sorts nurse staffing firms by the model they run, so you call the right kind first.",
+    "shortAnswer": "<b>Short answer:</b> for 13 week travel contracts at scale, start with <a href=\"#aya\">Aya Healthcare</a>. For a crisis opening or a labor action, <a href=\"#fastaff\">Fastaff</a> built the rapid response model. For per diem shifts in skilled nursing and post-acute settings, <a href=\"#intelycare\">IntelyCare</a> and <a href=\"#nursefinders\">Nursefinders</a> are the first calls. If the gap is permanent and structural, the international pipelines at <a href=\"#avant\">Avant</a> and <a href=\"#conexus\">Conexus MedStaff</a> take a year or more but end with your own employee.",
+    "choose": [
+      {
+        "h": "Name the model before the firm.",
+        "p": "Per diem fills a single shift, travel fills roughly a quarter, rapid response fills a gap that opens this week, and international recruitment fills a permanent seat on a long lead time. Most bad agency experiences come from buying one model to solve another."
+      },
+      {
+        "h": "Ask for the certification letter.",
+        "p": "Several firms below hold The Joint Commission's Health Care Staffing Services certification. Ask for the current letter rather than relying on a logo on the website, and ask how credential files are shared with your compliance team."
+      },
+      {
+        "h": "Get the bill rate structure in writing.",
+        "p": "Ask whether the quote is an all-in hourly bill rate or a pay rate plus markup, what overtime and holiday multipliers apply, and whether there is a conversion fee if you hire the nurse permanently."
+      },
+      {
+        "h": "Check who your account actually sits with.",
+        "p": "Several of these firms are now one brand inside a larger group. Ask which entity signs the contract, who handles escalations, and whether a vendor management system or a managed services program sits between you and the agency."
+      }
+    ],
+    "firms": [
+      {
+        "id": "aya",
+        "name": "Aya Healthcare",
+        "url": "https://www.ayahealthcare.com/",
+        "model": "Travel nursing, per diem app, workforce software",
+        "hq": "San Diego, CA",
+        "bestFor": "Large travel contracts plus the software to manage them",
+        "summary": "Aya describes itself as America's largest travel nursing and allied health staffing agency. Alongside travel contracts it sells workforce software to hospitals: the LotusOne vendor management system, a Workforce AI demand matching tool, an app-based Shifts product for per diem and float pool work, and CoreHire for permanent hiring.",
+        "good": [
+          "You need many travel nurses across several units or sites",
+          "You want agency supply and a VMS from one vendor"
+        ],
+        "watch": [
+          "If Aya also runs your VMS, ask how other agencies are treated in the order queue",
+          "Large accounts get the most attention; small single unit orders may not"
+        ]
+      },
+      {
+        "id": "fastaff",
+        "name": "Fastaff",
+        "url": "https://www.fastaff.com/",
+        "model": "Rapid response travel nursing",
+        "hq": "Greenwood Village, CO",
+        "parent": "Ingenovis Health",
+        "bestFor": "Urgent openings that cannot wait for a normal travel start date",
+        "summary": "Fastaff was founded in 1989 and introduced what it calls the Rapid Response model: deploying experienced nurses quickly to hospitals facing urgent shortages, with guaranteed delivery and a focus on hard to fill specialties. It holds The Joint Commission's Gold Seal for staffing and is one of eight brands in the Ingenovis Health group, which also includes Trustaff, USN and VISTA Staffing.",
+        "good": [
+          "A unit needs experienced nurses within days, not weeks",
+          "You want one group that can also cover longer travel and labor disruption needs"
+        ],
+        "watch": [
+          "Rapid response rates are a premium product; budget for it as an exception",
+          "Clarify which Ingenovis brand owns the order so escalations go to the right team"
+        ]
+      },
+      {
+        "id": "intelycare",
+        "name": "IntelyCare",
+        "url": "https://www.intelycare.com/",
+        "model": "App based per diem and part-time nursing",
+        "hq": "Quincy, MA",
+        "bestFor": "Skilled nursing and post-acute facilities filling shifts week to week",
+        "summary": "IntelyCare runs an app that matches nurses and nursing assistants to open shifts, and calls itself a healthcare talent platform rather than a traditional agency. In 2023 it moved to a regional structure and added full-time and part-time hiring alongside shifts. It holds The Joint Commission's Health Care Staffing Services certification.",
+        "good": [
+          "Your gaps are individual shifts in long term care or post-acute settings",
+          "Schedulers want to post and fill shifts themselves"
+        ],
+        "watch": [
+          "Check coverage in your specific region before signing",
+          "An app fills shifts, it does not build unit continuity; pair it with a retention plan"
+        ]
+      },
+      {
+        "id": "nursefinders",
+        "name": "Nursefinders",
+        "url": "https://www.nursefinders.com/",
+        "model": "Per diem and local contract staffing",
+        "hq": "Dallas, TX",
+        "parent": "AMN Healthcare",
+        "bestFor": "Local per diem coverage backed by a large parent",
+        "summary": "Nursefinders has placed nurses and allied professionals for more than 40 years and now focuses on per diem and local jobs in nursing, allied health and healthcare support. It is Joint Commission accredited and part of AMN Healthcare, which gives buyers a route into AMN's travel and workforce programs if needs grow.",
+        "good": [
+          "You want local nurses who can pick up recurring shifts",
+          "You may later want travel or managed services from the same parent"
+        ],
+        "watch": [
+          "Local branch strength varies by metro; ask for fill rates in your market",
+          "Confirm whether orders route through an AMN program or directly"
+        ]
+      },
+      {
+        "id": "favorite",
+        "name": "Favorite Healthcare Staffing",
+        "url": "https://www.favoritestaffing.com/",
+        "model": "Per diem, local, travel and permanent placement",
+        "hq": "Kansas City area",
+        "bestFor": "Facilities that want one vendor across every contract length",
+        "summary": "Favorite started placing travel nurses in 1991 and now offers per diem, local and travel assignments, temp to perm and direct hire, plus recruitment process outsourcing and a managed services program. It has held The Joint Commission certification since 2005 and says it has appeared on Staffing Industry Analysts' largest healthcare staffing firms list every year since 2009. It describes itself as part of a larger multinational group, with Espirita as its international sister company.",
+        "good": [
+          "You want per diem and travel from one contract",
+          "You may outsource part of permanent nurse recruiting later"
+        ],
+        "watch": [
+          "Ask which parts of the group serve your account",
+          "Broad menus can mean thinner specialty depth; ask for references in your specialty"
+        ]
+      },
+      {
+        "id": "atc",
+        "name": "ATC Healthcare",
+        "url": "https://atchealthcare.com/",
+        "model": "Franchise network, per diem and contract",
+        "hq": "Lake Success, NY",
+        "bestFor": "Local coverage from an owner operated office",
+        "summary": "ATC Healthcare has run a healthcare staffing franchise for close to 40 years, with locally owned offices across the United States. It serves hospitals, residential care programs, public health departments, school systems, medical groups and municipal governments.",
+        "good": [
+          "You value a local owner you can call directly",
+          "Public sector and school nursing needs sit alongside hospital shifts"
+        ],
+        "watch": [
+          "Quality depends on the local franchise; meet the office that will serve you",
+          "Multi-state systems may deal with several franchise owners"
+        ]
+      },
+      {
+        "id": "gifted",
+        "name": "Gifted Healthcare",
+        "url": "https://giftedhealthcare.com/",
+        "model": "Travel, local and per diem nursing",
+        "hq": "Metairie, LA",
+        "bestFor": "Gulf South facilities mixing contract lengths",
+        "summary": "Gifted Healthcare places nurses on travel assignments, local contracts and per diem shifts, and also covers allied health and education based roles such as school nursing and behavioral interventionists.",
+        "good": [
+          "You need RNs, LPNs and CNAs across contract types",
+          "School and behavioral roles sit in the same budget as clinical nursing"
+        ],
+        "watch": [
+          "Confirm specialty depth for ICU, OR and L&D before relying on it",
+          "Ask for state by state fill history outside its home region"
+        ]
+      },
+      {
+        "id": "stability",
+        "name": "Stability Healthcare",
+        "url": "https://stabilityhealthcare.com/",
+        "model": "Travel nursing and allied, permanent roles",
+        "hq": "Pasadena, CA",
+        "bestFor": "Travel RN coverage from a smaller, clinician focused firm",
+        "summary": "Stability Healthcare places travel registered nurses and allied clinicians, lists permanent jobs alongside contracts, and runs a managed services offering for facilities. Its public job pages publish weekly pay ranges by state, which helps buyers sanity check the rates they are quoted.",
+        "good": [
+          "You want a firm that publishes pay data openly",
+          "Med-surg, tele, ICU and ER travel needs"
+        ],
+        "watch": [
+          "Smaller bench than the national giants for very large orders",
+          "Ask how quickly it can credential for your state"
+        ]
+      },
+      {
+        "id": "avant",
+        "name": "Avant Healthcare Professionals",
+        "url": "https://avanthealthcare.com/",
+        "model": "International nurse recruitment",
+        "hq": "Maitland, FL",
+        "parent": "Jackson Healthcare",
+        "bestFor": "Permanent RN seats filled from overseas",
+        "summary": "Avant has recruited internationally educated nurses for U.S. health systems for more than 20 years and is a member of the Jackson Healthcare family of companies. It holds The Joint Commission certification and stresses ethical recruitment practices that it says meet or exceed global standards.",
+        "good": [
+          "Vacancies are structural and you can plan a year or more ahead",
+          "You want nurses who become long term members of your staff"
+        ],
+        "watch": [
+          "Immigration timelines are outside the agency's control",
+          "Read the commitment period and repayment terms that apply to nurses"
+        ]
+      },
+      {
+        "id": "conexus",
+        "name": "Conexus MedStaff",
+        "url": "https://www.conexusmedstaff.com/",
+        "model": "International nurse recruitment",
+        "hq": "Houston, TX",
+        "bestFor": "International pipelines with Philippines and UK teams",
+        "summary": "Conexus MedStaff was founded in Houston in 2011 and is led by CEO Andrew Moreton. It is family owned, with teams in the UK and the Philippines, and guides nurses through immigration, licensure and relocation into U.S. roles.",
+        "good": [
+          "You want a second international pipeline alongside an incumbent",
+          "Relocation support matters for retention in your market"
+        ],
+        "watch": [
+          "Same lead time caveats as any international program",
+          "Ask how many nurses it currently has in the visa queue for your specialty"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When your own recruiting team should do it instead",
+      "p": [
+        "Agency nurses solve a capacity problem, but every agency hour costs more than an employed hour, and none of it builds a bench. If the same units call an agency every quarter, the cheaper fix is usually a recruiting function that keeps a warm pipeline of local nurses: a CRM of past applicants and former staff, a scheduler that books interviews quickly, and outreach that reaches nurses on their phones.",
+        "Software can carry part of that load. Our <a href=\"/stacks/recruitment-tools-for-high-volume-hiring/\">high volume hiring stack</a> covers the scheduling and screening side, and the <a href=\"/categories/sourcing-tools/\">sourcing tools category</a> compares the search layer. Tools such as <a href=\"https://noon.ai/built-for/nurses\">Noon's nurse sourcing workflow</a> treat licensure as a hard filter and contact clinicians by email and SMS, which is how most nurses prefer to be reached between shifts."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Reading an agency quote",
+        "p": [
+          "Ask every firm on your shortlist to quote the same scenario: one night shift RN in your busiest unit for 13 weeks, and one per diem shift next Saturday. Comparing the two answers side by side shows you which firms are really travel shops and which are really local shops, regardless of what the website says.",
+          "Then ask what happens at week 14. A firm that only talks about extensions is selling continuity; a firm that offers a conversion path is selling you a hire. Both are fine, as long as you know which one you are buying. Our guide to <a href=\"/categories/applicant-tracking-systems/\">applicant tracking systems</a> covers how to keep agency and direct applicants in one record."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the difference between a per diem and a travel nursing agency?",
+        "a": "A per diem agency fills individual shifts with nurses who live locally, often booked a few days ahead. A travel agency places a nurse on a fixed contract, commonly around 13 weeks, usually from outside your area."
+      },
+      {
+        "q": "Do nursing staffing agencies need to be certified?",
+        "a": "Certification is voluntary, but many hospitals require it. The Joint Commission's Health Care Staffing Services certification is the most common; ask for the current letter during contracting."
+      },
+      {
+        "q": "Can I hire an agency nurse permanently?",
+        "a": "Usually, but most contracts include a conversion fee or a minimum number of worked hours before conversion. Read that clause before the first shift, not after you want to make an offer."
+      },
+      {
+        "q": "How do I list my staffing firm on this page?",
+        "a": "Use the listing details at the end of the guide. We review every request against the same criteria as the firms above."
+      }
+    ],
+    "related": [
+      {
+        "href": "/stacks/recruitment-tools-for-staffing-agencies/",
+        "label": "Recruitment tools for staffing agencies"
+      },
+      {
+        "href": "/categories/interview-scheduling/",
+        "label": "Interview scheduling tools"
+      },
+      {
+        "href": "/agencies/",
+        "label": "All agency guides"
+      }
+    ]
+  }
+]
