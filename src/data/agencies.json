@@ -250,5 +250,261 @@
         "label": "All agency guides"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-dallas",
+    "short": "Dallas staffing",
+    "h1": "Staffing agencies in Dallas: 10 firms with a real office in the metroplex",
+    "seoTitle": "Staffing Agencies in Dallas: 10 Firms With DFW Offices (2026)",
+    "description": "Ten staffing agencies in Dallas with a verified office in the metro, from Noel Road and North Central Expressway to Plano, Irving and Garland, sorted by the kind of hire each handles best.",
+    "date": "2026-11-06",
+    "updated": "2026-11-06",
+    "lead": "Which Dallas staffing agency should you call? It depends less on the brand and more on the seat: a contract controller, a cybersecurity engineer and forty warehouse pickers are three different phone calls. Every firm below has a staffed office in the Dallas area, and we list the street so you know who is local.",
+    "shortAnswer": "<b>Short answer:</b> for finance and office roles with a written guarantee, start with <a href=\"#frontline\">Frontline Source Group</a> or <a href=\"#robert-half\">Robert Half</a>. For IT contractors at scale, <a href=\"#teksystems\">TEKsystems</a> and <a href=\"#lasalle\">LaSalle Network</a>. Clinical and revenue cycle roles go to <a href=\"#medix\">Medix</a> in Irving, and hourly warehouse or call center volume to <a href=\"#snelling\">Snelling</a>. If you want a Texas owned firm, <a href=\"#choice\">Choice Specialists</a> is the Dallas arm of Burnett Specialists.",
+    "choose": [
+      {
+        "h": "Decide whether you are buying hours or a hire.",
+        "p": "Temporary and contract work is priced as an hourly bill rate; direct hire is priced as a fee on first year salary. Ask each firm to quote both for the same role, because the gap tells you how much the firm wants each kind of order."
+      },
+      {
+        "h": "Ask which office will actually work the order.",
+        "p": "Several national firms serve Dallas from Plano or Irving. That is fine for remote friendly roles, but for on-site interviews or shift work you want the recruiter who knows the commute from Garland to the Stemmons corridor."
+      },
+      {
+        "h": "Get the guarantee terms, not the slogan.",
+        "p": "Replacement guarantees range from a few weeks to multiple years. Read what triggers a refund or a free replacement, and whether layoffs or role changes void it."
+      },
+      {
+        "h": "Check conversion fees before day one.",
+        "p": "If a temp might become permanent, ask how many worked hours remove the conversion fee. Texas employers often lose money here simply because nobody asked."
+      }
+    ],
+    "firms": [
+      {
+        "id": "frontline",
+        "name": "Frontline Source Group",
+        "url": "https://www.frontlinesourcegroup.com/dallas.html",
+        "model": "Contract, contract-to-hire, direct hire and executive search",
+        "hq": "North Central Expressway, Dallas",
+        "bestFor": "Office, finance and IT hires backed by a long guarantee",
+        "summary": "Frontline was founded in Dallas in 2004, and its Dallas recruiting office sits at 4245 North Central Expressway. Its recruiters each cover one vertical, spanning accounting, finance, technology, legal, administrative, HR, energy and C-suite searches. The firm backs every direct hire with what it calls a 5-Year Placement Warranty and publishes an agency pricing page on its own site, which is rare in this market.",
+        "good": [
+          "You want pricing on paper before the first call",
+          "You need several Dallas area offices, including Addison, Frisco, Garland, Irving and Plano"
+        ],
+        "watch": [
+          "Read what the warranty actually covers and what voids it",
+          "Meetings are by appointment only, so walk-in recruiting events are not an option"
+        ]
+      },
+      {
+        "id": "choice",
+        "name": "Choice Specialists",
+        "url": "https://burnettspecialists.com/choice-specialists-dallas-staffing-agency-professional-recruiting-firm/",
+        "model": "Direct hire, temp-to-hire, temporary staffing and payrolling",
+        "hq": "W Mockingbird Ln, Dallas",
+        "parent": "Burnett Specialists",
+        "bestFor": "Texas employers who want a local, employee-owned firm",
+        "summary": "Choice Specialists is the Dallas brand of Burnett Specialists, a certified woman-owned business since 1997 that calls itself the largest employee-owned staffing firm in Texas. The Dallas office sits at 1341 W Mockingbird Lane and offers direct-hire placement, temp-to-hire, temporary and contract staffing, and payrolling for workers you have already found. The firm stresses that its recruitment specialists are long tenured.",
+        "good": [
+          "You want to payroll a known contractor without putting them on your own books",
+          "Admin, accounting, legal support and IT roles that need a local recruiter"
+        ],
+        "watch": [
+          "Ask whether a Dallas recruiter or a statewide team will run your search",
+          "Confirm which office owns your order if you also hire in Houston"
+        ]
+      },
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/tx-dallas-ft-worth",
+        "model": "Contract, full-time placement and executive search",
+        "hq": "Noel Rd, Dallas and W Plano Pkwy, Plano",
+        "bestFor": "Accounting and finance teams that need a contractor this week",
+        "summary": "Robert Half says it pioneered specialized staffing in 1948, and it is listed on the New York Stock Exchange. In the metroplex it runs offices at 13727 Noel Road in Dallas and 6275 West Plano Parkway in Plano, plus an office in Fort Worth. Its local teams place finance and accounting, technology, marketing and creative, legal, and administrative and customer support talent on contract, project or full-time terms.",
+        "good": [
+          "An accountant or analyst has to start Monday",
+          "You want one vendor across several professional job families"
+        ],
+        "watch": [
+          "Contract bill rates reflect the brand; ask for the markup on each role",
+          "Your account may sit with a different practice team per job family"
+        ]
+      },
+      {
+        "id": "beacon-hill",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/Locations/Dallas",
+        "model": "Staff augmentation, contract to hire, direct hire, executive search",
+        "hq": "North Dallas Pkwy, Dallas",
+        "bestFor": "Mid-level professional roles split by specialist division",
+        "summary": "Beacon Hill's Dallas office at 14841 North Dallas Parkway houses four of its divisions: Associates for administrative and professional roles, Financial, Legal and Technologies. The parent group, Beacon Hill Solutions Group, describes itself as one of the largest workforce and business solutions companies in the world, and it also runs HR, life sciences and government services divisions elsewhere.",
+        "good": [
+          "You hire legal and finance support as well as tech",
+          "You like a dedicated division team rather than a generalist desk"
+        ],
+        "watch": [
+          "HR and life sciences divisions are not listed at the Dallas office",
+          "Meetings at this location are scheduled by appointment"
+        ]
+      },
+      {
+        "id": "addison",
+        "name": "Addison Group",
+        "url": "https://addisongroup.com/locations/",
+        "model": "Staffing, direct hire and consulting",
+        "hq": "Noel Rd, Dallas",
+        "bestFor": "Finance, IT and HR hiring with a Fort Worth office as backup",
+        "summary": "Addison Group lists its Dallas office at 13760 Noel Road, Suite 800, and a second North Texas office downtown on Commerce Street in Fort Worth. Its practice areas are finance and accounting, information technology, human resources, healthcare, administrative and digital marketing, and the group also sells consulting through sister brands.",
+        "good": [
+          "You hire across Dallas and Fort Worth and want one agreement",
+          "Healthcare administration and corporate roles in the same budget"
+        ],
+        "watch": [
+          "Ask whether a consulting brand or the staffing team will run your order",
+          "Senior searches may route to a national practice team rather than the local office"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco",
+        "url": "https://www.vaco.com/about/locations/dallas/",
+        "model": "Contract, direct hire and temp-to-hire",
+        "hq": "Dallas Pkwy, Plano",
+        "parent": "Highspring",
+        "bestFor": "Finance transformation and tech projects that need interim talent",
+        "summary": "Vaco's North Texas team works from 2500 Dallas Parkway in Plano. Vaco is now the talent solutions division of Highspring, a professional services group that also sells consulting and managed services. Locally it covers accounting and finance, technology and digital, and HR and operations through contract, direct hire and temp-to-hire arrangements.",
+        "good": [
+          "You need an interim controller or a project team, not only a single hire",
+          "You may want consulting help alongside the people"
+        ],
+        "watch": [
+          "Check whether the quote comes from Vaco staffing or Highspring consulting",
+          "The Plano office serves Dallas; ask about on-site meetings in the city"
+        ]
+      },
+      {
+        "id": "lasalle",
+        "name": "LaSalle Network",
+        "url": "https://www.thelasallenetwork.com/dallas/",
+        "model": "Temporary staffing and direct hire search",
+        "hq": "Dallas Pkwy, Plano",
+        "bestFor": "Technology hires in DFW, plus seasonal temporary teams",
+        "summary": "LaSalle Network's Dallas page lists an office at 7250 Dallas Parkway in Plano and leads with technology recruiting: product and engineering, cybersecurity, data and analytics, PMO, enterprise systems, and infrastructure and cloud, on direct hire or contract terms. Across the firm it also staffs accounting and finance, healthcare, HR, marketing, sales, supply chain, engineering and administrative roles.",
+        "good": [
+          "A cybersecurity or data role has sat open for a quarter",
+          "You need a temporary team for a busy season every year"
+        ],
+        "watch": [
+          "The Dallas team is tech heavy; confirm who covers other job families",
+          "Ask how many open roles each recruiter carries"
+        ]
+      },
+      {
+        "id": "teksystems",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "model": "Technology staffing and IT services",
+        "hq": "N O'Connor, Irving and Dallas Pkwy, Plano",
+        "parent": "Allegis Group",
+        "bestFor": "Large IT contract programs",
+        "summary": "TEKsystems runs two North Texas offices: 5205 North O'Connor in Irving and 2400 Dallas Parkway in Plano. It is part of Allegis Group, which its own site describes as a $14.5 billion network of companies. TEKsystems sells both technology talent and delivered IT services, so a buyer can start with contractors and move to a managed project.",
+        "good": [
+          "You need many IT contractors at once",
+          "You want the option to turn staff augmentation into a fixed scope project"
+        ],
+        "watch": [
+          "Small single role orders may get less senior attention",
+          "Clarify whether a sister Allegis company will also submit candidates"
+        ]
+      },
+      {
+        "id": "medix",
+        "name": "Medix",
+        "url": "https://www.medixteam.com/locations/",
+        "model": "Healthcare, life sciences and locum tenens staffing",
+        "hq": "Executive Dr, Irving",
+        "bestFor": "Clinics and health systems hiring clinical and revenue cycle staff",
+        "summary": "Medix lists its Dallas office at 5601 Executive Drive in Irving. The firm places physicians, advanced practice providers, allied and nursing clinicians, and specialists in revenue cycle, insurance and care management, and it builds teams for life sciences clients across the development lifecycle. It recently added locum tenens.",
+        "good": [
+          "You hire both clinical and back office healthcare staff",
+          "A life sciences team needs contract specialists"
+        ],
+        "watch": [
+          "Locum tenens is new for the firm; ask for local references",
+          "Compare per diem nurse coverage against our <a href=\"/agencies/nursing-staffing-agencies/\">nursing staffing guide</a>"
+        ]
+      },
+      {
+        "id": "snelling",
+        "name": "Snelling",
+        "url": "https://www.snelling.com/dallas/",
+        "model": "Light industrial, clerical and professional staffing",
+        "hq": "S Zang Blvd, Dallas",
+        "bestFor": "Warehouse, manufacturing and call center volume",
+        "summary": "Snelling's Dallas office is at 400 South Zang Boulevard, with sister offices in Garland on the LBJ Freeway and in Arlington. The team covers light industrial and manufacturing, clerical and administrative, customer service and call center, logistics and distribution, skilled trades, and professional and executive staffing.",
+        "good": [
+          "You need a dozen hourly workers for a distribution shift",
+          "You want an office close to Oak Lawn, Garland or Arlington job sites"
+        ],
+        "watch": [
+          "Ask about safety training and who carries workers' comp",
+          "Professional searches are a smaller part of the local business"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When Dallas employers should recruit directly",
+      "p": [
+        "The metroplex has one of the deepest professional labor pools in the country, which cuts both ways: candidates are plentiful, but so are competing offers. If you place the same accountant or developer profile through an agency every quarter, those fees would usually fund an internal recruiter within a year.",
+        "A lean internal setup needs three things: an applicant tracking system that keeps past applicants searchable, a scheduling tool that books interviews within a day, and a way to reach passive candidates. Our <a href=\"/stacks/recruitment-tools-for-staffing-agencies/\">staffing agency stack</a> shows what agencies themselves run, and the <a href=\"/categories/applicant-tracking-systems/\">applicant tracking systems category</a> compares the record keeping layer."
+      ]
+    },
+    "sections": [
+      {
+        "h": "How Dallas pricing usually works",
+        "p": [
+          "Ask every shortlisted firm the same two questions: what is the bill rate for a contract staff accountant for twelve weeks, and what is the placement fee for a permanent one at your salary band. Firms that answer quickly have the market data; firms that need a week are probably building a quote from scratch.",
+          "For light industrial and call center work, ask for the pay rate and the markup separately, and confirm who handles drug screening and background checks. Our <a href=\"/categories/background-checks/\">background check category</a> covers the vendors agencies typically use."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which staffing agency in Dallas is best for temporary office work?",
+        "a": "For clerical and administrative temps, Choice Specialists, Robert Half and Snelling all list administrative staffing from Dallas offices. Ask each for its fill time on a one week assignment."
+      },
+      {
+        "q": "Do Plano and Irving offices count as Dallas agencies?",
+        "a": "For most hiring, yes. Plano and Irving are inside the Dallas metro, and several national firms run their North Texas teams from there."
+      },
+      {
+        "q": "How much do Dallas staffing agencies charge?",
+        "a": "Contract roles are billed as an hourly rate that includes the worker's pay plus a markup; permanent placements are usually a percentage of first year salary. Rates vary by role, so request written quotes."
+      },
+      {
+        "q": "Can my firm be added to this list?",
+        "a": "Yes. Use the listing details below; we check every firm's Dallas office before adding it."
+      },
+      {
+        "q": "Is there a Dallas agency that offers payrolling?",
+        "a": "Choice Specialists lists payrolling services, which lets you put a worker you found yourself on the agency's payroll."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/nursing-staffing-agencies/",
+        "label": "Nursing staffing agencies"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-high-volume-hiring/",
+        "label": "High volume hiring stack"
+      },
+      {
+        "href": "/agencies/",
+        "label": "All agency guides"
+      }
+    ]
   }
 ]
