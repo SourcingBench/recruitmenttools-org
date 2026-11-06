@@ -266,7 +266,9 @@
    "keyword": "staffing agencies in dallas",
    "volume": 12100,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-dallas",
+   "date": "2026-11-06"
   },
   {
    "id": "rt-pm-002",
