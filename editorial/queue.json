@@ -7,7 +7,9 @@
    "keyword": "nursing staffing agencies",
    "volume": 2400,
    "noon_target": "/built-for/nurses",
-   "status": "queued"
+   "status": "published",
+   "slug": "nursing-staffing-agencies",
+   "date": "2026-11-06"
   },
   {
    "id": "rt-002",
