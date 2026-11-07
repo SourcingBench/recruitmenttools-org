@@ -506,5 +506,264 @@
         "label": "All agency guides"
       }
     ]
+  },
+  {
+    "slug": "staffing-and-recruiting-firms",
+    "short": "Staffing and recruiting firms",
+    "h1": "Staffing and recruiting firms: 10 national names and the hiring problem each one solves",
+    "seoTitle": "Staffing and Recruiting Firms: 10 National Firms Compared (2026)",
+    "description": "Ten U.S. staffing and recruiting firms compared by model: specialized contract staffing, IT consulting, franchised local offices, same-day labor and executive search, with headquarters and what to ask each.",
+    "date": "2026-11-07",
+    "updated": "2026-11-07",
+    "lead": "How many staffing firms does a mid-sized employer actually need? Usually two or three, each matched to a different kind of hire. The ten firms below are all national, all still independent brands under the parents named here as of November 2026, and all verified on their own websites this week. They are grouped by what they are built to do, not by revenue, because a firm that fills forklift shifts by the morning is a poor choice for a controller search and the reverse is just as true.",
+    "shortAnswer": "<b>Short answer:</b> for specialized contract and permanent hires in finance, technology, legal and administration, start with <a href=\"#robert-half\">Robert Half</a>. For IT contractors at volume, call <a href=\"#insight-global\">Insight Global</a> or <a href=\"#kforce\">Kforce</a>. For locally owned offices in smaller markets, <a href=\"#express\">Express Employment Professionals</a>. For same-day industrial and event labor, <a href=\"#peopleready\">PeopleReady</a>.",
+    "choose": [
+      {
+        "h": "Decide whether you are buying hours or a hire.",
+        "p": "Contract staffing bills an hourly markup for as long as the person works for you; direct hire charges a one-time fee, usually a share of first-year salary. Many firms on this list do both, but most have a center of gravity, and the recruiters you meet will be trained on that side of the business."
+      },
+      {
+        "h": "Match the firm's specialty to the job family.",
+        "p": "A generalist branch can fill a receptionist role in a day, but a SOX auditor or a Kubernetes engineer needs a recruiter who works that niche every week. Ask how many people in that exact job family the local team placed in the last quarter."
+      },
+      {
+        "h": "Ask who owns the candidate relationship.",
+        "p": "Franchised networks are run by local owners, so service quality varies by office. Company-owned branches follow one playbook. Neither is better, but you should know which you are signing with before you negotiate terms."
+      },
+      {
+        "h": "Get the conversion terms in writing.",
+        "p": "If you may hire a contractor permanently, agree the conversion fee and the hours after which it drops before the first person starts. This is the clause most often disputed later."
+      }
+    ],
+    "firms": [
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en",
+        "model": "Specialized contract, permanent placement, executive search",
+        "hq": "Offices across the U.S. and abroad (NYSE: RHI)",
+        "bestFor": "Professional roles in finance, accounting, technology, marketing, legal and admin",
+        "summary": "Robert Half says it pioneered specialized staffing in 1948 and calls itself the world's largest specialized talent solutions and business consulting firm. It recruits for contract and full-time roles and runs executive search, with specialties in finance and accounting, technology, marketing and creative, legal, and administrative support.",
+        "good": [
+          "You need a temporary accountant or analyst this week and may convert them later",
+          "You want one supplier across several professional job families"
+        ],
+        "watch": [
+          "Markups on specialized contract talent sit above generalist rates, so compare on total cost per filled hour",
+          "Ask whether your search is handled locally or by a remote practice team"
+        ]
+      },
+      {
+        "id": "randstad",
+        "name": "Randstad USA",
+        "url": "https://www.randstadusa.com/",
+        "model": "Temporary, temp-to-hire and permanent staffing across many industries",
+        "hq": "Atlanta, GA",
+        "bestFor": "Employers who want one national supplier for operational and professional roles",
+        "summary": "Randstad USA lists its registered office at One Overton Park in Atlanta and is part of the Netherlands-based Randstad N.V. group. Its U.S. site covers operational work (customer service, industrial, manufacturing and logistics, skilled trades) alongside professional lines such as engineering, finance and accounting, healthcare, HR and legal, life sciences, and sales and marketing, plus a high volume solutions offering.",
+        "good": [
+          "You run both warehouse and office hiring and want a single contract",
+          "You need high volume hiring for a seasonal ramp"
+        ],
+        "watch": [
+          "A firm this broad assigns your account to a specific division; meet that team, not only the sales lead",
+          "Confirm which branch will actually source candidates for your site"
+        ]
+      },
+      {
+        "id": "kelly",
+        "name": "Kelly",
+        "url": "https://www.kellyservices.com/",
+        "model": "Temporary staffing, direct hire, MSP and RPO",
+        "hq": "Troy, MI",
+        "bestFor": "Large employers that want staffing plus a managed service program",
+        "summary": "Kelly says it opened in Detroit in 1946 and now lists its headquarters at 999 West Big Beaver Road in Troy, Michigan, with operations in about 80 countries. Beyond temporary and direct hire staffing it offers managed service provider and recruitment process outsourcing programs, and it runs specialty units for education, engineering, science and clinical, government, and professional and industrial work, plus the Motion Recruitment and Softworld technology brands.",
+        "good": [
+          "You want one partner to manage all your contingent suppliers",
+          "You staff substitute teachers or clinical research roles"
+        ],
+        "watch": [
+          "Under an MSP, ask how Kelly treats competing agencies in the order flow",
+          "Specialty units run somewhat separately, so references should come from the unit you will use"
+        ]
+      },
+      {
+        "id": "insight-global",
+        "name": "Insight Global",
+        "url": "https://insightglobal.com/",
+        "model": "IT and professional staffing, direct placement, RPO, consulting",
+        "hq": "Atlanta, GA",
+        "bestFor": "Technology contractors at speed and scale",
+        "summary": "Insight Global has operated since 2001, lists its corporate office on Hammond Drive in Atlanta and describes itself as the second largest IT staffing company in the U.S. It reports more than 70 offices across 35 states, Washington DC, Canada, the UK, India and the Philippines. Services run from contract staffing and direct placement to executive search, recruitment process outsourcing and a consulting arm.",
+        "good": [
+          "You need several developers, analysts or help desk staff on short notice",
+          "You want offshore and onshore contractors from one supplier"
+        ],
+        "watch": [
+          "Speed is the selling point, so screen submissions yourself before interviews",
+          "Ask how many of the submitted candidates were already in their database versus newly sourced"
+        ]
+      },
+      {
+        "id": "kforce",
+        "name": "Kforce",
+        "url": "https://www.kforce.com/",
+        "model": "Technology and finance and accounting staffing, contract and direct hire",
+        "hq": "Tampa, FL",
+        "bestFor": "Mid-sized and enterprise teams hiring technology and finance professionals",
+        "summary": "Kforce lists its corporate headquarters at 1150 Assembly Drive in Tampa, Florida, and focuses on technology and finance and accounting talent placed on a temporary or direct-hire basis. The firm cites more than 60 years in business, roughly 1,800 clients and about 17,000 consultants on assignment.",
+        "good": [
+          "You want a firm narrower than a generalist but with national reach",
+          "You hire contractors in both IT and accounting"
+        ],
+        "watch": [
+          "Its focus is professional work, so look elsewhere for light industrial",
+          "Request the ratio of contract to direct-hire placements in your city"
+        ]
+      },
+      {
+        "id": "express",
+        "name": "Express Employment Professionals",
+        "url": "https://www.expresspros.com/",
+        "model": "Franchised staffing through locally owned offices",
+        "hq": "Oklahoma City, OK",
+        "bestFor": "Employers in smaller metros who want a locally owned office",
+        "summary": "Express says it was founded in 1983, is internationally headquartered in Oklahoma City and runs a franchise model in which each office is locally owned. It appears on the Entrepreneur Franchise 500 and on SIA's list of the largest global staffing firms, and says its network puts about a million people to work each year in all types of jobs at all levels.",
+        "good": [
+          "You want an owner who lives in your town and answers the phone",
+          "You hire across production, office and skilled roles locally"
+        ],
+        "watch": [
+          "Each franchise sets much of its own practice, so get references from your specific office",
+          "Multi-state employers may deal with several separate owners"
+        ]
+      },
+      {
+        "id": "beacon-hill",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/",
+        "model": "Specialty staffing divisions, contract, contract-to-hire, direct hire, executive search",
+        "hq": "Boston, MA",
+        "bestFor": "Specialist professional roles where a dedicated division matters",
+        "summary": "Beacon Hill lists its corporate headquarters at 20 Ashburton Place in Boston and runs separate divisions for administrative associates, financial, government services, HR, legal, life sciences and technologies. It offers staff augmentation, contract-to-hire, direct hire and executive search, appears on Forbes' 2025 list of America's Best Recruiting and Temporary Staffing Firms, and says it has been on SIA's largest staffing firms list for 11 years.",
+        "good": [
+          "You hire paralegals, clinical research staff or HR generalists and want a specialist desk",
+          "You prefer a privately held firm with division-level focus"
+        ],
+        "watch": [
+          "Coverage is strongest in its established metros; ask about remote placement elsewhere",
+          "The old beaconhillstaffing.com address now redirects to bhsg.com"
+        ]
+      },
+      {
+        "id": "addison",
+        "name": "Addison Group",
+        "url": "https://addisongroup.com/",
+        "model": "Professional staffing, executive search, consulting",
+        "hq": "Chicago, IL",
+        "bestFor": "Finance, IT and HR hires with a consulting option",
+        "summary": "Addison Group lists its headquarters at 225 West Randolph Street in Chicago and staffs finance and accounting, information technology, human resources, non-clinical healthcare, administrative and digital marketing roles. It also runs executive search and a consulting practice for projects that need a team rather than a single hire.",
+        "good": [
+          "You need an interim controller and may later need a project team",
+          "You are based in the Midwest and want a firm rooted there"
+        ],
+        "watch": [
+          "Clarify whether a project is billed as staffing or as consulting, since terms differ",
+          "Ask which offices hold recruiters for your job family"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco by Highspring",
+        "url": "https://www.vaco.com/",
+        "model": "Contingent workforce and direct hire in accounting, finance, HR, operations and technology",
+        "hq": "45+ offices worldwide",
+        "bestFor": "Finance and technology talent with an advisory firm behind it",
+        "summary": "Vaco now brands itself Vaco by Highspring. Highspring says it was built on Vaco, MorganFranklin Consulting, Focus Search Partners and BUILT, and that its chief executive co-founded Vaco in 2002. The Vaco site lists more than 45 offices and seven international delivery centers, with talent solutions in accounting and finance, HR and operations, and technology.",
+        "good": [
+          "You need contract finance staff during a system migration or audit",
+          "You may also want transaction or IPO readiness help from the parent"
+        ],
+        "watch": [
+          "The rebrand means older contracts may name a different entity; check before renewing",
+          "Confirm whether your account sits with Vaco or another Highspring brand"
+        ]
+      },
+      {
+        "id": "peopleready",
+        "name": "PeopleReady",
+        "url": "https://www.peopleready.com/",
+        "model": "Same-day and on-demand industrial staffing, temp-to-hire",
+        "hq": "400+ branches in all 50 states and Puerto Rico",
+        "bestFor": "General labor, events, warehouse and construction shifts",
+        "summary": "PeopleReady cites more than 35 years in workforce services and over 400 company-owned locations covering all 50 states and Puerto Rico. Employers order workers through its JobStack app, often for the same or next day, in warehousing, construction, hospitality and events, retail and general labor.",
+        "good": [
+          "You need ten loaders tomorrow morning",
+          "You want to order and rate workers in an app rather than by phone"
+        ],
+        "watch": [
+          "On-demand workers rotate, so plan safety orientation for every shift",
+          "Not a fit for professional or salaried roles"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "Hires you should keep in-house",
+      "p": [
+        "Agencies earn their fee when speed or volume beats everything else. For steady, repeatable hiring, such as the same sales or support role every quarter, a recruiter on payroll who owns a warm pipeline will usually cost less within a year than paying a placement fee on every hire.",
+        "The cost gap has narrowed further because sourcing software now does much of the research an agency recruiter used to bill for. A team can run <a href=\"https://www.noon.ai/built-for/staffing-agencies\">AI sourcing tools such as Noon</a> to find matching people across the open web and reach them by email and SMS, then hand only the roles that need a specialist's network to an outside firm. Our <a href=\"/stacks/recruitment-tools-for-staffing-agencies/\">staffing agency tool stack</a> lists the software most firms on this page also use."
+      ]
+    },
+    "sections": [
+      {
+        "h": "What a fair markup looks like",
+        "p": [
+          "Contract pricing is quoted as a bill rate: the worker's pay rate plus the firm's markup, which covers payroll taxes, workers' compensation, benefits, recruiting and margin. Light industrial markups are typically lower than specialized professional ones because the recruiting effort per hire is smaller.",
+          "Ask each shortlisted firm to price the same scenario in writing, for example one staff accountant for 12 weeks at a stated pay rate, and compare the totals. A lower markup with a high conversion fee can cost more than a higher markup with free conversion after 520 hours."
+        ]
+      },
+      {
+        "h": "Staffing firm or recruiting firm?",
+        "p": [
+          "In practice the terms overlap. Staffing firms place workers who stay on the agency's payroll; recruiting firms place people directly onto yours. Most of the firms above do both. Pure retained search boutiques, which charge in stages for senior hires, sit outside this list; our <a href=\"/agencies/nursing-staffing-agencies/\">nursing staffing agencies</a> page shows how a single-industry list differs."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the difference between a staffing firm and a recruiting firm?",
+        "a": "A staffing firm employs the worker and bills you by the hour while they are on assignment. A recruiting firm finds a candidate you hire directly and charges a one-time fee. Most large firms, including all ten on this list, offer both."
+      },
+      {
+        "q": "Which staffing firm is best for IT contractors?",
+        "a": "Insight Global and Kforce are built around technology contractors, and Robert Half and Beacon Hill run dedicated technology practices. Ask each for recent placements in your exact stack."
+      },
+      {
+        "q": "Are franchised staffing offices worse than company-owned ones?",
+        "a": "Not necessarily. A franchise such as an Express office is run by a local owner, which can mean faster decisions and closer relationships, but quality varies more from office to office. Always take references from the specific branch."
+      },
+      {
+        "q": "How many staffing firms should one company use?",
+        "a": "Two or three is common for a mid-sized employer: one for hourly or industrial work, one for professional contract roles, and possibly a specialist for a hard job family. More than that is usually managed through an MSP."
+      },
+      {
+        "q": "How were these firms chosen?",
+        "a": "Each is a national U.S. firm with an active website verified in November 2026. Headquarters, services and history come from the firms' own pages. No firm paid to appear."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-dallas/",
+        "label": "Staffing agencies in Dallas"
+      },
+      {
+        "href": "/agencies/nursing-staffing-agencies/",
+        "label": "Nursing staffing agencies"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-staffing-agencies/",
+        "label": "Recruitment tools for staffing agencies"
+      }
+    ]
   }
 ]
