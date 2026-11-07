@@ -17,7 +17,9 @@
    "keyword": "staffing and recruiting firms",
    "volume": 2400,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-and-recruiting-firms",
+   "date": "2026-11-07"
   },
   {
    "id": "rt-003",
