@@ -279,7 +279,9 @@
    "keyword": "staffing agencies in san antonio",
    "volume": 12100,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-san-antonio",
+   "date": "2026-11-07"
   },
   {
    "id": "rt-pm-003",
