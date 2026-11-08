@@ -1022,5 +1022,265 @@
         "label": "All agency guides"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-chicago",
+    "short": "Chicago staffing",
+    "h1": "Staffing agencies in Chicago: 10 firms with a desk in the Loop, River North or the western suburbs",
+    "seoTitle": "Staffing Agencies in Chicago: 10 Firms With Verified Offices (2026)",
+    "description": "Ten Chicago staffing agencies whose own websites list a local office, from Randolph, LaSalle and Wacker in the Loop to Clark Street in River North and the Westchester and Westmont suburbs, sorted by the hires each handles best.",
+    "date": "2026-11-08",
+    "updated": "2026-11-08",
+    "lead": "Which Chicago agency should get your next requisition? Start with geography. Seven of the ten firms below run an office within a few blocks of the Chicago River downtown, two work from the western suburbs where much of the region's engineering and manufacturing work sits, and one is a global executive search firm headquartered in Willis Tower. We read each firm's own location or contact page in November 2026 and record the street address it publishes, so you can ask for the people in that office by name.",
+    "shortAnswer": "<b>Short answer:</b> for finance, accounting and office roles, start with <a href=\"#addison-chi\">Addison Group</a>, <a href=\"#lasalle-chi\">LaSalle Network</a> or <a href=\"#robert-half-chi\">Robert Half</a>. Administrative and legal support fits <a href=\"#beacon-hill-chi\">Beacon Hill</a> and <a href=\"#banner-chi\">Banner Personnel</a>. Technology contractors point to <a href=\"#teksystems-chi\">TEKsystems</a> or <a href=\"#insight-global-chi\">Insight Global</a>. Engineers for plants and labs go to <a href=\"#sterling-chi\">Sterling Engineering</a> or <a href=\"#jsg-chi\">Johnson Service Group</a>, and a C-suite search belongs with <a href=\"#heidrick-chi\">Heidrick &amp; Struggles</a>.",
+    "choose": [
+      {
+        "h": "Decide between a Loop firm and a suburban one.",
+        "p": "Downtown offices recruit heavily for professional roles that commute into the city. If your site is in Oak Brook, Schaumburg or Elk Grove Village, a branch in the western or northwest suburbs often knows that commuting pool better than a team on Wacker Drive."
+      },
+      {
+        "h": "Ask who owns the Chicago search.",
+        "p": "National firms sometimes list a Chicago address while a practice team elsewhere does the sourcing. Request the name of the recruiter assigned to your order and how many Chicago placements they made in your job family this year."
+      },
+      {
+        "h": "Compare guarantees before fees.",
+        "p": "Replacement windows on direct hires vary from firm to firm. Line up the written guarantee, the conversion fee for contract to hire, and the payment terms, then compare the percentage."
+      },
+      {
+        "h": "Check local pay rules for hourly orders.",
+        "p": "Chicago sets its own minimum wage and paid leave ordinance on top of Illinois law, and the state's Day and Temporary Labor Services Act adds duties for agencies placing laborers. Ask any firm sending hourly workers how it handles both."
+      }
+    ],
+    "firms": [
+      {
+        "id": "addison-chi",
+        "name": "Addison Group",
+        "url": "https://addisongroup.com/contact/",
+        "model": "Staffing, talent solutions, executive search and consulting",
+        "hq": "W Randolph St, Chicago (headquarters)",
+        "bestFor": "Finance, accounting, IT and HR hires for a downtown office",
+        "summary": "Addison Group lists its corporate headquarters at 225 W Randolph, Suite 1900, and runs offices in more than a dozen other U.S. cities. Its practice areas are finance and accounting, information technology, human resources, healthcare, administrative and digital marketing, with executive search and consulting sold alongside staffing.",
+        "good": [
+          "You want a firm whose leadership sits in the same city as your team",
+          "You are hiring across finance and IT in the same quarter"
+        ],
+        "watch": [
+          "Ask which practice area will staff your order, since each runs its own recruiters",
+          "Confirm whether your role is handled by the Chicago team or a remote desk"
+        ]
+      },
+      {
+        "id": "banner-chi",
+        "name": "Banner Personnel",
+        "url": "https://www.bannerpersonnel.com/",
+        "model": "Temporary, temp to hire and direct hire staffing",
+        "hq": "W Jackson Blvd, Chicago, plus Libertyville and Naperville",
+        "bestFor": "Office support, call center, medical and light industrial roles",
+        "summary": "Banner Personnel says it has staffed employers across Chicagoland for more than 50 years. Its downtown office is at 53 W. Jackson Boulevard, Suite 1219, and it also publishes locations in Libertyville and Naperville. Specialty areas on its site include support professionals, sales and marketing, industrial, medical, accounting and finance, education, customer service and call center work, and executive search.",
+        "good": [
+          "You hire office and call center staff in the city and the suburbs",
+          "You want a regional firm rather than a national brand"
+        ],
+        "watch": [
+          "Ask which of the three offices will handle your order",
+          "For industrial roles, confirm the branch nearest your site"
+        ]
+      },
+      {
+        "id": "lasalle-chi",
+        "name": "LaSalle Network",
+        "url": "https://www.thelasallenetwork.com/",
+        "model": "Temporary staffing and direct hire search",
+        "hq": "N LaSalle St, Chicago",
+        "bestFor": "Accounting, technology, HR, marketing and supply chain roles",
+        "summary": "LaSalle Network publishes its office at 200 N. LaSalle St., Suite 2500. The firm sells temporary staffing and direct hire search and organizes its recruiters by expertise: accounting and finance, administrative and customer support, engineering, healthcare, human resources, marketing, sales, supply chain and technology, plus executive search.",
+        "good": [
+          "You need a temporary accountant now and a permanent hire later",
+          "You want one Chicago firm covering several office functions"
+        ],
+        "watch": [
+          "Ask how many recruiters on your specialty team sit in the LaSalle Street office",
+          "Get the temp to hire conversion schedule in writing"
+        ]
+      },
+      {
+        "id": "insight-global-chi",
+        "name": "Insight Global",
+        "url": "https://insightglobal.com/locations/illinois/staffing-agency-chicago-il/",
+        "model": "Staffing, direct placement, executive search, RPO and consulting",
+        "hq": "N Clark St, River North",
+        "bestFor": "IT, data and engineering contractors at volume",
+        "summary": "Insight Global's Chicago office is at 353 North Clark St, Suite 1500, in River North. Its Illinois page also lists offices in Aurora, Elgin, Joliet and Naperville, among others. Services range from contract staffing and direct placement to recruitment process outsourcing and consulting in IT, data, cloud and engineering.",
+        "good": [
+          "You are staffing a technology project and need several people quickly",
+          "You may want to outsource a whole hiring program later"
+        ],
+        "watch": [
+          "Run your own technical screen on fast submittals",
+          "Clarify the conversion fee before a contractor starts"
+        ]
+      },
+      {
+        "id": "robert-half-chi",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/il-chicago/10-s-riverside-plz",
+        "model": "Contract, full-time placement and executive search",
+        "hq": "S Riverside Plaza, West Loop",
+        "bestFor": "Accounting, technology, legal, creative and admin staff",
+        "summary": "Robert Half runs a Chicago office at 10 S Riverside Plaza, across the river from the Loop. The location page covers contract and full-time talent in finance and accounting, technology, marketing and creative, legal, and administrative and customer support, with executive search also offered.",
+        "good": [
+          "You need a contract accountant during close",
+          "You want one vendor for several professional job families"
+        ],
+        "watch": [
+          "Specialized contract rates run above generalist rates",
+          "Ask whether a Chicago recruiter or a national team will source your role"
+        ]
+      },
+      {
+        "id": "beacon-hill-chi",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/locations/chicago",
+        "model": "Contract, contract to hire and direct hire staffing",
+        "hq": "W Madison St, Chicago",
+        "bestFor": "Administrative, financial and legal support",
+        "summary": "Beacon Hill lists its Chicago office at 200 W Madison St, Suite 1100. The location page says the office serves Chicagoland across administrative, financial and legal sectors, including administrative support, customer service, executive assistance, entry level talent and marketing.",
+        "good": [
+          "You need an executive assistant or legal support quickly",
+          "You want contract staff with an option to convert"
+        ],
+        "watch": [
+          "Technology roles may be handled by a different Beacon Hill division",
+          "Ask for local references in your industry"
+        ]
+      },
+      {
+        "id": "teksystems-chi",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "model": "Technology staffing and IT services",
+        "hq": "N Wacker Dr, Chicago, plus Downers Grove",
+        "parent": "Allegis Group",
+        "bestFor": "Developers, infrastructure and help desk contractors",
+        "summary": "TEKsystems lists a Chicago office at 123 North Wacker Drive, Suite 1650, and a second Illinois location in Downers Grove. It sells both IT staffing and project services such as cloud, data and application work, so a two person contract can grow into a statement of work.",
+        "good": [
+          "You need several technology contractors on short notice",
+          "You may later move to a managed project engagement"
+        ],
+        "watch": [
+          "Large accounts get the most attention, so agree a review cadence",
+          "Ask how many submitted candidates already live in the Chicago area"
+        ]
+      },
+      {
+        "id": "sterling-chi",
+        "name": "Sterling Engineering",
+        "url": "https://www.sterling-engineering.com/contact/",
+        "model": "Engineering consulting and technical staffing, contract and direct hire",
+        "hq": "Westbrook Corporate Center, Westchester",
+        "bestFor": "Automation, process and manufacturing engineers",
+        "summary": "Sterling Engineering's contact page lists Two Westbrook Corporate Center, Suite 300, in west suburban Westchester. The firm pairs engineering consulting with technical staffing and names automation, life sciences, utilities, renewable energy, food and beverage, manufacturing and technology as its focus industries.",
+        "good": [
+          "You run a plant or lab and need engineers who have done the work",
+          "You may want a project team rather than individual hires"
+        ],
+        "watch": [
+          "It is a specialist, so office and IT roles belong elsewhere",
+          "Confirm whether you are buying staffing or a consulting engagement"
+        ]
+      },
+      {
+        "id": "jsg-chi",
+        "name": "Johnson Service Group",
+        "url": "https://www.jsginc.com/",
+        "model": "Contract and direct hire staffing",
+        "hq": "E Oak Hill Dr, Westmont",
+        "bestFor": "Engineering disciplines, IT and technical healthcare roles",
+        "summary": "Johnson Service Group publishes an office at 1 E Oak Hill Drive, Suite 200, in Westmont. Its job categories run from biomedical, chemical, civil, electrical, mechanical and structural engineering to computers and software, construction, finance and several healthcare specialties such as laboratory, pharmacy and radiology.",
+        "good": [
+          "You need a hard to find engineering discipline in the western suburbs",
+          "You hire technical contractors across several fields"
+        ],
+        "watch": [
+          "Ask which recruiters cover your exact discipline",
+          "Check that candidates are local before paying for relocation"
+        ]
+      },
+      {
+        "id": "heidrick-chi",
+        "name": "Heidrick &amp; Struggles",
+        "url": "https://www.heidrick.com/",
+        "model": "Executive search and leadership consulting",
+        "hq": "Willis Tower, S Wacker Dr, Chicago (headquarters)",
+        "bestFor": "Chief executive, board and functional C-suite searches",
+        "summary": "Heidrick &amp; Struggles lists its headquarters at 233 South Wacker Drive, Suite 4900, in Willis Tower. It is a retained executive search and leadership advisory firm with practices for chief executives and boards, financial officers, technology officers and other senior roles, plus on demand interim talent.",
+        "good": [
+          "You are replacing a chief executive or adding board members",
+          "You need confidential search for a senior leader"
+        ],
+        "watch": [
+          "Retained search is paid in stages whether or not you hire",
+          "Not built for volume or individual contributor roles"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When a Chicago team should recruit without an agency",
+      "p": [
+        "If you fill the same role every quarter, such as staff accountants for a River North firm or maintenance technicians for a plant near O'Hare, the fees can outgrow the cost of a recruiter on payroll. The test is volume and repetition: an agency is best for a one off or urgent search, while a steady pipeline is cheaper to build yourself.",
+        "An internal setup needs an applicant tracking system that keeps past candidates searchable, a scheduling tool and a way to reach people who are not applying. Our <a href=\"/stacks/recruitment-tools-for-scaling-companies/\">stack for scaling companies</a> covers the core pieces, and the <a href=\"/categories/sourcing-tools/\">sourcing tools category</a> compares search products. Agencies that want to grow without adding headcount can read how <a href=\"https://www.noon.ai/built-for/staffing-agencies\">an AI sourcer works inside a staffing firm</a>; Noon finds candidates and contacts them by email and SMS."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Comparing quotes from Chicago firms",
+        "p": [
+          "Give every finalist the same two scenarios: a twelve week contract for a mid level role and a permanent hire for the same role at your salary band. Ask for the bill rate, the markup, the placement fee and the guarantee. Firms that are active in the local market will answer within a business day.",
+          "For hourly orders, ask who pays for background checks and drug screens. Our <a href=\"/categories/background-checks/\">background check category</a> lists the screening providers many agencies use."
+        ]
+      },
+      {
+        "h": "How we built this list",
+        "p": [
+          "We included only firms whose own website lists a street address in Chicago or its suburbs, loaded each location or contact page in November 2026, and dropped any brand whose page failed to load or no longer showed a local office. Service and ownership details come from each firm's own site. Firms appear in no particular rank, and none paid for inclusion or position."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the best staffing agency in Chicago?",
+        "a": "It depends on the role. Addison Group, LaSalle Network and Robert Half are strong for finance and office hires, TEKsystems and Insight Global for technology, Sterling Engineering and Johnson Service Group for engineers, and Heidrick &amp; Struggles for executive search."
+      },
+      {
+        "q": "Are there engineering staffing firms in the Chicago suburbs?",
+        "a": "Yes. Sterling Engineering is based in Westchester and Johnson Service Group in Westmont, both west of the city, and both place engineers on contract and direct hire terms."
+      },
+      {
+        "q": "Do Chicago staffing agencies place temporary office workers?",
+        "a": "Yes. Banner Personnel, LaSalle Network, Beacon Hill and Robert Half all offer temporary or contract office staffing, often with an option to convert the worker to a permanent hire."
+      },
+      {
+        "q": "How do I get my staffing firm added to this Chicago list?",
+        "a": "Email us with your firm name, website and the address of your Chicago area office. We review new firms for this guide every month."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-dallas/",
+        "label": "Staffing agencies in Dallas"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-san-antonio/",
+        "label": "Staffing agencies in San Antonio"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "National staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/",
+        "label": "All agency guides"
+      }
+    ]
   }
 ]

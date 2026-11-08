@@ -290,7 +290,9 @@
    "keyword": "staffing agencies in chicago",
    "volume": 9900,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-chicago",
+   "date": "2026-11-08"
   },
   {
    "id": "rt-pm-004",
