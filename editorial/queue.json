@@ -303,7 +303,9 @@
    "keyword": "staffing agencies in phoenix",
    "volume": 9900,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-phoenix",
+   "date": "2026-11-09"
   },
   {
    "id": "rt-pm-005",
