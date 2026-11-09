@@ -43,7 +43,9 @@
    "keyword": "electrical staffing agencies",
    "volume": 720,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "electrical-staffing-agencies",
+   "date": "2026-11-09"
   },
   {
    "id": "rt-006",
