@@ -325,7 +325,9 @@
    "keyword": "staffing agencies in charlotte",
    "volume": 9900,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-charlotte",
+   "date": "2026-11-10"
   },
   {
    "id": "rt-pm-007",
