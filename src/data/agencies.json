@@ -1803,5 +1803,257 @@
         "label": "All agency guides"
       }
     ]
+  },
+  {
+    "slug": "luxury-staffing-agencies",
+    "short": "Luxury staffing agencies",
+    "h1": "Luxury staffing agencies: 10 firms for private households, estates and luxury brands",
+    "seoTitle": "Luxury Staffing Agencies: 10 Firms for Estates and Luxury Brands (2026)",
+    "description": "Ten luxury staffing agencies compared for 2026: household and estate staffing firms for private clients and family offices, and recruiters that place boutique, corporate and executive talent for luxury fashion, jewelry and beauty brands.",
+    "date": "2026-11-10",
+    "updated": "2026-11-10",
+    "lead": "Luxury staffing means two different businesses: placing estate managers, chefs, nannies and assistants in private homes and family offices, and recruiting client advisors, store directors and executives for luxury brands. Five firms below come from each side. Every fact comes from the firm's own website, checked on the publication date, and no firm paid to appear.",
+    "shortAnswer": "<b>Short answer:</b> for household and estate roles, start with <a href=\"#pavillion\">Pavillion Agency</a>, <a href=\"#bahs\">British American Household Staffing</a> or <a href=\"#assistant-company\">The Assistant Company</a>; for senior private service hires and family offices, add <a href=\"#private-staff-group\">Private Staff Group</a> and <a href=\"#career-group-private\">Career Group</a>. For luxury retail and brand roles, compare <a href=\"#luxury-recruiter\">Luxury Recruiter</a>, <a href=\"#brobston\">Brobston Group</a>, <a href=\"#fourth-floor\">Fourth Floor</a>, <a href=\"#recruiting-specialists\">Recruiting Specialists</a> and, for creative and executive searches, <a href=\"#morgan-philips\">Morgan Philips</a>.",
+    "choose": [
+      {
+        "h": "Name the side of the market first.",
+        "p": "A household manager search and a boutique director search use different candidate pools, different reference checks and different fee terms. Agencies that do both usually run them as separate divisions, so ask which desk will own your order before you sign anything."
+      },
+      {
+        "h": "Ask how the firm vets people who will work inside a home.",
+        "p": "For residential roles, the agency should explain its reference calls, background screening and trial day process in detail. Ask what happens if the placement leaves early and how long the replacement guarantee runs; the better firms publish their fee and guarantee policy."
+      },
+      {
+        "h": "For brand roles, ask for placements in your exact category.",
+        "p": "A watch specialist recruiter may not know beauty counters or corporate merchandising. Ask for three recent searches at your level, category and city."
+      }
+    ],
+    "firms": [
+      {
+        "id": "pavillion",
+        "name": "Pavillion Agency",
+        "url": "https://pavillionagency.com/",
+        "model": "Household and corporate hospitality staffing",
+        "hq": "New York (E 40th St, near Fifth Avenue); also West Hollywood and Miami Beach",
+        "bestFor": "Private households that need nannies, housekeepers, chefs, estate staff or household payroll help",
+        "summary": "Pavillion says it has placed domestic staff since 1962 and describes itself as the largest household staffing agency in the United States. It lists offices on East 40th Street in Manhattan, in West Hollywood and in Miami Beach, and also offers household payroll and corporate hospitality staffing.",
+        "good": [
+          "You want one firm for several household roles across New York, Los Angeles or South Florida",
+          "You need household payroll handled alongside the placement"
+        ],
+        "watch": [
+          "Ask which office and which recruiter will run your search",
+          "Confirm the guarantee terms for live in roles"
+        ]
+      },
+      {
+        "id": "bahs",
+        "name": "British American Household Staffing",
+        "url": "https://bahs.com/",
+        "model": "Private household and estate staffing",
+        "hq": "New York; also Los Angeles, London and Dubai",
+        "bestFor": "International families that need staff across several residences or countries",
+        "summary": "BAHS lists offices in New York, Los Angeles, London and Dubai and places nannies, including Norland trained nannies, along with estate, eldercare, yacht and art collection staff. It also offers estate consulting, and its site notes licensing as a recruiter with New York City's Department of Consumer and Worker Protection.",
+        "good": [
+          "Your household moves between the United States, the United Kingdom and the Gulf",
+          "You want consulting on how to structure an estate team"
+        ],
+        "watch": [
+          "Clarify which placements are handled from the United States desk",
+          "Ask how fees work for staff hired for a second residence abroad"
+        ]
+      },
+      {
+        "id": "assistant-company",
+        "name": "The Assistant Company",
+        "url": "https://www.theassistantcompany.com/",
+        "model": "Boutique private service staffing",
+        "hq": "Offices or phone lines in Las Vegas, Beverly Hills, Miami, West Palm Beach, New York, Atlanta, Phoenix, Nashville and Santa Barbara",
+        "bestFor": "Estate managers, household managers and personal assistants for private clients",
+        "summary": "The Assistant Company calls itself a boutique agency and lists estate managers, household managers, personal assistants, nannies and housekeepers among its placements. Its site publishes local contact numbers for nine markets, from Las Vegas and Beverly Hills to Nashville and Santa Barbara, and has a dedicated page on fees and its guarantee.",
+        "good": [
+          "You hire for a home outside New York or Los Angeles",
+          "You want fee and guarantee terms in writing before the first call"
+        ],
+        "watch": [
+          "Ask whether the recruiter in your market meets candidates in person",
+          "Confirm the search timeline for senior estate roles"
+        ]
+      },
+      {
+        "id": "private-staff-group",
+        "name": "Private Staff Group",
+        "url": "https://www.privatestaffgroup.com/",
+        "model": "Executive search for private service and estate management",
+        "hq": "United States (national practice)",
+        "bestFor": "Ultra high net worth families and family offices hiring senior estate leadership",
+        "summary": "Private Staff Group describes its work as boutique executive search for private service and estate management, serving ultra high net worth individuals and family offices. Roles on its site include estate, ranch and house managers, executive and personal assistants, chiefs of staff, private chefs and executive housekeepers. Founder Stephen Candland's biography lists earlier roles at Korn Ferry, Goldman Sachs and Morgan Stanley.",
+        "good": [
+          "The hire is a chief of staff or estate director who will manage other staff",
+          "You want an executive search process rather than a placement desk"
+        ],
+        "watch": [
+          "Executive search usually means a retained or engaged fee; ask how it is structured",
+          "Check how many senior estate searches the firm runs at once"
+        ]
+      },
+      {
+        "id": "career-group-private",
+        "name": "Career Group (Private Services)",
+        "url": "https://www.careergroupcompanies.com/industries/private-services-estate-staffing",
+        "model": "Private service and estate staffing division of a larger staffing firm",
+        "hq": "Los Angeles; also San Francisco, New York, Miami, Dallas and Greenwich, Connecticut",
+        "bestFor": "Family offices and households that also hire corporate administrative staff",
+        "summary": "Career Group says it has more than 40 years in staffing and runs a private services practice for estates and family offices. Its site lists offices in Los Angeles, San Francisco, New York, Miami, Dallas and Greenwich, and describes the company as women owned.",
+        "good": [
+          "You want household and family office roles filled by the same firm",
+          "Your residences are near one of the six listed offices"
+        ],
+        "watch": [
+          "Confirm the private services recruiter rather than a general desk is on your search",
+          "Ask whether temporary household coverage is offered in your city"
+        ]
+      },
+      {
+        "id": "fourth-floor",
+        "name": "Fourth Floor",
+        "url": "https://www.careergroupcompanies.com/fourth-floor",
+        "model": "Fashion, beauty and luxury recruiting division",
+        "hq": "Recruiters in New York, Los Angeles, San Francisco, Miami and Dallas",
+        "bestFor": "Corporate and creative roles at fashion, beauty and luxury companies",
+        "summary": "Fourth Floor is Career Group's division for fashion, beauty and luxury, and its own address now redirects to a page on the Career Group site. It lists recruiters in New York, Los Angeles, San Francisco, Miami and Dallas for brand side roles.",
+        "good": [
+          "You hire design, merchandising or marketing staff for a luxury label",
+          "You already use Career Group for administrative hiring"
+        ],
+        "watch": [
+          "Fourth Floor operates under Career Group, so contracts are with the parent",
+          "Ask whether it covers boutique selling roles or only corporate teams"
+        ],
+        "parent": "Career Group Companies"
+      },
+      {
+        "id": "brobston",
+        "name": "Brobston Group",
+        "url": "https://brobstongroup.com/hire-talent",
+        "model": "Luxury and fashion recruiting firm",
+        "hq": "New York",
+        "bestFor": "Store leadership, corporate and executive hires for luxury fashion, jewelry, home and beauty brands",
+        "summary": "Brobston Group says William Brobston founded it in 2017 in New York and that it has worked with more than 100 luxury brands. It recruits corporate, retail leadership and executive talent across fashion, jewelry, home decor and beauty, covers the top 25 markets in the United States and Canada, and also offers job posting services.",
+        "good": [
+          "You are opening or restaffing stores in several North American cities",
+          "You want a recruiter who also posts and screens for volume store roles"
+        ],
+        "watch": [
+          "Ask which searches are run by the founder and which by the wider team",
+          "Confirm fee terms differ for store level and executive roles"
+        ]
+      },
+      {
+        "id": "luxury-recruiter",
+        "name": "Luxury Recruiter",
+        "url": "https://luxuryrecruiter.com/about",
+        "model": "Luxury retail recruiting, permanent and contract",
+        "hq": "United States (no office address published)",
+        "bestFor": "Client advisors, watch and jewelry specialists and boutique managers",
+        "summary": "Luxury Recruiter focuses on United States luxury retail and lists client advisors, watch and jewelry specialists, boutique managers, visual merchandisers and loss prevention among its roles. Its site names shopping districts it recruits for, including Worth Avenue, Bal Harbour, Madison and Fifth Avenue, Rodeo Drive, South Coast Plaza and Highland Park Village.",
+        "good": [
+          "You need selling staff with an existing clientele book",
+          "Your boutique sits in one of the destination streets the firm names"
+        ],
+        "watch": [
+          "No street address is published, so ask where the recruiter is based",
+          "Ask how candidates' client books are verified"
+        ]
+      },
+      {
+        "id": "recruiting-specialists",
+        "name": "Recruiting Specialists",
+        "url": "https://www.recruitingspecialists.com/luxury-retail.html",
+        "model": "Retail executive recruiting",
+        "hq": "Dedham, Massachusetts",
+        "bestFor": "Corporate, field and merchandising leaders in luxury retail",
+        "summary": "Recruiting Specialists says it was founded in 1982 and lists a Dedham, Massachusetts mailing address. Its luxury retail page splits searches into corporate roles such as chief executive, finance chief and director of stores, field roles such as regional and district managers, and merchandising roles such as buyers and planners, across watches and jewelry, designer apparel, home furnishings and cosmetics.",
+        "good": [
+          "You need a regional or district manager rather than store staff",
+          "You want a recruiter that has covered retail for decades"
+        ],
+        "watch": [
+          "Ask how many of its recent searches were in luxury rather than broader retail",
+          "Confirm coverage on the West Coast"
+        ]
+      },
+      {
+        "id": "morgan-philips",
+        "name": "Morgan Philips USA",
+        "url": "https://us.morganphilips.com/luxury-and-fashion",
+        "model": "Global executive search",
+        "hq": "New York (W 56th St); group offices in more than 20 countries",
+        "bestFor": "Creative director, design and marketing leadership at luxury and fashion brands",
+        "summary": "Morgan Philips runs a luxury and fashion practice covering luxury houses, high end fast fashion and independent labels across apparel, footwear, jewelry and lifestyle. Its United States page lists a New York address on West 56th Street, and the group reports operations in more than 20 countries.",
+        "good": [
+          "The role reports to a global brand headquarters in Europe",
+          "You need a creative or marketing leader with international experience"
+        ],
+        "watch": [
+          "Executive search fees and minimums apply; ask for terms early",
+          "Confirm whether the search is run from New York or a European office"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit luxury talent yourself",
+      "p": [
+        "Brands that open several boutiques a year often build their own retail recruiting team, because client advisor and stock roles open constantly and an agency fee on each one adds up quickly. A good in house setup pairs an <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a> with a referral program for current advisors, who usually know who has a strong client book at the store down the street.",
+        "Private households rarely recruit directly, and with reason: the hiring family needs discretion, careful references and a background check, and most do not want their name on a job post. Family offices that hire often are the exception; they sometimes keep one trusted agency for senior roles and fill junior positions through referrals, with a <a href=\"/categories/background-checks/\">background check provider</a> handling screening."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Household fees and brand fees work differently",
+        "p": [
+          "Household agencies typically charge the employer a placement fee tied to the employee's annual salary and pair it with a replacement guarantee. The Assistant Company publishes its fee and guarantee policy, which makes it easy to compare against other quotes. Ask every firm the same three questions: the fee basis, the guarantee length and whether a trial period counts toward it.",
+          "Luxury brand recruiting is closer to ordinary contingent or retained search. Boutique selling roles are usually contingent, while creative director and country manager searches are often retained, with part of the fee paid at the start. If you are comparing a specialist against a generalist staffing firm, our guide to <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> explains the difference between the two fee models."
+        ]
+      },
+      {
+        "h": "What a good brief looks like",
+        "p": [
+          "For a home, write down the schedule, whether the role lives in, the number of residences, travel expectations, pay range and the confidentiality agreement you will ask the candidate to sign. For a boutique, give the sales target, the client book you expect a new advisor to bring and the brands that count as relevant experience. Agencies quote faster and shortlist better when they see those details on day one."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is a luxury staffing agency?",
+        "a": "It is a firm that places staff with wealthy private clients, such as estate managers, nannies and chefs, or one that recruits for luxury brands, from client advisors to executives. Some firms do both through separate divisions."
+      },
+      {
+        "q": "How much do household staffing agencies charge?",
+        "a": "Most charge the employer a placement fee based on the employee's annual salary, with a replacement guarantee if the hire leaves early. Terms vary by firm and role, so ask for the fee and guarantee in writing."
+      },
+      {
+        "q": "Which agencies recruit for luxury retail stores?",
+        "a": "On this list, Luxury Recruiter focuses on boutique selling and management roles, Brobston Group covers store leadership and corporate roles, and Recruiting Specialists handles regional, corporate and merchandising leaders."
+      },
+      {
+        "q": "How can my agency get listed on this page?",
+        "a": "Email us with your firm name, website, office locations and the luxury roles you fill. We verify every firm against its own site before adding it."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-dallas/",
+        "label": "Staffing agencies in Dallas"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-staffing-agencies/",
+        "label": "Recruitment tools for staffing agencies"
+      }
+    ]
   }
 ]
