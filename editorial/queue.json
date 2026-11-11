@@ -336,7 +336,9 @@
    "keyword": "staffing agencies in las vegas",
    "volume": 9900,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-las-vegas",
+   "date": "2026-11-11"
   },
   {
    "id": "rt-pm-008",
