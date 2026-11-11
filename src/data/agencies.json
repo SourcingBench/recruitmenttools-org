@@ -2297,5 +2297,260 @@
         "label": "Recruitment tools for staffing agencies"
       }
     ]
+  },
+  {
+    "slug": "fashion-recruitment-agencies",
+    "short": "Fashion recruitment agencies",
+    "h1": "Fashion recruitment agencies: 10 firms for design, product and brand hiring",
+    "seoTitle": "Fashion Recruitment Agencies: 10 Firms Compared (2026)",
+    "description": "Ten fashion recruitment agencies compared for 2026, from freelance and temp desks for design and showroom work to executive search for brand leaders, with each firm's model, base and best fit taken from its own website.",
+    "date": "2026-11-11",
+    "updated": "2026-11-11",
+    "lead": "Pick the agency by the job, not by the brand names on its homepage. A fashion company hiring a technical designer for spring, a showroom temp for market week and a new president is really buying three different services, and few firms are strong at all three. The ten below split into freelance and temp desks, contingency recruiters for corporate roles, and executive search firms. Every fact comes from each firm's own website as checked on November 11, 2026, and none of them paid to be listed.",
+    "shortAnswer": "<b>Short answer:</b> for freelance designers and season cover, call <a href=\"#24-seven\">24 Seven</a> or <a href=\"#atrium\">Atrium</a>. For corporate roles on a pay only if you hire basis, try <a href=\"#the-fashion-network\">The Fashion Network</a> or <a href=\"#sbh-fashion\">SBH Fashion</a>. For directors and executives, compare <a href=\"#accur\">ACCUR</a>, <a href=\"#solomon-page\">Solomon Page</a> and <a href=\"#martin-kartin\">Martin Kartin &amp; Co.</a>",
+    "choose": [
+      {
+        "h": "Decide between freelance, contingency and retained.",
+        "p": "Freelance and temp work is billed hourly with the agency's margin built in. Contingency recruiters charge a share of first year salary only when you hire, while retained search firms take part of the fee up front. Pick the model before you call, because firms quote differently for each."
+      },
+      {
+        "h": "Test category knowledge in the first call.",
+        "p": "Ask the recruiter to name two recent placements in your product category, for example denim, handbags or private label knitwear. A firm that fills luxury handbag roles may not know the mills, factories and trade shows a mass market apparel hire comes from."
+      },
+      {
+        "h": "Check where the candidates live.",
+        "p": "Design and product teams still cluster in New York and Los Angeles. If your studio is elsewhere, ask how many relocations the firm has completed in the past year and who pays for them."
+      }
+    ],
+    "firms": [
+      {
+        "id": "24-seven",
+        "name": "24 Seven",
+        "url": "https://www.24seventalent.com/specialties/fashion/",
+        "model": "Creative and fashion talent agency, full time and freelance",
+        "hq": "Offices in New York, Los Angeles, Chicago and other US cities, plus London and Toronto",
+        "bestFor": "Freelance designers, merchandisers and ecommerce staff alongside permanent hires",
+        "summary": "24 Seven runs a dedicated fashion practice next to its marketing, creative and technology work. Its fashion page covers design, merchandising, ecommerce, marketing, retail and executive roles, and its open jobs include patternmaking, CAD, textile design, production and sourcing and sample coordination.",
+        "good": [
+          "You need a freelance technical designer or CAD artist for one season",
+          "You hire across several US cities and want one supplier"
+        ],
+        "watch": [
+          "Confirm the recruiter on your order works the fashion desk rather than general creative",
+          "Get freelance bill rates and conversion fees in writing before the first booking"
+        ]
+      },
+      {
+        "id": "solomon-page",
+        "name": "Solomon Page",
+        "url": "https://www.solomonpage.com/fashion-beauty",
+        "model": "Specialty staffing and executive search with a fashion and beauty division",
+        "hq": "260 Madison Avenue, New York, NY",
+        "bestFor": "Corporate fashion, retail and beauty roles from coordinator up to executive",
+        "summary": "Solomon Page groups fashion and retail recruiting with beauty and consumer recruiting in one division, and offers both full time placement and executive search from its Madison Avenue headquarters. The wider firm also runs finance, technology and healthcare practices, which helps when a brand hires corporate functions too.",
+        "good": [
+          "You want permanent placement and executive search from the same firm",
+          "Your brand also hires finance or technology staff"
+        ],
+        "watch": [
+          "Ask whether the division has filled your exact function, such as planning or wholesale",
+          "Executive searches and full time placements carry different fee terms"
+        ]
+      },
+      {
+        "id": "atrium",
+        "name": "Atrium",
+        "url": "https://www.atriumstaff.com/jobs/fashion-lifestyle/",
+        "model": "Woman owned staffing firm with temp, temp to hire and direct hire",
+        "hq": "250 Vesey Street, New York, NY",
+        "bestFor": "Showroom, buying, planning and design support on a temporary or temp to hire basis",
+        "summary": "Atrium is a WBENC certified, woman owned staffing company headquartered at 250 Vesey Street in Lower Manhattan. Its fashion and lifestyle practice fills wholesale and corporate roles (buying, merchandising, planning, showroom management), design roles from CAD and tech design to footwear and print, and retail management.",
+        "good": [
+          "You need temps during market week or a buying season",
+          "Supplier diversity rules favor certified woman owned vendors"
+        ],
+        "watch": [
+          "Clarify which office staffs your order if you are outside New York",
+          "Ask how long a temp must work before conversion is fee free"
+        ]
+      },
+      {
+        "id": "sbh-fashion",
+        "name": "SBH Fashion",
+        "url": "https://sbhfashion.com/",
+        "model": "Fashion staffing: contingent search, freelance, executive and retail",
+        "hq": "New York, with recruiters in New Jersey, Los Angeles, Washington DC and Dallas",
+        "bestFor": "Mid level design, product development and showroom hires in New York",
+        "summary": "SBH Fashion says it has worked in fashion staffing for more than 40 years, starting as a small family owned business serving New York clients. It offers contingent search, freelance placements, executive search and retail staffing, with recruiters in several cities and outreach to candidates in Europe.",
+        "good": [
+          "You want a long established New York fashion specialist",
+          "You need freelance cover and permanent search from one desk"
+        ],
+        "watch": [
+          "Retail store hiring and corporate hiring are separate services, so specify which you need",
+          "Ask for recent placements in your product category"
+        ]
+      },
+      {
+        "id": "the-fashion-network",
+        "name": "The Fashion Network",
+        "url": "https://thefashionetwork.com/",
+        "model": "Contingency recruiter for fashion, retail and ecommerce",
+        "hq": "New York, NY",
+        "bestFor": "Apparel, private label, swim and accessories companies hiring from assistant to VP",
+        "summary": "The Fashion Network has recruited for New York fashion, retail and ecommerce companies since 2001 and says ownership oversees every search. It works on contingency, so the fee is due only if you hire a candidate it presents, and it backs each placement with a guarantee. Location pages also cover Los Angeles, Miami and Chicago.",
+        "good": [
+          "You want to pay only on a successful hire",
+          "Your product is apparel, textiles, private label or swim"
+        ],
+        "watch": [
+          "Contingency firms may present fewer candidates on hard senior roles",
+          "Check the length of the guarantee before you sign"
+        ]
+      },
+      {
+        "id": "prtnr-recruiting",
+        "name": "PRTNR Recruiting",
+        "url": "https://www.prtnrrecruiting.com/",
+        "model": "Boutique full time recruiter, female founded and operated",
+        "hq": "Not listed; current open searches are mostly in Los Angeles",
+        "bestFor": "Product development, technical design and merchandising roles at lifestyle brands",
+        "summary": "PRTNR Recruiting is a boutique firm that recruits for fashion, accessories, home, beauty and consumer lifestyle brands, and describes itself as female founded, owned and operated. Its jobs page in November 2026 listed a denim technical designer, an apparel product developer and a handbag product development coordinator, all in Los Angeles.",
+        "good": [
+          "You hire product and design staff in Southern California",
+          "You prefer a small team that handles the search personally"
+        ],
+        "watch": [
+          "Confirm capacity before giving a boutique several roles at once",
+          "No office address is published, so agree on meeting arrangements early"
+        ]
+      },
+      {
+        "id": "emerging-blue",
+        "name": "Emerging Blue",
+        "url": "https://www.emergingblue.com/",
+        "model": "Staffing agency and HR partner for fashion, home and beauty brands",
+        "hq": "Not listed; contact by phone (415 area code) and email",
+        "bestFor": "Direct to consumer brands that want freelance staff, permanent hires or ongoing HR support",
+        "summary": "Emerging Blue calls itself a brand focused staffing and HR partner. It prices freelance and temp work at an hourly bill rate, full time hires as a percentage of annual earnings, and its EB 360 HR service at a monthly fee. Clients named on its site include Vuori, Everlane, Mother Denim, Rothy's and The North Face.",
+        "good": [
+          "You want staffing and outsourced HR from the same partner",
+          "Your brand sells mostly direct to consumer"
+        ],
+        "watch": [
+          "Compare the EB 360 monthly fee with hiring an HR generalist",
+          "Ask which client brands it currently works with in your category"
+        ]
+      },
+      {
+        "id": "afa-staffing",
+        "name": "AFA Staffing",
+        "url": "https://afa-staffing.com/",
+        "model": "Temporary and permanent staffing for wholesale fashion",
+        "hq": "Not listed; permanent work centered on Los Angeles",
+        "bestFor": "Entry level and early career staff for wholesale apparel brands and market weeks",
+        "summary": "AFA Staffing focuses on women's careers in fashion. It started about six years ago placing temps with wholesale apparel brands at apparel markets, then added permanent staffing as demand grew, especially in Los Angeles. It pairs placements with mentorship and training for people early in their careers.",
+        "good": [
+          "You staff a showroom for a market or trade show",
+          "You want early career hires who arrive with some training"
+        ],
+        "watch": [
+          "Better suited to junior roles than to leadership searches",
+          "Ask how candidates are screened for wholesale experience"
+        ]
+      },
+      {
+        "id": "accur",
+        "name": "ACCUR Recruiting Services",
+        "url": "https://accurservices.com/industry-expertise/fashion-recruiters-executive-search-firm/",
+        "model": "Executive and professional search for consumer and luxury goods",
+        "hq": "New York and Montclair, NJ, with offices in Miami, Los Angeles, Bogota and Buenos Aires",
+        "bestFor": "Mid to senior management in fashion, especially digital and ecommerce roles",
+        "summary": "ACCUR recruits mid level to senior managers for fashion and apparel companies from luxury to casual, in both corporate and retail settings. Its fashion page highlights digital and ecommerce roles, and the firm says it has been in business for more than 17 years with over 500 completed recruitments.",
+        "good": [
+          "You need an ecommerce director or digital lead with fashion experience",
+          "You hire for US and Latin American offices"
+        ],
+        "watch": [
+          "Ask whether your role is run as executive search or contingency, as it offers both",
+          "Confirm which office will run the search"
+        ]
+      },
+      {
+        "id": "martin-kartin",
+        "name": "Martin Kartin & Co.",
+        "url": "https://www.martinkartin.com/",
+        "model": "Executive search led by senior partners",
+        "hq": "Not listed on its site",
+        "bestFor": "Leadership hires at founder led or private equity backed beauty and fashion brands",
+        "summary": "Martin Kartin & Co. is run by Martin Kartin and Rebecca Kartin Levin, a father and daughter team who lead each search themselves. The firm specializes in beauty and wellness and also covers fashion, accessories and food and beverage, with a focus on brands that are founder led or backed by private equity.",
+        "good": [
+          "You want a senior partner on the search from start to finish",
+          "You are scaling a brand after an investment round"
+        ],
+        "watch": [
+          "A two person leadership team limits how many searches run at once",
+          "Expect executive search terms rather than contingency"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When a fashion brand should recruit in house",
+      "p": [
+        "Brands that hire the same roles every season, such as associate designers, merchandising assistants or store managers, usually save money by building their own pipeline. The basics are an <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a>, a portfolio review step that every candidate goes through and a short list of fashion schools and trade shows to recruit from.",
+        "For senior creative roles, the work that takes longest is finding designers who are not looking. Some teams use <a href=\"https://noon.ai/built-for/designers\">AI sourcing for design roles</a>, which searches for matching designers and sends personalized email and SMS outreach, then hand interested candidates to the creative director. You can compare that category on our <a href=\"/categories/sourcing-tools/\">sourcing tools</a> page."
+      ]
+    },
+    "sections": [
+      {
+        "h": "New York, Los Angeles and everywhere else",
+        "p": [
+          "Six of the ten firms list a New York office, which matches where most corporate fashion jobs sit. Los Angeles is the second hub, and PRTNR and AFA Staffing both focus much of their work there, around denim, contemporary apparel and wholesale showrooms. If you hire in Portland, Dallas or Miami, ask each firm whether it has filled roles locally or will be recruiting people to relocate.",
+          "Freelance markets are local as well. A CAD artist or patternmaker booked for a few weeks usually needs to be in the studio, so pick a freelance desk with a pool in your city."
+        ]
+      },
+      {
+        "h": "What to compare in fashion agency quotes",
+        "p": [
+          "Ask every firm for the same five things: the fee on a sample salaried role, the bill rate on a sample freelance role, the guarantee period, the fee to convert a freelancer to staff and two references from brands in your category. For broader hiring beyond fashion, see our list of <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a>."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does a fashion recruitment agency do?",
+        "a": "It finds candidates for fashion brands and retailers, from freelance designers and showroom temps to merchandisers, planners and executives. Most firms specialize in either temporary staffing, contingency recruiting for corporate roles or executive search."
+      },
+      {
+        "q": "How much do fashion recruiters charge?",
+        "a": "Contingency and executive search firms usually charge a percentage of first year salary, while freelance and temp desks charge an hourly bill rate that includes their margin. Exact rates vary by firm and role, so ask each agency for a written quote."
+      },
+      {
+        "q": "Which fashion recruiters handle executive roles?",
+        "a": "On this list, ACCUR, Solomon Page, Martin Kartin & Co. and 24 Seven all advertise executive or leadership search for fashion and consumer brands."
+      },
+      {
+        "q": "Can I hire freelance fashion designers through an agency?",
+        "a": "Yes. 24 Seven, SBH Fashion, Atrium and Emerging Blue all offer freelance or temporary fashion staffing, billed by the hour."
+      },
+      {
+        "q": "Are fashion recruiters different from luxury recruiters?",
+        "a": "There is overlap, but luxury recruiters focus on high end brands and clienteling roles, while many fashion recruiters work across mass market, contemporary and private label apparel. See our list of luxury staffing agencies for firms that focus on the high end."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/luxury-staffing-agencies/",
+        "label": "Luxury staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/categories/sourcing-tools/",
+        "label": "Sourcing tools"
+      }
+    ]
   }
 ]
