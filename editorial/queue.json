@@ -347,7 +347,9 @@
    "keyword": "staffing agencies in memphis",
    "volume": 9900,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-memphis",
+   "date": "2026-11-12"
   },
   {
    "id": "rt-pm-009",
