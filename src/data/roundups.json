@@ -50,5 +50,64 @@
       }
     ],
     "directory": "New on RecruitmentTools.org this week: vendor-neutral switching guides for teams leaving <a href=\"/switching/linkedin-recruiter/\">LinkedIn Recruiter</a>, <a href=\"/switching/seekout-hireez/\">SeekOut or hireEZ</a> and <a href=\"/switching/gem/\">Gem</a>."
+  },
+  {
+    "slug": "2026-11-12",
+    "title": "This week in recruiting tools: Workday moves to split up Mobley, HireVue adds fraud signals, Remote builds its own screener",
+    "date": "2026-11-12",
+    "period": "5 to 12 November 2026",
+    "summary": "A week where the legal and build questions caught up with the stack: Workday asked the court to decertify the Mobley age collective, HireVue shipped fraud detection across interviews and assessments, Remote's people team showed what an in house ATS looks like, Survale plugged candidate feedback into SmartRecruiters on the SAP Store, Dayforce closed on Ribbon, and the staffing numbers from Bullhorn and Recruit Holdings kept climbing.",
+    "items": [
+      {
+        "vendor": "Workday",
+        "category": "ATS / HRIS",
+        "headline": "Workday asked the court to decertify the age discrimination collective in Mobley v. Workday",
+        "detail": "Filed 10 Nov 2026 in federal court in San Francisco, as reported by <a href=\"https://startupfortune.com/workday-asks-a-federal-judge-to-break-up-the-ai-hiring-bias-case-against-it/\">Startup Fortune</a> citing MLex and Forbes. The collective now covers more than 15,000 opt in plaintiffs. A second filing asks Judge Rita Lin to stop the much wider applicant group from pursuing race, sex, age and disability claims together. Workday argues that employers, not Workday, make the hiring decisions and that each customer configures screening differently. This is a motion, not a ruling.",
+        "matters": "Whatever Judge Lin decides will set how much shared liability a screening vendor carries for its customers' outcomes. Buyers should keep asking vendors for configuration logs and adverse impact reporting now rather than after a ruling."
+      },
+      {
+        "vendor": "HireVue",
+        "category": "Assessments / interviews",
+        "headline": "HireVue launched advanced fraud detection inside its platform",
+        "detail": "Announced 10 Nov 2026 via PR Newswire (<a href=\"https://www.hjnews.com/news/state/hirevue-launches-advanced-fraud-detection-to-help-employers-validate-candidate-identity-and-skills/article_b2059f70-ad3a-5755-a5b8-9ad591479f35.amp.html\">release text</a>). The new capabilities connect identity, location and behavioral signals across interviews and assessments and present the evidence to hiring teams rather than issuing a verdict on their own.",
+        "matters": "Candidate fraud checks are moving from separate point tools into the interview and assessment layer. Teams already paying for HireVue should test this before buying a standalone identity product."
+      },
+      {
+        "vendor": "Remote",
+        "category": "ATS (build vs buy)",
+        "headline": "Remote's HR team replaced outside vendors with tools it built using AI, starting with a CV screener",
+        "detail": "Reported 10 Nov 2026 by <a href=\"https://www.hr-brew.com/stories/remotes-hr-team-ditched-external-vendors-and-is-building-their-own-hr-systems-with-ai\">HR Brew</a>. The project began as a January off site dare between founder Job van der Voort and CPO Barbara Matthews to build an ATS in house; a resume screener came first and grew into a wider rebuild of the internal stack, one homegrown tool at a time.",
+        "matters": "Most companies will not build an ATS, but a credible build option changes renewal conversations. Expect more buyers to ask why a screening add on costs what it does."
+      },
+      {
+        "vendor": "Survale / SAP SmartRecruiters",
+        "category": "Candidate experience",
+        "headline": "Survale joined SAP PartnerEdge and listed its SmartRecruiters integration on the SAP Store",
+        "detail": "Announced 10 Nov 2026 (<a href=\"https://www.citybuzz.co/2026/11/10/survale-joins-sap-partneredge-to-bring-talent-intelligence-integration-to-smartrecruiters-on-sap-store/\">citybuzz</a>). Status changes in SmartRecruiters trigger pulse surveys at each hiring stage, and responses are tied to job, location, source and hiring manager data.",
+        "matters": "SmartRecruiters customers inside the SAP estate get a procurement path for candidate feedback that does not need a separate contract negotiation."
+      },
+      {
+        "vendor": "Dayforce / Ribbon",
+        "category": "AI interviewing",
+        "headline": "Dayforce closed its acquisition of the AI interviewing platform Ribbon",
+        "detail": "Reported 5 Nov 2026 by <a href=\"https://www.hr-brew.com/stories/dayforce-closes-deal-to-acquire-ai-interviewing-platform-ribbon\">HR Brew</a>. Ribbon founder Arsham Ghahramani builds conversational AI voice interviews; Dayforce adds them to its HCM suite.",
+        "matters": "Another suite has bought its AI interviewer instead of partnering, which narrows the field of standalone voice screening vendors that integrate everywhere."
+      },
+      {
+        "vendor": "SIA / Bullhorn",
+        "category": "Staffing market",
+        "headline": "US staffing hours rose 12% year over year in the week ended 31 October",
+        "detail": "From the <a href=\"https://www.staffingindustry.com/news/global-daily-news/us-staffing-hours-hit-another-year-to-date-high-sia-bullhorn-staffing-indicator\">SIA | Bullhorn Staffing Indicator</a> published 10 Nov 2026: commercial hours up 13%, professional up 10% and industrial up 18% on the prior year, another year to date high.",
+        "matters": "Agencies heading into peak season on rising hours tend to add recruiters and seats, so renewal leverage sits with vendors through year end."
+      },
+      {
+        "vendor": "Recruit Holdings / Indeed",
+        "category": "Job boards",
+        "headline": "Recruit Holdings reported record quarterly revenue with its HR Technology unit leading",
+        "detail": "Results for the quarter ended 30 Sep 2026, reported 11 Nov by <a href=\"https://www.staffingindustry.com/news/global-daily-news/recruit-holdings-posts-record-high-revenue-in-q2-hr-tech-surges\">Staffing Industry Analysts</a>: revenue of JPY 1.09 trillion, about USD 6.88 billion, up 19.7%. Recruit is the parent of Indeed.",
+        "matters": "Indeed's owner is growing fast enough to keep pushing sponsored job pricing and its own screening features, which affects every ATS that posts there."
+      }
+    ],
+    "directory": "New on RecruitmentTools.org this week: shortlists of <a href=\"/agencies/nursing-staffing-agencies/\">nursing staffing agencies</a>, <a href=\"/agencies/electrical-staffing-agencies/\">electrical staffing agencies</a> and <a href=\"/agencies/fashion-recruitment-agencies/\">fashion recruitment agencies</a>, plus city guides for <a href=\"/agencies/staffing-agencies-in-chicago/\">Chicago</a> and <a href=\"/agencies/staffing-agencies-in-las-vegas/\">Las Vegas</a>."
   }
 ]
