@@ -183,7 +183,9 @@
    "keyword": "environmental staffing agencies",
    "volume": 170,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "environmental-staffing-agencies",
+   "date": "2026-11-13"
   },
   {
    "id": "rt-023",
