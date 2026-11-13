@@ -3072,5 +3072,278 @@
         "label": "Sourcing tools"
       }
     ]
+  },
+  {
+    "slug": "environmental-staffing-agencies",
+    "short": "Environmental staffing agencies",
+    "h1": "Environmental staffing agencies: 10 EHS, safety and sustainability recruiters compared",
+    "seoTitle": "Environmental Staffing Agencies: 10 EHS Recruiters Compared (2026)",
+    "description": "Ten environmental staffing agencies and EHS recruiters compared for 2026: who places safety, industrial hygiene, process safety and ESG talent, their published offices, and how they charge.",
+    "date": "2026-11-13",
+    "updated": "2026-11-13",
+    "lead": "Is the person you need going to keep a plant in compliance, or write the next sustainability report? That single question splits the environmental staffing market in two. Most firms that call themselves environmental recruiters actually work the environmental, health and safety (EHS) side: safety managers, industrial hygienists, process safety engineers. A smaller group places climate, ESG and sustainability staff. We opened the website of every firm below on November 13, 2026, read what each one says it places, and noted the office address it publishes so you can see who is local and who is not.",
+    "shortAnswer": "<b>Short answer:</b> for a permanent EHS manager or industrial hygienist, start with <a href=\"#consentium-search\">Consentium Search</a> or <a href=\"#select-search-llc\">Select Search</a>. For contract or contract to hire coverage, call <a href=\"#aarcher-talent\">Aarcher Talent</a> or <a href=\"#search-solution-group-ehs\">Search Solution Group</a>. For a head of sustainability or ESG reporting role, <a href=\"#acre-sustainability\">Acre</a> is the specialist.",
+    "choose": [
+      {
+        "h": "Write down the regulation the hire will own.",
+        "p": "An EHS manager at a chemical plant lives in OSHA process safety rules and air permits; an ESG manager lives in disclosure frameworks. Recruiters who place one rarely have a bench for the other, so naming the regulation in the brief tells you quickly whether a firm fits."
+      },
+      {
+        "h": "Decide between contract and permanent before you call.",
+        "p": "Remediation projects, shutdowns and audit seasons suit contract staff, and firms such as Aarcher Talent and YellowBird lead with that model. A permanent safety director is a search assignment, and boutique firms will usually ask for a retainer or an exclusive window."
+      },
+      {
+        "h": "Ask how many candidates the firm has placed in your niche this year.",
+        "p": "EHS is a small field. A firm that placed three industrial hygienists last quarter already knows who might move. A generalist will start from a job board, which you can do yourself."
+      },
+      {
+        "h": "Get the fee model in writing.",
+        "p": "Contingency fees are paid on hire, retained fees are paid in stages, and contract staff carry an hourly markup plus a conversion fee. Compare the total cost of each route for the same role before you sign."
+      }
+    ],
+    "firms": [
+      {
+        "id": "consentium-search",
+        "name": "Consentium Search",
+        "url": "https://consentiumsearch.com/",
+        "model": "Retained and contingency search for EHS professionals",
+        "hq": "51 JFK Parkway, Short Hills, NJ 07078",
+        "bestFor": "EHS managers, occupational safety leads and industrial hygienists, including roles at universities",
+        "summary": "Consentium describes itself as an American, woman owned search firm that recruits environmental health, occupational safety and industrial hygiene professionals for companies, academic institutions and other organizations across the United States and its territories. It offers both retained and contingency terms, and its about page says it keeps a database of more than 75,000 professionals and rejects what it calls post and pray recruiting in favor of direct search.",
+        "good": [
+          "You need an industrial hygienist or a campus EHS director and want a firm that works only this field",
+          "You want to choose between a retained engagement and a contingency fee for the same desk"
+        ],
+        "watch": [
+          "Confirm whether the search is retained or contingency in writing before work starts",
+          "A single office in New Jersey means most interviews will be remote for clients elsewhere"
+        ]
+      },
+      {
+        "id": "cps-inc-ehs",
+        "name": "CPS, Inc.",
+        "url": "https://www.cps4jobs.com/divisions/environmental-staffing/",
+        "model": "Staffing and recruiting across specialist divisions, including EHS",
+        "hq": "One Westbrook Center, Suite 600, Westchester, IL 60154",
+        "bestFor": "Plant EHS specialists for chemical, laboratory and manufacturing employers",
+        "summary": "CPS opened in 1973 to supply talent to the chemical industry and has since grown into a national recruiting firm with separate divisions. Its Environmental Health and Safety division has its own phone line and inbox, and it sits next to chemical engineering, industrial laboratory and supply chain desks. The contact page lists the Westchester headquarters plus offices in Sycamore, Illinois and Lake Geneva, Wisconsin.",
+        "good": [
+          "You also hire chemists, lab technicians or process engineers and want one firm for the site",
+          "You are in the Chicago region and prefer a recruiter who can visit the plant"
+        ],
+        "watch": [
+          "Ask which division owns your order if the role blends EHS with quality or lab work",
+          "Check that the recruiter assigned is on the EHS desk rather than a general division"
+        ]
+      },
+      {
+        "id": "select-search-llc",
+        "name": "Select Search, LLC",
+        "url": "https://selectsearchllc.com/",
+        "model": "Boutique EHS search for industrial clients",
+        "hq": "101 E. Market Street, Suite 1-B, Smithfield, NC 27577",
+        "bestFor": "Process safety, product safety, sustainability and greenhouse gas specialists",
+        "summary": "Select Search is run by Tom Harrell, who has worked in search consulting since 1994 and has placed candidates with privately held and Fortune 500 companies. The about page lists the specialties it has filled: environmental health and safety, process safety management, product safety, industrial hygiene, sustainability, greenhouse gas reporting and risk management. Openings posted on the site lean toward manufacturing EHS managers.",
+        "good": [
+          "You need a niche hire such as a process safety engineer or a GHG reporting lead",
+          "You prefer working directly with the principal rather than a team of junior recruiters"
+        ],
+        "watch": [
+          "A small firm can only run a few searches at once, so ask about current workload",
+          "Not built for contract or temporary coverage"
+        ]
+      },
+      {
+        "id": "pat-allen-associates",
+        "name": "Pat Allen Associates",
+        "url": "https://www.patallen.com/",
+        "model": "Safety recruiting, permanent placement",
+        "hq": "35 Stargazer Drive, Eastport, NY 11941",
+        "bestFor": "Insurance loss control consultants, fire protection engineers and boiler and machinery specialists",
+        "summary": "Pat Allen Associates has concentrated only on safety recruitment since 1980, according to its homepage. The firm names insurance loss control consultants, highly protected risk fire protection engineers, construction safety and industrial hygiene consultants, and boiler and machinery consultants as its core placements. Pat Allen and Jennifer Allen are listed by name with direct phone numbers.",
+        "good": [
+          "You are an insurer, broker or risk engineering firm hiring field consultants",
+          "You want a recruiter who has tracked the same small candidate pool for decades"
+        ],
+        "watch": [
+          "The site is simple and was last restyled years ago, so ask for recent placements as references",
+          "Narrow focus: not a fit for remediation, permitting or ESG reporting roles"
+        ]
+      },
+      {
+        "id": "safety-recruiters",
+        "name": "Safety Recruiters",
+        "url": "https://safetyrecruiters.com/",
+        "model": "Recruiting for safety, compliance and ESG roles",
+        "hq": "Address not published on the pages we read",
+        "bestFor": "Safety and compliance hires for insurers and growing industrial companies",
+        "summary": "Safety Recruiters says it partners with insurance entities and growing industrial organizations to build and maintain their safety programs, and that it has nearly 20 years of experience placing safety and compliance professionals. Its job board covers EHS, compliance and ESG openings, and the homepage stresses learning each candidate's career goals before placing them.",
+        "good": [
+          "You are building a safety program from scratch and need its first full time hire",
+          "You want a firm that also places compliance and ESG staff"
+        ],
+        "watch": [
+          "The site does not list an office address, so ask where the recruiters are based",
+          "Ask for examples in your industry, since the site names sectors only broadly"
+        ]
+      },
+      {
+        "id": "elias-associates",
+        "name": "Elias Associates",
+        "url": "https://www.eliasassociates.com/",
+        "model": "Executive search and network recruiting",
+        "hq": "12 Labaw Drive, Cranbury, NJ 08512",
+        "bestFor": "EHS leaders at pharmaceutical, chemical, medical device and food plants",
+        "summary": "Elias Associates is an executive search firm that places EHS, supply chain, quality, engineering, finance and human resources professionals. Its homepage lists pharmaceutical, chemical, medical device, biotech, consumer products, food, automotive, manufacturing and plastics as its industries, and says membership in recruiter networks including Top Echelon and NPA gives it access to candidates through partner firms.",
+        "good": [
+          "You run a regulated plant where EHS overlaps with quality and validation",
+          "You want a firm that can split a search with partner recruiters in other regions"
+        ],
+        "watch": [
+          "Ask whether your search will be shared through a network split and how candidates are presented",
+          "EHS is one of several desks, so confirm who has EHS experience"
+        ]
+      },
+      {
+        "id": "search-solution-group-ehs",
+        "name": "Search Solution Group",
+        "url": "https://www.searchsolutiongroup.com/recruiting-area/environmental-health-safety-recruitment-firm/",
+        "model": "Recruiting, staffing and executive search with an EHS desk",
+        "hq": "501 Minuet Lane, Charlotte, NC 28217",
+        "bestFor": "Employers that want EHS staffing and executive search from one national firm",
+        "summary": "Search Solution Group runs EHS recruitment and staffing nationwide as part of its operations and manufacturing practice. The firm describes itself as a full service recruiting, staffing and executive search company with more than 23 years in business, says 88 percent of its business is repeat business and that it operates in all 50 states from its Charlotte office.",
+        "good": [
+          "You need temporary EHS cover now and a permanent manager later",
+          "You want one vendor across plant operations, quality and safety roles"
+        ],
+        "watch": [
+          "A generalist firm with an EHS page, so test the recruiter's knowledge of OSHA and permitting early",
+          "Ask how candidate submittals compare with a niche firm's shortlist"
+        ]
+      },
+      {
+        "id": "aarcher-talent",
+        "name": "Aarcher Talent",
+        "url": "https://aarchertalent.com/",
+        "model": "EHS staffing: permanent, contract and contract to hire",
+        "hq": "Address not published on the pages we read; serves clients nationwide",
+        "bestFor": "Contract EHS technicians and contract to hire environmental specialists",
+        "summary": "Aarcher Talent is built around environmental, health and safety staffing and offers permanent, contract and contract to hire placements. The homepage says it serves industries throughout the United States and invites employers to schedule a meeting through a short form. It is one of the few firms here that leads with contract coverage rather than direct hire.",
+        "good": [
+          "You need a field or compliance specialist for a project and may convert them later",
+          "You want flexible terms instead of a single placement fee"
+        ],
+        "watch": [
+          "Ask for the contract markup and the conversion fee before the first assignment",
+          "Ask whether contract workers are on the firm's payroll or yours"
+        ]
+      },
+      {
+        "id": "yellowbird-ehs",
+        "name": "YellowBird",
+        "url": "https://www.goyellowbird.com/environmental-health-and-safety-recruiters",
+        "model": "On demand EHS marketplace: safety talent, trainings and audits",
+        "hq": "15169 N Scottsdale Road, Suite 205, Scottsdale, AZ 85254",
+        "bestFor": "Short assignments, safety audits and on site trainers",
+        "summary": "YellowBird was founded in 2019 by Michael Zalle and describes itself as a single platform for safety and risk services: trainings, audits and safety talent. Its EHS recruiters page covers permanent safety roles, while the rest of the platform books vetted safety professionals for defined jobs. It says it works with Fortune 500 companies, mid market manufacturers, insurers and construction firms.",
+        "good": [
+          "You need an audit or OSHA training next month rather than a full time hire",
+          "You want to try a safety professional on a project before hiring"
+        ],
+        "watch": [
+          "Marketplace pricing differs from a placement fee, so compare total cost",
+          "For a senior EHS director search, ask who runs the search personally"
+        ]
+      },
+      {
+        "id": "acre-sustainability",
+        "name": "Acre",
+        "url": "https://www.acresearch.com/",
+        "model": "Sustainability and ESG recruitment, executive search, contract and interim",
+        "hq": "Offices in London, Amsterdam, New York and Singapore",
+        "bestFor": "Climate, ESG reporting, renewables and sustainability leadership roles",
+        "summary": "Acre has recruited sustainability and low carbon professionals since 2003 and now operates from acresearch.com, where the old acre.com address redirects. It runs executive search for sustainability leaders, professional recruitment for climate change, renewables, ESG and impact roles, a contract and interim desk, and advisory work on building sustainability teams. Its New York office covers North American searches.",
+        "good": [
+          "You are hiring a head of sustainability or an ESG reporting manager",
+          "You need an interim lead to cover a disclosure deadline"
+        ],
+        "watch": [
+          "Acre is not an EHS compliance firm, so do not use it for plant safety roles",
+          "Global searches can take longer; agree a shortlist date up front"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit EHS staff yourself",
+      "p": [
+        "If you hire a site safety coordinator every year as plants open or people retire, an agency fee on each one adds up quickly. Certification bodies publish credential holder directories, and safety and industrial hygiene associations run local chapters and job boards where many working professionals still look first. A recruiter on your own team who sources from those lists, plus a clear job description that names the permits and programs the role owns, can fill steady roles without a fee.",
+        "The tooling for that is simpler than it was. An <a href=\"/categories/sourcing-tools/\">AI sourcing tool</a> can build a list of certified safety professionals in a region, and <a href=\"/categories/interview-scheduling/\">interview scheduling software</a> cuts the delay between a reply and a plant visit. Keep agencies for the senior searches and the urgent contract cover where their networks pay off."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Who places what",
+        "p": [
+          "Six of the ten firms here focus on EHS and safety: Consentium Search, Select Search, Pat Allen Associates, Safety Recruiters, Aarcher Talent and YellowBird. Three are broader firms with an EHS desk: CPS, Elias Associates and Search Solution Group. Acre is the only pure sustainability and ESG recruiter on the list.",
+          "Pat Allen Associates and Safety Recruiters both name insurers as core clients, which matters if you hire loss control consultants. CPS and Elias Associates are the natural choice when the EHS role sits inside a lab, chemical or pharmaceutical operation."
+        ]
+      },
+      {
+        "h": "Where the offices are",
+        "p": [
+          "New Jersey and North Carolina each host two firms: Consentium in Short Hills and Elias in Cranbury, Select Search in Smithfield and Search Solution Group in Charlotte. CPS is in the western Chicago suburbs, YellowBird in Scottsdale and Pat Allen Associates on the eastern end of Long Island. Safety Recruiters and Aarcher Talent did not publish an address on the pages we read. All ten say they recruit nationally, so location mostly matters for site visits and for how well the recruiter knows the regional labor market."
+        ]
+      },
+      {
+        "h": "What about field technicians and remediation crews?",
+        "p": [
+          "The firms above concentrate on professional and management roles. If you need hourly environmental technicians, sampling crews or remediation laborers, ask a general industrial staffing branch near the project, or see how trade focused firms work in our list of <a href=\"/agencies/electrical-staffing-agencies/\">electrical staffing agencies</a>. Our broader guide to <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> explains how hourly markups compare with placement fees."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does an environmental staffing agency do?",
+        "a": "It recruits environmental, health and safety staff or sustainability professionals for employers. Most firms in this niche place EHS managers, safety specialists and industrial hygienists, while a few, such as Acre, focus on ESG and climate roles."
+      },
+      {
+        "q": "Which environmental staffing agencies offer contract EHS workers?",
+        "a": "Aarcher Talent offers permanent, contract and contract to hire EHS placements, Search Solution Group runs both staffing and search, and YellowBird books safety professionals for audits, trainings and short assignments."
+      },
+      {
+        "q": "Is there a recruiter that only places safety professionals?",
+        "a": "Yes. Pat Allen Associates says it has focused only on safety recruitment since 1980, with a strong insurance loss control practice, and Consentium Search works only on EHS and related roles."
+      },
+      {
+        "q": "Who recruits sustainability and ESG managers?",
+        "a": "Acre is a dedicated sustainability and ESG recruiter with offices in London, Amsterdam, New York and Singapore. Select Search also lists sustainability and greenhouse gas reporting among the specialties it has filled."
+      },
+      {
+        "q": "How much do EHS recruiters charge?",
+        "a": "It depends on the model. Contingency and retained searches charge a fee tied to first year salary, while contract staff are billed hourly with a markup. None of the firms here publish rates, so ask each for a written quote."
+      },
+      {
+        "q": "Can I get my environmental staffing firm added to this list?",
+        "a": "Yes. Use the listing link on this page to send your firm's website and specialties, and we will review it at the next update."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/electrical-staffing-agencies/",
+        "label": "Electrical staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-solo-recruiters/",
+        "label": "Recruitment tools for solo recruiters"
+      },
+      {
+        "href": "/categories/sourcing-tools/",
+        "label": "Sourcing tools"
+      }
+    ]
   }
 ]
