@@ -360,7 +360,9 @@
    "keyword": "staffing agencies in nyc",
    "volume": 9900,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-nyc",
+   "date": "2026-11-13"
   },
   {
    "id": "rt-pm-010",
