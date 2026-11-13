@@ -3345,5 +3345,240 @@
         "label": "Sourcing tools"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-nyc",
+    "short": "Staffing agencies in NYC",
+    "h1": "Staffing agencies in NYC: 8 firms with Manhattan offices, matched to the desk you need",
+    "seoTitle": "Staffing Agencies in NYC: 8 Firms With Manhattan Offices (2026)",
+    "description": "Eight staffing agencies in New York City compared for 2026: the Manhattan address each firm publishes, what its New York desk places, temp versus direct hire, and what to ask before signing.",
+    "date": "2026-11-13",
+    "updated": "2026-11-13",
+    "lead": "Eight firms, eight published Manhattan addresses, and very little overlap in what they actually place. That is the useful way to read the New York City staffing market, because the city has hundreds of agencies and most hiring managers only need the two or three that work their kind of role. On November 13, 2026 we opened the New York location page or contact page of every firm below, recorded the street address it lists, and wrote down the specialties it claims for its New York office. Nothing on this page comes from a press release or a ranking site.",
+    "shortAnswer": "<b>Short answer:</b> for temporary office and front desk cover, call <a href=\"#atrium\">Atrium</a> or <a href=\"#lloyd-staffing\">LLoyd Staffing</a>. For executive and personal assistants, <a href=\"#career-group-companies\">Career Group Companies</a> is the specialist. For accounting, finance and technology contractors, compare <a href=\"#robert-half\">Robert Half</a>, <a href=\"#vaco\">Vaco</a> and <a href=\"#beacon-hill\">Beacon Hill</a>. For creative, marketing and tech talent, start with <a href=\"#mondo\">Mondo</a>.",
+    "choose": [
+      {
+        "h": "Match the firm to the borough your people commute to.",
+        "p": "Every firm here lists a Manhattan office, but only some say they cover the outer boroughs, Westchester or New Jersey. Robert Half publishes separate Brooklyn and Queens offices, and LLoyd says its Midtown team serves all five boroughs and Westchester. If your site is in Long Island City or Newark, ask which recruiter actually owns that territory."
+      },
+      {
+        "h": "Ask for the bill rate and the conversion fee together.",
+        "p": "Temp and contract staff are billed at an hourly rate that already includes the agency's markup. Most firms also charge a fee if you hire the temp permanently before a set number of hours. Get both numbers in writing so the cheapest hourly rate does not turn into the most expensive hire."
+      },
+      {
+        "h": "Check that the New York desk places your role, not just the brand.",
+        "p": "National firms run many divisions, and not every division sits in the Manhattan office. Beacon Hill's location page, for example, lists six divisions at 1375 Broadway, while some of its other offices list only one or two. Ask who will recruit for you and where they sit."
+      },
+      {
+        "h": "Decide how fast you need someone in a chair.",
+        "p": "Same week coverage for a receptionist or event team is a temp desk problem. A controller or engineering manager is a search, and a firm that does both well will still run them through different recruiters with different timelines."
+      }
+    ],
+    "firms": [
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/ny-new-york",
+        "model": "Temporary, contract and permanent placement",
+        "hq": "101 Park Avenue, Midtown Manhattan (with Wall Street, Brooklyn and Queens offices)",
+        "bestFor": "Accounting, finance, administrative and technology roles when you want one vendor across several boroughs",
+        "summary": "Robert Half's New York page names a Midtown office at 101 Park Avenue and lists further locations on Wall Street, in Queens and in Brooklyn, plus nearby offices in Jersey City and White Plains. That footprint is the widest of any firm on this list inside the city itself, which matters when the same company hires a staff accountant downtown and an office coordinator in Queens. It recruits for contract, temporary and permanent roles.",
+        "good": [
+          "You hire in more than one borough and want a single agreement",
+          "You need finance or office staff on short notice"
+        ],
+        "watch": [
+          "Large firms route work by division, so confirm which team will own your order",
+          "Ask for the conversion fee schedule before a temp starts"
+        ]
+      },
+      {
+        "id": "tandym-group",
+        "name": "Tandym Group",
+        "url": "https://www.tandymgroup.com/about/",
+        "model": "Contract, permanent and project based staffing",
+        "hq": "685 Third Avenue, 23rd Floor, New York, NY 10017",
+        "bestFor": "Healthcare, technology and business roles, especially accounting and finance",
+        "summary": "Tandym began in 1985 as The Execu|Search Group, founded by CPA Edward Fleischman as an accounting and finance recruitment firm, and it still lists New York as its first local office on its about page. The firm now describes three skill groups: healthcare, professional services and technology, with contract, permanent and project based options. Its roots make it a natural call for controllers, analysts and finance operations hires.",
+        "good": [
+          "You want a New York headquartered firm with a long accounting and finance history",
+          "You need healthcare and corporate roles from the same partner"
+        ],
+        "watch": [
+          "The Execu|Search name has been retired, so search old contracts and vendor lists for both names",
+          "Ask which skill group will handle a hybrid role before the intake call"
+        ]
+      },
+      {
+        "id": "atrium",
+        "name": "Atrium",
+        "url": "https://www.atriumstaff.com/location-new-york-ny/",
+        "model": "Temporary, temp to hire and direct hire",
+        "hq": "250 Vesey Street, 21st Floor, Suite A, New York, NY 10281",
+        "bestFor": "Administrative support, customer experience, creative and finance staff, often on a temp basis",
+        "summary": "Atrium's New York page calls the city its headquarters and flagship staffing location, and the office is at 250 Vesey Street. Its specialties menu lists administrative support, creative and marketing, customer experience, fashion and lifestyle, finance and accounting and human resources, among others. Recent New York job posts on the page mix temp administrative assistants and guest services associates with direct hire IT support roles. Atrium also describes itself as a WBENC certified organization, which helps buyers with supplier diversity goals.",
+        "good": [
+          "You need front desk, admin or guest services cover quickly",
+          "Your procurement team tracks spend with women owned suppliers"
+        ],
+        "watch": [
+          "Confirm whether your order will be filled from New York or a New Jersey office",
+          "Temp to hire terms vary, so read the conversion clause"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco",
+        "url": "https://www.vaco.com/about/locations/new-york/",
+        "model": "Contract, project and direct hire staffing",
+        "hq": "420 Lexington Avenue, Suite 1650, New York, NY",
+        "bestFor": "Accounting, finance, operations and technology professionals",
+        "summary": "Vaco's New York page describes it as a strategic staffing agency that connects accounting, finance, operations and technology professionals with employers in the region. Vaco is now the Talent Solutions division of Highspring, a professional services organization whose other offerings include transaction readiness and data and technology modernization. For a buyer that means a staffing partner that can also scope a consulting project if the work grows beyond one hire.",
+        "good": [
+          "You need a project accountant or systems contractor for a defined engagement",
+          "You may want consulting support later from the same parent"
+        ],
+        "watch": [
+          "Contracts may now carry the Highspring name, so check the legal entity",
+          "Ask whether the role will be staffed or scoped as a project, since pricing differs"
+        ]
+      },
+      {
+        "id": "career-group-companies",
+        "name": "Career Group Companies",
+        "url": "https://www.careergroupcompanies.com/",
+        "model": "Direct hire, temp to hire, temporary and RPO",
+        "hq": "1156 Avenue of the Americas, 8th Floor, New York, NY 10036",
+        "bestFor": "Executive and personal assistants, office support and family office roles",
+        "summary": "Career Group says it specializes in administrative support, finance and accounting, human resources and family office positions. The roles featured on its homepage are New York executive and personal assistant jobs with published salary bands, from a receptionist role at $60,000 to $70,000 up to an executive assistant to a CIO at $150,000 to $200,000. The firm also runs an events staffing arm and offers recruitment process outsourcing as its top tier service.",
+        "good": [
+          "You are hiring a senior executive assistant or chief of staff",
+          "You run a family office and need discreet, vetted candidates"
+        ],
+        "watch": [
+          "Salary bands for assistants in Manhattan run high, so calibrate your budget against the posted ranges",
+          "RPO is a different contract from a single search; scope it carefully"
+        ]
+      },
+      {
+        "id": "mondo",
+        "name": "Mondo",
+        "url": "https://mondo.com/our-offices/staffing-agency-new-york-city/",
+        "model": "Contract and direct hire staffing plus executive search",
+        "hq": "102 Madison Avenue, Floor 7, New York, NY 10016 (headquarters in Philadelphia)",
+        "bestFor": "Digital marketing, creative and IT talent",
+        "summary": "Mondo lists its New York City office at 102 Madison Avenue and names Philadelphia as its headquarters among eleven US offices. Its service menu covers AI staffing, executive search, digital marketing staffing, creative staffing, IT and tech staffing and international staffing. That mix fits agencies, media companies and brands in the city that need a product designer, a marketing operations lead or a cloud engineer on contract.",
+        "good": [
+          "You need a contract designer, marketer or engineer for a launch",
+          "You want one firm for both creative and technical contractors"
+        ],
+        "watch": [
+          "Specialist creative rates are higher than general temp rates; ask for the bill rate up front",
+          "Confirm the recruiter on your account sits in New York"
+        ]
+      },
+      {
+        "id": "beacon-hill",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/locations",
+        "model": "Contract, contract to hire and direct hire",
+        "hq": "1375 Broadway, Floor 19, New York, NY 10018",
+        "bestFor": "Legal, HR, finance, life sciences and technology specialists",
+        "summary": "Beacon Hill's locations page lists its New York office at 1375 Broadway and assigns six divisions to it: BH Associates, BH Financial, BH HR, BH Legal, BH Life Sciences and BH Technologies. That is a wider spread than most of its other offices carry. Law firms and corporate legal teams in the city will find the legal desk useful for paralegals and legal support, while the life sciences desk serves the region's pharma and biotech employers.",
+        "good": [
+          "You need paralegals or legal operations staff",
+          "You hire HR or life sciences specialists in the New York area"
+        ],
+        "watch": [
+          "Each division operates semi independently, so a multi role order may involve several recruiters",
+          "Ask which division will invoice you"
+        ]
+      },
+      {
+        "id": "lloyd-staffing",
+        "name": "LLoyd Staffing",
+        "url": "https://www.lloydstaffing.com/professional-job-placement/staffing-agency-new-york-city/",
+        "model": "Temporary, temp to hire and direct hire",
+        "hq": "Midtown Manhattan, a few blocks from Penn Station (corporate headquarters on Long Island)",
+        "bestFor": "Office, administrative and professional roles across the five boroughs and Westchester",
+        "summary": "LLoyd describes its Manhattan office as being in the heart of Midtown, a few blocks from Penn Station and just west of the Empire State Building. The page says this location, together with its Long Island corporate headquarters, services all of the boroughs and Westchester and is reachable from Connecticut and New Jersey. That regional framing suits employers with staff spread between the city and the suburbs.",
+        "good": [
+          "Your sites span Manhattan, Long Island and Westchester",
+          "You want a regional firm rather than a national brand"
+        ],
+        "watch": [
+          "The page does not publish a street address, so confirm the office location before an in person intake",
+          "Ask about its strongest desks, since the page lists many industries"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to fill New York roles without an agency",
+      "p": [
+        "Agency fees in Manhattan are usually charged on the first year salary of a permanent hire, and assistant and finance salaries in the city run well above national figures. If you hire the same role every quarter, a recruiter on staff plus a short list of job boards often costs less than repeated placement fees. Keep agencies for urgent temp cover and the searches where a firm's network clearly beats your own.",
+        "An in house team needs three things to compete: a <a href=\"/categories/sourcing-tools/\">sourcing tool</a> that builds lists of local candidates, <a href=\"/categories/interview-scheduling/\">interview scheduling software</a> so a reply turns into a booked call the same day, and a <a href=\"/categories/background-checks/\">background check provider</a> that can clear New York's Fair Chance Act process without delaying offers."
+      ]
+    },
+    "sections": [
+      {
+        "h": "How the eight firms split",
+        "p": [
+          "Four firms lead with accounting, finance and technology: Robert Half, Tandym, Vaco and Beacon Hill. Two are strongest on office and administrative cover: Atrium and LLoyd. Career Group owns the assistant and family office niche, and Mondo is the creative, marketing and tech contractor specialist.",
+          "If you need event or hospitality staff, Career Group's events arm and Atrium's guest services desk are the two places to start. For luxury retail and fashion roles, our list of <a href=\"/agencies/fashion-recruitment-agencies/\">fashion recruitment agencies</a> goes deeper than any generalist here."
+        ]
+      },
+      {
+        "h": "What New York employers should put in the order",
+        "p": [
+          "Write down the address, the schedule, the pay rate and whether the person must be on site every day. Agencies quote faster and fill faster when they know the commute. Add whether the role touches regulated work, such as client money or patient records, because that changes the screening the firm runs before day one."
+        ]
+      },
+      {
+        "h": "Comparing NYC with other city lists",
+        "p": [
+          "New York agencies publish fewer street level details than firms in smaller metros, and several national brands route city orders through regional hubs. Our guides to <a href=\"/agencies/staffing-agencies-in-chicago/\">staffing agencies in Chicago</a> and <a href=\"/agencies/staffing-agencies-in-dallas/\">staffing agencies in Dallas</a> use the same method if you hire in more than one city, and the <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> overview explains the difference between temp, contract and search firms."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is the best staffing agency in NYC?",
+        "a": "It depends on the role. Robert Half and Vaco are strong for accounting and finance, Career Group for executive assistants, Atrium and LLoyd for temporary office cover, Mondo for creative and tech contractors and Beacon Hill for legal and life sciences staff."
+      },
+      {
+        "q": "Which NYC staffing agencies have offices outside Manhattan?",
+        "a": "Robert Half lists offices in Brooklyn and Queens as well as Midtown and Wall Street. LLoyd Staffing says its Midtown office and Long Island headquarters cover all five boroughs and Westchester."
+      },
+      {
+        "q": "How much do staffing agencies in New York charge?",
+        "a": "Temporary and contract staff are billed hourly with the agency markup built in, and permanent placements are usually a percentage of first year salary. None of the eight firms publishes a fixed rate, so ask each for its bill rate, markup and conversion fee in writing."
+      },
+      {
+        "q": "Are there staffing agencies in NYC for executive assistants?",
+        "a": "Yes. Career Group Companies specializes in executive and personal assistants and family office roles, and its homepage posts New York assistant roles with salary bands up to $200,000."
+      },
+      {
+        "q": "How did you choose these agencies?",
+        "a": "We included only firms whose own website publishes a New York City office, opened each page on November 13, 2026, and used only the facts those pages state. Firms can request a listing through the form on this page."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-chicago/",
+        "label": "Staffing agencies in Chicago"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/fashion-recruitment-agencies/",
+        "label": "Fashion recruitment agencies"
+      },
+      {
+        "href": "/categories/sourcing-tools/",
+        "label": "Sourcing tools"
+      }
+    ]
   }
 ]
