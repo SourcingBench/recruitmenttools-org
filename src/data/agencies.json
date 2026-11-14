@@ -3580,5 +3580,258 @@
         "label": "Sourcing tools"
       }
     ]
+  },
+  {
+    "slug": "oil-and-gas-recruitment-agencies",
+    "short": "Oil and gas recruitment agencies",
+    "h1": "Oil and gas recruitment agencies: 9 firms that staff wells, pipelines, LNG and refineries",
+    "seoTitle": "Oil and Gas Recruitment Agencies: 9 Energy Recruiters Checked (2026)",
+    "description": "Nine oil and gas recruitment agencies checked in November 2026: which firms run contract crews for LNG and refinery projects, which place petroleum engineers direct, and where each one keeps its US office.",
+    "date": "2026-11-14",
+    "updated": "2026-11-14",
+    "lead": "Nine firms made this list, and seven of them keep an office within a short drive of Houston's Energy Corridor or the Galleria. That is not a coincidence. Oil and gas hiring in the United States still runs through Houston, with Midland, New Orleans and Anchorage as the field outposts. What separates these agencies is not geography but the kind of hire they are built for: a 400 person contractor workforce for an LNG train, a single drilling engineer for an independent operator, or a piping designer for an EPC on a refinery upgrade. On November 14, 2026 we opened each firm's own website, followed every redirect, and recorded what the firm says it does and the address it publishes.",
+    "shortAnswer": "<b>Short answer:</b> for large contract workforces on LNG, offshore or international projects, call <a href=\"#airswift\">Airswift</a>, <a href=\"#nes-fircroft\">NES Fircroft</a> or <a href=\"#brunel\">Brunel</a>. For engineering and design contractors on EPC work, <a href=\"#talascend\">Talascend</a> and <a href=\"#alku\">ALKU</a> fit. For a single direct hire in Houston, such as a petroleum engineer or geologist, start with <a href=\"#murray-resources\">Murray Resources</a> or <a href=\"#core-group-resources\">Core Group Resources</a>.",
+    "choose": [
+      {
+        "h": "Name the asset and the phase.",
+        "p": "An upstream operator drilling in the Permian, a midstream company building a pipeline and a refinery planning a turnaround need different people on different timelines. Tell the agency whether the work is exploration, construction, operations or decommissioning, because most firms here staff some phases far better than others."
+      },
+      {
+        "h": "Decide who will employ the worker.",
+        "p": "Many oil and gas roles are filled as contractors on the agency's payroll, which moves visas, per diem, insurance and timesheets off your books. Airswift, NES Fircroft and Brunel all sell this as a service. If you want the person on your own payroll from day one, ask for direct hire terms instead."
+      },
+      {
+        "h": "Ask for the safety and compliance file.",
+        "p": "For field roles, request the firm's safety program, its drug and alcohol testing process and how it tracks certifications such as offshore survival training. Cenergy, for example, runs a dedicated HSSE emergency hotline for its workers, which tells you how seriously it treats the field side."
+      },
+      {
+        "h": "Check the rate card against a direct hire fee.",
+        "p": "A contractor markup paid every hour for two years can cost more than a one time placement fee. Model both before you sign, and ask about the conversion fee if you might keep the contractor permanently."
+      }
+    ],
+    "firms": [
+      {
+        "id": "airswift",
+        "name": "Airswift",
+        "url": "https://www.airswift.com/",
+        "model": "Contract staffing, permanent search, employer of record, RPO and MSP",
+        "hq": "3050 Post Oak Boulevard, Suite 1450, Houston, TX 77056 (one of three corporate hubs)",
+        "bestFor": "Large contractor workforces on LNG, offshore and international energy projects",
+        "summary": "Airswift traces its roots to the United Kingdom in 1979 and now runs three corporate hubs in Houston, Manchester and Singapore, with about 60 offices and more than 9,000 contractors placed each year. Its North America page says it works across upstream, midstream and downstream oil and gas, keeps more than 1,000 contractors on LNG work in the region and has supported more than 60 major LNG projects worldwide. Beyond Houston it lists US offices in Midland, Dallas, Denver and Anchorage.",
+        "good": [
+          "You need to mobilize dozens of contractors across several countries and want one employer of record",
+          "Your project is LNG and you want a firm with a long LNG contractor bench"
+        ],
+        "watch": [
+          "A global firm may route a small single hire to a junior desk, so ask who owns your search",
+          "Employer of record fees sit on top of the hourly rate; get the full rate stack in writing"
+        ]
+      },
+      {
+        "id": "nes-fircroft",
+        "name": "NES Fircroft",
+        "url": "https://www.nesfircroft.com/industries/upstream-oil-gas-recruitment/",
+        "model": "Contract and permanent technical staffing, managed solutions and global mobility",
+        "hq": "One Memorial City Plaza, 800 Gessner Road, Suite 800, Houston, TX 77024, plus Midland, New Orleans and Anchorage",
+        "bestFor": "Upstream, midstream, LNG and downstream engineers and contractors across the full project lifecycle",
+        "summary": "NES Fircroft began in 1978 as Northenden Engineering Services, was bought by AEA Investors in 2012 and merged with Fircroft in September 2020. The company reports more than 80 offices and 24,000 contractors supported, and its acquisitions include Ziegler's Oilfield Consulting and Bedrock Petroleum Consultants. Its oil and gas page says it staffs projects from exploration and fabrication through construction, operation and decommissioning, and handles bulk visas and in country payroll for contractor crews.",
+        "good": [
+          "You run projects in several countries and need visa and payroll support handled for you",
+          "You want one supplier across oil and gas, power and renewables"
+        ],
+        "watch": [
+          "Size cuts both ways: confirm the named consultant and their discipline before the first brief",
+          "Ask for Permian or Gulf Coast references if your work is domestic"
+        ]
+      },
+      {
+        "id": "brunel",
+        "name": "Brunel",
+        "url": "https://www.brunel.net/en-us/markets/oil-and-gas",
+        "model": "Contract hire, direct hire, executive search and RPO",
+        "hq": "10100 Katy Freeway, Suite 425, Houston, TX 77043",
+        "bestFor": "Contract specialists for upstream, midstream, LNG, downstream and chemicals projects",
+        "summary": "Brunel says it has recruited for oil and gas since 1975 and entered the Americas in 1994 by opening in Houston, which remains its US head office on the Katy Freeway. Its oil and gas page covers upstream, midstream and LNG, downstream and chemicals, and it frames current demand around brownfield modifications running alongside LNG, refinery and pipeline projects. Globally it reports more than 120 offices in over 40 countries and 12,000 specialists.",
+        "good": [
+          "You need contractors who can be redeployed between projects in different regions",
+          "You want contractor care and compliance managed by the agency"
+        ],
+        "watch": [
+          "Its US network also serves mining, life sciences and power, so ask how many recruiters work oil and gas only",
+          "Direct hire is offered but contract staffing is the core business"
+        ]
+      },
+      {
+        "id": "petroplan",
+        "name": "Petroplan",
+        "url": "https://petroplan.com/",
+        "model": "Contract staffing, direct hire, executive search and workforce management",
+        "hq": "3151 Briarpark Drive, Suite 1250, Houston, TX 77042",
+        "bestFor": "Energy operators that want contract staff plus payroll and onboarding handled together",
+        "summary": "Petroplan describes itself as a specialist talent partner for the energy industry with more than 45 years of history across oil and gas, renewables and infrastructure. It is part of TXM Group, and its US business is led from a Westchase office on Briarpark Drive in Houston, with sister offices in Calgary, Manchester and Perth. Services listed on its site are contract staffing, direct hire, executive search and workforce management covering onboarding, payroll and retention for contract teams.",
+        "good": [
+          "You want a mid sized energy specialist rather than a very large global group",
+          "You need payroll and contractor management bundled with recruitment"
+        ],
+        "watch": [
+          "Fewer US offices than the larger groups, so field coverage outside Texas should be confirmed",
+          "Ask which TXM Group company would deliver any consulting work"
+        ]
+      },
+      {
+        "id": "cenergy-international",
+        "name": "Cenergy International",
+        "url": "https://cenergyintl.com/",
+        "model": "Energy workforce solutions, inspection services and vendor management",
+        "hq": "9720 Cypresswood Drive, Suite 241, Houston, TX 77070",
+        "bestFor": "Field personnel, inspectors and safety staff for operators and service companies",
+        "summary": "June Ressler founded Cenergy in 1996 from her home office in New Orleans, and after Hurricane Katrina the firm opened in Lafayette and then Houston, moving its headquarters to Houston in 2007. It is women owned and supplies specialized energy personnel along with safety solutions, inspection services, logistics and vendor management. A joint venture with Tikigaq Corp. of Point Hope runs as Tikigaq Cenergy from Anchorage for Alaska work.",
+        "good": [
+          "You need inspectors or field safety staff along with project personnel",
+          "You operate in Alaska or along the Louisiana and Texas coast"
+        ],
+        "watch": [
+          "The site lists services broadly, so ask for placements in your exact discipline",
+          "Executive search is not its main line of business"
+        ]
+      },
+      {
+        "id": "talascend",
+        "name": "Talascend",
+        "url": "https://www.talascend.com/industry-focus/oil-and-gas",
+        "model": "Contract, contract to hire and direct hire engineering staffing",
+        "hq": "901 Tower Drive, Suite 420-AG, Troy, MI 48098",
+        "bestFor": "EPC and operator engineering contractors: piping, pipe stress, process, project controls and document control",
+        "summary": "Talascend is veteran owned and says it was built on oil and gas staffing. One of its predecessor firms, EPCglobal, was founded by Bechtel in 1986 to supply contract workers to Bechtel projects. Its oil and gas page lists mechanical and electrical engineering, project controls, piping design, pipe stress, process engineering, HSE, structural engineering and document control as core placements, and it cites talent support for the Corpus Christi Liquefaction project.",
+        "good": [
+          "You are an EPC or owner's engineer staffing a design office for a capital project",
+          "You need hard to find disciplines such as pipe stress analysts"
+        ],
+        "watch": [
+          "Headquarters is in Michigan; ask where the oil and gas recruiters sit",
+          "Not set up for rig crews or hourly field labor"
+        ]
+      },
+      {
+        "id": "alku",
+        "name": "ALKU",
+        "url": "https://www.alku.com/energy-construction/",
+        "model": "Specialized consulting staffing plus direct hire and executive search",
+        "hq": "100 Brickstone Square, Suite 400, Andover, MA 01810",
+        "bestFor": "Project controls, QA/QC, commissioning and engineering consultants on LNG, pipeline and refinery projects",
+        "summary": "ALKU's energy and construction practice works with owners, EPC firms, developers and engineering contractors across the energy project lifecycle. Its oil and gas and LNG section names upstream exploration through downstream refining, LNG terminals, pipeline projects, midstream infrastructure and refinery upgrades, and the same page lists construction talent from project controls and field supervision to commissioning and HSE. The firm also staffs nuclear, utilities and renewables.",
+        "good": [
+          "You need experienced consultants for a defined project phase such as commissioning",
+          "Your company runs oil and gas alongside power or nuclear assets"
+        ],
+        "watch": [
+          "Massachusetts headquarters, so confirm Gulf Coast presence for site work",
+          "Consulting rates are usually higher than standard contract staffing"
+        ]
+      },
+      {
+        "id": "murray-resources",
+        "name": "Murray Resources",
+        "url": "https://murrayresources.com/recruiters-houston/engineering-recruiters/",
+        "model": "Direct hire, temporary and contract, temp to hire and payrolling",
+        "hq": "800 Gessner Road, Suite 170, Houston, TX 77024",
+        "bestFor": "Houston direct hires: petroleum and drilling engineers, geoscientists, gas schedulers and division order analysts",
+        "summary": "Murray Resources is a Houston staffing and recruiting firm whose engineering page says it has recruited for energy companies for more than 30 years. The roles it names include drilling engineer, petroleum engineer, geologist, geophysicist, geoscience technician, gas scheduler, division order analyst and EH&S manager. Its main office is on Gessner Road in the Memorial area, and it lists Houston branches in Downtown, the Galleria, Northwest, Kingwood, Sugar Land, Pearland and The Woodlands.",
+        "good": [
+          "You need one office or technical hire in Houston, not a project crew",
+          "You also hire accounting, land or admin staff for the same office"
+        ],
+        "watch": [
+          "A generalist firm with an energy desk rather than an oil and gas specialist",
+          "Not designed for international mobilization"
+        ]
+      },
+      {
+        "id": "core-group-resources",
+        "name": "Core Group Resources",
+        "url": "https://www.coregroupresources.com/",
+        "model": "Executive search, technical services, contract labor and maritime crewing",
+        "hq": "19219 Katy Freeway, Suite 320, Houston, TX 77094",
+        "bestFor": "Offshore and maritime energy roles, Jones Act crews and senior hires for Gulf of Mexico operations",
+        "summary": "Core Group Resources was started by Matt Fuhrman after years as a merchant mariner, and it recruits for maritime, energy, oil and gas, shipbuilding and construction employers. Services listed on its site include executive search, technical services, talent solutions, Jones Act crewing and salary benchmarking, and it runs affiliated entities in Trinidad and Tobago and Guyana. Its headquarters sits on the Katy Freeway in west Houston.",
+        "good": [
+          "Your work is offshore or vessel based and you need maritime credentials checked",
+          "You are expanding into Guyana or Trinidad and want local entities"
+        ],
+        "watch": [
+          "The firm warns on its site about fake job postings using its name, so verify any recruiter who contacts you",
+          "Onshore refinery and petrochemical staffing is not its main focus"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "Hiring oil and gas staff without an agency",
+      "p": [
+        "Operators that hire the same roles every year, such as production engineers, landmen or HSE coordinators, often keep those searches in house. The candidate pool is small and well networked: Society of Petroleum Engineers sections, university petroleum engineering programs and alumni of the major service companies account for a large share of hires. A recruiter who knows those circles can fill steady roles for the cost of a salary instead of a fee on every hire.",
+        "Software now handles much of the search work. Our <a href=\"/categories/sourcing-tools/\">sourcing tools category</a> covers platforms that search beyond job boards, and an <a href=\"https://www.noon.ai/product/ai-sourcer\" target=\"_blank\" rel=\"noopener\">autonomous sourcing agent such as Noon</a> can build a ranked list of, say, completions engineers in the Permian and contact them by email and SMS. Pair that with <a href=\"/categories/background-checks/\">background check services</a> for field roles and keep agencies for project crews and urgent mobilizations."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Which firms do what",
+        "p": [
+          "Three groups emerge. Airswift, NES Fircroft and Brunel are global contractor businesses: they put workers on their own payroll, move them across borders and manage compliance. Petroplan and Cenergy are smaller energy specialists that combine staffing with workforce management, inspection or safety services. Talascend and ALKU lean toward engineering and project consultants for EPC and owner teams.",
+          "Murray Resources and Core Group Resources are the two Houston firms most suited to individual direct hires. Murray covers office and technical roles across the energy sector, while Core Group is the pick for offshore, vessel and Jones Act work."
+        ]
+      },
+      {
+        "h": "Where the offices are",
+        "p": [
+          "Seven of the nine publish a Houston address: Airswift near the Galleria on Post Oak Boulevard, Brunel and Core Group on the Katy Freeway, Petroplan in Westchase, Cenergy on Cypresswood Drive in the northwest, and both Murray Resources and NES Fircroft on Gessner Road in Memorial. NES Fircroft also lists Midland, New Orleans and Anchorage. Talascend is headquartered in Troy, Michigan, and ALKU in Andover, Massachusetts, though both staff projects nationally.",
+          "If your site is in the Permian Basin, Airswift and NES Fircroft both publish Midland offices. For Alaska, Airswift and NES Fircroft both list Anchorage offices, as does Cenergy's joint venture."
+        ]
+      },
+      {
+        "h": "Contract crews versus direct hires",
+        "p": [
+          "Most of the volume in this sector is contract work, because projects have a start and an end. The agency employs the worker, bills an hourly rate and handles timesheets, insurance and per diem. For a permanent engineer or manager, a direct hire fee is usually cheaper over two years. Our guide to <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> explains the fee models, and our list of <a href=\"/agencies/environmental-staffing-agencies/\">environmental staffing agencies</a> covers EHS specialists if the role is safety or compliance led."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does an oil and gas recruitment agency do?",
+        "a": "It finds and supplies workers for energy companies, either as contractors on the agency's payroll for a project or as permanent hires. Larger firms also handle visas, payroll and compliance for international crews."
+      },
+      {
+        "q": "Which oil and gas recruiters are based in Houston?",
+        "a": "Seven of the nine firms here publish a Houston address: Airswift, NES Fircroft, Brunel, Petroplan, Cenergy, Murray Resources and Core Group Resources. Talascend and ALKU staff Texas projects from out of state headquarters."
+      },
+      {
+        "q": "Who staffs LNG projects?",
+        "a": "Airswift says it has over 1,000 contractors on North American LNG work and experience on more than 60 LNG projects. Talascend cites the Corpus Christi Liquefaction project, and Brunel, NES Fircroft and ALKU all list LNG on their oil and gas pages."
+      },
+      {
+        "q": "Is it cheaper to hire oil and gas contractors or permanent staff?",
+        "a": "For a short project, contractors are usually cheaper because you avoid benefits and severance. For a role that will last more than about two years, a one time direct hire fee often costs less than the cumulative hourly markup."
+      },
+      {
+        "q": "How do I get my firm listed here?",
+        "a": "Email the address in the listing box on this page with your firm's website, oil and gas specialties and office locations. We review submissions at each update."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/environmental-staffing-agencies/",
+        "label": "Environmental staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-staffing-agencies/",
+        "label": "Recruitment tools for staffing agencies"
+      },
+      {
+        "href": "/categories/sourcing-tools/",
+        "label": "Sourcing tools"
+      }
+    ]
   }
 ]
