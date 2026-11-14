@@ -382,7 +382,9 @@
    "keyword": "staffing agencies in houston",
    "volume": 8100,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-houston",
+   "date": "2026-11-14"
   },
   {
    "id": "rt-pm-012",
