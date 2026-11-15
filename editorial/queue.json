@@ -395,7 +395,9 @@
    "keyword": "staffing agencies in atlanta",
    "volume": 6600,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-atlanta",
+   "date": "2026-11-15"
   },
   {
    "id": "rt-pm-013",
