@@ -4089,5 +4089,233 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "restaurant-headhunters",
+    "short": "Restaurant headhunters",
+    "h1": "Restaurant headhunters: 8 firms compared by the level they hire and how they charge",
+    "seoTitle": "Restaurant Headhunters: 8 Search Firms Compared (2026)",
+    "description": "Eight restaurant headhunters checked in November 2026, sorted by the jobs they actually fill (multi-unit and executive versus store level managers and chefs), how each one charges and where it is based.",
+    "date": "2026-11-15",
+    "updated": "2026-11-15",
+    "lead": "A franchisee with eleven units loses a director of operations in October, right before the holiday rush, and a posting on the usual job boards brings in line cooks and shift leads instead of anyone who has run a district. That gap is the reason restaurant headhunters exist. We checked each firm below on its own website on November 15, 2026, noted the level of role it says it fills, where it is based and how it works, and left out names whose domains no longer belong to a recruiting business.",
+    "shortAnswer": "<b>Short answer:</b> for a C suite or vice president search at a restaurant group, talk to The Elliot Group first and compare it with Horizon Hospitality. For general managers, executive chefs and directors of operations at independent and multi concept groups, JWB Hospitality and Hospitality Confidential are the closest fit. When you need many store level managers across several states, the franchise networks at Gecko Hospitality and Patrice &amp; Associates have the reach. Goodwin Recruiting suits operators who want one firm for restaurant and corporate roles, and Chefs Recruit is a niche choice for culinary placements.",
+    "choose": [
+      {
+        "h": "Match the firm to the level of the hire.",
+        "p": "A firm that runs retained searches for chief operating officers rarely wants a single assistant manager opening, and a high volume manager recruiter may not have the board level network for a CEO search. Tell each firm the title, the unit count the person will oversee and the salary band before anything else."
+      },
+      {
+        "h": "Ask whether the recruiter has worked a line or run a store.",
+        "p": "Several firms on this list say their recruiters came out of restaurant operations. That background shows up in the screening call: someone who has closed a P&amp;L at month end asks better questions about food cost, labor percentage and turnover than a generalist reading a job description."
+      },
+      {
+        "h": "Get the fee model in writing.",
+        "p": "Contingency firms are paid only when you hire, usually a percentage of first year base salary. Retained firms take part of the fee up front and commit a team to the search. JWB Hospitality publishes its contingency rate on its site; most others quote per search, so ask for the percentage, the guarantee period and what counts toward base."
+      },
+      {
+        "h": "Find out how they reach people who are not looking.",
+        "p": "The best general managers are usually busy running a strong store. Ask each firm how it approaches passive candidates, how it keeps your search confidential and how many people it expects to present in the first two weeks."
+      }
+    ],
+    "firms": [
+      {
+        "id": "the-elliot-group",
+        "name": "The Elliot Group",
+        "url": "https://www.theelliotgroup.com/industries/restaurant-and-hospitality",
+        "model": "Retained executive search",
+        "hq": "Headquartered in New York, with a national team",
+        "bestFor": "Chief executive, operations, culinary and brand leadership searches at restaurant chains, foodservice companies and franchisors",
+        "summary": "Alice Elliot founded The Elliot Group in 1984 and still leads it. The firm describes itself as a retained search practice for consumer and service businesses, and its restaurant and hospitality practice covers everything from fine dining to quick service, alongside separate foodservice and franchising work.",
+        "good": [
+          "Four decades of restaurant executive search under the same founder",
+          "Dedicated franchising practice for brands that hire franchise development and operations leaders"
+        ],
+        "watch": [
+          "Retained search is built for senior roles; it is not the right tool for store level hiring",
+          "Expect an engagement fee before candidates are presented"
+        ]
+      },
+      {
+        "id": "horizon-hospitality",
+        "name": "Horizon Hospitality",
+        "url": "https://www.horizonhospitality.com/",
+        "model": "Executive and mid management search",
+        "hq": "7201 W. 129th Street, Suite 170, Overland Park, Kansas",
+        "bestFor": "Restaurant, hotel and private club operators that hire both executives and the managers below them",
+        "summary": "Horizon Hospitality says it has run executive and mid management searches for hotels, restaurants, private clubs and senior living communities for more than 28 years. It notes three years on the Forbes list of America's Best Professional Recruiting Firms and membership in the Sanford Rose Associates network, and it publishes industry resources on pay and benefits for hospitality employers.",
+        "good": [
+          "Covers the layer between the general manager and the executive team, which many firms skip",
+          "Published compensation resources help you sanity check an offer"
+        ],
+        "watch": [
+          "Hotels and clubs are a large share of its work, so ask for restaurant specific placements",
+          "Kansas base; confirm the recruiter knows your market if you are on a coast"
+        ]
+      },
+      {
+        "id": "jwb-hospitality",
+        "name": "JWB Hospitality",
+        "url": "https://jwbhospitality.com/",
+        "model": "Contingency executive search",
+        "hq": "Founded in New York City; recruits across the United States",
+        "bestFor": "Senior roles at independent restaurants, fine dining and multi concept groups, including private equity backed operators",
+        "summary": "JWB Hospitality is a boutique search firm started by JW Bibbins, who came up through the New York restaurant scene. It fills chief executive, chief operating officer, vice president and director of operations, general manager, executive chef, culinary director and food and beverage roles through confidential outreach to active and passive candidates.",
+        "good": [
+          "Clear pricing: its site lists contingency search at 20% of first year base salary, with no retainer and no fee unless you hire",
+          "Culinary leadership is a stated focus, not an add on"
+        ],
+        "watch": [
+          "Boutique team, so ask how many searches each recruiter is carrying",
+          "Contingency means the firm may also be presenting the same people elsewhere"
+        ]
+      },
+      {
+        "id": "hospitality-confidential",
+        "name": "Hospitality Confidential",
+        "url": "https://hospitalityconfidential.com/restaurant-food-industry-executive-recruiters/",
+        "model": "Permanent placement for salaried management and corporate roles",
+        "hq": "5955 De Soto Avenue, Suite 142, Woodland Hills, California",
+        "bestFor": "Multi unit managers, general managers and assistant general managers for independent, mid sized and corporate restaurants, including QSR and fast food",
+        "summary": "Hospitality Confidential was founded by Hanae Suk Bragg and fills salaried positions from junior management to executive across restaurants, bars, breweries, wineries, food halls, catering, bakeries and franchise restaurants. Its restaurant page lists independent, corporate and quick service clients, and the firm places candidates across the United States.",
+        "good": [
+          "Works on the store and multi unit management roles that executive firms often decline",
+          "Broad food and beverage scope if you run bars, breweries or a food hall alongside restaurants"
+        ],
+        "watch": [
+          "Salaried roles only; hourly staff are out of scope",
+          "Southern California base, so confirm reach in your region"
+        ]
+      },
+      {
+        "id": "gecko-hospitality",
+        "name": "Gecko Hospitality",
+        "url": "https://www.geckohospitality.com/restaurant-recruitment/",
+        "model": "Management recruitment through a franchise network of recruiters",
+        "hq": "1212 Country Club Blvd, Suite 301, Cape Coral, Florida",
+        "bestFor": "Restaurant general managers, executive chefs and sous chefs, especially for brands hiring in many markets at once",
+        "summary": "Gecko Hospitality says its restaurant recruiters have run restaurants and been responsible for operations and P&amp;L themselves. The firm reports helping more than 40,000 professionals over 24 years, and its restaurant recruitment page names general manager, executive chef and sous chef among the roles it fills.",
+        "good": [
+          "Operator backgrounds among its recruiters",
+          "Network of local recruiters suits chains opening or backfilling in several cities"
+        ],
+        "watch": [
+          "Quality can vary by local office, so ask who will run your search",
+          "Focus is management and culinary leadership rather than senior executive roles"
+        ]
+      },
+      {
+        "id": "patrice-associates",
+        "name": "Patrice &amp; Associates",
+        "url": "https://www.patriceandassociates.com/about-us/",
+        "model": "Management recruitment through franchised offices",
+        "hq": "Hundreds of franchised offices across North America",
+        "bestFor": "Restaurant and food service chains that need managers in many locations at once",
+        "summary": "Patrice Rice started the firm to place restaurant and hospitality managers, and it grew into a franchise system with hundreds of offices and recruiters. Its site says recruiters are not limited by territory, so any office can work a search anywhere, and the firm has expanded beyond restaurants into other industries.",
+        "good": [
+          "Scale for multi state store manager hiring",
+          "Long restaurant and food service history"
+        ],
+        "watch": [
+          "The firm now recruits for many industries, so ask for a recruiter who works restaurant searches every week",
+          "As with any franchise system, service depends on the office you get"
+        ]
+      },
+      {
+        "id": "goodwin-recruiting",
+        "name": "Goodwin Recruiting",
+        "url": "https://www.goodwinrecruiting.com/",
+        "model": "Direct hire recruitment and executive search",
+        "hq": "4 Center Street, Exeter, New Hampshire",
+        "bestFor": "Operators that want one firm for restaurant management plus corporate roles such as finance, HR or supply chain",
+        "summary": "Goodwin Recruiting offers direct hire recruitment across several sectors, with hospitality as one of its specialties alongside professional and executive search. For a restaurant group that also needs an accountant or HR leader, that breadth saves a second vendor.",
+        "good": [
+          "Covers hospitality management and back office roles under one contract",
+          "Direct hire focus keeps the fee model simple"
+        ],
+        "watch": [
+          "Restaurants are one specialty among many, so check recent restaurant placements",
+          "Less suited to a pure culinary search"
+        ]
+      },
+      {
+        "id": "chefs-recruit",
+        "name": "Chefs Recruit",
+        "url": "https://www.chefsrecruit.com/",
+        "model": "Specialist culinary placement",
+        "hq": "Placements since 2006",
+        "bestFor": "Chef roles and restaurant manager openings where culinary background matters most",
+        "summary": "Chefs Recruit has placed culinary talent since 2006. Much of its work is private chef placement for households, yachts and jets on short term, long term and permanent bases, and it also lists restaurant manager and hospitality positions.",
+        "good": [
+          "Deep culinary focus and chef network",
+          "Useful when you need a chef with private dining or event experience"
+        ],
+        "watch": [
+          "Private service is a large share of its work, so it is not a general restaurant search firm",
+          "Ask about experience with high volume kitchens before you sign"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to fill a restaurant management role yourself",
+      "p": [
+        "A headhunter's fee on a $75,000 general manager is real money, and it is hard to justify when your own pipeline is healthy. Promote from within first: an assistant general manager who already knows your systems ramps faster than anyone a firm can find. Referral bonuses paid to your current managers also work well, since good operators tend to know other good operators.",
+        "For outside hires, an <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a> keeps every past applicant searchable, so last year's runner up for a GM role is one search away. Teams that want to reach passive managers directly can add a <a href=\"/categories/sourcing-tools/\">sourcing tool</a>; AI sourcing products such as Noon find candidates and contact them by email and SMS, which is often enough for store level openings. Keep the headhunter for executive searches, confidential replacements and new market openings where you have no network."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Executive search versus manager recruiting",
+        "p": [
+          "The eight firms split into two groups. The Elliot Group, Horizon Hospitality and JWB Hospitality spend most of their time on leadership: chief executives, operations vice presidents, directors of operations and culinary directors. Hospitality Confidential, Gecko Hospitality and Patrice &amp; Associates do more of their work at general manager, assistant manager and multi unit level, where a chain may need a dozen hires a quarter."
+        ]
+      },
+      {
+        "h": "What restaurant search typically costs",
+        "p": [
+          "Fees are usually a percentage of the first year base salary. JWB Hospitality is the only firm here that prints its rate (20% on contingency). Retained firms bill in stages and charge whether or not you hire from their slate, in exchange for a dedicated team and a defined timeline. Whatever the model, ask for the guarantee period: if a placed manager leaves in the first 90 days, a good firm replaces them at no cost."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does a restaurant headhunter do?",
+        "a": "A restaurant headhunter finds and screens candidates for management, culinary and executive roles at restaurant companies, usually by approaching people who already hold similar jobs. The firm is paid by the employer, not the candidate."
+      },
+      {
+        "q": "Which restaurant headhunters handle executive searches?",
+        "a": "Of the firms on this page, The Elliot Group runs retained executive search for restaurant and foodservice companies, Horizon Hospitality covers executive and mid management roles, and JWB Hospitality fills C suite, operations and culinary leadership roles on contingency."
+      },
+      {
+        "q": "How much do restaurant recruiters charge?",
+        "a": "Most charge a percentage of first year base salary. JWB Hospitality lists 20% on contingency with no fee unless you hire; other firms quote per search, so ask for the rate and the guarantee period in writing."
+      },
+      {
+        "q": "Can a headhunter help me hire hourly restaurant staff?",
+        "a": "Generally no. The firms here focus on salaried managers, chefs and executives. For servers, cooks and other hourly roles, a staffing agency or high volume hiring software is a better fit."
+      },
+      {
+        "q": "Do candidates pay restaurant recruiters?",
+        "a": "No. Reputable restaurant headhunters are paid by the hiring company, and candidates should never be asked for a placement fee."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/luxury-staffing-agencies/",
+        "label": "Luxury staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-las-vegas/",
+        "label": "Staffing agencies in Las Vegas"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/stacks/recruitment-tools-for-high-volume-hiring/",
+        "label": "Recruitment tools for high volume hiring"
+      }
+    ]
   }
 ]
