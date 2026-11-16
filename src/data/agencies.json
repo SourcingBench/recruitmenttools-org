@@ -4586,5 +4586,239 @@
       "label": "Staffing and recruiting firms"
     }
   ]
-}
+},
+  {
+    "slug": "pharmaceutical-headhunters",
+    "short": "Pharmaceutical headhunters",
+    "h1": "Pharmaceutical headhunters: 8 firms sorted by the seat you need filled",
+    "seoTitle": "Pharmaceutical Headhunters: 8 Search Firms Compared (2026)",
+    "description": "Eight pharmaceutical headhunters checked on their own websites in November 2026, grouped by whether they fill board and C suite seats, functional leaders or specialist and contract roles, with locations and service models.",
+    "date": "2026-11-16",
+    "updated": "2026-11-16",
+    "lead": "Which firm do you call when a Phase III program loses its head of clinical operations, and is it the same firm you call for a new chief commercial officer? Usually not. Pharmaceutical headhunters split cleanly by the level of role they fill, and picking the wrong tier wastes a month. We read each firm below on its own website on November 16, 2026, noted its service model, where it is based and what it says it does, and dropped firms whose old domains now point somewhere else.",
+    "shortAnswer": "<b>Short answer:</b> for a chief executive or board search, compare Coulter Partners and Odgers. For vice president and director leaders in commercial, medical or R&amp;D at mid sized drug makers, Klein Hersh and The Bowdoin Group are the closest fit, and Bowdoin can staff a whole function before a launch. For specialists and contractors in clinical, regulatory, safety and biometrics, talk to Proclinical, Barrington James or R&amp;D Partners. ZRG Partners suits a company that wants search plus interim or embedded recruiters at once.",
+    "choose": [
+      {
+        "h": "Decide the tier before you call anyone.",
+        "p": "Board and CEO searches are retained, slow and expensive by design. Director level searches in medical affairs or market access often run on contingency. Contract statisticians and clinical research associates are a staffing purchase. Each firm on this list is strongest in one of those three tiers."
+      },
+      {
+        "h": "Test therapeutic area knowledge on the first call.",
+        "p": "Ask the recruiter to name three people who have run a launch in your indication, or two companies that recently cut a team with the skills you need. A specialist answers in minutes; a generalist promises to get back to you."
+      },
+      {
+        "h": "Check for conflicts with your competitors.",
+        "p": "Search firms usually agree not to recruit from current clients for a period. If a firm works for most of your rivals, its off limits list may cover the very people you want. Ask for the list before signing."
+      },
+      {
+        "h": "Price the whole engagement.",
+        "p": "Retained search typically bills a share of first year cash compensation in stages, while contract staffing is a markup on an hourly rate. Ask what happens if the search stalls, how long the replacement guarantee lasts and whether sign on bonuses count toward the fee."
+      }
+    ],
+    "firms": [
+      {
+        "id": "klein-hersh",
+        "name": "Klein Hersh",
+        "url": "https://www.kleinhersh.com/",
+        "model": "Executive search with an interim staffing arm",
+        "hq": "220 Gibraltar Road, Horsham, Pennsylvania",
+        "bestFor": "Commercial, medical and R&D leadership at drug makers and pharma services companies on the East Coast",
+        "summary": "Klein Hersh has run searches since 1998 and calls itself a precision executive search firm for life sciences and healthcare. Its practice areas are split into pharma and biotech, pharma services and technology, healthcare, and venture capital and private equity, and it also places interim staff. Hunt Scanlon Media has named it one of its top 50 search firms.",
+        "good": [
+          "Pharma services and technology is its own practice, useful for CROs and commercialization vendors",
+          "Based in the suburban Philadelphia pharma corridor"
+        ],
+        "watch": [
+          "Executive focus, so individual contributor roles are a poor fit",
+          "Interim staffing is a smaller part of the business; ask about bench depth"
+        ]
+      },
+      {
+        "id": "proclinical",
+        "name": "Proclinical",
+        "url": "https://www.proclinical.com/about-proclinical",
+        "model": "Executive search, staffing and managed workforce programs",
+        "hq": "London headquarters; US offices in Boston, New York, Philadelphia and San Diego",
+        "bestFor": "Drug developers that need contract and permanent specialists across clinical, regulatory, quality and medical affairs, sometimes in batches",
+        "summary": "Proclinical describes itself as a growth partner for life sciences companies, combining executive search, workforce solutions and staffing with a consulting unit that advises on developing, registering and launching products. It lists offices in Europe, North America and Asia Pacific, and in September 2026 it published a case study on filling 12 medical affairs roles across the US in six weeks through its Proclinical Lens program.",
+        "good": [
+          "Covers both one off searches and multi hire team builds",
+          "Contract and permanent under one roof, plus regulatory consulting"
+        ],
+        "watch": [
+          "Large firm, so ask who on the desk actually knows your therapeutic area",
+          "Consulting and recruiting are separate services with separate fees"
+        ]
+      },
+      {
+        "id": "bowdoin-group",
+        "name": "The Bowdoin Group",
+        "url": "https://www.bowdoingroup.com/",
+        "model": "Retained executive search and team builds",
+        "hq": "125 High Street, Boston",
+        "bestFor": "Venture and private equity backed biotechs hiring C suite leaders or building a whole function before a launch",
+        "summary": "The Bowdoin Group is an executive search and talent advisory firm for healthcare and life sciences companies. It offers executive search, a strategic search service for leaders below the executive level, and team builds tied to a launch or scale up, and it works closely with investors. The firm cites more than 30 years in business and more than 12,500 placements.",
+        "good": [
+          "Team build service suits a company staffing a commercial organization from scratch",
+          "Investor relationships help with portfolio company searches"
+        ],
+        "watch": [
+          "Healthcare services is a large share of its work, so confirm recent pharma placements",
+          "Retained model means an engagement fee up front"
+        ]
+      },
+      {
+        "id": "barrington-james",
+        "name": "Barrington James",
+        "url": "https://www.barringtonjames.com/about/",
+        "model": "Permanent, contract and interim recruitment, plus board and executive search",
+        "hq": "International recruiter; check the contact page for the nearest US office",
+        "bestFor": "Mid level and specialist hires in clinical operations, biometrics, pharmacovigilance, regulatory affairs and market access",
+        "summary": "Barrington James lists pharmaceutical, biotechnology, medtech, CRO and CDMO companies among the clients it serves, and its hiring menu runs from drug discovery and clinical development to medical writing, quality assurance and manufacturing. It offers direct hire, contract and interim placements and a separate board and executive search service.",
+        "good": [
+          "Functional desks are listed in detail, so you can ask for the specialist team by name",
+          "Contract and interim cover for trial peaks"
+        ],
+        "watch": [
+          "Breadth across medtech and health tech means pharma is one of many desks",
+          "Fee terms vary by service; get them in writing per role"
+        ]
+      },
+      {
+        "id": "rd-partners",
+        "name": "R&D Partners (formerly Hobson Prior)",
+        "url": "https://www.r-dpartners.com/about-us/",
+        "model": "Contingent staffing, permanent recruitment, executive search, FSP, MSP and RPO",
+        "hq": "Registered office at 9 Appold Street, London; part of Acacium Group",
+        "bestFor": "Sponsors and CROs that want contractors or a functional service provider model for clinical, biometrics or safety work",
+        "summary": "Hobson Prior now trades as R&D Partners; its site says it is the same team under a new name. The firm has worked in life sciences since 2002 and reports more than 60 specialist recruiters, more than 7,500 contract and permanent placements, and support for clients in 45 countries. Beyond recruiting, it offers functional service provider, managed service provider and recruitment process outsourcing programs.",
+        "good": [
+          "FSP and MSP options when you want a provider to own a whole function",
+          "Long track record under the previous Hobson Prior name"
+        ],
+        "watch": [
+          "The rebrand is recent, so references may still use the old name",
+          "Outsourcing contracts need careful scoping of who manages the staff"
+        ]
+      },
+      {
+        "id": "coulter-partners",
+        "name": "Coulter Partners",
+        "url": "https://www.coulterpartners.com/sectors/pharma-biotech",
+        "model": "Executive search, board advisory and leadership consulting",
+        "hq": "Global firm; see its geographic reach page for offices",
+        "bestFor": "Chief executive, board and global functional head searches at pharma and biotech companies",
+        "summary": "Coulter Partners works only in life sciences and adjacent sectors such as medtech, diagnostics, digital health and animal health. Its pharma and biotech page says it has served the sector for two decades and claims the largest specialist team doing so. Alongside search it runs board advisory and leadership consulting, and its news page reports recent chief executive placements at biopharma companies.",
+        "good": [
+          "Board advisory and CEO search from the same firm",
+          "Specialist focus rather than one practice inside a generalist"
+        ],
+        "watch": [
+          "Built for the top of the organization only",
+          "Global coverage can mean the lead partner sits outside the US"
+        ]
+      },
+      {
+        "id": "zrg-partners",
+        "name": "ZRG Partners",
+        "url": "https://www.zrgpartners.com/industries/healthcare-life-sciences",
+        "model": "Executive search, interim leaders, embedded recruiting and assessments",
+        "hq": "US offices include Boston, Fort Washington, Pennsylvania and New York City",
+        "bestFor": "Pharma companies that want one firm for an executive search plus interim cover or embedded recruiters during a reorganization",
+        "summary": "ZRG runs a healthcare and life sciences practice inside a broader talent firm. Its menu includes executive search, interim and fractional leaders, embedded recruiting teams, assessments, coaching and outplacement, so a client can combine a permanent search with a stopgap leader or a recruiting team that sits inside the company for a period.",
+        "good": [
+          "Interim and embedded options next to search",
+          "Assessment services for validating finalists"
+        ],
+        "watch": [
+          "Life sciences is one of several industry groups",
+          "Ask for pharma specific references rather than general healthcare ones"
+        ]
+      },
+      {
+        "id": "odgers",
+        "name": "Odgers",
+        "url": "https://www.odgers.com/en-us/expertise/industries/life-sciences-healthcare/life-sciences/",
+        "model": "Executive search, interim management and leadership advisory",
+        "hq": "International firm with a US practice; offices listed on its site",
+        "bestFor": "Board seats, CEOs and enterprise functional leaders at large pharmaceutical groups",
+        "summary": "Odgers has a dedicated life sciences executive search page within its life sciences and healthcare group. The firm also sells board and CEO services, board succession, interim management and leadership assessment, which suits a pharma company planning succession for several senior roles rather than filling a single seat.",
+        "good": [
+          "Board and succession services for large companies",
+          "Interim management when a leader leaves suddenly"
+        ],
+        "watch": [
+          "Generalist firm, so confirm the partner on your search is a life sciences specialist",
+          "Pricing is per engagement and not published"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "h": "Three tiers of pharmaceutical search",
+        "p": [
+          "Coulter Partners and Odgers sit at the top: chief executives, board directors and global heads of function, where the firm advises on the role as much as it fills it. Klein Hersh, The Bowdoin Group and ZRG Partners work mostly with vice presidents and directors, and Bowdoin and ZRG can add team builds or interim leaders. Proclinical, Barrington James and R&amp;D Partners do the high volume specialist work, including contractors for trial peaks and outsourced functional teams."
+        ]
+      },
+      {
+        "h": "Pharma headhunters versus life sciences staffing",
+        "p": [
+          "A pharma headhunter approaches people who are not looking, usually for one senior role at a time. A life sciences staffing firm fills many roles quickly from candidates who are active or already on its contractor bench. Several firms here do both, so say which one you are buying. For broader lists, see our pages on <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> and <a href=\"/agencies/nursing-staffing-agencies/\">nursing staffing agencies</a>."
+        ]
+      },
+      {
+        "h": "How we chose and checked these firms",
+        "p": [
+          "We included firms whose own sites describe a pharmaceutical or biotech practice, then visited each site on November 16, 2026, followed redirects and noted the current name and parent. Hobson Prior now redirects to R&amp;D Partners, so it appears under its new name. Facts about locations and services come only from each firm's pages. Order follows the tiers above, not a quality score, and no firm paid to appear."
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit pharma talent in house",
+      "p": [
+        "Not every opening needs a 25 percent fee. Clinical research associates, quality specialists and medical science liaisons are hired in large numbers, and a recruiter with a good <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a> can rediscover past finalists for most of them. Alumni of acquired or downsized companies are another strong pool, since many still list their former employer.",
+        "To reach passive specialists directly, add a <a href=\"/categories/sourcing-tools/\">sourcing tool</a>. AI sourcing products such as <a href=\"https://noon.ai/built-for/biotech\">Noon for biotech and pharma hiring</a> search beyond LinkedIn and contact candidates through personalized email and SMS, which covers many director and below roles. Keep a headhunter for confidential replacements, board seats and roles where only a few dozen people in the world qualify."
+      ]
+    },
+    "faq": [
+      {
+        "q": "What does a pharmaceutical headhunter charge?",
+        "a": "Retained executive search is usually billed as a percentage of first year compensation in installments, and contingency search is paid only when you hire. Contract staffing is billed as an hourly markup. None of the eight firms here publishes a standard rate, so ask for the percentage, the guarantee period and the payment schedule."
+      },
+      {
+        "q": "How long does a pharma executive search take?",
+        "a": "Board and C suite searches commonly run three to six months from kickoff to signed offer, longer if the candidate has a long notice period or a non compete. Director searches and contract placements are much faster."
+      },
+      {
+        "q": "Which pharmaceutical headhunters are based near Philadelphia or Boston?",
+        "a": "Klein Hersh is in Horsham, Pennsylvania, and The Bowdoin Group is in downtown Boston. Proclinical lists offices in both cities, and ZRG Partners lists Boston and Fort Washington, Pennsylvania."
+      },
+      {
+        "q": "Is Hobson Prior still operating?",
+        "a": "Its website now redirects to R&amp;D Partners, which says it is the same team under a new brand, part of Acacium Group."
+      },
+      {
+        "q": "Should I use a headhunter or a staffing firm for clinical trial roles?",
+        "a": "Use a staffing or functional service provider when you need several contract roles fast, such as clinical research associates for a study start. Use a headhunter for the permanent leader who will run the program."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/environmental-staffing-agencies/",
+        "label": "Environmental staffing agencies"
+      },
+      {
+        "href": "/agencies/nursing-staffing-agencies/",
+        "label": "Nursing staffing agencies"
+      },
+      {
+        "href": "/categories/sourcing-tools/",
+        "label": "Sourcing tools"
+      }
+    ]
+  }
 ]
