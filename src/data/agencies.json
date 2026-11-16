@@ -4820,5 +4820,270 @@
         "label": "Sourcing tools"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-jacksonville",
+    "short": "Staffing agencies in Jacksonville",
+    "h1": "Staffing agencies in Jacksonville: 10 firms with a real local office, Southside to Northside",
+    "seoTitle": "Staffing Agencies in Jacksonville, FL: 10 Offices Checked (2026)",
+    "description": "Ten staffing agencies in Jacksonville, Florida, verified on November 16, 2026: the published address for each office (Southside, Northside, Westside, Orange Park, the port), what each firm fills and how to compare their quotes.",
+    "date": "2026-11-16",
+    "updated": "2026-11-16",
+    "lead": "Four of the ten agencies on this list sit within a mile or two of each other on the Southside, between Deerwood Park, Gate Parkway and Salisbury Road. That cluster is great if you run an office near Butler Boulevard and less helpful if you manage a plant on Normandy Boulevard or a warehouse by the port. We loaded every firm's own Jacksonville location page on November 16, 2026, recorded the address it publishes and dropped any firm that only advertises remote or digital service in the city.",
+    "shortAnswer": "<b>Short answer:</b> for finance, accounting and other professional roles, start with Robert Half or Vaco. For IT contractors, compare TEKsystems and Insight Global. For skilled trades, call Aerotek. For hourly work, pick by geography: PeopleReady near the port or on the Westside, ResourceMFG for Westside manufacturing, Manpower on the Northside and the nearest Express office everywhere else.",
+    "choose": [
+      {
+        "h": "Match the office to the commute.",
+        "p": "Jacksonville is spread out, and the St. Johns River splits the labor market. Workers who cross the Dames Point or Buckman bridges every day tend to quit sooner, so ask each agency where its candidates live relative to your site."
+      },
+      {
+        "h": "Decide whether you need a trade skill.",
+        "p": "General labor and skilled industrial work are different businesses. A welder or maintenance technician needs a recruiter who can test the skill, and that usually means a firm like Aerotek rather than a day labor branch."
+      },
+      {
+        "h": "Get the conversion fee in writing.",
+        "p": "Many temps are hired permanently after a few months. Ask how many hours must be worked before the conversion fee drops to zero, and whether direct hire fees are a flat amount or a share of salary."
+      },
+      {
+        "h": "Ask for fill rate on your shift.",
+        "p": "A second shift order in an outlying industrial park is harder to fill than a weekday office role. Ask what share of similar orders the branch filled on the first day in the past quarter."
+      }
+    ],
+    "firms": [
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/fl-jacksonville/10751-deerwood-park-blvd",
+        "model": "Contract, contract to hire and permanent placement, plus executive search",
+        "hq": "10751 Deerwood Park Boulevard, Suite 130, ZIP 32256 (the branch Robert Half names Jacksonville Downtown)",
+        "bestFor": "Accounting, finance, technology, legal, creative and administrative roles for offices on the Southside",
+        "summary": "Robert Half's Jacksonville page lists a single branch on Deerwood Park Boulevard and the practice areas it covers there: finance and accounting, technology, marketing and creative, legal, and administrative and customer support. The firm can staff a month end close with a contract accountant, place a permanent controller, or run a retained search for a finance leader, all from the same desk.",
+        "good": [
+          "Broad professional coverage from one office",
+          "Contract, permanent and executive search under one firm"
+        ],
+        "watch": [
+          "The branch label says Downtown but the address is in the Deerwood Park office area, so ask where your recruiter actually sits",
+          "Professional focus; not the call for warehouse or plant shifts"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco",
+        "url": "https://www.vaco.com/about/locations/jacksonville/",
+        "model": "Contingent staffing, direct hire and consulting",
+        "hq": "9000 Southside Boulevard, Building 100, Suite 1104, ZIP 32256",
+        "bestFor": "Accounting and finance, technology and HR projects where you may want a consultant rather than a temp",
+        "summary": "Vaco's Jacksonville page describes the office as serving the First Coast region and groups its work into accounting and finance, technology and digital, and HR and operations. It offers both contingent talent and direct hire searches. The page notes that Vaco is now part of Highspring, which matters if you already buy from another Highspring brand and want consolidated terms.",
+        "good": [
+          "Mix of staffing and project consulting",
+          "Clear specialty lanes listed on the local page"
+        ],
+        "watch": [
+          "Ask whether a project is billed as staffing or consulting, since the contract terms differ",
+          "Not built for high volume hourly orders"
+        ]
+      },
+      {
+        "id": "insight-global",
+        "name": "Insight Global",
+        "url": "https://insightglobal.com/locations/florida/staffing-agency-jacksonville-fl/",
+        "model": "Contract and permanent staffing plus professional services",
+        "hq": "5555 Gate Parkway, Suite 220, ZIP 32256",
+        "bestFor": "IT contractors and larger staff augmentation projects",
+        "summary": "Insight Global lists its Jacksonville office on Gate Parkway and presents two lines of business there: staffing, and professional services for teams that want a managed project rather than individual contractors. Its location page features a testimonial from Frontline Education, a sign that the office works with software and services employers as well as corporate IT departments.",
+        "good": [
+          "Can supply a single contractor or a managed team",
+          "Office sits near the Gate Parkway and Butler Boulevard corridor where many tech employers are"
+        ],
+        "watch": [
+          "Compare contractor margins with TEKsystems before signing a rate card",
+          "Professional services contracts carry different liability terms than staffing"
+        ]
+      },
+      {
+        "id": "teksystems",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "model": "IT staffing and technology services",
+        "hq": "4655 Salisbury Road, Suite 350, ZIP 32256",
+        "bestFor": "Developers, infrastructure engineers, help desk and other IT roles",
+        "summary": "TEKsystems lists its Jacksonville office on Salisbury Road in its location directory, with the phone number 904 223 2100. The firm works only in technology talent and services, so the same recruiters handle a single help desk contractor and a cloud migration team. Aerotek publishes an office in the same building, which is useful if you need IT and industrial workers from related firms.",
+        "good": [
+          "Technology only focus",
+          "Local office directory lists the exact suite and phone"
+        ],
+        "watch": [
+          "Expect enterprise style contracts and minimum assignment terms",
+          "Not a fit for non technical office roles"
+        ]
+      },
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/en/locations/united-states/florida/jacksonville",
+        "model": "Contract and contract to hire staffing for skilled trades and industrial work",
+        "hq": "4655 Salisbury Road, Suite 450, ZIP 32256",
+        "bestFor": "Maintenance mechanics, welders, electricians, equipment operators and warehouse supervisors",
+        "summary": "Aerotek's Jacksonville page lists its Salisbury Road office and the phone number 904 527 5600, and the jobs it showed when we checked were skilled industrial roles: maintenance mechanic, MIG welder, heavy equipment operator, warehouse supervisor and electrician. That makes Aerotek the firm on this list to call when the job needs a trade skill rather than general labor.",
+        "good": [
+          "Skilled trade focus rather than general labor",
+          "Local job listings show the roles it is actively filling"
+        ],
+        "watch": [
+          "Office is on the Southside, so ask about candidate reach for Westside and Northside plants",
+          "Higher bill rates than day labor firms, by design"
+        ]
+      },
+      {
+        "id": "express",
+        "name": "Express Employment Professionals",
+        "url": "https://www.expresspros.com/locations/states/florida",
+        "model": "Temporary, temp to hire and direct hire staffing through local franchise offices",
+        "hq": "Three area offices: Jacksonville Northeast at 3740 Saint Johns Bluff Road South, Suite 7 (32224); Jacksonville Southeast at 9143 Philips Highway, Suite 150 (32256); and Jacksonville West at 195 Blanding Boulevard, Suite B, Orange Park (32073)",
+        "bestFor": "Office, light industrial and skilled roles where you want an office on your side of town",
+        "summary": "Express publishes three offices for the Jacksonville market on its Florida directory: Northeast on Saint Johns Bluff Road, Southeast on Philips Highway and a West office that is actually in Orange Park on Blanding Boulevard. Each office is run locally, so pricing, candidate pools and service levels can differ from one to the next.",
+        "good": [
+          "Three offices spread around the metro",
+          "Covers clerical, light industrial and skilled roles"
+        ],
+        "watch": [
+          "Offices are separate businesses; get terms from the one that will serve you",
+          "Do not assume the West office covers the Northside"
+        ]
+      },
+      {
+        "id": "manpower",
+        "name": "Manpower",
+        "url": "https://www.manpower.com/en/about-us/locations/jacksonville,-fl-%2D-nw",
+        "model": "Temporary and permanent staffing",
+        "hq": "13453 North Main Street, Suite 406, ZIP 32218 (the branch Manpower calls Jacksonville NW)",
+        "bestFor": "Northside employers near the airport and the Interstate 95 and 295 interchanges",
+        "summary": "Manpower's Jacksonville NW branch is on North Main Street on the Northside, open 8 to 5 on weekdays according to its location page, which lists its specialty as All. Its site also lists separate Jacksonville onsite branches, which suggests the firm runs programs inside larger local employers. Manpower belongs to ManpowerGroup.",
+        "good": [
+          "One of the few professional firms based on the Northside",
+          "Onsite programs for large sites"
+        ],
+        "watch": [
+          "General specialty means you should ask how many of your exact role it filled recently",
+          "Hours are weekday business hours; confirm weekend coverage for shift work"
+        ]
+      },
+      {
+        "id": "adecco",
+        "name": "Adecco",
+        "url": "https://www.adecco.com/en-us/locations/florida/jacksonville/adecco-staffing-in-jacksonville-fladus_025186",
+        "model": "Temporary staffing and permanent recruitment",
+        "hq": "1560 University Boulevard West, ZIP 32217",
+        "bestFor": "Clerical, customer service and light industrial temps close to the center of the city",
+        "summary": "Adecco's branch page lists the office on University Boulevard West, about midway between downtown and the Southside, with the phone number 904 232 4520. The firm offers temporary staffing and permanent recruitment and is a sensible second agency for a company that wants a national brand on a temp contract.",
+        "good": [
+          "Central location reachable from most of the city",
+          "Temp and permanent options"
+        ],
+        "watch": [
+          "Ask whether your order will be filled by this branch or a regional team",
+          "Compare markups with local franchise firms"
+        ]
+      },
+      {
+        "id": "peopleready",
+        "name": "PeopleReady",
+        "url": "https://locations.peopleready.com/us/fl/jacksonville",
+        "model": "On demand staffing for general labor, construction and events",
+        "hq": "2080 Talleyrand Avenue (32206) near the port and 670 Edgewood Avenue North (32254) on the Westside, plus an Orange Park branch at 533 Blanding Boulevard (32073)",
+        "bestFor": "Same week general labor, construction helpers, event crews and port area work",
+        "summary": "PeopleReady's Jacksonville directory lists a branch on Talleyrand Avenue near the port terminals and another on Edgewood Avenue North on the Westside, and a separate page lists an Orange Park branch on Blanding Boulevard. PeopleReady is part of TrueBlue, and it is built for fast, short assignments where workers are booked by the shift.",
+        "good": [
+          "Multiple branches including the port area and Westside",
+          "Designed for short notice orders"
+        ],
+        "watch": [
+          "Best for general labor, not skilled or office roles",
+          "Turnover on day labor is high; plan for replacements"
+        ]
+      },
+      {
+        "id": "resourcemfg",
+        "name": "ResourceMFG",
+        "url": "https://www.resourcemfg.com/locations/jacksonville-fl-4/",
+        "model": "Manufacturing and factory staffing",
+        "hq": "5834 Normandy Boulevard, ZIP 32205 (branch 40039)",
+        "bestFor": "Production, assembly and machine operator roles at Westside plants",
+        "summary": "ResourceMFG is a manufacturing specialist, and its Jacksonville branch, number 40039, is on Normandy Boulevard on the Westside with the phone number 904 771 4101. Its site carries EmployBridge branding. Its focus on factory work makes it a natural shortlist pick for plants along Normandy, Lane Avenue and the Westside industrial parks.",
+        "good": [
+          "Manufacturing is its only lane",
+          "Westside address close to many plants"
+        ],
+        "watch": [
+          "The branch page showed no open postings when we checked, so ask about the size of its active bench",
+          "Not set up for office or IT roles"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to hire in Jacksonville without an agency",
+      "p": [
+        "If you hire the same role every month, the fees add up. The University of North Florida, Jacksonville University and Florida State College at Jacksonville feed early career office and technical candidates, and a basic <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a> keeps those applicants organized instead of in an inbox.",
+        "For professional roles that agencies struggle with, sourcing software can widen the search. Tools in our <a href=\"/categories/sourcing-tools/\">sourcing tools category</a>, including Noon, which reaches candidates by email and SMS, let an in house recruiter build a shortlist before paying a search fee. Keep agencies for payroll risk on hourly work and sudden spikes."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Where the offices are",
+        "p": [
+          "The Southside holds the professional cluster: Robert Half on Deerwood Park Boulevard, Insight Global on Gate Parkway, Vaco on Southside Boulevard and TEKsystems and Aerotek in the same building on Salisbury Road. Express runs its Southeast office on Philips Highway, and Adecco sits on University Boulevard West, closer to the middle of the city.",
+          "North of the river, Manpower is on North Main Street and Express has its Northeast office on Saint Johns Bluff Road. On the Westside, ResourceMFG is on Normandy Boulevard and PeopleReady has a branch on Edgewood Avenue North, with a second PeopleReady branch on Talleyrand Avenue by the port. Clay County employers can use the Express and PeopleReady offices on Blanding Boulevard in Orange Park."
+        ]
+      },
+      {
+        "h": "How we checked each firm",
+        "p": [
+          "Each firm URL above was opened with a desktop browser user agent on November 16, 2026, redirects were followed and the page title was read to confirm the brand. Addresses, phone numbers and specialties come from those pages. We dropped one national firm whose Jacksonville page describes digital services only, with no street address, and two firms whose Florida directories did not list a Jacksonville office. Firm order reflects how broad and how verifiable each local presence is, not payment."
+        ]
+      },
+      {
+        "h": "Typical pricing to expect",
+        "p": [
+          "Agencies quote a bill rate per hour for temps, which covers the worker's wage, payroll taxes, workers compensation and the agency's margin. Direct hire searches are usually billed as a share of first year salary. Neither number is published by the firms above, so request written quotes from two or three firms for the same job description and compare them line by line. Our <a href=\"/stacks/recruitment-tools-for-staffing-agencies/\">staffing agency tool stack</a> is a useful checklist for asking how each firm screens and tracks candidates."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which Jacksonville staffing agencies handle IT contractors?",
+        "a": "TEKsystems on Salisbury Road and Insight Global on Gate Parkway both focus on technology roles, and Robert Half and Vaco also place technology staff alongside finance and accounting."
+      },
+      {
+        "q": "Is there a staffing agency on the Westside of Jacksonville?",
+        "a": "Yes. ResourceMFG lists a manufacturing branch on Normandy Boulevard and PeopleReady lists a branch on Edgewood Avenue North. Express calls its Orange Park office Jacksonville West."
+      },
+      {
+        "q": "Which agency is best for warehouse and port work?",
+        "a": "PeopleReady's Talleyrand Avenue branch sits next to the port terminals and is designed for short notice general labor. For supervisors or forklift and equipment skills, Aerotek is also worth a call."
+      },
+      {
+        "q": "Do Jacksonville staffing agencies charge job seekers?",
+        "a": "No. Staffing firms are paid by employers. Workers on temporary assignments are paid by the agency, which bills the client company."
+      },
+      {
+        "q": "How did you choose these ten firms?",
+        "a": "We started with firms that publish a Jacksonville area office, confirmed each office on the firm's own site on November 16, 2026, and kept the ten with clear addresses and specialties."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-atlanta/",
+        "label": "Staffing agencies in Atlanta"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-charlotte/",
+        "label": "Staffing agencies in Charlotte"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
