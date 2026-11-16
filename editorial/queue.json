@@ -406,7 +406,9 @@
    "keyword": "staffing agencies in jacksonville",
    "volume": 6600,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-jacksonville",
+   "date": "2026-11-16"
   },
   {
    "id": "rt-pm-014",
