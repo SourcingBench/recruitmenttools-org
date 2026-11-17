@@ -179,7 +179,9 @@
    "keyword": "aerospace staffing agencies",
    "volume": 170,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "aerospace-staffing-agencies",
+   "date": "2026-11-17"
   },
   {
    "id": "rt-022",
