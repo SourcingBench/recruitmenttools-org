@@ -5373,5 +5373,267 @@
         "label": "Environmental staffing agencies"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-baltimore",
+    "short": "Staffing agencies in Baltimore",
+    "h1": "Staffing agencies in Baltimore: 9 firms with a published office, from Harbor East to Hanover and Columbia",
+    "seoTitle": "Staffing Agencies in Baltimore, MD: 9 Offices Checked (2026)",
+    "description": "Nine staffing agencies serving Baltimore, Maryland, checked on November 17, 2026: the address each firm publishes (city, Hanover, Columbia, Hunt Valley), what each one fills and what to ask before you sign.",
+    "date": "2026-11-17",
+    "updated": "2026-11-17",
+    "lead": "Four of the nine firms below list an address on the same few blocks of Hanover, a short drive from BWI, because that is where Allegis Group and several of its staffing companies are headquartered. Baltimore is unusual that way: some of the largest staffing brands in the country answer the phone from Anne Arundel County, while the branches built for walk in applicants sit inside the city line. We opened each firm's own location or contact page on November 17, 2026, copied the address it publishes and left out firms whose Maryland pages returned errors or named no office.",
+    "shortAnswer": "<b>Short answer:</b> for accounting, finance and office roles, call <a href=\"#robert-half\">Robert Half</a> on South Exeter Street. For IT contractors, compare <a href=\"#teksystems\">TEKsystems</a>, <a href=\"#insight-global\">Insight Global</a> and <a href=\"#everforth-apex\">Everforth Apex</a>. For warehouse, plant and trades work, start with <a href=\"#aerotek\">Aerotek</a> or <a href=\"#randstad\">Randstad</a>. Engineering and lab roles fit <a href=\"#actalent\">Actalent</a> or <a href=\"#beacon-hill\">Beacon Hill</a>, and attorney searches belong with <a href=\"#major-lindsey-africa\">Major, Lindsey &amp; Africa</a>.",
+    "choose": [
+      {
+        "h": "Ask which office will run your order.",
+        "p": "A headquarters address in Hanover does not mean your recruiter sits there. Ask for the name and desk location of the person who will screen your candidates, and whether they recruit in the city, the county or remotely."
+      },
+      {
+        "h": "Separate hourly volume from professional search.",
+        "p": "Port, distribution and manufacturing employers along I 95 need firms that can fill twenty shifts by Monday. Hospitals, universities and federal contractors usually need two or three specialists. Very few branches do both well, so do not expect one agency to cover the whole building."
+      },
+      {
+        "h": "Bring a markup ceiling to the first call.",
+        "p": "Temporary staff are billed as an hourly rate that includes the worker's pay plus the agency's markup for payroll taxes, insurance and margin. Know the most you will pay per hour before you hear a quote, and ask for it in writing for each job title."
+      },
+      {
+        "h": "Check clearance and contract experience if you work with the government.",
+        "p": "Fort Meade, the Social Security Administration in Woodlawn and the defense contractors around them create demand for cleared IT and engineering people. If your roles need a clearance, ask each firm how many cleared candidates it placed in Maryland in the last year rather than accepting a general claim."
+      },
+      {
+        "h": "Read the conversion clause.",
+        "p": "If a temp turns into a great permanent employee, most contracts charge a conversion fee unless the worker has billed a minimum number of hours. Negotiate that number before the first shift, not after you want to hire someone."
+      }
+    ],
+    "firms": [
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/md-baltimore/650-s-exeter-st",
+        "model": "Contract, contract to hire and permanent placement",
+        "hq": "650 South Exeter Street, Baltimore, with further offices listed in Hunt Valley (11311 McCormick Road) and Columbia (6100 Merriweather Drive)",
+        "parent": "Robert Half Inc.",
+        "bestFor": "Finance, accounting, technology, administrative and customer support roles in city offices",
+        "summary": "Robert Half's Baltimore page sits on South Exeter Street and says the firm has multiple offices in and around the city; its location directory adds Hunt Valley and Columbia. The page lists finance and accounting, technology, and administrative and customer support among its practice areas and offers employers either an in person or a virtual consultation at the Baltimore location before a search begins.",
+        "good": [
+          "Three Maryland offices, so county employers have a closer desk",
+          "Contract and permanent hiring from the same team",
+          "Consultations cover local salary and competition before you commit"
+        ],
+        "watch": [
+          "Professional roles only; not the call for warehouse shifts",
+          "Ask which of the three offices owns your account"
+        ]
+      },
+      {
+        "id": "insight-global",
+        "name": "Insight Global",
+        "url": "https://insightglobal.com/locations/maryland/staffing-agency-baltimore-md/",
+        "model": "Staffing and professional services",
+        "hq": "2455 House Street, Suite 301, Baltimore, ZIP 21230",
+        "parent": "Insight Global",
+        "bestFor": "IT contractors and project staff for city and Mid Atlantic employers",
+        "summary": "Insight Global publishes a Baltimore office on House Street in the 21230 ZIP code and describes it as part of its Mid Atlantic team. The page positions the firm as staffing plus professional services, which matters if you want a contractor bench and a managed project from the same vendor.",
+        "good": [
+          "Office inside the city line",
+          "Can pair staffing with project based services"
+        ],
+        "watch": [
+          "Get the recruiter's specialty in writing; the firm covers many skill sets",
+          "Quote structures differ between staffing and services work, so compare like with like"
+        ]
+      },
+      {
+        "id": "randstad",
+        "name": "Randstad",
+        "url": "https://www.randstadusa.com/local/md/baltimore/2850-quarry-lake-drive/",
+        "model": "Temporary, temp to hire and direct hire staffing",
+        "hq": "2850 Quarry Lake Drive, Suite 240, Baltimore, ZIP 21209",
+        "parent": "Randstad N.V.",
+        "bestFor": "Industrial, manufacturing, logistics, office and customer service openings",
+        "summary": "Randstad's Baltimore branch is on Quarry Lake Drive in the 21209 ZIP code on the north side of the city. Its page lists weekday hours of 8 to 5 and asks visitors to schedule before coming in. Randstad's service menu runs from industrial, manufacturing and logistics through finance and accounting, so one contract can cover a plant and its front office.",
+        "good": [
+          "Broad range of job families under one agreement",
+          "Large national payroll and compliance operation behind the branch"
+        ],
+        "watch": [
+          "Visits are by schedule, not walk in",
+          "North side location; confirm it can recruit near your site if you are in the south or east county"
+        ]
+      },
+      {
+        "id": "teksystems",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "model": "IT staffing and technology services",
+        "hq": "7437 Race Road, Hanover",
+        "parent": "Allegis Group",
+        "bestFor": "Developers, infrastructure engineers and IT support for Baltimore and BWI corridor employers",
+        "summary": "TEKsystems lists its Baltimore office at 7437 Race Road in Hanover, the same address Allegis Group's contact page gives for the TEKsystems North America headquarters. Its locations page describes a network of more than 100 locations, so a Baltimore order can draw on recruiters elsewhere when the local market is thin.",
+        "good": [
+          "Deep IT focus with headquarters level resources nearby",
+          "Can scale from one contractor to a project team"
+        ],
+        "watch": [
+          "Large accounts get the most attention; ask about minimums",
+          "Sister companies share the campus, so be clear which brand you are contracting with"
+        ]
+      },
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/en/about-us",
+        "model": "Contract and contract to hire staffing for the industrial workforce",
+        "hq": "7301 Parkway Drive South, Hanover",
+        "parent": "Allegis Group",
+        "bestFor": "Construction, manufacturing, logistics, transportation and facilities maintenance",
+        "summary": "Aerotek's about page says the company has spent more than 40 years placing workers and now focuses on the people who work in construction, manufacturing, logistics, transportation, and facilities and maintenance. Allegis Group lists Aerotek's North America headquarters on Parkway Drive South in Hanover.",
+        "good": [
+          "Clear focus on skilled and industrial labor",
+          "Headquarters in the metro"
+        ],
+        "watch": [
+          "Not a fit for office or professional roles",
+          "Ask whether shifts are filled from a Maryland bench or from out of state"
+        ]
+      },
+      {
+        "id": "actalent",
+        "name": "Actalent",
+        "url": "https://www.actalentservices.com/en/locations",
+        "model": "Engineering and sciences staffing plus managed services",
+        "hq": "7301 Parkway Drive, Hanover",
+        "parent": "Allegis Group",
+        "bestFor": "Engineers, scientists and lab staff for life sciences and manufacturing employers",
+        "summary": "Actalent publishes its headquarters at 7301 Parkway Drive in Hanover. The firm works in engineering and sciences only, which suits the region's biotech, medical device and advanced manufacturing employers that need technical people rather than general labor.",
+        "good": [
+          "Technical focus keeps recruiters close to engineering roles",
+          "Can run a managed team instead of single placements"
+        ],
+        "watch": [
+          "No general office or warehouse staffing",
+          "Specify the discipline, because engineering and lab teams recruit separately"
+        ]
+      },
+      {
+        "id": "beacon-hill",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/locations/baltimore",
+        "model": "Contract, contract to hire and permanent staffing plus consulting",
+        "hq": "8840 Stanford Boulevard, Suite 3500, Columbia, ZIP 21045",
+        "parent": "Beacon Hill Staffing Group",
+        "bestFor": "Technology and life sciences roles across the Columbia and Baltimore area",
+        "summary": "Beacon Hill's Baltimore page points to an office on Stanford Boulevard in Columbia that serves the greater Columbia and Baltimore area, with an emphasis on technology and life sciences. The page says meetings there are by appointment. The wider company runs separate divisions for finance, HR, legal, government services and associates level office roles.",
+        "good": [
+          "Specialist divisions rather than one general desk",
+          "Columbia location suits Howard County employers"
+        ],
+        "watch": [
+          "Appointment only office",
+          "Confirm which division handles your role before you compare rates"
+        ]
+      },
+      {
+        "id": "everforth-apex",
+        "name": "Everforth Apex",
+        "url": "https://www.apexsystems.com/contact-us",
+        "model": "IT staffing and technology services",
+        "hq": "10480 Little Patuxent Parkway, Suite 950, Columbia, ZIP 21044",
+        "parent": "Everforth, Inc.",
+        "bestFor": "Software, data, cloud and security contractors for commercial employers",
+        "summary": "The firm long known as Apex Systems now presents itself as Everforth Apex; its site footer says Everforth Apex Systems is part of the Commercial Segment of Everforth, Inc., with a corporate office in Glen Allen, Virginia. The contact page lists a Baltimore office on Little Patuxent Parkway in Columbia, with phone 443 539 3320.",
+        "good": [
+          "IT focus with services capability behind it",
+          "Columbia office close to Howard County tech employers"
+        ],
+        "watch": [
+          "Recent rebrand; contracts and invoices may carry the new name",
+          "Commercial focus; ask how it handles federal work"
+        ]
+      },
+      {
+        "id": "major-lindsey-africa",
+        "name": "Major, Lindsey & Africa",
+        "url": "https://www.mlaglobal.com/en",
+        "model": "Legal recruiting and search",
+        "hq": "7317 Parkway Drive South, Hanover",
+        "parent": "Allegis Group",
+        "bestFor": "Partners, associates and in house lawyers for firms and corporate legal departments",
+        "summary": "Major, Lindsey &amp; Africa describes itself as legal recruiting for law firms and corporations, placing lawyers and legal professionals. Allegis Group's contact page lists the firm at 7317 Parkway Drive South in Hanover, which makes it the only legal specialist on this list with a Baltimore area headquarters address.",
+        "good": [
+          "Pure legal focus",
+          "Works on both law firm and in house searches"
+        ],
+        "watch": [
+          "Search fees, not hourly temp rates",
+          "Overkill for paralegal or legal assistant temp needs"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When Baltimore employers can skip the agency",
+      "p": [
+        "If you hire the same entry level job every few weeks, a steady relationship with the Community College of Baltimore County, Baltimore City Community College or the local American Job Centers is cheaper than a recurring markup. Put every applicant into an <a href=\"/categories/applicant-tracking-systems/\">applicant tracking system</a> so the runner up from March can be called in June.",
+        "For engineers and IT people who never apply, many in house teams now build their own shortlist before paying a search fee. Tools in the <a href=\"/categories/sourcing-tools/\">sourcing tools category</a>, Noon among them, find candidates and contact them by email and SMS; agencies then become the backup for cleared roles, payroll risk and sudden volume."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Where the offices actually are",
+        "p": [
+          "The list splits into three clusters. Inside the city, Robert Half sits on South Exeter Street, Insight Global on House Street and Randstad on Quarry Lake Drive. In Hanover, TEKsystems, Aerotek, Actalent and Major, Lindsey &amp; Africa share addresses on Race Road and Parkway Drive with their parent, Allegis Group. In Columbia, Beacon Hill and Everforth Apex keep offices along Stanford Boulevard and Little Patuxent Parkway, and Robert Half adds a branch on Merriweather Drive.",
+          "If your site is in Towson, Owings Mills or White Marsh, none of these is around the corner, so ask each firm how it recruits for your ZIP code and how long its last few fills there took."
+        ]
+      },
+      {
+        "h": "How we built this list",
+        "p": [
+          "Every firm here was loaded on November 17, 2026 with a desktop browser, following redirects, and its page title and address were recorded from its own site. Firms whose Baltimore pages returned not found errors or a parked domain were removed, as was one firm whose site gave no Maryland specifics we could confirm. Ranking order is not a quality score: the list runs city offices first, then Hanover, then Columbia and legal search."
+        ]
+      },
+      {
+        "h": "What it costs in Baltimore",
+        "p": [
+          "Agencies quote temporary work as a bill rate per hour and permanent placements as a percentage of first year salary. Ask every firm for both numbers on the same job title, the minimum hours before a temp can convert without a fee, and whether overtime is billed at the same markup. Our guide to <a href=\"/agencies/staffing-and-recruiting-firms/\">staffing and recruiting firms</a> explains the main contract models in more detail."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which staffing agencies have an office inside Baltimore city?",
+        "a": "Of the firms we checked, Robert Half (South Exeter Street), Insight Global (House Street) and Randstad (Quarry Lake Drive) publish Baltimore city addresses. The others list offices in Hanover or Columbia."
+      },
+      {
+        "q": "Why are so many staffing companies based in Hanover, Maryland?",
+        "a": "Allegis Group is headquartered there, and several of its operating companies, including TEKsystems, Aerotek, Actalent and Major, Lindsey &amp; Africa, list their headquarters on the same campus."
+      },
+      {
+        "q": "Which Baltimore agency is best for warehouse and plant jobs?",
+        "a": "Aerotek focuses on construction, manufacturing, logistics and facilities work, and Randstad covers industrial and manufacturing roles from its Quarry Lake branch. Ask both for a written bill rate and a fill time for your shift."
+      },
+      {
+        "q": "How do I get my firm added to this Baltimore list?",
+        "a": "Email us with your firm name, the address of your Baltimore area office and the roles you fill. We check every new firm against its own website before adding it."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-nyc/",
+        "label": "Staffing agencies in NYC"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-charlotte/",
+        "label": "Staffing agencies in Charlotte"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-jacksonville/",
+        "label": "Staffing agencies in Jacksonville"
+      },
+      {
+        "href": "/agencies/aerospace-staffing-agencies/",
+        "label": "Aerospace staffing agencies"
+      }
+    ]
   }
 ]
