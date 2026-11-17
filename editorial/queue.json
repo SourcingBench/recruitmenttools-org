@@ -419,7 +419,9 @@
    "keyword": "staffing agencies in baltimore",
    "volume": 6600,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-baltimore",
+   "date": "2026-11-17"
   },
   {
    "id": "rt-pm-015",
