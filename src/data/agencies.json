@@ -5085,5 +5085,293 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "aerospace-staffing-agencies",
+    "short": "Aerospace staffing agencies",
+    "h1": "Aerospace staffing agencies: 10 firms sorted by the kind of aerospace hire you need",
+    "seoTitle": "Aerospace Staffing Agencies: 10 Firms Checked (2026)",
+    "description": "Ten aerospace staffing agencies checked on November 17, 2026, grouped by what they actually fill: engineering programs, shop floor trades, maintenance contractors, business aviation crews and cleared defense roles, with the headquarters and parent company each firm lists.",
+    "date": "2026-11-17",
+    "updated": "2026-11-17",
+    "lead": "Is your opening on a design program, a production line, a hangar floor or a flight department? Those are four different recruiting markets, and most aerospace agencies are strong in only one or two of them. We opened every firm's own site on November 17, 2026 and sorted them by the work they say they staff.",
+    "shortAnswer": "<b>Short answer:</b> for engineering programs, start with <a href=\"#actalent\">Actalent</a> or <a href=\"#belcan\">Belcan</a>. For assemblers, avionics and sheet metal technicians, call <a href=\"#pds-tech-commercial\">PDS Tech Commercial</a>. For contract aircraft maintenance crews, <a href=\"#strom-aviation\">Strom Aviation</a> is the specialist, and for pilots and flight department leaders, <a href=\"#aviation-personnel-international\">Aviation Personnel International</a>. Defense contractors that need cleared staff should add <a href=\"#tad-pgs\">TAD PGS</a> or <a href=\"#moseley-technical-services\">Moseley Technical Services</a> to the shortlist.",
+    "choose": [
+      {
+        "h": "Decide which market the role sits in.",
+        "p": "A stress engineer, a composite technician and a charter captain share an industry but almost nothing else. Ask each agency how many people it placed in your exact job family last year, not how many aerospace clients it has."
+      },
+      {
+        "h": "Ask about clearances and export control before price.",
+        "p": "If the work touches defense programs or controlled technical data, confirm the firm can recruit people who already hold the clearance level you need and that its own staff are set up to handle controlled job details. Starting a clearance from zero adds months."
+      },
+      {
+        "h": "Check whether you are buying contract labor or a search.",
+        "p": "Several firms below put contractors on their own payroll for the length of a program, while others run direct hire or retained searches and charge a placement fee. Mixing the two models in one contract usually means one of them is done badly."
+      },
+      {
+        "h": "Ask where the recruiters sit.",
+        "p": "Maintenance and production talent is local. A firm with a desk near your plant or hangar will know which shops are laying off and which are poaching. Engineering searches travel better, so a national desk is fine there."
+      },
+      {
+        "h": "Get the certification check in writing.",
+        "p": "For technicians, the agency should confirm FAA certificates and any OEM training before a candidate reaches you, and say who pays if a contractor turns out not to hold what was claimed."
+      }
+    ],
+    "firms": [
+      {
+        "id": "actalent",
+        "name": "Actalent",
+        "url": "https://www.actalentservices.com/en/industries/aerospace-and-defense",
+        "model": "Engineering and sciences staffing plus managed engineering services",
+        "hq": "Hanover, Maryland (7301 Parkway Drive South)",
+        "parent": "Allegis Group",
+        "bestFor": "Design, systems and subsystem engineers for large aerospace and defense programs",
+        "summary": "Actalent is an operating company of Allegis Group and works only in engineering and sciences. Its aerospace and defense page lists structural design, system and subsystem development and modernization work among the programs it supports, and the firm says it has been placing engineering talent for nearly four decades. It can either supply engineers one by one or take on a scoped piece of work as a service.",
+        "good": [
+          "You need several engineers on one program at once",
+          "You may later want to hand a work package to the vendor instead of managing contractors",
+          "Your program spans aircraft, space and defense hardware"
+        ],
+        "watch": [
+          "It is part of a very large group, so ask which team actually owns your account",
+          "Not the right call for hourly shop floor roles; sister brands handle those"
+        ]
+      },
+      {
+        "id": "belcan",
+        "name": "Belcan",
+        "url": "https://www.belcan.com/industries/aerospace/",
+        "model": "Engineering services, consulting and technical recruiting",
+        "hq": "Over 30 locations worldwide",
+        "parent": "Cognizant",
+        "bestFor": "Engine, subsystem and manufacturing engineering for prime contractors and suppliers",
+        "summary": "Belcan's site now carries Cognizant branding in its navigation. Its aerospace page describes work across the product life cycle on aircraft engines and subsystems such as displays, controls, guidance and navigation and power management, completed to FAA, NASA and DoD standards. The firm says it has more than 7,000 professionals across over 30 locations, and technical recruiting is listed as a separate service from its engineering work. In 2026 it reported Premier Awards from Pratt &amp; Whitney.",
+        "good": [
+          "You are an engine maker or a supplier to one",
+          "You want engineers who have worked under FAA and DoD quality rules",
+          "You need recruiting and outsourced engineering from the same vendor"
+        ],
+        "watch": [
+          "Ask how the Cognizant ownership changes account structure or rates",
+          "Its site warns of scammers posting fake Belcan job listings, so point candidates to official channels"
+        ]
+      },
+      {
+        "id": "pds-tech-commercial",
+        "name": "PDS Tech Commercial",
+        "url": "https://www.pdstech.com/industries/aerospace-and-aviation",
+        "model": "Contract and direct hire for skilled trades and engineers",
+        "hq": "Irving, Texas",
+        "parent": "The Adecco Group",
+        "bestFor": "Assemblers, avionics, composite, sheet metal and powerplant technicians",
+        "summary": "PDS has staffed the aerospace and aviation workforce since 1977, covering both commercial and military work. Its aerospace page lists the trades it recruits, including assemblers, avionics technicians, composite technicians, interior technicians, sheet metal technicians, powerplant technicians and precision machinists, alongside aerospace and manufacturing engineers. PDS Tech Commercial and its sister unit PDS Defense are part of The Adecco Group.",
+        "good": [
+          "You are ramping a production line and need technicians in volume",
+          "You want one vendor for both trades and the engineers who support them",
+          "You have both commercial and military work"
+        ],
+        "watch": [
+          "Defense work may be routed to PDS Defense rather than the commercial unit",
+          "Confirm which local branch will recruit for your site"
+        ]
+      },
+      {
+        "id": "strom-aviation",
+        "name": "Strom Aviation",
+        "url": "https://www.stromaviation.com/",
+        "model": "Contract aviation maintenance and technical staffing",
+        "hq": "Waconia, Minnesota, with an office in Fort Worth, Texas",
+        "bestFor": "Short notice maintenance contractors for MRO shops, airlines and modification lines",
+        "summary": "Strom has worked only in aviation staffing for three decades. It started in Minneapolis and now lists its main office on South Elm Street in Waconia, Minnesota, and a second office on Lone Star Circle in Fort Worth. Its job board is organized around contract aviation roles, with sections for entry level jobs and for veterans, which makes it a useful partner when a heavy check or modification program needs extra hands for a fixed period.",
+        "good": [
+          "You need maintenance technicians for a set number of weeks",
+          "Your work is in a hangar rather than an engineering office",
+          "You want a firm that only does aviation"
+        ],
+        "watch": [
+          "Contract travelers expect per diem; budget for it",
+          "It is a specialist; engineering and executive hires belong elsewhere"
+        ]
+      },
+      {
+        "id": "aviation-personnel-international",
+        "name": "Aviation Personnel International",
+        "url": "https://www.apiaviation.com/",
+        "model": "Search, assessment and compensation consulting for business aviation",
+        "hq": "Savannah, Georgia (100 Bull Street)",
+        "bestFor": "Pilots, directors of aviation and maintenance leaders for corporate flight departments",
+        "summary": "API describes itself as the longest running recruiting firm serving business and private aviation. Its services include talent identification for open roles, an assessment called API WorkWell, aviation compensation consulting and outplacement. Client testimonials on the site come from Part 91 flight departments hiring a director or vice president of aviation, and one former aviation manager says the company hired all of its pilots through API for over 20 years.",
+        "good": [
+          "You run a corporate flight department rather than an airline",
+          "You need to benchmark pay before you open a search",
+          "Culture fit with a small team matters as much as hours flown"
+        ],
+        "watch": [
+          "Not built for volume or production hiring",
+          "Ask whether the search is retained or contingent before you sign"
+        ]
+      },
+      {
+        "id": "aviation-search-group",
+        "name": "Aviation Search Group",
+        "url": "https://aviationsearchgroup.com/",
+        "model": "Retained executive search, RPO and direct hire",
+        "hq": "Western Pennsylvania (724 area code)",
+        "bestFor": "Permanent leadership and technical hires at MROs, OEMs, airports and operators",
+        "summary": "Aviation Search Group runs executive and technical searches on a direct hire basis and lists retained search and recruitment process outsourcing as separate programs. It names MRO and maintenance, OEM and manufacturing, defense, flight operations and airport operations as the businesses it serves. The site announces a rebrand as a LAUNCH company, so expect the parent name to appear on contracts.",
+        "good": [
+          "You want a permanent hire, not a contractor",
+          "You are filling a director or general manager role",
+          "You want an embedded recruiting program for a year of growth"
+        ],
+        "watch": [
+          "Ask how the LAUNCH rebrand affects your contract and point of contact",
+          "Direct hire only, so it will not cover a short term surge"
+        ]
+      },
+      {
+        "id": "moseley-technical-services",
+        "name": "Moseley Technical Services",
+        "url": "https://www.moseleytechnical.com/",
+        "model": "Contract staffing, direct hire, payroll and engineering services",
+        "hq": "Huntsville, Alabama (Memorial Parkway SW)",
+        "bestFor": "Defense and space programs, especially around Huntsville",
+        "summary": "Moseley works in aerospace, defense, government and commercial markets and organizes its staffing around four domains: aviation, space, land systems and naval operations. Besides contract and direct hire recruiting it offers payroll support and workforce management, and it has delivered engineering work for more than 30 years. Its office sits on Memorial Parkway in Huntsville, near one of the largest concentrations of missile and space programs in the country.",
+        "good": [
+          "Your program is in or near Huntsville",
+          "You need to payroll people you have already found",
+          "Your work spans air, space and ground systems"
+        ],
+        "watch": [
+          "A smaller firm, so confirm capacity for large ramps",
+          "Commercial aviation maintenance is not its focus"
+        ]
+      },
+      {
+        "id": "tad-pgs",
+        "name": "TAD PGS",
+        "url": "https://tadpgs.com/",
+        "model": "Staffing for government contractors and federal programs",
+        "hq": "Bradenton, Florida (Third Avenue West)",
+        "parent": "Adecco Group",
+        "bestFor": "Cleared technical writers, IT staff and program managers for defense contracts",
+        "summary": "TAD PGS focuses on government contractors, both those pursuing a contract and those that have already won one. It lists work ranging from cyber security to sustainment and readiness, with technical writers, IT experts and project managers among the roles it fills, and it runs a veterans center for job seekers. It is part of the Adecco Group.",
+        "good": [
+          "You need staff in place quickly after a contract award",
+          "The roles are support and sustainment rather than design engineering",
+          "You want a vendor used to federal security processes"
+        ],
+        "watch": [
+          "Shares a parent with PDS, so avoid paying two Adecco brands for the same requisition",
+          "Commercial aerospace is outside its stated focus"
+        ]
+      },
+      {
+        "id": "sterling-engineering",
+        "name": "Sterling Engineering",
+        "url": "https://www.sterling-engineering.com/",
+        "model": "Engineering consulting and technical staffing",
+        "hq": "United States, multiple locations",
+        "bestFor": "Manufacturing and R&amp;D engineers for aerospace suppliers",
+        "summary": "Sterling has offered engineering consulting and technical staffing since 1969. Aerospace is one of several related industries it lists next to manufacturing, R&amp;D, automation and transportation, which makes it a better fit for a component supplier that hires the same mechanical and manufacturing engineers as other manufacturers than for an airframer with deep program needs.",
+        "good": [
+          "You are a tier two or tier three supplier",
+          "Your engineers move between aerospace and general manufacturing",
+          "You want consulting and staffing from one vendor"
+        ],
+        "watch": [
+          "Aerospace is not its headline market, so ask for placements in your niche",
+          "Check which office will work your search"
+        ]
+      },
+      {
+        "id": "akkodis",
+        "name": "Akkodis",
+        "url": "https://www.akkodis.com/en/industries/aerospace-defense",
+        "model": "Digital engineering consulting with talent services",
+        "hq": "Global",
+        "bestFor": "Model based systems engineering, embedded software and test and certification",
+        "summary": "Akkodis presents itself first as a digital engineering consultancy. Its aerospace and defense page lists design and development, systems engineering, model based systems engineering, embedded software and test and certification work, plus capabilities in autonomous systems and secure communications. Bring it in when the gap is a specialized digital engineering skill set rather than headcount alone.",
+        "good": [
+          "You need MBSE or embedded software specialists",
+          "You may want a consulting team rather than individual contractors",
+          "You work across civil aviation, space and defense"
+        ],
+        "watch": [
+          "Consulting rates are higher than plain contract staffing",
+          "Ask how much of the work is delivered from outside the US if export control applies"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit aerospace talent yourself",
+      "p": [
+        "Agencies earn their fee on surges, cleared roles and leadership searches. For steady technician hiring, an in house pipeline is usually cheaper: Part 147 aviation maintenance schools, community college composites and machining programs and military transition offices all produce candidates every term, and a recruiter who visits them twice a year builds a bench no agency can match.",
+        "Engineering roles that repeat every quarter are also worth bringing in house. Keep a list of former contractors who did good work, stay in touch between programs and reuse your strongest job postings. Our <a href=\"/agencies/staffing-and-recruiting-firms/\">guide to staffing and recruiting firms</a> explains how the contract and direct hire models compare if you plan to split the work."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Contract, direct hire or a program team",
+        "p": [
+          "Most aerospace hiring falls into three buying models. Contract staffing puts the worker on the agency's payroll and suits programs with a known end date. Direct hire or retained search ends with the person on your payroll, and the fee is a share of first year pay. A program team, which Actalent, Belcan and Akkodis all offer in some form, means the vendor delivers a defined scope of engineering work and manages its own people.",
+          "Pick the model per role, not per vendor. Buying a design package as a service while contracting technicians and running your own leadership searches is common, and it keeps each agency doing what it is best at."
+        ]
+      },
+      {
+        "h": "Where the firms cluster",
+        "p": [
+          "The headquarters on this list follow the industry map. Moseley sits in Huntsville next to missile and space work, Strom has an office in the Fort Worth area, PDS is based in Irving in the same metro, and API is in Savannah, home to a large business jet maker. If your site is elsewhere, ask each firm where its nearest recruiter works.",
+          "For related lists, see our guides to <a href=\"/agencies/electrical-staffing-agencies/\">electrical staffing agencies</a>, <a href=\"/agencies/oil-and-gas-recruitment-agencies/\">oil and gas recruitment agencies</a> and <a href=\"/agencies/environmental-staffing-agencies/\">environmental staffing agencies</a>, which share many of the same technicians and engineers."
+        ]
+      },
+      {
+        "h": "How we built this list",
+        "p": [
+          "We opened each firm's own website on November 17, 2026, followed redirects and recorded the current page title and any parent company named on the site. Headquarters, services and specialties come only from those pages. Firms whose sites did not load, or that turned out to focus on other industries, were left out. No firm paid to appear here."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does an aerospace staffing agency do?",
+        "a": "It recruits engineers, technicians, maintenance crews and support staff for aircraft makers, suppliers, MROs, airlines and defense contractors, either as contractors on the agency's payroll or as permanent hires for a placement fee."
+      },
+      {
+        "q": "Which agency should I use for aircraft maintenance technicians?",
+        "a": "Strom Aviation specializes in contract aviation maintenance staffing, and PDS Tech Commercial covers avionics, powerplant and sheet metal technicians for production and repair work."
+      },
+      {
+        "q": "Can aerospace agencies find candidates with security clearances?",
+        "a": "Several can. TAD PGS and Moseley Technical Services work mainly with defense and government programs, and Actalent and Belcan support defense contractors. Ask each firm how many currently cleared candidates it placed at your required level."
+      },
+      {
+        "q": "Who recruits pilots for corporate flight departments?",
+        "a": "Aviation Personnel International focuses on business and private aviation, including pilots and directors of aviation, and also offers compensation benchmarking."
+      },
+      {
+        "q": "Are aerospace recruiters different from engineering recruiters?",
+        "a": "Often yes. General engineering firms can fill mechanical and manufacturing roles, but aerospace specialists know FAA and DoD quality rules, certificate checks and the program cycles that drive hiring."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/electrical-staffing-agencies/",
+        "label": "Electrical staffing agencies"
+      },
+      {
+        "href": "/agencies/oil-and-gas-recruitment-agencies/",
+        "label": "Oil and gas recruitment agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/environmental-staffing-agencies/",
+        "label": "Environmental staffing agencies"
+      }
+    ]
   }
 ]
