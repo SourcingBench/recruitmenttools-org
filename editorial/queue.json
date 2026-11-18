@@ -71,7 +71,9 @@
    "keyword": "pharmaceutical headhunters",
    "volume": 390,
    "noon_target": "/built-for/biotech",
-   "status": "published", "slug": "pharmaceutical-headhunters", "date": "2026-11-16"
+   "status": "published",
+   "slug": "pharmaceutical-headhunters",
+   "date": "2026-11-16"
   },
   {
    "id": "rt-009",
@@ -441,7 +443,7 @@
    "keyword": "staffing agencies in orlando",
    "volume": 5400,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published", "slug": "staffing-agencies-in-orlando", "date": "2026-11-18"
   },
   {
    "id": "rt-pm-017",
