@@ -163,7 +163,9 @@
    "keyword": "clinical research staffing agencies",
    "volume": 170,
    "noon_target": "/built-for/biotech",
-   "status": "queued"
+   "status": "published",
+   "slug": "clinical-research-staffing-agencies",
+   "date": "2026-11-18"
   },
   {
    "id": "rt-020",
