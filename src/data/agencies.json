@@ -5635,5 +5635,272 @@
         "label": "Aerospace staffing agencies"
       }
     ]
+  },
+  {
+    "slug": "clinical-research-staffing-agencies",
+    "short": "Clinical research staffing",
+    "h1": "Clinical research staffing agencies: 9 firms for CRAs, coordinators and FSP teams",
+    "seoTitle": "Clinical Research Staffing Agencies: 9 Firms Checked (2026)",
+    "description": "Nine clinical research staffing agencies checked on November 18, 2026, split by model: contract CRA suppliers, functional service providers and CROs that staff studies, with headquarters and services from each firm's own site.",
+    "date": "2026-11-18",
+    "updated": "2026-11-18",
+    "lead": "A sponsor with a study that slipped a quarter usually discovers the same thing: the CRAs it needs are already on someone else's monitoring plan. Clinical research staffing is a narrow market. The firms that fill CRA, CTA, clinical project manager and study coordinator roles tend to work either as contract suppliers, as functional service providers that deliver a managed team, or as CROs that sell staff on the side. We opened each firm's own clinical page on November 18, 2026, read the services and headquarters it publishes, and dropped firms whose sites returned errors or had been folded into another brand.",
+    "shortAnswer": "<b>Short answer:</b> for contract CRAs and CTAs at speed, start with <a href='#planet-pharma'>Planet Pharma</a> or <a href='#kelly-science-clinical'>Kelly Science and Clinical</a>. If you want a managed team, compare the FSP offers from <a href='#actalent'>Actalent</a>, <a href='#advanced-clinical'>Advanced Clinical</a> and <a href='#clinchoice'>ClinChoice</a>. Coordinators at investigator sites fit <a href='#clinlab-solutions-group'>ClinLab Solutions Group</a>, global monitoring fits <a href='#r-and-d-partners'>R&amp;D Partners</a>, and clinical operations leaders fit <a href='#barrington-james'>Barrington James</a>.",
+    "choose": [
+      {
+        "h": "Decide between bodies and a managed team.",
+        "p": "A contract CRA reports to your clinical lead and your SOPs. An FSP team arrives with its own line manager, training records and performance reporting. The second costs more per head but removes supervision work, so pick the model before you ask anyone for rates."
+      },
+      {
+        "h": "Ask where the monitors are based.",
+        "p": "Monitoring visits mean travel. A firm with a deep bench in the Northeast does little for a site network in Texas and Arizona. Ask for the home cities of the last five CRAs the firm placed on a study like yours."
+      },
+      {
+        "h": "Check therapeutic and phase fit.",
+        "p": "Oncology, rare disease and device studies each have their own monitoring rhythms. A recruiter who has staffed Phase I units may not know what a Phase III rescue needs. Ask for two recent placements in your therapeutic area."
+      },
+      {
+        "h": "Get the conversion terms in writing.",
+        "p": "Many sponsors want to hire a good contractor after six or twelve months. Conversion fees vary widely by firm and model, so put the schedule into the master agreement rather than negotiating it when you are attached to the person."
+      }
+    ],
+    "firms": [
+      {
+        "id": "planet-pharma",
+        "name": "Planet Pharma",
+        "url": "https://www.planet-pharma.com/disciplines/clinical-research/",
+        "model": "Contract, contract to hire and direct hire staffing, plus functional service programs",
+        "hq": "Chicago, Illinois, per the dateline on its 2026 press releases, with recruiting teams in North America, Europe and Asia Pacific",
+        "parent": "Planet Pharma (founded 2012)",
+        "bestFor": "Sponsors and CROs that need CRAs, CTAs and clinical project managers on contract quickly",
+        "summary": "Planet Pharma's clinical research page says its recruiters cover every phase from early development through post market surveillance and names the roles it fills: CRAs, CTAs, clinical project managers, regulatory and compliance specialists, and biostatisticians. The firm says it was founded in 2012, and its newsroom notes that Staffing Industry Analysts included it on the 2026 list of the largest staffing firms in the US.",
+        "good": [
+          "Names clinical operations titles explicitly rather than lumping them into life sciences",
+          "Covers biostatistics and regulatory in the same desk",
+          "Scale for multi site contract programs"
+        ],
+        "watch": [
+          "A large contract book means you should ask how many of your CRAs will be redeployed from other studies",
+          "Confirm whether the recruiter or a separate account manager owns your requisition"
+        ]
+      },
+      {
+        "id": "clinlab-solutions-group",
+        "name": "ClinLab Solutions Group",
+        "url": "https://www.clinlabsolutionsgroup.com/",
+        "model": "Contract and contingent staffing, direct hire, functional service provision and clinical site solutions",
+        "hq": "480 Pleasant Street, Watertown, Massachusetts",
+        "parent": "ClinLab Solutions Group",
+        "bestFor": "Boston area biotechs and research sites that want staff placed at the site level, not only at the sponsor",
+        "summary": "ClinLab Solutions Group says it started in Boston in 2002 and now lists its headquarters on Pleasant Street in Watertown. Its site splits services into contingent staffing, direct hire, functional service provision and a clinical site solutions practice, which is the unusual part: it will staff coordinators and research roles at investigator sites as well as at the sponsor.",
+        "good": [
+          "Site staffing is a distinct offer, which few firms on this list publish",
+          "Two decades in one biotech cluster",
+          "Can move a contractor to an FSP arrangement later"
+        ],
+        "watch": [
+          "Strongest in New England; ask about coverage for sites in other regions",
+          "Smaller bench than the national firms for large rescue studies"
+        ]
+      },
+      {
+        "id": "actalent",
+        "name": "Actalent",
+        "url": "https://www.actalentservices.com/en/services-and-solutions/sciences-services/clinical-services",
+        "model": "Functional service provider teams and talent solutions for clinical development",
+        "hq": "Operates nationally; an operating company of Allegis Group",
+        "parent": "Allegis Group",
+        "bestFor": "Sponsors that want a managed clinical operations or data team instead of individual contractors",
+        "summary": "Actalent's clinical development page describes an FSP model with clinical project managers, CRAs and study start up specialists, plus a data sciences group with data engineers and EDC developers. Its site services list is specific: protocol champions, informed consent writing and review, query management, CRA visit support, site budgets and contract negotiation. Actalent says it launched in 2021 to serve engineering and sciences and is an operating company of Allegis Group.",
+        "good": [
+          "Covers clinical operations and data management under one provider",
+          "Site level support tasks are spelled out",
+          "Allegis Group scale behind the contract"
+        ],
+        "watch": [
+          "FSP engagements need clear governance; agree who manages performance before kickoff",
+          "Less useful if you only need one direct hire"
+        ]
+      },
+      {
+        "id": "advanced-clinical",
+        "name": "Advanced Clinical",
+        "url": "https://www.advancedclinical.com/services/strategic-resourcing/clinical/strategic-resourcing/",
+        "model": "CRO and FSP services with a separate strategic resourcing practice",
+        "hq": "6 Parkway North, Suite 100, Deerfield, Illinois",
+        "parent": "Advanced Clinical",
+        "bestFor": "Teams that may later want study services from the same partner that supplied their staff",
+        "summary": "Advanced Clinical runs a full CRO and FSP business, and its strategic resourcing practice places clinical, quality and validation professionals alongside it. The headquarters address on its reach page is in Deerfield, north of Chicago, and the firm says it has been a Chicago Tribune Top Workplace for nine years. Buyers who start with resourcing can see the CRO menu (feasibility, site selection, monitoring, biometrics, safety) on the same site.",
+        "good": [
+          "Resourcing desk backed by people who run studies",
+          "Quality and validation roles covered next to clinical",
+          "Long Chicago area track record"
+        ],
+        "watch": [
+          "Ask whether a placed contractor could be pulled onto the firm's own CRO projects",
+          "Pricing differs between resourcing and full service; get both quotes in writing"
+        ]
+      },
+      {
+        "id": "kelly-science-clinical",
+        "name": "Kelly Science and Clinical",
+        "url": "https://set.kellyservices.us/find-talent/areas-of-expertise/science-clinical-staffing/",
+        "model": "Contract and permanent staffing through a specialty division",
+        "hq": "Specialty division within Kelly Services' US network",
+        "parent": "Kelly Services",
+        "bestFor": "Employers that already buy from Kelly and want clinical roles on the same master agreement",
+        "summary": "Kelly lists Kelly Science and Clinical as one of its specialty divisions, alongside KellyOCG and Vita Global Sciences. The division's page says it places specialized talent to help sponsors and partners move clinical programs forward, and covers adjacent research and development, manufacturing and quality roles, which helps when one study team needs a CRA and a quality associate in the same quarter.",
+        "good": [
+          "One vendor contract can cover clinical, lab and manufacturing roles",
+          "National reach for multi state programs",
+          "Managed service options through KellyOCG"
+        ],
+        "watch": [
+          "The clinical desk is one of many divisions; ask for recruiters who only work clinical requisitions",
+          "Check whether your order is filled by Kelly directly or routed to a partner"
+        ]
+      },
+      {
+        "id": "r-and-d-partners",
+        "name": "R&D Partners",
+        "url": "https://www.r-dpartners.com/specialisms/clinical-operations/",
+        "model": "Contract and permanent recruitment, FSP, MSP and RPO",
+        "hq": "Offices worldwide; part of Acacium Group",
+        "parent": "Acacium Group",
+        "bestFor": "Global sponsors hiring CRAs and lead CRAs in several countries at once",
+        "summary": "R&D Partners is the new name for Hobson Prior, and the firm says the team and service did not change with the rebrand. Its clinical operations page covers Phase I to IV trials, clinical project management, trial coordination, monitoring at the CRA and lead CRA level, and clinical pharmacology. Live listings on the same page include contract CRA roles in Europe, which shows where much of its clinical desk works.",
+        "good": [
+          "Strong European monitoring network",
+          "Workforce models from single contractor to RPO",
+          "Clinical pharmacology covered, which is often hard to source"
+        ],
+        "watch": [
+          "Many active roles are outside the US; confirm US recruiter capacity",
+          "Older contracts may still say Hobson Prior; update the legal entity"
+        ]
+      },
+      {
+        "id": "barrington-james",
+        "name": "Barrington James",
+        "url": "https://www.barringtonjames.com/clinical-operations-recruitment/",
+        "model": "Permanent and contract recruitment",
+        "hq": "Global headquarters in Horsham, England; US headquarters at 555 Fayetteville Street, Raleigh, North Carolina",
+        "parent": "Barrington James",
+        "bestFor": "Research Triangle sponsors and CROs looking for clinical operations leaders",
+        "summary": "Barrington James runs a dedicated clinical operations recruitment practice and publishes a US headquarters in downtown Raleigh, a short drive from the Research Triangle Park CRO cluster, with a further office in New York. The global headquarters is in Horsham, England, so the firm can run transatlantic searches for leadership roles that oversee studies in both regions.",
+        "good": [
+          "Raleigh base close to many CROs",
+          "Leadership and permanent search, not only contract",
+          "Can search the UK and Europe in parallel"
+        ],
+        "watch": [
+          "Permanent fees can be higher than contract markups; compare total cost",
+          "Smaller US contractor payroll than the national staffing firms"
+        ]
+      },
+      {
+        "id": "the-fountain-group",
+        "name": "The Fountain Group",
+        "url": "https://www.thefountaingroup.com/home",
+        "model": "Contract staffing and managed programs",
+        "hq": "3407 West Martin Luther King Jr. Boulevard, Suite 150, Tampa, Florida",
+        "parent": "The Fountain Group",
+        "bestFor": "Large pharma buyers running vendor managed programs who need a reliable second tier supplier",
+        "summary": "The Fountain Group lists life sciences, scientific and clinical, as one of four specializations next to engineering, IT and professional roles. Its awards page is a buyer's signal: supplier performance recognition from AstraZeneca and supplier excellence awards from Magnit and Kelly, which means it is used to working inside managed service programs with strict fill and compliance metrics. It also lists a 2026 Top Workplaces award from the Tampa Bay Times.",
+        "good": [
+          "Comfortable inside VMS and MSP programs",
+          "Supplier awards from large pharma buyers",
+          "Florida base with national contract delivery"
+        ],
+        "watch": [
+          "Clinical is one of four practices; ask how many recruiters work it",
+          "Best for contract volume rather than one off leadership searches"
+        ]
+      },
+      {
+        "id": "clinchoice",
+        "name": "ClinChoice",
+        "url": "https://clinchoice.com/",
+        "model": "Full service CRO with FSP delivery",
+        "hq": "300 Welsh Road, Building 5, Suite 201, Horsham, Pennsylvania",
+        "parent": "ClinChoice",
+        "bestFor": "Device and drug sponsors that want an FSP team that already runs clinical development work",
+        "summary": "ClinChoice is a CRO first, but it sells FSP solutions as a separate delivery model, which is how many sponsors in the Philadelphia corridor end up using it as a staffing source. Its site lists clinical development, post marketing and real world evidence, project management and quality and compliance among its solutions, and it publishes its international headquarters in Horsham, Pennsylvania.",
+        "good": [
+          "Teams come with CRO processes and training already in place",
+          "Device and diagnostics experience alongside drugs",
+          "Philadelphia area base"
+        ],
+        "watch": [
+          "Not a fit for a single contract CRA",
+          "Clarify whether staff stay on your systems or the CRO's"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit clinical staff yourself",
+      "p": [
+        "Agencies make sense for surge capacity and hard to reach geographies. For a steady pipeline of study coordinators or a second CRA in a city where you already run sites, an internal recruiter with a clean shortlist process is usually cheaper over a year.",
+        "Clinical professionals are reachable: most list certifications such as ACRP or SOCRA credentials and their therapeutic areas on public profiles, and many respond to a short, specific email naming the protocol phase and travel load. Teams that want help with the reach out step can use tools that find and contact candidates through <a href='https://noon.ai/built-for/biotech' target='_blank' rel='noopener'>personalized email and SMS sequences for biotech roles</a>, then keep agencies for the requisitions that stall.",
+        "Whichever route you choose, write the job around the study rather than the title. A CRA posting that states the number of sites, the visit cadence and the remote versus onsite split attracts more qualified replies than one that lists generic GCP knowledge."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Contract, FSP or CRO: what you are really buying",
+        "p": [
+          "The nine firms fall into three groups. Planet Pharma, Kelly Science and Clinical, The Fountain Group and Barrington James mostly place individuals, either as contractors on the firm's payroll or as direct hires. ClinLab Solutions Group, R&amp;D Partners and Actalent sell both individual placements and functional service programs. Advanced Clinical and ClinChoice are CROs whose FSP and resourcing teams compete with staffing firms for the same budgets.",
+          "That split matters because the risk sits in different places. With a contractor, you own the training, the oversight and the quality of monitoring reports. With an FSP, the provider owns those, and you own the governance meeting. With a CRO resourcing team, the staff may be more experienced, but they can be reassigned to the CRO's own projects when your contract ends, so plan for transitions.",
+          "If you are comparing this list with broader <a href='/agencies/pharmaceutical-headhunters/'>pharmaceutical headhunters</a>, the difference is scope: headhunters place permanent leaders across commercial, medical and research functions, while the firms here are built around study execution."
+        ]
+      },
+      {
+        "h": "What to ask on the first call",
+        "p": [
+          "Ask for the number of CRAs the firm has on active assignments today, the share that are home based, and how many it placed in your therapeutic area in the last year. Ask how it checks GCP training and prior monitoring experience, and whether it verifies degrees and certifications itself or relies on the candidate.",
+          "For FSP proposals, ask who writes the performance metrics, how often they are reported, and what happens when a team member leaves mid study. A good provider will name a backfill window and the person accountable for it.",
+          "Finally, ask how the firm handles a candidate who is also being submitted by another supplier on your vendor list. Duplicate submissions are common in clinical staffing, and the master agreement should say which supplier owns the candidate."
+        ]
+      },
+      {
+        "h": "Where these firms are based",
+        "p": [
+          "Two clusters stand out. Horsham appears twice for unrelated reasons: Barrington James is headquartered in Horsham, England, while ClinChoice lists its international headquarters in Horsham, Pennsylvania, north of Philadelphia. The Chicago area has Planet Pharma and Advanced Clinical, the second in Deerfield. Boston biotech buyers have ClinLab Solutions Group in Watertown, and Research Triangle sponsors can meet Barrington James in downtown Raleigh.",
+          "Location matters less for contract monitors, who are usually home based, but it still shapes which sites a firm knows. If your network is regional, start with the firm closest to it; for a nationwide program, compare the national suppliers and check their benches city by city. For hospital based research nurses, a <a href='/agencies/nursing-staffing-agencies/'>nursing staffing agency</a> may move faster than a clinical research specialist."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does a clinical research staffing agency do?",
+        "a": "It supplies people to run clinical trials: clinical research associates who monitor sites, clinical trial assistants, study coordinators, clinical project managers, data managers and regulatory staff. Some place individual contractors or direct hires; others deliver a managed functional service team."
+      },
+      {
+        "q": "What is an FSP in clinical research?",
+        "a": "A functional service provider runs one function of a study, such as monitoring or data management, with its own managed team under the sponsor's processes. Actalent, Advanced Clinical, ClinChoice, ClinLab Solutions Group and R&amp;D Partners all publish FSP offers."
+      },
+      {
+        "q": "Is R&amp;D Partners the same firm as Hobson Prior?",
+        "a": "Yes. R&amp;D Partners says Hobson Prior is now R&amp;D Partners with the same team and service, and it is part of Acacium Group."
+      },
+      {
+        "q": "Should a small biotech use a CRO or a staffing agency?",
+        "a": "If you have an internal clinical lead who can supervise contractors, a staffing agency is usually cheaper. If you have no clinical operations team yet, a CRO or FSP provider brings processes and oversight along with the people."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/pharmaceutical-headhunters/",
+        "label": "Pharmaceutical headhunters"
+      },
+      {
+        "href": "/agencies/nursing-staffing-agencies/",
+        "label": "Nursing staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
