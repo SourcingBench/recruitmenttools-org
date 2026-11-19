@@ -452,7 +452,9 @@
    "keyword": "staffing agencies in indianapolis",
    "volume": 5400,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-indianapolis",
+   "date": "2026-11-19"
   },
   {
    "id": "rt-pm-018",
