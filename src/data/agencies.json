@@ -6132,5 +6132,263 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-indianapolis",
+    "short": "Staffing agencies in Indianapolis",
+    "h1": "Staffing agencies in Indianapolis: 9 firms with verified offices from Broad Ripple to Greenwood",
+    "seoTitle": "Staffing Agencies in Indianapolis, IN: 9 Offices Checked (2026)",
+    "description": "Nine staffing agencies with a published Indianapolis area office, checked November 19, 2026: street address, what each branch recruits, parent company, and which firm to call for IT, healthcare, finance or plant shifts.",
+    "date": "2026-11-19",
+    "updated": "2026-11-19",
+    "lead": "Nine firms, five corridors. Most of the professional staffing in Indianapolis is run from a short stretch of the north side around Keystone Crossing and Castleton, the IT and healthcare consultancies cluster in Broad Ripple, and the light industrial branches sit where the warehouses are: the northeast side, the west side near Interstate 465 and south in Greenwood. We read each firm's own location page on November 19, 2026 and kept only those that publish a street address in the metro. Where two brands share a parent, we say so, because it changes how you negotiate.",
+    "shortAnswer": "<b>Short answer:</b> for software, data and infrastructure contractors, start with <a href='#brooksource'>Brooksource</a>, <a href='#teksystems'>TEKsystems</a> or <a href='#everforth-apex'>Everforth Apex</a>. Hospitals, payers and pharma companies should call <a href='#medasource'>Medasource</a> or <a href='#beacon-hill'>Beacon Hill</a>'s life sciences team. Accounting and office hires fit <a href='#robert-half'>Robert Half</a> or <a href='#vaco'>Vaco</a>. Welders, mechanics and warehouse supervisors go to <a href='#aerotek'>Aerotek</a>, and general labor or office temps across four suburbs go to <a href='#express-employment-professionals'>Express</a>.",
+    "choose": [
+      {
+        "h": "Decide which side of the county the work is on.",
+        "p": "A temp who lives in Greenwood will not drive to Fishers for a second shift for long. Express alone runs separate branches on the east side, the west side, in Greenwood and in Fishers, so ask which branch owns your order and where its candidates actually live."
+      },
+      {
+        "h": "Ask whether the firm is local or a branch of a national group.",
+        "p": "Brooksource and Medasource started in Indianapolis and keep their headquarters on College Avenue. Robert Half, Aerotek and TEKsystems are national brands with local desks. Neither is better by default, but a headquarters office can usually escalate a pricing or contract question the same day."
+      },
+      {
+        "h": "Get one rate card when you buy from sister brands.",
+        "p": "Aerotek and TEKsystems both sit under Allegis Group, and Brooksource and Medasource both belong to Eight Eleven Group. If you use two brands from the same parent, ask for consolidated billing and a single master services agreement before you sign separate ones."
+      },
+      {
+        "h": "Put the conversion terms next to the markup.",
+        "p": "Compare the bill rate, the hours after which a contractor can join you without a fee, and the direct hire percentage on the same page. A cheap markup with a long conversion period often costs more over a year."
+      }
+    ],
+    "firms": [
+      {
+        "id": "brooksource",
+        "name": "Brooksource",
+        "url": "https://www.brooksource.com/locations/indianapolis",
+        "parent": "Eight Eleven Group",
+        "model": "IT and engineering consulting, staffing and project services",
+        "hq": "6215 College Avenue, Broad Ripple Village (national headquarters)",
+        "bestFor": "Developers, engineers, data and infrastructure contractors for banks, insurers, utilities and manufacturers",
+        "summary": "Brooksource calls Indianapolis its first market, and its location page puts the office on the second floor of the national headquarters on College Avenue in Broad Ripple Village. The firm describes itself as a technology and engineering services provider and lists industries from banking and insurance to energy, pharmaceuticals and retail. Parent company Eight Eleven Group says it launched in the Indianapolis market in 2001.",
+        "good": [
+          "Headquarters team is in the city, so decisions are local",
+          "Covers single contractors and larger project teams"
+        ],
+        "watch": [
+          "Technology and engineering only",
+          "Shares a parent with Medasource, so check for one agreement if you use both"
+        ]
+      },
+      {
+        "id": "teksystems",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "parent": "Allegis Group",
+        "model": "IT staffing, project delivery and managed technology services",
+        "hq": "9265 Counselors Row, Suite 220, on the north side (46240)",
+        "bestFor": "Help desk, network, cloud and software roles, plus managed service projects",
+        "summary": "The TEKsystems locations directory lists an Indianapolis office on Counselors Row in the 46240 ZIP code, the same north side business district as several firms below. TEKsystems focuses on technology talent and also sells managed services, so it can fill a single contractor seat or take on a defined project with its own team.",
+        "good": [
+          "Large national bench for hard to find skills",
+          "Can move from staffing to a managed project"
+        ],
+        "watch": [
+          "Sister brand of Aerotek, which matters in rate talks",
+          "Managed services contracts carry different terms from staffing"
+        ]
+      },
+      {
+        "id": "medasource",
+        "name": "Medasource",
+        "url": "https://www.medasource.com/about/locations/indianapolis",
+        "parent": "Eight Eleven Group",
+        "model": "Healthcare consulting, professional services and clinical staffing",
+        "hq": "6215 College Avenue, Broad Ripple Village (national headquarters)",
+        "bestFor": "Health systems, payers and life sciences companies hiring technology, revenue cycle or nursing staff",
+        "summary": "Medasource shares the College Avenue headquarters building with Brooksource and lists practices in healthcare technology, revenue cycle management, government, life sciences, payers, and nursing and allied health. That mix suits an Indianapolis employer that needs both an Epic analyst and a contract coder from one partner.",
+        "good": [
+          "Healthcare focus across clinical and nonclinical work",
+          "Local headquarters"
+        ],
+        "watch": [
+          "Not a fit for non healthcare employers",
+          "Confirm whether a role is billed as staffing or consulting"
+        ]
+      },
+      {
+        "id": "beacon-hill",
+        "name": "Beacon Hill",
+        "url": "https://bhsg.com/locations/indianapolis",
+        "model": "Staff augmentation, contract to hire, direct hire and executive search",
+        "hq": "8335 Keystone Crossing, Suite 105 (46240)",
+        "bestFor": "Clinical, biotech, pharmaceutical, medical device and technology roles",
+        "summary": "Beacon Hill's Indianapolis page lists two divisions at the Keystone Crossing office: BH Life Sciences and BH Technologies. Services named on the page include clinical, biotech, pharmaceutical and medical device staffing, scientific roles in food, beverage, chemical and personal care companies, and application development and data analytics.",
+        "good": [
+          "Strong fit for the region's life sciences employers",
+          "Offers contract, contract to hire and permanent search"
+        ],
+        "watch": [
+          "Only two of Beacon Hill's divisions are based here",
+          "Finance and legal searches may be run from another office"
+        ]
+      },
+      {
+        "id": "everforth-apex",
+        "name": "Everforth Apex",
+        "url": "https://www.apexsystems.com/contact-us",
+        "parent": "Everforth",
+        "model": "Technology consulting and IT staffing",
+        "hq": "9000 Keystone Crossing, Suite 1025 (46240)",
+        "bestFor": "Enterprise technology programs that need consultants with platform skills such as Workday, Salesforce or ServiceNow",
+        "summary": "The company long known as Apex Systems now brands itself Everforth Apex, part of the Everforth group. Its contact page lists an Indianapolis office at 9000 Keystone Crossing, and its site describes AI enabled technology solutions plus partnerships with AWS, Microsoft, Salesforce, ServiceNow, Workday and others.",
+        "good": [
+          "Platform partnerships useful for ERP and CRM projects",
+          "Large consultant community"
+        ],
+        "watch": [
+          "Recent rebrand, so update vendor records and contracts",
+          "Built for enterprise programs more than one off hires"
+        ]
+      },
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/in-indianapolis",
+        "model": "Contract, full time placement, executive search and consulting",
+        "hq": "201 North Illinois Street, Suite 1250, downtown; second office listed as Indianapolis North",
+        "bestFor": "Accountants, financial analysts, legal staff, marketing and administrative roles",
+        "summary": "Robert Half's Indianapolis page gives a downtown office on North Illinois Street, a separate Indianapolis North office and recruiters in Fishers and on the west side. It recruits across finance and accounting, technology, marketing and creative, legal, and administrative and customer support, with contract and full time options.",
+        "good": [
+          "Wide professional coverage from one vendor",
+          "Downtown and north side presence"
+        ],
+        "watch": [
+          "Not built for plant or warehouse shifts",
+          "Benchmark permanent fees before a senior hire"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco",
+        "url": "https://www.vaco.com/about/locations/indianapolis/",
+        "parent": "Highspring",
+        "model": "Contingent workforce, direct hire and consulting",
+        "hq": "5875 Castle Creek Parkway North Drive, Suite 100, on the northeast side",
+        "bestFor": "Accounting and finance, technology and HR or operations roles, including project based work",
+        "summary": "Vaco now presents itself as Vaco by Highspring. The Indianapolis page lists an office on Castle Creek Parkway and three areas of expertise: technology and digital, HR and operations, and accounting and finance. It sells both contingent workers and direct hire, plus consulting for finance transformation and transaction work.",
+        "good": [
+          "Can staff a role or scope a project",
+          "Strong in finance and accounting"
+        ],
+        "watch": [
+          "Clarify staffing versus consulting billing",
+          "Professional roles only"
+        ]
+      },
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/en/locations/united-states/indiana/indianapolis",
+        "parent": "Allegis Group",
+        "model": "Contract and contract to hire staffing for skilled trades, industrial and logistics roles",
+        "hq": "9800 Crosspoint Boulevard, Suite 100, on the northeast side (46256)",
+        "bestFor": "Maintenance mechanics, welders, heavy equipment operators, electricians and warehouse supervisors",
+        "summary": "Aerotek's Indianapolis office is on Crosspoint Boulevard, open Monday to Friday. The jobs it features locally include maintenance mechanic, MIG welder, heavy equipment operator, warehouse supervisor and electrician, and it lists weekly pay, medical and dental cover and a 401(k) plan for contractors.",
+        "good": [
+          "Skilled trades depth that general temp firms lack",
+          "Contractor benefits help retention"
+        ],
+        "watch": [
+          "Shares a parent with TEKsystems",
+          "Less suited to office roles"
+        ]
+      },
+      {
+        "id": "express-employment-professionals",
+        "name": "Express Employment Professionals",
+        "url": "https://www.expresspros.com/us-indiana-indianapolis-south",
+        "model": "Locally owned franchise offices for temporary, temp to hire and direct hire staffing",
+        "hq": "Four metro offices: 5702 East 71st Street (east), 6233 Corporate Drive (west), 201 South Emerson Avenue in Greenwood (south) and 7259 Fishers Landing Drive in Fishers (north)",
+        "bestFor": "Light industrial, skilled trades and office services, especially when you need a branch close to the site",
+        "summary": "Express offices are locally owned franchises. The Indianapolis South branch in Greenwood says it opened in 2005 and recruits for light industrial, skilled industrial and office services roles, and the east, west and Fishers pages list the same three job families. Express describes an ISO 9001:2015 certified selection process.",
+        "good": [
+          "Four branches spread around the county",
+          "Owner operated offices can be flexible on terms"
+        ],
+        "watch": [
+          "Terms differ by franchise, so compare branches",
+          "Professional searches route through a separate recruiting group"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit in house instead",
+      "p": [
+        "Agencies earn their fee when you need people fast, in volume or with scarce skills. If you hire the same warehouse or office role every month, a well written posting, a referral bonus and a same day phone screen will often fill it for less than a year of markup.",
+        "Experienced engineers, analysts and nurses who already have jobs are another matter, because they rarely answer postings. Some teams search for them directly with the tools in our <a href='/categories/sourcing-tools/'>sourcing tools category</a>, including AI platforms such as Noon that send personalized email and SMS outreach. Price a few weeks of that work against a placement fee before you decide."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Where the offices are",
+        "p": [
+          "North side, 46240: TEKsystems on Counselors Row, Beacon Hill and Everforth Apex on Keystone Crossing. This is the professional and technology corridor, and it is a short drive for employers in Carmel and Fishers.",
+          "Broad Ripple: Brooksource and Medasource share their headquarters on College Avenue. Northeast: Vaco on Castle Creek Parkway and Aerotek on Crosspoint Boulevard. Downtown: Robert Half on North Illinois Street.",
+          "Light industrial coverage is spread out. Express has the east side on 71st Street, the west side on Corporate Drive near the Interstate 465 and Interstate 65 interchange area, Greenwood to the south and Fishers to the north."
+        ]
+      },
+      {
+        "h": "Questions to ask every Indianapolis agency",
+        "p": [
+          "Which office will recruit for us, and how many open orders does that recruiter carry? How many candidates did you place in our ZIP code or nearby last quarter? What is the conversion period and fee? Who handles workers' compensation and unemployment claims?",
+          "For healthcare and life sciences roles, also ask who verifies licenses and how often. For IT, ask whether the contractor is a W2 employee of the agency or a subcontractor."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which staffing agencies in Indianapolis place IT contractors?",
+        "a": "Brooksource, TEKsystems, Everforth Apex and Beacon Hill's BH Technologies team all list Indianapolis offices and recruit technology talent. Brooksource is headquartered in Broad Ripple; the others are on the north side near Keystone Crossing."
+      },
+      {
+        "q": "Is there a healthcare staffing agency headquartered in Indianapolis?",
+        "a": "Yes. Medasource lists its national headquarters at 6215 College Avenue in Broad Ripple and recruits for health systems, payers and life sciences companies."
+      },
+      {
+        "q": "Which agencies cover warehouse and factory jobs around Indianapolis?",
+        "a": "Aerotek recruits skilled trades and warehouse supervisors from its Crosspoint Boulevard office, and Express runs four branches for light industrial and skilled trades work on the east side, the west side, in Greenwood and in Fishers."
+      },
+      {
+        "q": "Are Brooksource and Medasource the same company?",
+        "a": "They are sister companies. Both belong to Eight Eleven Group and share a headquarters building, but Brooksource covers technology and engineering while Medasource covers healthcare."
+      },
+      {
+        "q": "Is Apex Systems still in Indianapolis?",
+        "a": "The firm now uses the name Everforth Apex and lists an Indianapolis office at 9000 Keystone Crossing, Suite 1025."
+      },
+      {
+        "q": "How can my agency be added to this list?",
+        "a": "Use the listing form on this page. We only list firms whose own website shows an office in the Indianapolis metro."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-chicago/",
+        "label": "Staffing agencies in Chicago"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-charlotte/",
+        "label": "Staffing agencies in Charlotte"
+      },
+      {
+        "href": "/agencies/clinical-research-staffing-agencies/",
+        "label": "Clinical research staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
