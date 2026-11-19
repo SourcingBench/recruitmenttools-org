@@ -109,5 +109,71 @@
       }
     ],
     "directory": "New on RecruitmentTools.org this week: shortlists of <a href=\"/agencies/nursing-staffing-agencies/\">nursing staffing agencies</a>, <a href=\"/agencies/electrical-staffing-agencies/\">electrical staffing agencies</a> and <a href=\"/agencies/fashion-recruitment-agencies/\">fashion recruitment agencies</a>, plus city guides for <a href=\"/agencies/staffing-agencies-in-chicago/\">Chicago</a> and <a href=\"/agencies/staffing-agencies-in-las-vegas/\">Las Vegas</a>."
-  }
+  },
+ {
+  "slug": "2026-11-19",
+  "title": "This week in recruiting tools: Ashby builds in an AI interviewer, Joveo and Indeed ship sourcing agents, SAP closes TechWolf",
+  "date": "2026-11-19",
+  "period": "13 to 19 November 2026",
+  "summary": "Interviewing and sourcing agents moved into products buyers already own: Ashby put an AI Interviewer in its ATS, Joveo released the contract free Tandem agent, and Indeed opened Smart Screening and Sourcing Assistant to UK subscribers. Fountain let frontline teams build their own agents, Pindrop entered hiring fraud detection, SAP closed TechWolf, Revelio Labs bought SourceStack, and staffing hours kept rising.",
+  "items": [
+   {
+    "vendor": "Ashby",
+    "category": "ATS / interviews",
+    "headline": "Ashby shipped an AI Interviewer inside its ATS, with consent and a human review step built in",
+    "detail": "Announced 17 Nov 2026 on <a href=\"https://www.ashbyhq.com/product-updates/ai-interviewer\">Ashby's product updates page</a>. Candidates hold a structured, job specific conversation in the browser, and the hiring team receives a transcript and an evaluation against the role criteria. Candidates see a disclosure and give affirmative consent first, and can ask for an accommodation or a different interview format. All In One customers get 200 interviews included as a one time, non expiring allowance.",
+    "matters": "This is the first time a major mid market ATS has put a first round AI interviewer in the core product rather than a marketplace add on. Ashby customers piloting a separate screening vendor now have a native option to benchmark against, and the free allowance makes a side by side test cheap."
+   },
+   {
+    "vendor": "Joveo",
+    "category": "Recruitment marketing / agents",
+    "headline": "Joveo launched Tandem, a prompt driven recruiting agent with no contract required",
+    "detail": "Released 17 Nov 2026 via <a href=\"https://www.globenewswire.com/news-release/2026/11/17/3405014/0/en/joveo-launches-tandem-the-ai-recruiting-agent-that-turns-prompts-into-hires.html\">GlobeNewswire</a>. A recruiter describes the hire in plain language, Tandem drafts the job description for approval, then sources candidates, scores each out of 100 with supporting evidence, and contacts them by email, SMS or both. Applicants chat to apply, complete a recorded AI interview and self book time on the calendar. Joveo says setup takes under five minutes and that the person hiring makes every decision.",
+    "matters": "A programmatic media company selling an end to end agent without a contract is aimed squarely at small teams that never bought enterprise recruitment marketing. Expect other media vendors to copy the self serve packaging."
+   },
+   {
+    "vendor": "Indeed",
+    "category": "Job board / sourcing",
+    "headline": "Indeed rolled out Smart Screening and Sourcing Assistant to UK employers at FutureWorks London",
+    "detail": "Reported 18 Nov 2026 by <a href=\"https://www.onrec.com/news/hr-recruitment-tech/indeed-launches-smart-screening-and-sourcing-assistant-to-help-uk-employers\">Onrec</a>. Both tools come with Smart Sourcing Professional and Enterprise subscriptions. Sourcing Assistant searches Indeed's pool of 380 million sourceable profiles from natural language instructions, with recruiters approving messages. Indeed's own figures: users save 11.5 hours a week, sourced candidates are 2.9 times more likely to be hired, Smart Screening needs 26% fewer applications per hire, and Interview Automation moves applicants to interviews 42% faster.",
+    "matters": "Indeed is turning its resume database into an agentic sourcing product inside the subscription UK employers already pay for. All four numbers are vendor data, so ask for your own account level baseline before and after switching it on."
+   },
+   {
+    "vendor": "Fountain",
+    "category": "Frontline hiring",
+    "headline": "Fountain introduced Orchestra, a builder for custom AI agents in frontline workforce teams",
+    "detail": "Announced 17 Nov 2026 in <a href=\"https://www.fountain.com/news/fountain-launches-orchestra-the-ai-agent-builder-for-frontline-workforce-teams\">Fountain's newsroom</a>. Employers describe hiring and scheduling work in plain language and Orchestra builds agents that use data in Fountain's software and can call workers and applicants. It extends Fountain's hiring and onboarding platform, which the company says serves more than 500 frontline employers.",
+    "matters": "High volume employers have been buying one fixed purpose bot per workflow. A builder lets them automate site specific steps without a new vendor each time, but someone has to own testing and change control for every agent the business creates."
+   },
+   {
+    "vendor": "Pindrop",
+    "category": "Fraud / identity",
+    "headline": "Pindrop launched Pindrop for Hiring and earned Microsoft Teams certification for Pulse for Meetings",
+    "detail": "Announced 18 Nov 2026 on <a href=\"https://www.pindrop.com/company-news/pindrop-launches-pindrop-for-hiring-pulse-for-meetings-integration-earns-microsoft-teams-certification\">Pindrop's news page</a>. AI resume review flags fabricated employment histories, suspicious identities and duplicate applications, and Pulse for Meetings analyzes live interview audio and video for synthetic media, adding voice and location risk signals. Recruiting and security teams use the combined signals to investigate before granting workforce access, and Teams administrators can now surface deepfake warnings inside meetings.",
+    "matters": "A voice security company built for banks and call centers now sells directly to recruiting. With HireVue adding fraud signals last week, teams can choose between checks inside the interview platform and an independent layer that spans every tool."
+   },
+   {
+    "vendor": "SAP / TechWolf",
+    "category": "HCM / skills",
+    "headline": "SAP completed its acquisition of TechWolf",
+    "detail": "Closed 16 Nov 2026, per the <a href=\"https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/\">SAP News Center</a>. SAP plans to make TechWolf's context graph a core of SAP SuccessFactors and a grounding layer for Joule queries about work and skills.",
+    "matters": "Skills inference becomes a native SuccessFactors capability rather than a partner integration. Customers using a separate skills cloud should ask how long SAP will support third party skills data before renewing."
+   },
+   {
+    "vendor": "Revelio Labs / SourceStack",
+    "category": "Labor market data",
+    "headline": "Revelio Labs acquired job posting data provider SourceStack",
+    "detail": "Announced 17 Nov 2026 via <a href=\"https://www.prnewswire.com/news-releases/revelio-labs-acquires-job-posting-data-provider-sourcestack-302942006.html\">PR Newswire</a>. SourceStack collects postings directly from employer applicant tracking systems. Terms were not disclosed, and founder Alec Barrett-Wilsdon joined Revelio Labs as General Manager of Sourcing.",
+    "matters": "Postings pulled straight from ATS feeds are cleaner than scraped job board copies, which improves competitor hiring and salary benchmarks. Talent intelligence buyers should expect sharper role level demand data from Revelio in 2027."
+   },
+   {
+    "vendor": "SIA / Bullhorn",
+    "category": "Staffing market",
+    "headline": "US staffing hours were up 11% year over year in the latest SIA and Bullhorn indicator",
+    "detail": "Published 17 Nov 2026 by <a href=\"https://www.staffingindustry.com/research/research-reports/americas/sia-bullhorn-staffing-indicator-november-17-2026\">Staffing Industry Analysts</a>. For the week ending 7 Nov, commercial staffing hours rose 13% and professional 9%. Industrial led at 18% and IT grew 4%, while office and clerical fell 8%.",
+    "matters": "Industrial demand is carrying the rebound into peak season while office work keeps shrinking. Staffing firms planning 2027 budgets should weight recruiter headcount and ATS seats toward light industrial desks."
+   }
+  ],
+  "directory": "New on RecruitmentTools.org this week: shortlists of <a href=\"/agencies/aerospace-staffing-agencies/\">aerospace staffing agencies</a>, <a href=\"/agencies/clinical-research-staffing-agencies/\">clinical research staffing agencies</a> and <a href=\"/agencies/pharmaceutical-headhunters/\">pharmaceutical headhunters</a>, plus city guides for <a href=\"/agencies/staffing-agencies-in-baltimore/\">Baltimore</a> and <a href=\"/agencies/staffing-agencies-in-orlando/\">Orlando</a>."
+ }
 ]
