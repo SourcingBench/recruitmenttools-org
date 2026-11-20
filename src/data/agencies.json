@@ -6665,5 +6665,206 @@
         "label": "Staffing agencies in Indianapolis"
       }
     ]
+  },
+  {
+    "slug": "staffing-agencies-in-louisville",
+    "short": "Staffing agencies in Louisville",
+    "h1": "Staffing agencies in Louisville: 6 firms with offices we confirmed, from downtown to Hurstbourne",
+    "seoTitle": "Staffing Agencies in Louisville, KY: 6 Offices Verified (2026)",
+    "description": "Six staffing agencies with a Louisville office confirmed on their own websites on November 20, 2026: street address, what each one recruits, parent company and which to call for plant, office, IT or nursing hires.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "lead": "A distribution center near the airport needs forty pickers before peak season, and the accounting team downtown needs a payables specialist by Monday. Those are different calls in Louisville, and the firms that answer them sit in different parts of town. We opened each agency's own location page on November 20, 2026 and kept six firms that publish a Louisville office or headquarters. Four of them cluster in the 40222 ZIP code along Shelbyville Road, Hurstbourne Parkway and Bullitt Lane in the east end, one is downtown on South Fifth Street, and one is a Louisville founded company with its headquarters on Campus Place.",
+    "shortAnswer": "<b>Short answer:</b> warehouse, construction and maintenance crews go to <a href='#aerotek'>Aerotek</a> or <a href='#malone-workforce-solutions'>Malone</a>. Developers and help desk contractors fit <a href='#teksystems'>TEKsystems</a>. Payables, payroll and admin roles fit <a href='#robert-half'>Robert Half</a> or <a href='#vaco'>Vaco</a>. Travel and facility nurses come through Malone's healthcare desk, and employers who want one firm across many departments can try <a href='#insight-global'>Insight Global</a> downtown.",
+    "choose": [
+      {
+        "h": "Start with the shift, not the brand.",
+        "p": "Second and third shift work in Jefferson County is mostly industrial, and the agencies that fill it keep a bench of people who already work nights. Ask how many associates the branch placed on overnight shifts last quarter before you compare rates."
+      },
+      {
+        "h": "Check who the parent company is.",
+        "p": "TEKsystems and Aerotek are both Allegis Group companies and both sit in the same east end ZIP code. Vaco now operates under the Highspring name. Knowing the parent helps you avoid signing two master agreements with what is effectively one supplier."
+      },
+      {
+        "h": "Ask for the conversion clause in writing.",
+        "p": "Most temp to hire contracts let you keep a worker without a fee after a set number of paid hours. That number varies widely, so ask every firm on this list for it in the first quote."
+      },
+      {
+        "h": "Match the desk to the industry.",
+        "p": "Malone separates commercial, professional and healthcare staffing, and Insight Global lists dozens of industries for its Louisville office. Ask to speak with the recruiter who covers your sector, not the general intake line."
+      }
+    ],
+    "firms": [
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/en/locations/united-states/kentucky/louisville",
+        "parent": "Allegis Group",
+        "model": "Contract and contract to hire staffing for industrial, skilled trade and logistics work",
+        "hq": "101 Bullitt Lane, Suite 105, Louisville 40222",
+        "bestFor": "Warehouse supervisors, inventory clerks, electricians and heavy equipment operators",
+        "summary": "Aerotek's Louisville page lists its office on Bullitt Lane in the 40222 ZIP code, open weekdays from 8 a.m. to 5 p.m., with the phone number (502) 493-3100. Open roles posted from that branch on the day we checked included an inventory clerk paying $18 to $19 an hour, a warehouse supervisor, an electrician and a heavy equipment operator. The firm's specialization pages cover construction, distribution and logistics, and facilities and maintenance.",
+        "good": [
+          "Clear focus on plant, warehouse and trade roles",
+          "Posts local openings with pay ranges"
+        ],
+        "watch": [
+          "Not the right call for office or clinical hiring",
+          "Shares a parent with TEKsystems"
+        ]
+      },
+      {
+        "id": "malone-workforce-solutions",
+        "name": "Malone Workforce Solutions",
+        "url": "https://www.malonesolutions.com/locations/",
+        "parent": "Management Registry, Inc.",
+        "model": "Commercial, professional and healthcare staffing plus recruitment process outsourcing",
+        "hq": "1868 Campus Place, Louisville 40299 (headquarters)",
+        "bestFor": "Manufacturing and industrial crews, travel and facility nurses, and companies that want an outsourced recruiting team",
+        "summary": "Malone lists its headquarters at 1868 Campus Place in Louisville and says it is privately held by Management Registry, Inc. Its site splits the business into commercial staffing for manufacturing and industrial work, professional staffing for IT, engineering, finance and logistics, healthcare staffing for travel and facility nurses and allied practitioners, and recruitment process outsourcing. The homepage refers to 50 years in the business.",
+        "good": [
+          "Headquartered in the city",
+          "Covers plant floor, office and clinical work under one contract"
+        ],
+        "watch": [
+          "Broad menu, so confirm which team owns your order",
+          "Healthcare desk focuses on nurses and allied roles, not physicians"
+        ]
+      },
+      {
+        "id": "teksystems",
+        "name": "TEKsystems",
+        "url": "https://www.teksystems.com/en/locations",
+        "parent": "Allegis Group",
+        "model": "IT staffing, consulting and managed technology services",
+        "hq": "700 North Hurstbourne Parkway, Suite 250, Louisville 40222",
+        "bestFor": "Help desk, network, cloud, software and data contractors",
+        "summary": "The TEKsystems locations directory shows a Louisville office at 700 North Hurstbourne Parkway, Suite 250, with the phone number (502) 671-2121. TEKsystems recruits technology professionals and also sells project and managed services, which matters if a contractor request turns into a larger engagement.",
+        "good": [
+          "Technology only, so recruiters know the stack",
+          "Can staff a single contractor or a project team"
+        ],
+        "watch": [
+          "No industrial or clinical staffing",
+          "If you also use Aerotek, ask for one Allegis agreement"
+        ]
+      },
+      {
+        "id": "robert-half",
+        "name": "Robert Half",
+        "url": "https://www.roberthalf.com/us/en/locations/ky-louisville/9300-shelbyville-rd",
+        "parent": "Robert Half Inc.",
+        "model": "Temporary, contract and permanent placement plus consulting",
+        "hq": "9300 Shelbyville Road, Suite 920, Louisville 40222",
+        "bestFor": "Accounts payable, payroll, administrative, customer service and legal support roles",
+        "summary": "Robert Half's Louisville office is on Shelbyville Road, and its page title lists accounting and finance and tech and IT among the practices it recruits for locally, with remote and on site staffing. Openings shown on the page when we checked included accounts payable specialists, an administrative assistant, customer service representatives, a logistics manager and a family law attorney. The firm says it has connected job seekers and employers for more than seven decades.",
+        "good": [
+          "Deep bench for finance and office temps",
+          "Remote as well as on site placements"
+        ],
+        "watch": [
+          "Not built for large hourly crews",
+          "National pricing can leave less room to negotiate locally"
+        ]
+      },
+      {
+        "id": "vaco",
+        "name": "Vaco",
+        "url": "https://www.vaco.com/about/locations/louisville/",
+        "parent": "Highspring",
+        "model": "Temporary staffing, contract to hire and direct hire",
+        "hq": "Louisville office (contact info.louisville@vaco.com)",
+        "bestFor": "Accounting, finance, IT, HR and operations professionals",
+        "summary": "Vaco's Louisville page describes a local office that handles everything from temporary staffing to direct hire placements, and the site now carries the Highspring brand at the top. The firm says its Louisville expertise is centered on accounting, finance, IT, HR and operations talent.",
+        "good": [
+          "Covers both short projects and permanent hires",
+          "Professional focus without industrial volume"
+        ],
+        "watch": [
+          "The Louisville page does not publish a street address",
+          "Confirm whether billing now runs through Highspring"
+        ]
+      },
+      {
+        "id": "insight-global",
+        "name": "Insight Global",
+        "url": "https://insightglobal.com/locations/kentucky/staffing-agency-louisville-ky/",
+        "parent": "Insight Global",
+        "model": "Staffing and professional services across many industries",
+        "hq": "101 South Fifth Street, downtown Louisville 40202",
+        "bestFor": "Employers that hire across logistics, manufacturing, healthcare, sales and finance and want one supplier",
+        "summary": "Insight Global's Louisville page places its office on South Fifth Street downtown and says it serves businesses across Jefferson County. It names logistics, advanced manufacturing, healthcare, sales, finance and hospitality as the local sectors it follows, and it lists a much longer set of industries, from accounting and construction to insurance and life sciences.",
+        "good": [
+          "Downtown location close to corporate offices",
+          "Wide industry coverage from one branch"
+        ],
+        "watch": [
+          "Breadth means you should ask for a recruiter who knows your sector",
+          "Less visible specialization than single focus firms"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to keep recruiting in house",
+      "p": [
+        "An agency fee makes sense for a surge you cannot staff yourself, such as peak season at a fulfillment center or a six month finance system project. For a role you fill every few weeks, the markup adds up quickly, and a strong posting, a referral bonus and a fast phone screen often do the same job.",
+        "Professionals who already have jobs rarely answer postings, so teams that keep hiring in house need a way to reach them directly. <a href='https://noon.ai/built-for/staffing-agencies'>Noon</a> is one option that finds candidates and runs personalized email and SMS outreach, which some recruiting teams use alongside or instead of an outside firm. For a wider view of the market, see our <a href='/agencies/staffing-and-recruiting-firms/'>staffing and recruiting firms</a> list."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Office map: which part of town each firm works from",
+        "p": [
+          "East end, 40222: Robert Half on Shelbyville Road, TEKsystems on North Hurstbourne Parkway and Aerotek on Bullitt Lane are within a short drive of each other, which is convenient for employers in the office parks off Interstate 64 and Interstate 264.",
+          "Downtown, 40202: Insight Global on South Fifth Street. East county, 40299: Malone's headquarters on Campus Place. Vaco publishes a Louisville office and email contact without a street address."
+        ]
+      },
+      {
+        "h": "How these lists compare with other cities",
+        "p": [
+          "Louisville has fewer national professional brands than larger metros, so local firms carry more of the commercial and healthcare work. If you hire across state lines, compare this list with our pages on <a href='/agencies/staffing-agencies-in-indianapolis/'>staffing agencies in Indianapolis</a> and <a href='/agencies/staffing-agencies-in-memphis/'>staffing agencies in Memphis</a>, two other logistics heavy cities on the same interstate network."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "Which staffing agencies in Louisville handle warehouse and logistics jobs?",
+        "a": "Aerotek, Malone Workforce Solutions and Insight Global all list logistics or industrial work for their Louisville offices. Aerotek posts local openings such as inventory clerks and warehouse supervisors with pay ranges."
+      },
+      {
+        "q": "Is there a staffing agency headquartered in Louisville?",
+        "a": "Yes. Malone Workforce Solutions lists its headquarters at 1868 Campus Place in Louisville and says it is privately held by Management Registry, Inc."
+      },
+      {
+        "q": "Who places accounting temps in Louisville?",
+        "a": "Robert Half and Vaco both recruit accounting and finance professionals from Louisville offices, and both offer temporary as well as permanent placements."
+      },
+      {
+        "q": "Do any Louisville agencies recruit nurses?",
+        "a": "Malone's healthcare staffing division places travel and facility nurses and allied practitioners, and Insight Global lists healthcare among the sectors it serves in Louisville."
+      },
+      {
+        "q": "How did you choose these firms?",
+        "a": "We kept only firms whose own website showed a current Louisville office or headquarters when we checked on November 20, 2026, and we took every fact about each firm from its own pages."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-agencies-in-indianapolis/",
+        "label": "Staffing agencies in Indianapolis"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-memphis/",
+        "label": "Staffing agencies in Memphis"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-atlanta/",
+        "label": "Staffing agencies in Atlanta"
+      }
+    ]
   }
 ]
