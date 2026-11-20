@@ -227,7 +227,9 @@
    "keyword": "automotive staffing agencies",
    "volume": 140,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "automotive-staffing-agencies",
+   "date": "2026-11-20"
   },
   {
    "id": "rt-027",
