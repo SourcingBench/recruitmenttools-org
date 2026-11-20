@@ -6390,5 +6390,280 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "automotive-staffing-agencies",
+    "short": "Automotive staffing agencies",
+    "h1": "Automotive staffing agencies: 10 firms for vehicle engineers, EV programs and plant crews",
+    "seoTitle": "Automotive Staffing Agencies: 10 Firms Checked (2026)",
+    "description": "Ten automotive staffing agencies checked November 20, 2026: which ones supply design and software engineers, which run outsourced vehicle programs, which fill plant and skilled trades shifts, and who owns each firm.",
+    "date": "2026-11-20",
+    "updated": "2026-11-20",
+    "lead": "A Tier 1 supplier needs six controls engineers for a battery line launch in March, a body shop needs second shift technicians next week, and an OEM wants an outside team to own the AUTOSAR software for a new platform. Those are three different purchases, and the firms that sell them rarely do all three well. We read each firm's own website on November 20, 2026, followed every redirect, and kept ten that say in their own words that they serve automotive or vehicle work. One well known Detroit area name was dropped because its web address now redirects to an unrelated site. Where a parent company sits behind the brand, we name it.",
+    "shortAnswer": "<b>Short answer:</b> for contract automotive engineers and technicians, start with <a href='#bartech-staffing'>Bartech</a>, <a href='#kelly-engineering'>Kelly Engineering</a> or <a href='#rgbsi'>RGBSI</a>. If you want a supplier to deliver a defined piece of vehicle engineering rather than lend you people, talk to <a href='#belcan'>Belcan</a>, <a href='#tata-technologies'>Tata Technologies</a> or <a href='#akkodis'>Akkodis</a>. Skilled trades, maintenance and production roles in plants fit <a href='#pds-tech-commercial'>PDS Tech Commercial</a>, <a href='#aerotek'>Aerotek</a> or <a href='#nesco-resource'>Nesco Resource</a>.",
+    "choose": [
+      {
+        "h": "Decide whether you are buying people or an outcome.",
+        "p": "Staff augmentation puts a contractor on your team under your manager. An engineering services contract makes the supplier responsible for a deliverable, such as validating a component or writing embedded software. Belcan, Tata Technologies and Akkodis sell mostly the second. Mixing the two in one request for proposal makes the bids impossible to compare."
+      },
+      {
+        "h": "Ask which automotive programs the recruiter has filled in the last year.",
+        "p": "A firm that places mechanical design engineers for a supplier in Troy may have nobody who understands functional safety or battery management software. Ask for job titles, not logos, and for the number of contractors currently on automotive assignments."
+      },
+      {
+        "h": "Check who owns the brand before you sign two contracts.",
+        "p": "Akkodis and PDS Tech Commercial both link to the Adecco Group code of conduct, and Belcan now describes itself as a Cognizant company. If you already have a master agreement with a parent, a second brand may be able to work under it."
+      },
+      {
+        "h": "Price conversions and launch surges separately.",
+        "p": "Vehicle launches create short peaks of demand. Ask for the bill rate during a surge, the notice period to release contractors after launch, and the fee or hours required to convert a contractor to a permanent hire."
+      }
+    ],
+    "firms": [
+      {
+        "id": "bartech-staffing",
+        "name": "Bartech Staffing",
+        "url": "https://www.bartechstaffing.com/markets/automotive",
+        "parent": "Vertage (the site says Bartech is now powered by Vertage)",
+        "model": "Engineering, technical and professional staffing",
+        "hq": "United States and Canada",
+        "bestFor": "Automotive manufacturers and suppliers hiring mechanical engineers and automotive software developers",
+        "summary": "Bartech says it grew from a foundation in automotive and engineering before moving into other industries, and it claims five decades in talent services. Its automotive page describes a network of professionals in automotive engineering and technical specialties, from mechanical engineers to software developers working on vehicle technology, and it points to supply chain shifts and demand for smarter mobility as the work it staffs. The job seeker side advertises assignments with automotive brands.",
+        "good": [
+          "Automotive is a named market with its own page",
+          "Covers engineering and software roles in one firm"
+        ],
+        "watch": [
+          "Brand now operates under Vertage, so confirm which entity signs the contract",
+          "Plant labor is not the focus"
+        ]
+      },
+      {
+        "id": "belcan",
+        "name": "Belcan",
+        "url": "https://www.belcan.com/industries/automotive/",
+        "parent": "Cognizant",
+        "model": "Engineering services, technical staffing and outsourced design",
+        "hq": "Worldwide offices listed on its site",
+        "bestFor": "OEMs and heavy vehicle makers that want components, controls or emissions work delivered",
+        "summary": "Founded in 1958, Belcan describes itself as a supplier of design, software, manufacturing, supply chain and digital engineering to aerospace, defense, automotive and industrial customers, and its news pages now call it a Cognizant company. Its automotive page lists experience designing automotive, rail and on and off highway components and systems, software, controls, diesel engine packaging and emission controls. That mix suits powertrain and commercial vehicle programs better than dealership hiring.",
+        "good": [
+          "Deep in powertrain, controls and emissions engineering",
+          "Can take ownership of a scoped engineering package"
+        ],
+        "watch": [
+          "Priced like an engineering firm, not a temp agency",
+          "Light on production and plant floor roles"
+        ]
+      },
+      {
+        "id": "kelly-engineering",
+        "name": "Kelly Engineering",
+        "url": "https://www.kellyservices.com/divisions/engineering/",
+        "parent": "Kelly Services",
+        "model": "Engineering staffing division of a national workforce company",
+        "hq": "Troy, Michigan",
+        "bestFor": "Suppliers and integrators that need controls, design and manufacturing engineers quickly",
+        "summary": "Kelly opened in Detroit in 1946 with three employees and 12 customers, according to its own history page, and its headquarters is in Troy, Michigan. The engineering division publishes case studies and research on skills gaps, including a project to find 25 controls engineers in eight weeks for a systems integrator. For automotive buyers the appeal is scale close to the industry's home market, plus a division that recruits only engineers.",
+        "good": [
+          "Headquarters in the Detroit metro",
+          "Engineering division with its own recruiters"
+        ],
+        "watch": [
+          "Large national firm, so ask who your day to day recruiter is",
+          "Automotive is one industry among many"
+        ]
+      },
+      {
+        "id": "rgbsi",
+        "name": "RGBSI",
+        "url": "https://rgbsi.com/about-us/",
+        "parent": "Rapid Global Business Solutions (privately held)",
+        "model": "Engineering, quality and IT staffing and services",
+        "hq": "1200 Stephenson Highway, Troy, Michigan (world headquarters)",
+        "bestFor": "Michigan suppliers that need quality, product and manufacturing engineers",
+        "summary": "Rapid Global Business Solutions started in 1997 with engineering and technical work and lists its world headquarters on Stephenson Highway in Troy. It describes engineering, quality and IT services, and it has appeared for several years on Corp! Magazine's Michigan Economic Bright Spots list. A Troy firm with a quality practice is a natural fit for supplier quality engineers, launch support and PPAP work around the Big Three.",
+        "good": [
+          "Headquartered in the heart of the supplier base",
+          "Quality engineering is a named practice"
+        ],
+        "watch": [
+          "Smaller bench outside Michigan",
+          "Check whether a role is staffed or delivered as a project"
+        ]
+      },
+      {
+        "id": "tata-technologies",
+        "name": "Tata Technologies",
+        "url": "https://www.tatatechnologies.com/us/automotive/",
+        "parent": "Tata group",
+        "model": "Engineering and product development services",
+        "hq": "Global, with a US site",
+        "bestFor": "Automakers outsourcing EV, embedded and ADAS engineering",
+        "summary": "Tata Technologies helps automakers design, engineer and validate vehicles, and its automotive page lists turnkey electric vehicle engineering, product benchmarking, rightweighting, simulation and validation, embedded systems, AUTOSAR and hardware in the loop testing, plus connected and autonomous vehicle work. Its about page notes a Frost and Sullivan recognition for production ready ADAS and autonomous engineering. This is a services partner for a program, not an agency that sends resumes.",
+        "good": [
+          "Full vehicle and EV program capability",
+          "Strong in embedded software and validation"
+        ],
+        "watch": [
+          "Not a fit for single contractor requests",
+          "Engagements are scoped projects with longer sales cycles"
+        ]
+      },
+      {
+        "id": "akkodis",
+        "name": "Akkodis",
+        "url": "https://www.akkodis.com/en/industries/automotive-transportation",
+        "parent": "The Adecco Group",
+        "model": "Engineering and digital consulting with talent services",
+        "hq": "Global",
+        "bestFor": "Teams working on software defined vehicles, electrification and digital twins",
+        "summary": "Akkodis presents its automotive and transportation practice around software defined vehicles, electrification across automotive, rail and maritime systems, data and digital engineering, and simulation with digital twins. The site also covers rail signaling and control systems. Its footer links to the Adecco Group code of conduct. Buyers who want software and systems engineers with vehicle context, or a consulting team that can design and prototype, will find both here.",
+        "good": [
+          "Covers vehicle software, electrification and simulation",
+          "Part of a group with very wide reach"
+        ],
+        "watch": [
+          "Consulting and staffing sit side by side, so be clear which you are buying",
+          "Shares a parent with PDS Tech Commercial"
+        ]
+      },
+      {
+        "id": "pds-tech-commercial",
+        "name": "PDS Tech Commercial",
+        "url": "https://www.pdstech.com/",
+        "parent": "The Adecco Group",
+        "model": "Skilled trades and engineering staffing",
+        "hq": "United States",
+        "bestFor": "Plants and service operations hiring maintenance technicians, electricians and engineers",
+        "summary": "PDS Tech Commercial describes itself as a skilled trades and engineering workforce provider for high demand industries, and its site links to Adecco Group policies. For automotive buyers the useful part is the trades side: maintenance, electrical and production support roles that keep a plant running between model years. Ask for the branch that covers your plant, because coverage is national.",
+        "good": [
+          "Skilled trades and engineering under one brand",
+          "Backed by a large group for volume needs"
+        ],
+        "watch": [
+          "Automotive is not called out as a separate practice",
+          "Same parent as Akkodis, so consolidate terms if you use both"
+        ]
+      },
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/en/solutions/industries/consumer-industrial-products",
+        "parent": "Allegis Group",
+        "model": "Staffing and services for manufacturing, production and maintenance",
+        "hq": "North America",
+        "bestFor": "Production, maintenance and EV battery plant staffing",
+        "summary": "Founded in 1983, Aerotek staffs consumer and industrial products employers and describes manufacturing and production workforce solutions. Its industry page includes an example of Aerotek Services building a maintenance reliability program for an EV battery startup that finished nearly two months early and reduced reliance on the equipment maker. That kind of plant support is common on new battery and assembly sites.",
+        "good": [
+          "Large bench for production and maintenance roles",
+          "Offers managed services as well as staffing"
+        ],
+        "watch": [
+          "Engineering design roles are usually handled elsewhere in its group",
+          "National scale, so ask about local fill rates"
+        ]
+      },
+      {
+        "id": "nesco-resource",
+        "name": "Nesco Resource",
+        "url": "https://www.nescoresource.com/engineering",
+        "parent": "Nesco Resource",
+        "model": "Engineering, light industrial and professional staffing",
+        "hq": "90 plus branches across the United States",
+        "bestFor": "Manufacturers that want both engineers and light industrial labor from one vendor",
+        "summary": "Nesco stands for National Engineering Service Company, and the firm says it has deep roots in engineering staffing, hiring from entry level engineers to vice presidents of engineering across manufacturing and civil fields. It lists mechanical, design and project engineers among the roles it fills and says it has more than 90 local branches and 70 years in business. The light industrial side covers production shifts.",
+        "good": [
+          "Engineering heritage plus a light industrial branch network",
+          "One vendor for two very different role types"
+        ],
+        "watch": [
+          "Automotive is not a stand alone practice",
+          "Confirm the nearest branch actually recruits engineers"
+        ]
+      },
+      {
+        "id": "peak-technical",
+        "name": "PEAK Technical Staffing",
+        "url": "https://peaktechnical.com/",
+        "parent": "PEAK Technical",
+        "model": "Technical staffing, MSP programs and payroll services",
+        "hq": "583 Epsilon Drive, Pittsburgh, Pennsylvania (national headquarters)",
+        "bestFor": "Engineering and manufacturing contractors with payrolling or MSP support",
+        "summary": "PEAK says it has more than 50 years of industry experience and offers temporary staff augmentation, temp to hire, permanent placement, managed service provider programs and payroll services. It recruits for engineering, manufacturing and IT, and the site promotes total talent programs that cover onboarding and retention. Automotive suppliers that already know who they want to hire can use its payrolling to bring them on quickly.",
+        "good": [
+          "Payrolling for contractors you sourced yourself",
+          "MSP programs for larger buyers"
+        ],
+        "watch": [
+          "Automotive specifics are not spelled out on the site",
+          "Generalist technical focus"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to hire automotive talent yourself",
+      "p": [
+        "Agencies make sense for launch surges and for scarce profiles such as functional safety or battery systems engineers. Recurring hires are different. If you replace the same quality technician every quarter, a referral program and a quick interview loop usually beat paying markup on every hour.",
+        "Experienced vehicle engineers rarely answer job posts, so in house teams increasingly search for them directly. The tools in our <a href='/categories/sourcing-tools/'>sourcing tools category</a> help with that, from contact finders to AI platforms such as Noon that run personalized email and SMS outreach. Compare a month of that against one placement fee before you choose."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Three kinds of automotive staffing",
+        "p": [
+          "Contract engineering: Bartech, Kelly Engineering, RGBSI and Nesco place individual engineers and technicians on your team. You manage the work and pay an hourly bill rate.",
+          "Engineering services: Belcan, Tata Technologies and Akkodis take responsibility for a scope such as validation, embedded software or a powertrain package. You pay for the outcome, often with milestones. Our list of <a href='/agencies/aerospace-staffing-agencies/'>aerospace staffing agencies</a> covers several of the same firms on the flight side.",
+          "Plant and trades staffing: PDS Tech Commercial, Aerotek and Nesco's light industrial branches fill production, maintenance and electrical roles. For electricians alone, see our <a href='/agencies/electrical-staffing-agencies/'>electrical staffing agencies</a> list."
+        ]
+      },
+      {
+        "h": "Questions to ask every automotive agency",
+        "p": [
+          "How many contractors do you have on automotive assignments today, and in which job titles? Who will recruit for us, and how many open orders does that person carry? Which tools and standards do your candidates know, for example CATIA, NX, AUTOSAR or ISO 26262?",
+          "What happens to bill rates during a launch, and how much notice do you need to roll contractors off? What is the conversion fee, and after how many hours does it fall to zero? For a wider view of how agencies price, read our guide to <a href='/agencies/staffing-and-recruiting-firms/'>staffing and recruiting firms</a>."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does an automotive staffing agency do?",
+        "a": "It supplies contract, temp to hire or permanent workers to automakers, suppliers and dealers. Most specialize in either engineering and technical roles or plant, maintenance and skilled trades roles."
+      },
+      {
+        "q": "Which automotive staffing agencies are based in Michigan?",
+        "a": "Kelly Services lists its headquarters in Troy, Michigan, and RGBSI lists its world headquarters on Stephenson Highway in Troy. Several national firms on this list also recruit in the Detroit area."
+      },
+      {
+        "q": "Is an engineering services firm the same as a staffing agency?",
+        "a": "No. A staffing agency lends you people you manage. An engineering services firm such as Belcan or Tata Technologies delivers a defined piece of work and manages its own engineers."
+      },
+      {
+        "q": "Who staffs EV battery plants?",
+        "a": "Production and maintenance roles at battery plants are often filled by large industrial staffing firms. Aerotek, for example, describes a maintenance reliability program it built for an EV battery startup."
+      },
+      {
+        "q": "How do I get my automotive staffing firm added to this list?",
+        "a": "Use the listing form on this page. We check every firm's own website before adding it and update the list as firms change names or owners."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/aerospace-staffing-agencies/",
+        "label": "Aerospace staffing agencies"
+      },
+      {
+        "href": "/agencies/electrical-staffing-agencies/",
+        "label": "Electrical staffing agencies"
+      },
+      {
+        "href": "/agencies/oil-and-gas-recruitment-agencies/",
+        "label": "Oil and gas recruitment agencies"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-indianapolis/",
+        "label": "Staffing agencies in Indianapolis"
+      }
+    ]
   }
 ]
