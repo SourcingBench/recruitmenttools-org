@@ -6866,5 +6866,216 @@
         "label": "Staffing agencies in Atlanta"
       }
     ]
+  },
+  {
+    "slug": "architecture-recruiting-firms",
+    "short": "Architecture recruiting firms",
+    "h1": "Architecture recruiting firms: 7 search partners for studios, AEC firms and builders",
+    "seoTitle": "Architecture Recruiting Firms: 7 Checked (2026)",
+    "description": "Seven architecture recruiting firms checked November 21, 2026: who recruits designers, who runs AEC leadership searches, who fills contract BIM seats, and how their fee models differ.",
+    "date": "2026-11-21",
+    "updated": "2026-11-21",
+    "lead": "A 40 person studio losing its only healthcare project architect, a national AEC firm planning who will own the Denver office in five years, and a contractor that wants a licensed architect running preconstruction all say they need an architecture recruiter. They should not call the same one. Some firms on this list recruit only designers and read portfolios for a living, some are management consultancies that run a handful of leadership searches each year, and some are construction headhunters with an architecture desk. We checked each firm's own website on November 21, 2026 and describe only what they publish about themselves.",
+    "shortAnswer": "<b>Short answer:</b> for designers, interior designers and landscape architects, start with <a href='#bespoke-careers'>Bespoke Careers</a> or <a href='#davron'>DAVRON</a>. For a principal, partner or studio leader tied to succession or a merger, look at <a href='#zweig-group'>Zweig Group</a> or <a href='#csg-talent'>CSG Talent</a>. For architects working on the contractor or owner side, try <a href='#construction-hunters'>Construction Hunters</a> or <a href='#raymond-search-group'>Raymond Search Group</a>, and for contract BIM and CAD help, <a href='#apollo-technical'>Apollo Technical</a>.",
+    "choose": [
+      {
+        "h": "Write down the building type before the title.",
+        "p": "A project architect with ten years of K12 work and one with ten years of luxury residential are different candidates. Recruiters that organize by sector, like CSG Talent, will ask this first. If yours does not, tell them anyway, because it narrows the pool more than license status or software skills."
+      },
+      {
+        "h": "Ask who will review portfolios.",
+        "p": "Design hires are judged on work samples. Find out whether the person screening candidates has worked in a studio or simply forwards PDFs. Bespoke Careers says its recruiters include former architects and designers; for other firms, ask for the name of the consultant and their background."
+      },
+      {
+        "h": "Pick contingency or retained on purpose.",
+        "p": "Contingency means you pay only if you hire through the firm, and you can use several firms at once. Retained means an exclusive search with part of the fee paid up front, which is common for principals and studio directors. DAVRON offers both, which makes it easy to compare."
+      },
+      {
+        "h": "Match the firm to which side of the table the role sits on.",
+        "p": "An architect inside a design practice, an architect managing design for a general contractor and an owner's representative need different networks. Construction focused search firms reach the second and third groups better than design recruiters do."
+      }
+    ],
+    "firms": [
+      {
+        "id": "bespoke-careers",
+        "name": "Bespoke Careers",
+        "url": "https://www.bespokecareers.com/",
+        "parent": null,
+        "model": "Architecture and design recruitment, permanent and contract",
+        "hq": "Offices in the US, UK, Australia and New Zealand",
+        "bestFor": "Studios hiring architects, interior designers and landscape architects who want a recruiter that only works in design",
+        "summary": "Bespoke Careers is the only firm on this list whose whole business is architecture and design. Lindsay Urquhart founded it in Sydney in 2004, and the company now recruits across the UK, the US, Australia and New Zealand; its New York office marked ten years in 2024. The about page describes the recruiting team as architects, designers and specifiers who moved into recruitment, which matters when a hiring partner wants someone who can read a portfolio rather than scan a resume for software names. Beyond placements, the site publishes a salary guide, a salary calculator, 2026 market reports and a city comparison tool, and it runs a confidential salary survey each year. Employers can submit a vacancy directly, and candidates can drop a CV and portfolio for future roles.",
+        "good": [
+          "You are hiring designers whose portfolio matters more than their title",
+          "You want salary benchmarks from a recruiter that tracks design pay every year"
+        ],
+        "watch": [
+          "Its US presence is centered on a few large metros, so ask about coverage in your city",
+          "Construction side roles such as superintendents are outside its focus"
+        ]
+      },
+      {
+        "id": "davron",
+        "name": "DAVRON",
+        "url": "https://www.davron.net/architecture-recruiting-architectural-staffing/",
+        "parent": null,
+        "model": "Executive search, contingency and retained",
+        "hq": "Tampa, Florida",
+        "bestFor": "Firms that hire architects alongside engineers and construction managers and want one search partner for all three",
+        "summary": "DAVRON is a Tampa recruiting firm that has worked since 1997 across engineering, architecture, construction and manufacturing. Its architecture page frames the work as executive search and headhunting for architectural firms, and the site offers both <a href='https://www.davron.net/contingency-search-recruiting-staffing/'>contingency</a> and <a href='https://www.davron.net/retained-search-recruiting-staffing/'>retained</a> search, so you can choose whether you pay only on placement or commit to an exclusive search. There is a separate page for <a href='https://www.davron.net/landscape-architecture-recruiting-agency/'>landscape architecture</a>, plus city pages for architecture staffing in markets such as Atlanta, Austin and Albuquerque. DAVRON also sells outplacement services, which is unusual for a search firm and useful if a restructuring and a rebuild are happening in the same year.",
+        "good": [
+          "You need landscape architects as well as building architects",
+          "You want to pick between contingency and retained terms with the same firm"
+        ],
+        "watch": [
+          "Engineering is the larger share of its work, so confirm who on the team handles design roles",
+          "Outplacement and search sit in one company, so ask how candidate conflicts are handled"
+        ]
+      },
+      {
+        "id": "zweig-group",
+        "name": "Zweig Group",
+        "url": "https://zweiggroup.com/pages/executive-search",
+        "parent": null,
+        "model": "AEC management consulting with an executive search practice",
+        "hq": "Fayetteville, Arkansas and Dallas, Texas",
+        "bestFor": "Principals filling leadership seats, such as a studio director or a future owner, in architecture, engineering and construction firms",
+        "summary": "Zweig Group is better known in the AEC world for research and advice than for recruiting. It publishes The Zweig Letter, runs salary, fee and financial performance surveys for design firms, hosts the ElevateAEC conference and the Principals Academy, and gives out the Hot Firm and Best Firms to Work For awards. Executive search is one of its services, listed next to ownership transition, valuation, mergers and strategic planning. That combination fits a particular kind of hire: a principal or studio leader whose arrival is tied to an ownership plan or a merger. Zweig lists offices in Dallas and Fayetteville, Arkansas.",
+        "good": [
+          "The hire is connected to succession, an acquisition or a new office",
+          "You already use Zweig compensation data and want a search team that shares it"
+        ],
+        "watch": [
+          "Not built for volume hiring of project architects or drafters",
+          "Consulting and search come from the same firm, so keep the two scopes separate in your contract"
+        ]
+      },
+      {
+        "id": "raymond-search-group",
+        "name": "Raymond Search Group",
+        "url": "https://raymondsearchgroup.com/",
+        "parent": null,
+        "model": "Executive search for the built environment",
+        "hq": "United States",
+        "bestFor": "Design build firms and developers hiring architecture leaders who also need construction or MEP hires",
+        "summary": "Raymond Search Group describes itself as an executive search firm built only for the built environment. Architecture sits on its specialty list with construction and real estate, engineering, HVAC/R, building automation, water technology, data centers, power and private equity. The site notes recognition as a Forbes America's Best Recruiting Firm and publishes guides for both clients and candidates, including an overview of its search process. For an architecture practice, the main appeal is breadth across the project team: if a data center or healthcare program needs a design leader and a building systems lead at the same time, one firm can run both searches.",
+        "good": [
+          "Your project mix includes data centers, MEP heavy work or private equity backed owners",
+          "You want one search firm for design and building systems roles"
+        ],
+        "watch": [
+          "Architecture is one of many specialties, so ask for recent design placements",
+          "Its site does not list a fee model, so get terms in writing early"
+        ]
+      },
+      {
+        "id": "csg-talent",
+        "name": "CSG Talent",
+        "url": "https://www.csgtalent.com/industries/building-infrastructure/architecture-recruitment/",
+        "parent": null,
+        "model": "Global executive search with an architecture desk",
+        "hq": "International, with US executive search pages by state",
+        "bestFor": "Practices hiring senior architects for a specific sector such as healthcare, education or workplace interiors",
+        "summary": "CSG Talent is a global executive search firm whose building and infrastructure practice includes a dedicated architecture recruitment page. That page organizes senior hiring by market sector: commercial, higher education and K12, healthcare and life sciences, hospitality, mixed use, residential and workplace interiors. Sorting by sector is the right instinct for this field, because a hospital planner and a hospitality designer rarely share a shortlist. CSG also recruits in construction, civil engineering, building materials and facilities management, and it publishes state level executive search pages for markets such as California, Florida and Massachusetts.",
+        "good": [
+          "You need a senior hire with deep experience in one building type",
+          "You are hiring across borders or opening an office abroad"
+        ],
+        "watch": [
+          "Focus is senior and executive roles, not junior designers",
+          "Architecture is one desk inside a large multi industry firm"
+        ]
+      },
+      {
+        "id": "apollo-technical",
+        "name": "Apollo Technical",
+        "url": "https://www.apollotechnical.com/",
+        "parent": null,
+        "model": "Contract, contract to hire and direct hire recruiting",
+        "hq": "Atlanta, Georgia area (Smyrna headquarters)",
+        "bestFor": "Southeastern and Texas firms that need CAD and BIM technicians or project support on contract",
+        "summary": "Apollo Technical recruits engineering, IT and supply chain talent and lists architectural firms among the 26 industries it serves. It has been operating since 2010, offers contract, contract to hire and direct hire placement, and advertises an average time to fill of 10 to 15 days. Its headquarters is in Smyrna, Georgia, with recruiters covering Dallas and Fort Worth, Houston, Austin and San Antonio, Tampa and Orlando, Raleigh and Charlotte, Columbia and Greenville, and Chicago. For an architecture office, Apollo fits technical and support seats more naturally than design leadership, for example a Revit technician for a deadline crunch or a contract project coordinator.",
+        "good": [
+          "You want a contractor this month, not a search that runs a quarter",
+          "Your office is in one of its Sun Belt metros"
+        ],
+        "watch": [
+          "Architecture is a small part of a mostly engineering and IT book",
+          "Not the choice for a design principal or studio director search"
+        ]
+      },
+      {
+        "id": "construction-hunters",
+        "name": "Construction Hunters",
+        "url": "https://constructionhunters.com/new-york/architecture/",
+        "parent": null,
+        "model": "Executive search and recruiting",
+        "hq": "Dallas, Texas",
+        "bestFor": "General contractors and owners hiring architects for preconstruction, design management or owner side roles",
+        "summary": "Construction Hunters is a Dallas executive search firm serving construction, architecture, engineering and real estate. Its about page says its consultants have built contacts with general contractors, architectural firms, engineering firms and real estate companies across North America, and that it focuses on passive candidates who are busy in their current jobs. The firm runs an architecture practice with location pages, including one for New York. It was co-founded by Craig Robins of Robins Consulting, whose background is in transportation and logistics recruiting. The fit is strongest where the architect will sit on the builder or owner side of the table rather than inside a design studio.",
+        "good": [
+          "The architect will work for a contractor, developer or owner",
+          "You want a firm that already recruits project managers and estimators for the same team"
+        ],
+        "watch": [
+          "Studio design roles are not its core",
+          "Ask which recruiter covers architecture, since most of its work is construction"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit architects yourself",
+      "p": [
+        "Studios with a recognizable portfolio often get strong applicants from their own careers page, AIA chapter job boards and school relationships, especially for entry level designers. A recruiter fee is harder to justify for those seats than for a licensed project architect with a specific sector history, where the people you want are employed and not reading job ads.",
+        "If you keep hiring in house, plan for direct outreach. Make a short list of firms whose work resembles yours, look for the people credited on those projects, and contact them with a note about a specific project rather than a generic posting. Our <a href='/categories/sourcing-tools/'>sourcing tools category</a> covers contact finders and outreach software that help with this, and the <a href='/agencies/staffing-and-recruiting-firms/'>staffing and recruiting firms</a> list covers generalist agencies for administrative and support seats."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Which firm fits which architecture hire",
+        "p": [
+          "Junior and mid level designers: Bespoke Careers and DAVRON. Both publish dedicated architecture pages, and DAVRON adds a landscape architecture practice.",
+          "Principals, partners and studio leaders: Zweig Group, CSG Talent and Raymond Search Group. Zweig ties search to ownership and merger work, CSG sorts by building sector, and Raymond covers design and building systems leadership together.",
+          "Contract technical support: Apollo Technical, which offers contract and contract to hire placements and advertises a 10 to 15 day average time to fill.",
+          "Architects on the builder or owner side: Construction Hunters and Raymond Search Group."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does an architecture recruiting firm do?",
+        "a": "It finds and screens candidates for architecture and design roles, from junior designers to principals, and presents a shortlist to the hiring firm. Some also offer contract staffing for technical roles such as BIM and CAD work."
+      },
+      {
+        "q": "How much do architecture recruiters charge?",
+        "a": "Most firms on this list do not publish fees. Contingency search is usually charged as a percentage of first year salary on hire, and retained search splits the fee into installments, part paid before candidates are presented. Ask each firm for written terms and a replacement guarantee."
+      },
+      {
+        "q": "Do architecture recruiters place interior designers and landscape architects?",
+        "a": "Some do. Bespoke Careers recruits across architecture and interior design, and DAVRON has a separate landscape architecture page. Construction focused search firms generally do not."
+      },
+      {
+        "q": "Should I use a design recruiter or a construction headhunter to hire an architect?",
+        "a": "Use a design recruiter when the architect will work in a studio producing design work. Use a construction or built environment headhunter when the architect will manage design for a contractor, developer or owner."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/environmental-staffing-agencies/",
+        "label": "Environmental staffing agencies"
+      },
+      {
+        "href": "/agencies/electrical-staffing-agencies/",
+        "label": "Electrical staffing agencies"
+      },
+      {
+        "href": "/agencies/luxury-staffing-agencies/",
+        "label": "Luxury staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
