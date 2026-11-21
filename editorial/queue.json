@@ -478,7 +478,9 @@
    "keyword": "staffing agencies in raleigh",
    "volume": 5400,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-raleigh",
+   "date": "2026-11-21"
   },
   {
    "id": "rt-pm-020",
