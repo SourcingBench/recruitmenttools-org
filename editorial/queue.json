@@ -219,7 +219,7 @@
    "keyword": "hvac staffing agencies",
    "volume": 140,
    "noon_target": null,
-   "status": "queued"
+   "status": "published", "slug": "hvac-staffing-agencies", "date": "2026-11-22"
   },
   {
    "id": "rt-026",
