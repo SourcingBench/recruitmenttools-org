@@ -438,7 +438,9 @@
    "keyword": "virtual assistant agencies",
    "volume": 3600,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "virtual-assistant-agencies",
+   "date": "2026-11-22"
   },
   {
    "id": "rt-pm-016",
