@@ -7529,5 +7529,276 @@
         "label": "Automotive staffing agencies"
       }
     ]
+  },
+  {
+    "slug": "virtual-assistant-agencies",
+    "short": "Virtual assistant agencies",
+    "h1": "Virtual assistant agencies: 10 services sorted by how you pay for the help",
+    "seoTitle": "Virtual Assistant Agencies: 10 Services Compared (2026)",
+    "description": "Ten virtual assistant agencies checked November 22, 2026, grouped by pricing model: hourly buckets, managed monthly plans, full time placements and one time matching fees, with where each firm's assistants are based.",
+    "date": "2026-11-22",
+    "updated": "2026-11-22",
+    "lead": "Is it cheaper to buy 20 hours of an assistant's time, rent a full time remote employee, or pay once and hire the person yourself? That question splits the virtual assistant market more cleanly than any ranking. Some agencies sell blocks of hours and let unused time roll over. Others charge a flat monthly fee for a dedicated person they keep managing. A third group places a full time worker abroad, and a fourth charges a single matching fee and steps away. We opened each agency's own website on November 22, 2026 and grouped ten of them by the way they bill, quoting prices only where the firm publishes them.",
+    "shortAnswer": "<b>Short answer:</b> for a few hours a week of U.S. based help, compare <a href='#time-etc'>Time etc</a>, <a href='#zirtual'>Zirtual</a> and <a href='#taskbullet'>TaskBullet</a>. For a senior executive assistant matched by the agency, look at <a href='#belay'>BELAY</a> or <a href='#prialto'>Prialto</a>. For a dedicated full time offshore assistant at a fixed monthly rate, check <a href='#wing-assistant'>Wing Assistant</a>, <a href='#myoutdesk'>MyOutDesk</a>, <a href='#stealth-agents'>Stealth Agents</a> or <a href='#virtual-latinos'>Virtual Latinos</a>. To hire a Filipino assistant directly with no ongoing agency margin, see <a href='#virtual-staff-finder'>Virtual Staff Finder</a>.",
+    "choose": [
+      {
+        "h": "Count the hours before you count the dollars.",
+        "p": "Write down every recurring task for two weeks: inbox, calendar, invoicing, CRM updates, travel. Under about 40 hours a month, an hour bucket from a U.S. provider usually beats a full time seat. Past 120 hours, a dedicated full time assistant starts to make more sense, and several firms here only sell that model."
+      },
+      {
+        "h": "Decide who manages the assistant.",
+        "p": "Managed services such as Prialto and Wing keep supervising the person, cover absences and replace someone who is not working out. Direct hire models hand you the worker and the management. Neither is wrong, but a founder with no time to train anyone should not pick the cheapest direct option."
+      },
+      {
+        "h": "Check time zone and language, not just location.",
+        "p": "An assistant in Manila can work U.S. hours, and one in Bogota already does. Ask each agency which hours the person will keep, whether that costs extra, and whether you can interview before committing. Virtual Latinos, for example, sells Latin American assistants specifically on U.S. time zone overlap."
+      },
+      {
+        "h": "Read what happens to unused time and to a bad match.",
+        "p": "Hour bucket services differ on rollover windows; TaskBullet allows 90 days. Monthly plans differ on replacement terms. Get both in writing, along with the notice period to cancel."
+      }
+    ],
+    "firms": [
+      {
+        "id": "time-etc",
+        "name": "Time etc",
+        "url": "https://www.timeetc.com/",
+        "parent": null,
+        "model": "Hour packages with a dedicated U.S. assistant",
+        "hq": "Assistants based across the U.S.",
+        "bestFor": "Solo professionals who need 10 to 60 hours a month of skilled admin help",
+        "summary": "Time etc has sold virtual assistant time since 2007 and says it has worked with people at more than 22,000 companies. Its pricing page is the most transparent in this group: ten hours a month costs $390, twenty hours $760, forty hours $1,480 and sixty hours $2,160, which works out to $39 down to $36 an hour. Every plan includes a dedicated U.S. assistant matched to you, free extra assistants for overflow, rollover of unused hours and the option to switch or cancel at any time. The company backs accounts with what it calls a complete satisfaction guarantee.",
+        "good": [
+          "Published prices with no sales call needed",
+          "Unused hours roll over"
+        ],
+        "watch": [
+          "Hourly rates are high next to offshore options",
+          "Built for part time help, not a full time seat"
+        ]
+      },
+      {
+        "id": "zirtual",
+        "name": "Zirtual",
+        "url": "https://www.zirtual.com/",
+        "parent": null,
+        "model": "Monthly plans with U.S. based assistants",
+        "hq": "U.S. based assistants, remote",
+        "bestFor": "Small firms that want an assistant or virtual paralegal working within a day",
+        "summary": "Zirtual says it matches clients with U.S. based, college educated virtual professionals in as little as 24 hours and requires no long term contract. Beyond general assistants it lists virtual paralegals, marketing assistants, bookkeeping assistants, outbound agents and a virtual receptionist service, which makes it one of the few agencies here that covers legal support. Plans are offered monthly, though the pricing page did not load when we checked, so ask for current rates on the consultation call.",
+        "good": [
+          "Fast matching claim of about one day",
+          "Paralegal and receptionist roles alongside admin"
+        ],
+        "watch": [
+          "Pricing page was unavailable on our visit",
+          "Fewer published details on how assistants are vetted"
+        ]
+      },
+      {
+        "id": "taskbullet",
+        "name": "TaskBullet",
+        "url": "https://taskbullet.com/",
+        "parent": null,
+        "model": "Prepaid hour buckets, Philippine or U.S. assistants",
+        "hq": "Support team on Mountain Time; assistants in the Philippines and U.S.",
+        "bestFor": "Ecommerce and service businesses with lumpy workloads",
+        "summary": "TaskBullet sells buckets of hours rather than seats. Its site quotes Philippine based buckets from $210 for 20 hours and U.S. based buckets from $270 for 10 hours, with unused hours rolling over for 90 days. You get a dedicated assistant plus routing to specialists when a task needs one, and new accounts start with 10 free hours and no card. The company answers support requests Monday to Friday, 9 AM to 5 PM Mountain Time, and it also sells call ready prospect lists for teams that want a list built and worked.",
+        "good": [
+          "Lowest published entry price in this list",
+          "Trial hours before paying"
+        ],
+        "watch": [
+          "Bucket model means the assistant is not exclusive to you",
+          "Specialist routing can mean several people touch your account"
+        ]
+      },
+      {
+        "id": "belay",
+        "name": "BELAY",
+        "url": "https://belaysolutions.com/",
+        "parent": null,
+        "model": "Matched U.S. executive assistants and accounting staff",
+        "hq": "U.S. based contractors, remote",
+        "bestFor": "Executives who want a senior U.S. assistant chosen for them",
+        "summary": "BELAY has operated since 2010 and says it has served more than 25,000 leaders. It personally matches clients with U.S. based executive assistants and also offers outsourced bookkeeping, payroll, tax and fractional CFO work, so a growing company can put admin and finance support under one contract. Its careers page notes that assistant contractors must live in the U.S. and excludes California, Colorado, Montana, New Jersey, New York and Pennsylvania. A Right Fit Guarantee covers a rematch if the first assistant is wrong.",
+        "good": [
+          "Bundles admin and accounting support",
+          "Rematch guarantee stated on the homepage"
+        ],
+        "watch": [
+          "No public price list",
+          "Contractor pool excludes six states, which matters if you want a local assistant there"
+        ]
+      },
+      {
+        "id": "prialto",
+        "name": "Prialto",
+        "url": "https://www.prialto.com/",
+        "parent": null,
+        "model": "Managed assistant units with team backup",
+        "hq": "Portland, Oregon; service centers in Latin America, Africa and Asia",
+        "bestFor": "Sales and executive teams that cannot afford an assistant going dark on vacation",
+        "summary": "Prialto was founded in Silicon Valley in 2009 by Eric Taussig and is now based in Portland, Oregon, with service centers in Latin America, Africa and Asia. It bills a Prialto Unit: 55 hours of support a month plus free episodic overflow time, listed at $1,500 to $1,600 a month depending on plan. Every assistant completes a month long training program, and other teammates who know your processes can step in when your main assistant is out. An engagement manager handles consulting and performance, so you do not supervise the assistant yourself.",
+        "good": [
+          "Continuity from a backup team",
+          "Flat monthly rate with no overage fees"
+        ],
+        "watch": [
+          "55 hours is roughly a third of a full time role",
+          "Priced above most offshore options"
+        ]
+      },
+      {
+        "id": "wing-assistant",
+        "name": "Wing Assistant",
+        "url": "https://wingassistant.com/",
+        "parent": null,
+        "model": "Managed dedicated assistants, full or part time",
+        "hq": "Berkeley, California",
+        "bestFor": "Startups that want a full time managed assistant under $1,000 a month",
+        "summary": "Wing Assistant lists a Berkeley, California address and sells managed virtual assistants across admin, sales, marketing and support roles. Its General Virtual Assistant plan is $999 a month for 160 hours, and a part time version is $699 for 80 hours. Both include a dedicated assistant, free replacement, a customer success manager and Wing's own workspace app for assigning tasks. The site was running a holiday discount when we visited, so expect the list price to change.",
+        "good": [
+          "Published monthly prices",
+          "Free replacement and a success manager included"
+        ],
+        "watch": [
+          "Promotional pricing shifts often",
+          "Specialist roles cost more than the general plan"
+        ]
+      },
+      {
+        "id": "myoutdesk",
+        "name": "MyOutDesk",
+        "url": "https://www.myoutdesk.com/",
+        "parent": null,
+        "model": "Full time remote assistants only",
+        "hq": "Talent in the Philippines, Latin America and Africa",
+        "bestFor": "Real estate, property management and healthcare offices that want one person eight hours a day",
+        "summary": "MyOutDesk argues openly against hour buckets. Its pricing page says it sells only full time support, one person working eight hours a day, five days a week, and that after more than 17 years full time placements have outperformed part time ones. Assistants come from the Philippines, Latin America and Africa, are described as college educated and go through two stage vetting, with Spanish and French speakers available. The industry pages lean toward real estate, property management, insurance, finance and healthcare.",
+        "good": [
+          "Dedicated full time seat, not shared labor",
+          "Bilingual assistants available"
+        ],
+        "watch": [
+          "No part time option if your workload is small",
+          "Rates are quoted on a call"
+        ]
+      },
+      {
+        "id": "stealth-agents",
+        "name": "Stealth Agents",
+        "url": "https://stealthagents.com/",
+        "parent": null,
+        "model": "Experienced executive assistants on U.S. hours",
+        "hq": "Cherry Hill, New Jersey",
+        "bestFor": "Owners who want a seasoned assistant rather than someone to train",
+        "summary": "Stealth Agents lists an office at Garden State Park in Cherry Hill, New Jersey, and pitches executive assistants with more than ten years of experience who work U.S. time zones. It publishes its own screening numbers: 14,755 applicants and a 0.89 percent hire rate, with background checks and an English test. The company says it has more than 1,200 agents available and has served over 2,000 businesses, and each account gets a dedicated account manager.",
+        "good": [
+          "Senior assistants by default",
+          "Background checked staff"
+        ],
+        "watch": [
+          "Pricing requires a consultation",
+          "Selection statistics are self reported"
+        ]
+      },
+      {
+        "id": "virtual-latinos",
+        "name": "Virtual Latinos",
+        "url": "https://www.virtuallatinos.com/",
+        "parent": null,
+        "model": "Latin American assistants, all inclusive monthly rate",
+        "hq": "San Diego, California (Sorrento Valley)",
+        "bestFor": "U.S. companies that want bilingual assistants on their own time zone",
+        "summary": "Virtual Latinos has placed Latin American assistants since 2018 and lists an office on Oberlin Drive in San Diego. Its pricing page breaks monthly rates into tiers: Starter at $1.6K to $2.9K for one to two years of experience, Professional at $1.7K to $3.4K for three to five years, and Advanced from $2.1K to $4.4K. There are no recruitment, access or setup fees, and the company says raises and bonuses go to the assistant without commission. You communicate directly with the assistant.",
+        "good": [
+          "Tiered pricing published by experience level",
+          "English plus Spanish or Portuguese"
+        ],
+        "watch": [
+          "Costs more than Philippine options",
+          "Experience tiers overlap, so confirm which one you are quoted"
+        ]
+      },
+      {
+        "id": "virtual-staff-finder",
+        "name": "Virtual Staff Finder",
+        "url": "https://virtualstafffinder.com/",
+        "parent": null,
+        "model": "One time matching fee, you employ the assistant",
+        "hq": "Recruits Filipino professionals for clients worldwide",
+        "bestFor": "Owners comfortable managing and paying an offshore worker themselves",
+        "summary": "Virtual Staff Finder is the opposite of a managed agency. It charges a single once off fee to match you with a Filipino professional, then you hire and pay that person directly with no ongoing agency margin. The site says it has operated for more than ten years and has been used by 5,287 business owners. That makes it the cheapest long run option here, but you take on payroll, management and replacement yourself.",
+        "good": [
+          "No monthly markup after the match",
+          "You keep the full relationship with the worker"
+        ],
+        "watch": [
+          "No supervision or backup if the assistant leaves",
+          "International payments and contracts are on you"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "h": "Published prices at a glance",
+        "p": [
+          "Time etc: $390 for 10 hours a month up to $2,160 for 60 hours.",
+          "TaskBullet: from $210 for 20 Philippine hours or $270 for 10 U.S. hours.",
+          "Prialto: $1,500 to $1,600 a month for a 55 hour unit.",
+          "Wing Assistant: $699 a month part time, $999 a month full time.",
+          "Virtual Latinos: $1.6K to $4.4K a month by experience tier.",
+          "BELAY, Zirtual, MyOutDesk, Stealth Agents and Virtual Staff Finder quote on a call."
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to hire an assistant yourself",
+      "p": [
+        "If you already know the exact role and can spend a few hours a week training, posting the job yourself on a regional board and paying the person through an employer of record can cost less than any agency. The tradeoff is time: you screen applicants, run test tasks and handle the exit if it fails.",
+        "Recruiting teams often use assistants for scheduling and candidate admin. Before you hand that work off, see whether software already covers it; our <a href='/categories/interview-scheduling/'>interview scheduling tools</a> and <a href='/stacks/recruitment-tools-for-solo-recruiters/'>stack for solo recruiters</a> list options, and the <a href='/agencies/staffing-and-recruiting-firms/'>staffing and recruiting firms</a> list covers agencies that place on site administrative staff."
+      ]
+    },
+    "faq": [
+      {
+        "q": "How much does a virtual assistant agency cost?",
+        "a": "It depends on the model. U.S. hour packages run about $36 to $39 an hour at Time etc, Philippine hour buckets work out to about $10.50 an hour at TaskBullet, and full time managed assistants from Wing Assistant start at $999 a month. Latin American assistants through Virtual Latinos start at $1.6K a month."
+      },
+      {
+        "q": "What is the difference between a managed VA service and a direct hire?",
+        "a": "A managed service keeps employing or contracting the assistant, supervises them and replaces them if needed. A direct hire model, like Virtual Staff Finder, charges a matching fee and you employ and manage the person from then on."
+      },
+      {
+        "q": "Are U.S. based virtual assistants worth the higher price?",
+        "a": "They make sense when the work involves U.S. clients on the phone, local knowledge or sensitive information you prefer to keep onshore. For inbox, data entry and scheduling, offshore assistants working U.S. hours usually cover the need for less."
+      },
+      {
+        "q": "Can a virtual assistant help with recruiting?",
+        "a": "Yes, for scheduling interviews, posting jobs, updating an applicant tracking system and sending candidate reminders. Judging candidates and making offers should stay with a recruiter or hiring manager."
+      },
+      {
+        "q": "How long does it take to get started?",
+        "a": "Zirtual advertises matches in as little as 24 hours. Most others run a consultation first, then propose candidates over several days to a couple of weeks."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/luxury-staffing-agencies/",
+        "label": "Luxury staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-raleigh/",
+        "label": "Staffing agencies in Raleigh"
+      },
+      {
+        "href": "/agencies/hvac-staffing-agencies/",
+        "label": "HVAC staffing agencies"
+      }
+    ]
   }
 ]
