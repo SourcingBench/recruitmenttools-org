@@ -502,7 +502,9 @@
    "keyword": "staffing agencies in sacramento",
    "volume": 5400,
    "noon_target": "/built-for/staffing-agencies",
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-sacramento",
+   "date": "2026-11-23"
   },
   {
    "id": "rt-pm-022",
