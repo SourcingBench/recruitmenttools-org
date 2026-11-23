@@ -7800,5 +7800,262 @@
         "label": "HVAC staffing agencies"
       }
     ]
+  },
+  {
+    "slug": "veterinary-recruiting-firms",
+    "short": "Veterinary recruiting firms",
+    "h1": "Veterinary recruiting firms: 9 options for DVMs, techs, relief cover and practice leaders",
+    "seoTitle": "Veterinary Recruiting Firms: 9 Checked for 2026",
+    "description": "Nine veterinary recruiting firms checked November 23, 2026, sorted by what they place: senior and animal health searches, contingency DVM placement, relief to hire, full team hiring and new graduate matching.",
+    "date": "2026-11-23",
+    "updated": "2026-11-23",
+    "lead": "Nine firms, four different jobs. Some recruiters on this page only hunt associate veterinarians, some will send a relief DVM to cover a maternity leave, one builds the C suite of a hospital rollup, and one will also find your next lead technician. Before you sign a fee agreement, decide which of those you actually need, because the model and the fee follow from it. Every firm below was checked on its own website on November 23, 2026, and every fact comes from that site.",
+    "shortAnswer": "<b>Short answer:</b> for a corporate or senior animal health search, start with <a href='#the-vet-recruiter'>The VET Recruiter</a> or <a href='#peoplepack'>Peoplepack</a>. For an associate DVM on a contingency fee, compare <a href='#medstaff-nationwide'>MedStaff Nationwide</a> and <a href='#the-perillo-group'>The Perillo Group</a>. If you need relief cover first, <a href='#anp-solutions'>ANP Solutions</a> offers relief to hire, and <a href='#jl-search-group'>JL Search Group</a> recruits technicians and practice managers too.",
+    "choose": [
+      {
+        "h": "Name the role and the schedule in writing.",
+        "p": "An emergency doctor on four overnight shifts and a general practice associate on a Monday to Friday schedule are different searches with different candidate pools. Firms quote faster and more honestly when the schedule, caseload and species mix are on paper."
+      },
+      {
+        "h": "Ask whether the fee is contingent or retained.",
+        "p": "Contingency means you pay only when someone starts. Retained search means part of the fee is paid up front in exchange for a dedicated search, which makes more sense for a medical director or specialist than for an associate role."
+      },
+      {
+        "h": "Ask what happens if the hire leaves.",
+        "p": "Look for a written replacement or refund period. MedStaff Nationwide, for example, publishes a replacement promise for candidates who do not complete onboarding; others negotiate it per contract."
+      },
+      {
+        "h": "Check licensing support for out of state doctors.",
+        "p": "A recruiter who searches nationally should help a candidate transfer a state license, and for relief work confirm DEA registration and USDA accreditation before the first shift."
+      }
+    ],
+    "firms": [
+      {
+        "id": "the-vet-recruiter",
+        "name": "The VET Recruiter",
+        "url": "https://thevetrecruiter.com/",
+        "parent": null,
+        "model": "Recruiting and executive search for veterinary and animal health roles",
+        "hq": "United States",
+        "bestFor": "Animal health companies and practice groups hiring senior, sales or board level people",
+        "summary": "The VET Recruiter says it has recruited in animal health and the veterinary profession since 1997, and it is led by founder and CEO Stacy Pursell. Its service menu reaches well beyond clinic staffing: executive search, board services, sales force recruiting, academia, nonprofit associations and searches for start ups backed by venture capital or private equity. For hospitals it runs veterinary recruiting for general practice, emergency, specialist and leadership candidates, and it publishes salary trend reports and a candidate newsletter.",
+        "good": [
+          "Nearly three decades focused on one industry",
+          "Covers the corporate animal health side as well as clinics"
+        ],
+        "watch": [
+          "Less useful if you only need relief shifts covered next week",
+          "Fee terms are quoted, not published"
+        ]
+      },
+      {
+        "id": "medstaff-nationwide",
+        "name": "MedStaff Nationwide",
+        "url": "https://www.medstaffnationwide.com/recruiters/veterinarian",
+        "parent": null,
+        "model": "Contingency permanent placement",
+        "hq": "Milford, Connecticut (93 Boston Post Road)",
+        "bestFor": "Practices that want a contingency fee and measurable fill time on a DVM search",
+        "summary": "MedStaff Nationwide is a healthcare recruitment firm founded in 2016 in Milford, Connecticut, that added a veterinarian desk to its physician and nursing work. Its veterinary page says it recruits licensed veterinarians for small animal, mixed, emergency and specialty practices using direct outreach to candidates rather than waiting on postings. The firm publishes its own numbers: a 27 day average time to fill, a 96% twelve month retention rate and a replacement at no cost for any candidate who does not complete onboarding. Those are company figures, not audited ones.",
+        "good": [
+          "Contingency model, so no fee unless a hire happens",
+          "Public time to fill and retention claims you can hold them to"
+        ],
+        "watch": [
+          "Veterinary medicine is one desk inside a broader healthcare firm",
+          "Doctors only on the veterinary page; techs are not the focus"
+        ]
+      },
+      {
+        "id": "anp-solutions",
+        "name": "ANP Solutions",
+        "url": "https://anpsolutionsinc.com/public/practices/veterinary",
+        "parent": null,
+        "model": "Relief (locum) coverage, relief to hire and permanent placement",
+        "hq": "New Jersey, with offices listed in Dubai and India",
+        "bestFor": "Hospitals that need relief DVMs or RVTs now and might convert one later",
+        "summary": "ANP Solutions runs a veterinary recruitment and relief practice alongside its engineering and healthcare staffing. It supplies single shift, multi week and leave cover relief veterinarians and credentialed technicians, and it offers a relief to hire path where a hospital works with a relief vet first and converts them to a permanent associate on terms agreed in advance. ANP says it checks the state veterinary license, DEA registration and USDA accreditation for every placement and helps relief vets with multi state licensing. Its permanent side covers associate DVMs, medical directors, specialists, RVTs and LVTs, assistants and practice managers.",
+        "good": [
+          "Relief and permanent hiring from one vendor",
+          "Credential checks named on the page"
+        ],
+        "watch": [
+          "Veterinary work is one practice in a multi industry firm",
+          "No published rates for relief shifts"
+        ]
+      },
+      {
+        "id": "jl-search-group",
+        "name": "JL Search Group",
+        "url": "https://www.jlsearchgroup.com/veterinary-staffing",
+        "parent": null,
+        "model": "Direct hire recruiting",
+        "hq": "United States, recruiting nationwide",
+        "bestFor": "Practices hiring a whole team at once: doctors, technicians and a practice manager",
+        "summary": "JL Search Group is a specialized recruiting firm that cites more than 20 years of recruiting experience and serves veterinary practices across the country. Its veterinary staffing page lists three hiring tracks: general practice, emergency and specialty veterinarians for small animal, mixed animal and exotic practices, including partnership tracks; certified, registered and licensed veterinary technicians, from new graduates to lead technicians and supervisors; and practice management staff. That breadth is unusual in this group, where most firms recruit doctors only.",
+        "good": [
+          "Recruits technicians and managers, not just DVMs",
+          "Mentions partnership track roles for associates"
+        ],
+        "watch": [
+          "Veterinary is one of several industries the firm serves",
+          "Few published process details"
+        ]
+      },
+      {
+        "id": "peoplepack",
+        "name": "Peoplepack",
+        "url": "https://www.peoplepacktalent.com/",
+        "parent": null,
+        "model": "Veterinary only recruiting plus executive search",
+        "hq": "United States",
+        "bestFor": "Clinic groups and pet care companies hiring medical directors or C suite leaders",
+        "summary": "Peoplepack recruits only for veterinary medicine and says its team includes experienced DVM recruiters built from within the industry. Its recently filled list shows the range: associate veterinarians in general practice (small animal, large animal, equine and exotics), urgent care and ER doctors, medical directors, a cardiologist, a chief medical officer, a chief operating officer for a pet industry company and a CFO for a healthcare rollup. For consolidators and de novo partnerships, that executive bench is the reason to call.",
+        "good": [
+          "Exclusively veterinary",
+          "Executive search for pet industry and rollup leadership"
+        ],
+        "watch": [
+          "Headquarters city not stated on the site",
+          "Smaller team than the multi industry firms"
+        ]
+      },
+      {
+        "id": "the-perillo-group",
+        "name": "The Perillo Group",
+        "url": "https://www.theperillogroup.com/veterinarian-recruiter/",
+        "parent": null,
+        "model": "Direct hire search",
+        "hq": "United States, national search",
+        "bestFor": "Private practices that need an associate veterinarian found outside their own state",
+        "summary": "The Perillo Group, founded by recruiter Jason Perillo, staffs legal, engineering, construction, accounting, supply chain and pharmaceutical roles, and runs a national veterinary practice. Its veterinarian recruiter page focuses on direct hire searches for associate veterinarians, from new graduates who need real mentorship to experienced doctors whose caseload or schedule has outgrown their current job. The page argues that the right doctor may be licensed in your state but practicing two states away, which is why it searches nationally instead of by metro.",
+        "good": [
+          "Clear focus on associate DVM direct hire",
+          "National search by design"
+        ],
+        "watch": [
+          "Veterinary is one specialty among many",
+          "No relief or technician staffing on the page"
+        ]
+      },
+      {
+        "id": "global-talent-partners",
+        "name": "Global Talent Partners",
+        "url": "https://www.globaltalentpartners.com/vets",
+        "parent": null,
+        "model": "Veterinarian recruitment",
+        "hq": "United States, placing in the U.S. and Canada",
+        "bestFor": "Practices recruiting mobile, emergency or non clinical veterinarians across North America",
+        "summary": "Global Talent Partners describes itself as a veterinary recruitment firm based in the United States that matches veterinary businesses with veterinary professionals. Its job boards run state by state across all 50 states plus Canadian provinces, and roles are sorted into associate, mobile, emergency, specialist and non clinical veterinarian tracks. The candidate side carries interview tips, resume guidance and NAVLE resources, which tells you the firm recruits early career doctors as well as experienced ones.",
+        "good": [
+          "U.S. and Canada coverage",
+          "Mobile and non clinical roles listed separately"
+        ],
+        "watch": [
+          "Recruits veterinarians, not support staff",
+          "Fee model not published"
+        ]
+      },
+      {
+        "id": "supreme-search-specialists",
+        "name": "Supreme Search Specialists",
+        "url": "https://www.supremesearchspecialists.com/",
+        "parent": null,
+        "model": "Consultant led permanent recruitment",
+        "hq": "United Kingdom, recruiting DVMs in all 50 U.S. states",
+        "bestFor": "Employers open to transatlantic candidates or with UK and U.S. hospitals",
+        "summary": "Supreme Search Specialists recruits veterinarians and practice teams in the UK and the USA, plus accounting staff. It says veterinary recruitment is its only clinical focus, that it is consultant led, and that it has been recognized by the London Vet Show and Corporate Vision Awards. On the U.S. side it recruits DVMs across all 50 states; in the UK it places vets and registered veterinary nurses. The firm also claims that up to 80% of quality placements never reach job boards, a figure it does not source.",
+        "good": [
+          "Two country reach from one firm",
+          "Award recognition from UK veterinary events"
+        ],
+        "watch": [
+          "U.S. offices are not named on the site",
+          "Unsourced statistics in the marketing copy"
+        ]
+      },
+      {
+        "id": "furever-talent-partners",
+        "name": "FurEver Talent Partners",
+        "url": "https://furevertalent.com/",
+        "parent": "The Kleinbach Group",
+        "model": "Recruiting and consulting",
+        "hq": "United States",
+        "bestFor": "Independent hospitals that want culture fit weighed heavily, and new graduate hiring",
+        "summary": "FurEver Talent Partners was established in 2026 as the veterinary recruiting and consulting division of The Kleinbach Group. It positions itself on fit: the about page says traditional veterinary recruiting overlooks values and culture, and that the firm works as an advocate for veterinarians during a job search. Services are split between hospitals and practice leaders on one side and veterinarians and vet professionals on the other, with dedicated pages for emergency veterinarian jobs and new graduates and a discovery call to start.",
+        "good": [
+          "Backed by an established parent recruiting firm",
+          "Separate tracks for ER doctors and new grads"
+        ],
+        "watch": [
+          "Newest firm on this list, so little track record yet",
+          "No published fees or fill times"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "h": "Which firm fits which hiring problem",
+        "p": [
+          "Most practice owners call a recruiter for one of five reasons. Matching the reason to the firm's model saves a month of calls."
+        ],
+        "list": [
+          "<b>Animal health company or board seat:</b> The VET Recruiter.",
+          "<b>Medical director, CMO or rollup executive:</b> Peoplepack.",
+          "<b>Associate DVM, pay only on hire:</b> MedStaff Nationwide or The Perillo Group.",
+          "<b>Relief cover now, maybe permanent later:</b> ANP Solutions.",
+          "<b>Doctors, techs and a manager in one search:</b> JL Search Group."
+        ]
+      },
+      {
+        "h": "What a recruiter cannot fix",
+        "p": [
+          "No agency can close a gap between your offer and the market. If associates in your region are leaving for emergency medicine or corporate groups, ask the recruiter for the last three offers they saw accepted nearby before you brief them. Our <a href='/agencies/nursing-staffing-agencies/'>nursing staffing agencies</a> list covers human medicine firms if you are benchmarking technician pay against nursing roles."
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit a veterinarian yourself",
+      "p": [
+        "Recruiting in house works when you already have a pipeline: externship students who rotated through the hospital, technicians in DVM programs, and relief doctors who liked the culture. Keep a short list of each and contact them before you post the job. For candidates you do not know yet, a sourcing tool with personalized email and SMS outreach, such as Noon, can reach licensed doctors directly without paying a placement fee; compare options on our <a href='/agencies/'>agency directory</a> before deciding.",
+        "Whatever you decide, write down the schedule, salary range, signing bonus, continuing education allowance and mentorship plan before the first conversation. Veterinarians compare offers on those five things, and a recruiter will ask for them anyway."
+      ]
+    },
+    "faq": [
+      {
+        "q": "What does a veterinary recruiting firm do?",
+        "a": "It finds and screens veterinarians, technicians or practice leaders for a hospital, presents a short list and helps negotiate the offer. Some firms also supply relief veterinarians for temporary cover."
+      },
+      {
+        "q": "Do veterinary recruiters charge the veterinarian?",
+        "a": "No. The firms on this page are paid by the hiring practice or company. Candidates pay nothing to be represented."
+      },
+      {
+        "q": "Which firms recruit veterinary technicians?",
+        "a": "JL Search Group lists certified, registered and licensed technicians as a core track, and ANP Solutions places RVTs and LVTs in both relief and permanent roles."
+      },
+      {
+        "q": "Can a recruiter find relief veterinarians?",
+        "a": "ANP Solutions supplies single shift, multi week and leave cover relief DVMs and RVTs, and offers a relief to hire path to convert a relief vet into an associate."
+      },
+      {
+        "q": "Are there veterinary recruiters that place in Canada or the UK?",
+        "a": "Global Talent Partners lists veterinarian jobs across Canadian provinces, and Supreme Search Specialists recruits vets and registered veterinary nurses in the UK as well as DVMs in the U.S."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/pharmaceutical-headhunters/",
+        "label": "Pharmaceutical headhunters"
+      },
+      {
+        "href": "/agencies/clinical-research-staffing-agencies/",
+        "label": "Clinical research staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
