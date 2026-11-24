@@ -133,7 +133,9 @@
    "keyword": "logistics staffing agencies",
    "volume": 260,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "logistics-staffing-agencies",
+   "date": "2026-11-24"
   },
   {
    "id": "rt-016",
