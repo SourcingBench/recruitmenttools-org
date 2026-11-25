@@ -8772,5 +8772,258 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "mental-health-staffing-agencies",
+    "short": "Mental health staffing",
+    "h1": "Mental health staffing agencies: 8 firms for psychiatrists, psych nurses, therapists and school behavior staff",
+    "seoTitle": "Mental Health Staffing Agencies (2026): 8 Firms Checked by Role",
+    "description": "Eight mental health staffing agencies checked on their own websites on November 25, 2026, sorted by the clinician you need: locum psychiatrists, psychiatric nurses, school psychologists and behavior analysts, with headquarters, parent companies and what to ask before you sign.",
+    "date": "2026-11-25",
+    "updated": "2026-11-25",
+    "lead": "Which agency should a hospital, clinic or school district call when a psychiatrist leaves, a psych unit loses three nurses or a district needs a BCBA by January? The answer depends less on the agency's size than on the license you are trying to fill. We read each firm's own website on November 25, 2026 and kept eight that publish behavioral health or psychiatry work today. They fall into three groups: locum tenens firms that place psychiatrists and psychiatric nurse practitioners, travel nurse firms that staff inpatient psych units, and school staffing firms that place psychologists, counselors and behavior analysts.",
+    "shortAnswer": "<b>Short answer:</b> for a locum psychiatrist or PMHNP, start with <a href='#barton-associates'>Barton Associates</a>, <a href='#locumtenens-com'>LocumTenens.com</a> or <a href='#vista-staffing'>VISTA Staffing</a>. For psychiatric RNs on an inpatient unit, call <a href='#fusion-medical-staffing'>Fusion Medical Staffing</a> or <a href='#medical-solutions'>Medical Solutions</a>. School psychologists, counselors and BCBAs are the specialty of <a href='#soliant-health'>Soliant Health</a> and <a href='#sunbelt-staffing'>Sunbelt Staffing</a>, and <a href='#gifted-healthcare'>Gifted Healthcare</a> covers both behavior roles and nurses in one place.",
+    "choose": [
+      {
+        "h": "Name the license, not the department.",
+        "p": "\"Behavioral health help\" can mean a board certified psychiatrist, a PMHNP, an RN with inpatient psych experience, an LCSW or an RBT. Each one is recruited by a different desk, and some agencies only have one of those desks. Put the exact credential and the state license you need in the first email."
+      },
+      {
+        "h": "Say whether the work can be done by telehealth.",
+        "p": "Telepsychiatry widens the pool to clinicians licensed in your state who live elsewhere, and both Barton and VISTA list telehealth assignments for psychiatry. If the role needs someone on the unit for holds, restraints or crisis evaluations, say so up front so the agency does not send remote only candidates."
+      },
+      {
+        "h": "Ask about credentialing time before rates.",
+        "p": "Hospital privileging and payer enrollment for a psychiatrist can take longer than the search itself. Ask each firm who handles licensing and credentialing paperwork, and how many days it usually adds, before you compare hourly rates."
+      },
+      {
+        "h": "Check de-escalation training for unit staff.",
+        "p": "For psych unit nurses, ask which crisis prevention training the agency expects. Fusion's behavioral health RN page, for example, says it expects CPI or MOAB training, so you can compare that against your own unit policy."
+      }
+    ],
+    "firms": [
+      {
+        "id": "barton-associates",
+        "name": "Barton Associates",
+        "url": "https://www.bartonassociates.com/specialties/behavioral-health-psychiatry-locum-tenens/",
+        "parent": "The Barton Companies",
+        "model": "Locum tenens placement of psychiatrists, psychiatric NPs and PAs, and psychologists",
+        "hq": "300 Jubilee Drive, Peabody, Massachusetts",
+        "bestFor": "Facilities that need locum psychiatry coverage in a specific setting, from state hospitals to correctional facilities",
+        "summary": "Barton's <a href='https://www.bartonassociates.com/about-us/' target='_blank' rel='noopener'>about page</a> says it was founded in 2001 and is part of The Barton Companies with Wellhart, with its corporate headquarters in Peabody, north of Boston. Its behavioral health and psychiatry page lists the settings it staffs: inpatient psychiatric units, federally qualified health centers, state psychiatric hospitals, correctional facilities, community mental health centers and telepsychiatry programs. It also names subspecialties, including child and adolescent, geriatric and forensic psychiatry. The page cites SAMHSA's 2024 National Survey on Drug Use and Health to make the demand case.",
+        "good": [
+          "Long list of named psychiatric settings",
+          "Subspecialty desks such as forensic and child psychiatry",
+          "Telepsychiatry listed as its own setting"
+        ],
+        "watch": [
+          "Locum focus, so ask separately if you want a permanent hire",
+          "Rates are quoted per assignment, not published"
+        ]
+      },
+      {
+        "id": "locumtenens-com",
+        "name": "LocumTenens.com",
+        "url": "https://www.locumtenens.com/about-us/",
+        "parent": "Jackson Healthcare",
+        "model": "Locum tenens staffing plus free physician and mental health job boards",
+        "hq": "Not listed on the pages we read",
+        "bestFor": "Employers who want to post a mental health opening for free and also have a recruiter work it",
+        "summary": "LocumTenens.com says it has been a full service locum tenens agency since 1995 and is part of the Jackson Healthcare family of companies. The useful detail for this list sits on its companies page: it runs <a href='https://www.mentalhealthwork.com/' target='_blank' rel='noopener'>MentalHealthWork.com</a>, which it describes as a free job board for the full range of mental health professions, powered by LocumTenens.com. That gives a clinic two routes at once: post the opening yourself and correspond with applicants directly, or hand it to a recruiter on its psychiatry desk.",
+        "good": [
+          "Free mental health job board alongside agency recruiting",
+          "Large parent group with other healthcare staffing brands",
+          "Recruiters organized on specialty teams"
+        ],
+        "watch": [
+          "Headquarters address was not on the pages we read",
+          "Two channels can mean the same candidate arrives twice"
+        ]
+      },
+      {
+        "id": "vista-staffing",
+        "name": "VISTA Staffing",
+        "url": "https://www.vistastaff.com/physicians/physicians-locum-tenens/psychiatry/",
+        "parent": "Ingenovis Health",
+        "model": "Locum tenens and permanent placement of physicians and advanced practice clinicians",
+        "hq": "2800 East Cottonwood Parkway, Cottonwood Heights, Utah",
+        "bestFor": "Hospitals and crisis centers covering inpatient, outpatient and addiction psychiatry",
+        "summary": "VISTA says it was founded in 1990, and its site carries an Ingenovis Health company mark, with a corporate office in Cottonwood Heights, outside Salt Lake City. The locum psychiatry page lists inpatient units, outpatient clinics and crisis stabilization centers, plus telehealth work, and its specialty filter separates addiction, child and adolescent, forensic and geriatric psychiatry. The page quotes an HRSA projection of a shortage of more than 43,000 psychiatrists by 2038. VISTA also says it is a member of the National Association of Locum Tenens Organizations.",
+        "good": [
+          "Crisis stabilization named as a setting",
+          "Addiction psychiatry broken out separately",
+          "NALTO member"
+        ],
+        "watch": [
+          "Physician and APP focus, not nursing or therapy",
+          "Confirm which roles are permanent versus locum"
+        ]
+      },
+      {
+        "id": "fusion-medical-staffing",
+        "name": "Fusion Medical Staffing",
+        "url": "https://www.fusionmedstaff.com/nursing/behavioral-health-rn/",
+        "model": "Travel nurse and allied staffing",
+        "hq": "Elkhorn, Nebraska",
+        "bestFor": "Inpatient psych units that need travel RNs with unit experience",
+        "summary": "Fusion has placed healthcare travelers since 2009, according to its <a href='https://www.fusionmedstaff.com/about-us/' target='_blank' rel='noopener'>about page</a>, and lists its office on West Dodge Road in Elkhorn, on the west edge of Omaha. Its behavioral health RN page is specific about what it looks for: one to two years of inpatient psychiatric experience, a BLS card and crisis prevention training such as CPI or MOAB. It says PMH-BC board certification is not required. That makes it a practical first call when a unit needs experienced travelers rather than new graduates.",
+        "good": [
+          "Clear experience bar for psych RNs",
+          "States the de-escalation training it expects",
+          "Joint Commission Gold Seal cited on its site"
+        ],
+        "watch": [
+          "Nursing and allied only, no psychiatrists",
+          "Travel contracts, so plan for 13 week turnover"
+        ]
+      },
+      {
+        "id": "medical-solutions",
+        "name": "Medical Solutions",
+        "url": "https://www.medicalsolutions.com/about-us/",
+        "parent": "Medical Solutions Group",
+        "model": "Travel, local, PRN and permanent nursing and allied staffing",
+        "hq": "1010 N. 102nd Street, Omaha, Nebraska",
+        "bestFor": "Health systems that want psych unit nurses and social workers from one vendor",
+        "summary": "Medical Solutions lists its headquarters on North 102nd Street in Omaha, with offices in Charlotte, Cincinnati, Denver, Durham, Jacksonville and Tampa. Its specialty list includes a Psychiatric Unit category and social work, and it offers travel, local, PRN and permanent placements. It also publishes a separate Mental Health Clinician Policies page, which is worth reading before you sign so you know how it handles licensed therapists on assignment.",
+        "good": [
+          "Psychiatric Unit is a named nursing specialty",
+          "Several placement types from one vendor",
+          "Published policy page for mental health clinicians"
+        ],
+        "watch": [
+          "Large program, so ask who your single point of contact is",
+          "Psychiatry physicians are not its focus"
+        ]
+      },
+      {
+        "id": "sunbelt-staffing",
+        "name": "Sunbelt Staffing",
+        "url": "https://www.sunbeltstaffing.com/nursing-jobs/psychiatric-nurse-jobs/",
+        "model": "School, nursing and allied staffing",
+        "hq": "Oldsmar, Florida",
+        "bestFor": "School districts and clinics that need psychiatric nurses, school psychologists or BCBAs",
+        "summary": "Sunbelt's <a href='https://www.sunbeltstaffing.com/about/' target='_blank' rel='noopener'>history page</a> says it was founded in January 1989, relocated to Oldsmar in 2012 and opened a second location in downtown Tampa in 2021. Its job categories put mental health work in two places: psychiatric nurse jobs on the nursing side, and school psychologist and behavior specialist roles (BCBA, ABA and RBT) on the school side. For a district that needs both a school psychologist and a nurse for a behavioral unit, that is one contract instead of two.",
+        "good": [
+          "School psychology and behavior desks",
+          "Psychiatric nursing on the same contract",
+          "Decades of school staffing history"
+        ],
+        "watch": [
+          "Current parent is not named on its site",
+          "No psychiatrist placement listed"
+        ]
+      },
+      {
+        "id": "soliant-health",
+        "name": "Soliant Health",
+        "url": "https://www.soliant.com/school-healthcare-jobs/school-psychologist-jobs/",
+        "model": "School and healthcare staffing",
+        "hq": "5550 Peachtree Parkway, Peachtree Corners, Georgia",
+        "bestFor": "Districts that need school psychologists, including remote, plus counselors and behavior analysts",
+        "summary": "Soliant says it has connected education and healthcare professionals with work since 1992 and reports more than 47,000 placements since 2021. Its Mental Health and Behavior category covers applied behavior analysts, BCBAs, registered behavioral technicians, school counselors, school psychologists and school social workers. The school psychologist section has separate remote and travel listings, which helps rural districts that cannot attract a full time psychologist on site.",
+        "good": [
+          "Remote school psychologist option",
+          "Full school mental health team under one category",
+          "Long school staffing track record"
+        ],
+        "watch": [
+          "Parent company not named",
+          "Hospital psychiatry is outside its focus"
+        ]
+      },
+      {
+        "id": "gifted-healthcare",
+        "name": "Gifted Healthcare",
+        "url": "https://giftedhealthcare.com/about-gifted/",
+        "model": "Nurse founded healthcare and education staffing",
+        "hq": "824 Elmwood Park Blvd, Harahan, Louisiana",
+        "bestFor": "Employers that want behavior technicians, counselors and nurses through one firm",
+        "summary": "Gifted describes itself as founded by nurses and lists its corporate headquarters in Harahan, just outside New Orleans. It offers travel, local, per diem and permanent work, and its job categories include BCBAs, behavioral interventionists, counselors, RBTs, social workers and therapists alongside its nursing roles. That mix suits a pediatric therapy group or a school program that needs both clinical and behavior staff and would rather manage one agency.",
+        "good": [
+          "Behavior and nursing roles together",
+          "Four placement types, including per diem",
+          "Nurse founded and led"
+        ],
+        "watch": [
+          "Psychiatrist placement not listed",
+          "Confirm coverage in your state"
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "h": "Which firm fits which mental health role",
+        "p": [
+          "The table below follows the role you need to fill, because that is how these firms organize their recruiters."
+        ],
+        "list": [
+          "Psychiatrist or child psychiatrist, locum: Barton Associates, VISTA Staffing, LocumTenens.com",
+          "Psychiatric nurse practitioner (PMHNP): Barton Associates, LocumTenens.com",
+          "Inpatient psych RN, travel: Fusion Medical Staffing, Medical Solutions, Sunbelt Staffing",
+          "School psychologist, including remote: Soliant Health, Sunbelt Staffing",
+          "BCBA, RBT and behavior interventionist: Soliant Health, Sunbelt Staffing, Gifted Healthcare",
+          "Counselor or social worker: Soliant Health, Gifted Healthcare, Medical Solutions"
+        ]
+      },
+      {
+        "h": "Why the shortage shapes the contract",
+        "p": [
+          "SAMHSA's <a href='https://www.samhsa.gov/data/report/2024-nsduh-annual-national-report' target='_blank' rel='noopener'>2024 National Survey on Drug Use and Health</a> is the demand figure most of these firms quote, and HRSA keeps a separate map of <a href='https://data.hrsa.gov/topics/health-workforce/shortage-areas' target='_blank' rel='noopener'>Mental Health Professional Shortage Areas</a>. Check whether your county is designated before you negotiate: a shortage area designation can open loan repayment programs that help you recruit a permanent clinician and end the locum contract sooner.",
+          "Locum and travel contracts usually include a conversion fee if you hire the clinician permanently. Ask for that fee in writing at the start, because a good locum psychiatrist is often the easiest permanent hire you will ever make."
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit the clinician yourself",
+      "p": [
+        "Agencies earn their fee on coverage gaps: a psychiatrist on leave, a unit opening before you can hire, a school year that starts before the district finishes interviews. For a permanent PMHNP, therapist or psych unit charge nurse, direct recruiting is usually cheaper within a year, and candidates often prefer talking to the employer directly.",
+        "If you source permanent clinicians in house, a tool like <a href='https://noon.ai/built-for/healthcare' target='_blank' rel='noopener'>Noon, set up for healthcare hiring</a>, finds licensed candidates and contacts them with personalized email and SMS. Pair it with the agencies above for the gaps, and see the <a href='/agencies/nursing-staffing-agencies/'>nursing staffing agencies</a> list if your shortage is wider than behavioral health."
+      ]
+    },
+    "faq": [
+      {
+        "q": "What does a mental health staffing agency do?",
+        "a": "It recruits and places licensed behavioral health workers, such as psychiatrists, psychiatric nurse practitioners, psych nurses, psychologists, counselors, social workers and behavior analysts, on locum, travel, per diem or permanent terms. The firms on this list each publish the mental health roles they fill on their own websites."
+      },
+      {
+        "q": "Which agencies place locum psychiatrists?",
+        "a": "Barton Associates, VISTA Staffing and LocumTenens.com all publish psychiatry locum tenens pages. Barton and VISTA both list telepsychiatry or telehealth assignments as well as on site work."
+      },
+      {
+        "q": "Do psychiatric travel nurses need PMH-BC certification?",
+        "a": "Not always. Fusion Medical Staffing's behavioral health RN page says PMH-BC is not required, and asks instead for one to two years of inpatient psych experience, BLS and crisis prevention training such as CPI or MOAB. Your facility may set a higher bar."
+      },
+      {
+        "q": "Can a school district hire a remote school psychologist through an agency?",
+        "a": "Yes. Soliant Health lists remote school psychologist jobs as their own category, and Sunbelt Staffing also places school psychologists. Check your state's rules on remote evaluations before you sign."
+      },
+      {
+        "q": "Is there a free way to post mental health jobs?",
+        "a": "LocumTenens.com runs MentalHealthWork.com, which it describes as a free job board for mental health professions where employers can contact applicants directly."
+      },
+      {
+        "q": "How can my firm be added to this list?",
+        "a": "Use the Get your firm listed form on this page. We add firms whose own website shows current behavioral health or psychiatry staffing work."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/nursing-staffing-agencies/",
+        "label": "Nursing staffing agencies"
+      },
+      {
+        "href": "/agencies/clinical-research-staffing-agencies/",
+        "label": "Clinical research staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/pharmaceutical-headhunters/",
+        "label": "Pharmaceutical headhunters"
+      }
+    ]
   }
 ]

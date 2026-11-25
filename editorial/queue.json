@@ -275,7 +275,9 @@
    "keyword": "mental health staffing agencies",
    "volume": 90,
    "noon_target": "/built-for/healthcare",
-   "status": "queued"
+   "status": "published",
+   "slug": "mental-health-staffing-agencies",
+   "date": "2026-11-25"
   },
   {
    "id": "rt-032",
