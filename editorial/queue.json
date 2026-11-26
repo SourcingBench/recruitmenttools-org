@@ -539,7 +539,9 @@
    "keyword": "staffing agencies in austin",
    "volume": 4400,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "staffing-agencies-in-austin",
+   "date": "2026-11-26"
   },
   {
    "id": "rt-pm-025",
