@@ -175,5 +175,57 @@
    }
   ],
   "directory": "New on RecruitmentTools.org this week: shortlists of <a href=\"/agencies/aerospace-staffing-agencies/\">aerospace staffing agencies</a>, <a href=\"/agencies/clinical-research-staffing-agencies/\">clinical research staffing agencies</a> and <a href=\"/agencies/pharmaceutical-headhunters/\">pharmaceutical headhunters</a>, plus city guides for <a href=\"/agencies/staffing-agencies-in-baltimore/\">Baltimore</a> and <a href=\"/agencies/staffing-agencies-in-orlando/\">Orlando</a>."
- }
+ },
+  {
+    "slug": "2026-11-26",
+    "date": "2026-11-26",
+    "period": "20 to 26 November 2026",
+    "title": "This week in recruiting tools: Workday closes C1.ai to govern agent access, BambooHR plugs into ChatGPT, Enhancv flags ghost jobs",
+    "summary": "A Thanksgiving week where HR systems moved into the chat window and the identity layer: Workday finished buying C1.ai so the worker record also controls what AI agents can reach, and BambooHR shipped a ChatGPT plugin on its MCP server. Salary.com wired Deel data into CompAnalyst, Enhancv started grading job postings for ghost job risk, Hyring moved past hiring, and US staffing hours hit a 2026 high.",
+    "items": [
+      {
+        "vendor": "Workday / C1.ai",
+        "category": "HCM / agent governance",
+        "headline": "Workday completed its acquisition of C1.ai and now pitches itself as the identity governance layer for people and AI agents",
+        "detail": "Announced 23 Nov 2026 in the <a href=\"https://newsroom.workday.com/2026-11-23-Workday-Completes-Acquisition-of-C1-ai\">Workday newsroom</a>. C1.ai governs which systems a person or an autonomous agent can access, from business applications to cloud infrastructure, with permissioning, monitoring and real time enforcement. Workday's argument is that every hire, job change and exit is already a Workday event, so access rules should follow that record. In <a href=\"https://www.c1.ai/blog/where-c1-ai-goes-next\">its own post</a>, C1.ai says Workday's record covers more than 11,500 organizations. The deal follows Workday's announced intent on 18 Nov to buy Honeydew, a semantic layer for AI and business intelligence.",
+        "matters": "For recruiting teams the practical change is offboarding and onboarding of agents, not people. As sourcing, screening and scheduling agents multiply inside the HR stack, the question of who approved each agent's access to candidate data will land on whoever owns the Workday tenant. Ask your security team now whether recruiting agents are on that inventory."
+      },
+      {
+        "vendor": "BambooHR",
+        "category": "HRIS / AI assistants",
+        "headline": "BambooHR launched a ChatGPT plugin that reads live people data and hiring pipelines within each user's existing permissions",
+        "detail": "Released 24 Nov 2026 via <a href=\"https://www.bamboohr.com/about-bamboohr/press-release/bamboohr-launches-chatgpt-plugin\">a BambooHR press release</a>. Leaders, managers and employees can run saved reports, check hiring pipelines, update records and request time off from ChatGPT. The plugin runs on the BambooHR MCP, the connection layer the company introduced in October 2026 alongside its Claude connector, and every action is limited to what that person can already see in BambooHR.",
+        "matters": "Small and mid sized companies that use BambooHR's built in hiring module now have two chat front ends for it. That makes permission hygiene inside BambooHR more important, because anything a hiring manager can see becomes something they can ask a chatbot to summarize."
+      },
+      {
+        "vendor": "Salary.com / Deel",
+        "category": "Compensation / integrations",
+        "headline": "Salary.com connected Deel employee data to its CompAnalyst pay platform",
+        "detail": "Announced 23 Nov 2026 via <a href=\"https://hrnewscanada.com/deel-workforce-data-now-flows-into-salary-coms-companalyst-pay-platform/\">HR News Canada</a>. The integration syncs employee, job and organizational data from Deel into CompAnalyst Plus or Enterprise, so compensation teams can benchmark pay, check internal equity and model the cost of changes without manual uploads. Deel says its data covers 150 countries.",
+        "matters": "Recruiters hiring across borders often quote ranges from stale spreadsheets. When offer ranges come from the same synced data that compensation uses, fewer offers get reworked after the candidate has already seen a number."
+      },
+      {
+        "vendor": "Enhancv",
+        "category": "Job search / posting quality",
+        "headline": "Enhancv launched a job search that flags likely ghost jobs before candidates apply",
+        "detail": "Released 24 Nov 2026 via <a href=\"https://www.einpresswire.com/article/958759057/enhancv-launches-job-board-that-flags-ghost-jobs-before-candidates-apply\">EIN Presswire</a>. The resume builder's <a href=\"https://enhancv.com/jobs/\">job search page</a> says it checks 7.5 million postings every hour and rates ghost job risk from signals including posting age, whether a salary is listed, company reviews and how specific the duties and requirements are. Flagged postings stay in results with the reasons shown.",
+        "matters": "Employers do not control this score, but their postings are now being graded in public. Evergreen requisitions with no pay range and vague duties are exactly what gets flagged, so it is worth closing old reqs and posting ranges even where the law does not require it."
+      },
+      {
+        "vendor": "Hyring",
+        "category": "AI interviews / workforce analytics",
+        "headline": "Hyring, an AI interviewing vendor, added Hyring Insight, a time tracking and workforce intelligence product",
+        "detail": "Announced 23 Nov 2026 in a <a href=\"https://techcrunch.com/press-release/hyring-launches-hyring-insight-a-workforce-intelligence-platform/\">TechnologyWire release carried on TechCrunch</a>. The Chennai company, which has built AI interviewing and screening software for nearly four years, says Insight records work openly through a desktop app for macOS, Windows and Linux and uses AI to explain a workday to managers.",
+        "matters": "Another hiring tool is stretching past the offer. Buyers comparing AI interview vendors should ask which product the roadmap actually funds, and anyone in a jurisdiction with employee monitoring rules should check them before bundling the two."
+      },
+      {
+        "vendor": "SIA / Bullhorn",
+        "category": "Staffing market",
+        "headline": "US staffing hours reached their 2026 high in the latest SIA and Bullhorn indicator, up 12% year over year",
+        "detail": "Reported 24 Nov 2026 by <a href=\"https://www.staffingindustry.com/news/global-daily-news/us-staffing-hours-at-26-high-up-03-from-prior-week-sia-bullhorn-staffing-indicator\">Staffing Industry Analysts</a>. In the week ended 14 Nov, hours rose 0.3% from the prior week. Commercial staffing was up 14% year over year and industrial up 19%, helped by manufacturing, logistics and data center construction. IT hours slipped 1.9% week over week while staying 4% above last year.",
+        "matters": "Industrial desks remain the growth engine heading into December. Agencies planning 2027 software renewals should size seats and texting volume for that mix rather than for professional placements."
+      }
+    ],
+    "directory": "New on RecruitmentTools.org this week: shortlists of <a href=\"/agencies/automotive-staffing-agencies/\">automotive staffing agencies</a>, <a href=\"/agencies/architecture-recruiting-firms/\">architecture recruiting firms</a>, <a href=\"/agencies/hvac-staffing-agencies/\">HVAC staffing agencies</a>, <a href=\"/agencies/virtual-assistant-agencies/\">virtual assistant agencies</a>, <a href=\"/agencies/veterinary-recruiting-firms/\">veterinary recruiting firms</a>, <a href=\"/agencies/logistics-staffing-agencies/\">logistics staffing agencies</a> and <a href=\"/agencies/mental-health-staffing-agencies/\">mental health staffing agencies</a>, plus city guides for <a href=\"/agencies/staffing-agencies-in-louisville/\">Louisville</a>, <a href=\"/agencies/staffing-agencies-in-raleigh/\">Raleigh</a>, <a href=\"/agencies/staffing-agencies-in-sacramento/\">Sacramento</a>, <a href=\"/agencies/staffing-agencies-in-oklahoma-city/\">Oklahoma City</a> and <a href=\"/agencies/staffing-agencies-in-greenville-sc/\">Greenville, SC</a>."
+  }
 ]
