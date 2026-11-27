@@ -499,7 +499,9 @@
    "keyword": "light industrial staffing agencies",
    "volume": 1300,
    "noon_target": "/product/inbound-screening",
-   "status": "queued"
+   "status": "published",
+   "slug": "light-industrial-staffing-agencies",
+   "date": "2026-11-27"
   },
   {
    "id": "rt-pm-021",

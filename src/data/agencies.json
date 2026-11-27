@@ -9807,5 +9807,265 @@
         "label": "Staffing and recruiting firms"
       }
     ]
+  },
+  {
+    "slug": "light-industrial-staffing-agencies",
+    "short": "Light industrial staffing agencies",
+    "h1": "Light industrial staffing agencies: 9 firms for warehouse, production and assembly shifts",
+    "seoTitle": "Light Industrial Staffing Agencies (2026): 9 Firms Checked",
+    "description": "Nine light industrial staffing agencies whose sites we opened on November 27, 2026, compared on fee model, branch reach, safety programs and the shift roles each one says it fills.",
+    "date": "2026-11-27",
+    "updated": "2026-11-27",
+    "lead": "Verdict up front: if you need forty pickers by Monday across three buildings, a national firm with onsite management is the safer bet, and if you need six forklift drivers who show up every night for a year, a regional specialist with a branch ten minutes away usually wins. We loaded each firm's own pages on November 27, 2026, followed every redirect and recorded who owns the brand today. Firms whose light industrial pages no longer loaded were left out.",
+    "shortAnswer": "<b>Short answer:</b> for volume across many sites, compare <a href='#aerotek'>Aerotek</a>, <a href='#adecco'>Adecco</a> and <a href='#randstad'>Randstad</a>. For a regional industrial specialist, start with <a href='#elwood'>Elwood Staffing</a>, <a href='#trillium'>Trillium Staffing</a> or <a href='#malone'>Malone Workforce Solutions</a>. If recordable injuries are the problem, read the <a href='#spherion'>Spherion</a> entry first.",
+    "choose": [
+      {
+        "h": "Count the shifts, then the heads.",
+        "p": "A vendor that can fill a first shift may struggle on nights and weekends. Ask each firm how many active associates it has on third shift within 25 miles of your dock, not how many candidates it has nationally."
+      },
+      {
+        "h": "Ask for the markup in writing.",
+        "p": "Light industrial work is usually billed as an hourly bill rate that bundles the worker's pay, payroll taxes, workers' compensation and the agency margin. Get the pay rate and markup separated so you can see what moves when you raise wages."
+      },
+      {
+        "h": "Settle who owns safety training.",
+        "p": "Forklift certification, PPE and site orientation can sit with you or with the agency. Put it in the contract, because the answer affects workers' compensation claims and the bill rate."
+      },
+      {
+        "h": "Decide on temp to hire terms early.",
+        "p": "Conversion fees, and how many hours an associate must work before you can hire them free, differ by firm. Plants that convert their best temps should negotiate this before the first order."
+      },
+      {
+        "h": "Check the real branch, not the map pin.",
+        "p": "National sites show offices everywhere. Call the branch that would serve you and ask how many open orders it is working this week."
+      }
+    ],
+    "firms": [
+      {
+        "id": "aerotek",
+        "name": "Aerotek",
+        "url": "https://www.aerotek.com/",
+        "parent": "Aerotek (privately held; parent company not named on the pages we read)",
+        "model": "Contract, contract to hire and direct placement staffing",
+        "hq": "Not published on the pages we read",
+        "bestFor": "Multi site manufacturers and distribution networks that need contractors at volume",
+        "summary": "Aerotek says it is trusted by more than 18,000 clients and 170,000 contractors each year and describes itself as one of the largest industrial staffing companies in North America. Its industries page lists automotive, aviation, consumer and industrial products, data centers, distribution and supply chain, government, healthcare and life sciences.",
+        "good": [
+          "Scale for openings across several plants at once",
+          "Skilled trades coverage next to general labor"
+        ],
+        "watch": [
+          "Large account model can feel less personal for a single small site",
+          "No published fee schedule"
+        ]
+      },
+      {
+        "id": "adecco",
+        "name": "Adecco",
+        "url": "https://www.adecco.com/en-us/employers/industries/manufacturing",
+        "parent": "Adecco USA (the old adeccousa.com domain now redirects to adecco.com/en-us)",
+        "model": "Temporary staffing, permanent recruitment, onsite management and master vendor programs",
+        "hq": "Not published on the pages we read; 300+ U.S. locations",
+        "bestFor": "Picker and packer, assembler, forklift and material handler volume",
+        "summary": "The manufacturing page names the exact seats many plants struggle with: general labor, assemblers, picker and packers, material handlers, forklift operators, truck loaders and unloaders, inventory specialists and quality control. Adecco reports 300+ locations, 17 million candidates and 32,000+ associates on assignment.",
+        "good": [
+          "Onsite management option for large shift programs",
+          "Branch coverage in virtually every state, per its own site"
+        ],
+        "watch": [
+          "Big branch network means service varies by office",
+          "Ask who owns your account before you sign"
+        ]
+      },
+      {
+        "id": "randstad",
+        "name": "Randstad",
+        "url": "https://www.randstadusa.com/employers/recruitment/manufacturing-logistics/",
+        "parent": "Randstad USA, part of Randstad N.V. (named in the site footer)",
+        "model": "Temporary, temp to hire and direct hire through a manufacturing and logistics practice",
+        "hq": "Registered office at One Overton Park, Cumberland Blvd, Atlanta, GA",
+        "bestFor": "Plants that want industrial temps and salaried supervisors from one vendor",
+        "summary": "Randstad runs manufacturing and logistics as its own recruitment line and publishes salary guides and an online salary tool that hiring managers can use before they set pay rates. The footer also warns about scammers posting fake jobs under the Randstad name, which is worth passing on to candidates.",
+        "good": [
+          "Pay data on the site helps you price a shift before posting it",
+          "Can cover both hourly and salaried plant roles"
+        ],
+        "watch": [
+          "Generic contact forms before you reach a local recruiter",
+          "Pricing is quoted per account"
+        ]
+      },
+      {
+        "id": "kelly",
+        "name": "Kelly Professional & Industrial",
+        "url": "https://www.kellyservices.com/divisions/professional-industrial/",
+        "parent": "Kelly Services (division page on kellyservices.com)",
+        "model": "Temporary and contract staffing, onsite workforce management, recruiting and screening",
+        "hq": "Not published on the division page",
+        "bestFor": "Semiconductor fabs and warehouse operations that want an onsite program",
+        "summary": "The Professional & Industrial division lists manufacturing and production, semiconductor, and warehouse and distribution among its industries, next to accounting and administrative work. Semiconductor is an unusual line item for a light industrial vendor and matters if you run clean room or fab support shifts.",
+        "good": [
+          "Named semiconductor practice",
+          "Onsite workforce management for steady high headcount"
+        ],
+        "watch": [
+          "Division also covers office roles, so confirm an industrial recruiter is assigned",
+          "No branch list on the division page"
+        ]
+      },
+      {
+        "id": "labor-finders",
+        "name": "Labor Finders",
+        "url": "https://www.laborfinders.com/industries/employers/light-industrial-staffing/",
+        "parent": "Labor Finders (franchise network; franchising page on the site)",
+        "model": "Temporary blue collar staffing through local offices",
+        "hq": "Not published on the pages we read; almost 200 offices nationwide",
+        "bestFor": "Same week general labor, loading and cleanup crews",
+        "summary": "Labor Finders says it has almost 200 offices nationwide and has been putting people back to work for over 40 years, with a focus on blue collar jobs. The light industrial page covers warehouse, production and general labor assignments, and job seekers are pointed to roles that need no prior experience.",
+        "good": [
+          "Built for short notice day and week assignments",
+          "Local office density in many smaller markets"
+        ],
+        "watch": [
+          "Franchise model, so quality depends on the local owner",
+          "Less suited to skilled maintenance hires"
+        ]
+      },
+      {
+        "id": "spherion",
+        "name": "Spherion",
+        "url": "https://www.spherion.com/employers/industries-we-serve/light-industrial-staffing/",
+        "parent": "Spherion (franchise network; ownership details on the franchising pages)",
+        "model": "Temporary, temp to hire and direct hire staffing through locally owned offices",
+        "hq": "Not published on the pages we read",
+        "bestFor": "Employers whose biggest light industrial worry is injury rates",
+        "summary": "Spherion leads its light industrial page with safety. Its Safety First program pairs risk management staff and safety coaches with clients, and the site says Spherion recently received a Safety Standard of Excellence recognition. Roles listed run from assemblers, line operators and order pickers to CNC machinists, electricians and production supervisors.",
+        "good": [
+          "Safety coaching is part of the pitch, not an add on",
+          "Covers both entry level and skilled production roles"
+        ],
+        "watch": [
+          "Locally owned offices mean uneven coverage by metro",
+          "Check whether your market has an open office"
+        ]
+      },
+      {
+        "id": "elwood",
+        "name": "Elwood Staffing",
+        "url": "https://www.elwoodstaffing.com/find-a-candidate/industry-specialization/",
+        "parent": "Elwood Staffing (privately owned corporation, founded 1980)",
+        "model": "Temporary, temp to hire and direct hire with onsite options",
+        "hq": "Not published on the pages we read",
+        "bestFor": "Midwest and Southeast production plants that prefer a private industrial specialist",
+        "summary": "Founded in 1980 and privately owned, Elwood lists manufacturing and production, warehouse, distribution and logistics, automotive, engineering, skilled trades and data centers as specializations. Industrial work is the center of the business rather than one division among many.",
+        "good": [
+          "Industrial focus from the top of the company down",
+          "Data center construction and operations listed as a specialty"
+        ],
+        "watch": [
+          "Smaller footprint than the global firms",
+          "No public rate card"
+        ]
+      },
+      {
+        "id": "trillium",
+        "name": "Trillium Staffing",
+        "url": "https://trilliumstaffing.com/hire/by-industry/",
+        "parent": "Trillium Staffing (independent, in business since 1984)",
+        "model": "Temporary and temp to hire light industrial staffing",
+        "hq": "Not published on the pages we read; 90+ branches",
+        "bestFor": "Distribution centers and plants that want a regional firm with branch staff on call",
+        "summary": "Trillium says it has served employers since 1984 from more than 90 branches and works with about 22,000 companies. Its by industry page centers on light industrial, manufacturing and warehouse hiring, which is most of what the firm does.",
+        "good": [
+          "Branch network sized for regional coverage",
+          "Long tenure in hourly industrial staffing"
+        ],
+        "watch": [
+          "Not a fit for salaried engineering or management roles",
+          "Confirm a branch is near your site before signing"
+        ]
+      },
+      {
+        "id": "malone",
+        "name": "Malone Workforce Solutions",
+        "url": "https://www.malonesolutions.com/jobs/light-industrial-manufacturing/",
+        "parent": "Malone Workforce Solutions, privately held by Management Registry, Inc. (named in the footer)",
+        "model": "Commercial staffing, professional staffing and recruitment process outsourcing",
+        "hq": "1868 Campus Place, Louisville, KY",
+        "bestFor": "Plants in Kentucky, Alabama and nearby states that need forklift and production shifts",
+        "summary": "Malone says it has 50 years in light industrial and manufacturing staffing. Its live job board shows contract openings for forklift drivers, order pickers and warehouse workers in Louisville, Shepherdsville and Henderson, Kentucky, plus maintenance and tugger roles in Montgomery, Alabama.",
+        "good": [
+          "Live postings show where it actually recruits",
+          "Lists CNC, MIG welding, kitting and assembler roles"
+        ],
+        "watch": [
+          "Regional, not national, coverage",
+          "Fee terms not published"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to recruit hourly staff yourself",
+      "p": [
+        "Plants that run the same roles all year often pay agency markup on people they would happily employ directly. A steady job ad budget, a referral bonus for current associates and same day interviews can replace part of the agency order, especially for day shift roles.",
+        "The bottleneck for in-house teams is usually the applicant pile rather than finding people. An applicant ranking tool such as Noon's <a href='https://noon.ai/product/inbound-screening'>inbound screening</a> scores each new application against the job's requirements and flags suspected fraud, so a coordinator calls the strongest applicants first. Keep an agency for surge weeks and new sites."
+      ]
+    },
+    "sections": [
+      {
+        "h": "National scale versus regional depth",
+        "p": [
+          "The four largest names here, Aerotek, Adecco, Randstad and Kelly, can staff a new distribution center in another state on short notice and run an onsite manager. Regional firms such as Elwood, Trillium and Malone compete on recruiters who know which plants pay a dollar more and which shifts candidates avoid.",
+          "Labor Finders and Spherion sit in between: both run through local offices, and Labor Finders and Spherion both advertise franchising on their own sites, so the quality of service tracks the owner of your nearest office."
+        ]
+      },
+      {
+        "h": "Roles these firms say they fill",
+        "p": [
+          "Across the nine sites the same core list repeats: general labor, assemblers, machine operators, material handlers, forklift operators, order pickers, packers, loaders and quality inspectors. Spherion and Malone also list CNC operators and electricians, and Elwood names skilled trades, which matters if your open role needs a certificate rather than a strong back.",
+          "For truck drivers and dispatch, see our separate <a href='/agencies/logistics-staffing-agencies/'>logistics staffing agencies</a> list, and for plants supplying car makers the <a href='/agencies/automotive-staffing-agencies/'>automotive staffing agencies</a> page goes deeper."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What is light industrial staffing?",
+        "a": "Placing hourly workers in warehouse, production, assembly, packaging and general labor jobs, usually on temporary or temp to hire assignments billed at an hourly rate."
+      },
+      {
+        "q": "How much do light industrial staffing agencies charge?",
+        "a": "None of the nine firms here publish a rate card. Pricing is a bill rate per hour worked that covers the worker's wage, payroll taxes, workers' compensation and the agency margin, so ask for each piece separately."
+      },
+      {
+        "q": "Is light industrial the same as skilled trades?",
+        "a": "No. Light industrial usually means entry level and semi skilled production and warehouse work, while skilled trades covers licensed or certified roles such as electricians and welders. Several firms here, including Spherion and Elwood, do both."
+      },
+      {
+        "q": "Which agency is best for warehouse jobs?",
+        "a": "For a single site with steady volume, a regional firm such as Trillium or Malone is worth a call. For several warehouses at once, Adecco, Aerotek and Randstad have the branch reach."
+      },
+      {
+        "q": "Can I hire a temp worker permanently?",
+        "a": "Usually yes, under the conversion terms in your contract. Many firms waive the fee after a set number of hours worked, so read that clause before you place the first order."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/logistics-staffing-agencies/",
+        "label": "Logistics staffing agencies"
+      },
+      {
+        "href": "/agencies/automotive-staffing-agencies/",
+        "label": "Automotive staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      },
+      {
+        "href": "/agencies/staffing-agencies-in-louisville/",
+        "label": "Staffing agencies in Louisville"
+      }
+    ]
   }
 ]
