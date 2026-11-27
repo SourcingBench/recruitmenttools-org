@@ -285,7 +285,9 @@
    "keyword": "food and beverage headhunters",
    "volume": 90,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "food-and-beverage-headhunters",
+   "date": "2026-11-27"
   },
   {
    "id": "rt-pm-001",
