@@ -10067,5 +10067,238 @@
         "label": "Staffing agencies in Louisville"
       }
     ]
+  },
+  {
+    "slug": "renewable-energy-headhunters",
+    "short": "Renewable energy headhunters",
+    "h1": "Renewable energy headhunters: 8 firms for wind, solar, storage and grid hires",
+    "seoTitle": "Renewable Energy Headhunters (2026): 8 Firms Compared",
+    "description": "Eight renewable energy headhunters and recruitment firms whose own sites we read on November 28, 2026, compared on search model, sectors, offices and where each one fits.",
+    "date": "2026-11-28",
+    "updated": "2026-11-28",
+    "lead": "A developer with 2 GW of solar and storage in its pipeline loses its head of interconnection three months before a key utility filing. A generalist recruiter will send resumes. A renewable energy headhunter should already know which grid engineers have taken projects through the same queue and which of them might move. This page compares eight firms that market that kind of sector knowledge, using only what each firm says about itself on its own website.",
+    "shortAnswer": "<b>Short answer:</b> for board and C-suite searches in the energy transition, start with <a href='#preng'>Preng &amp; Associates</a> or <a href='#kimmel'>Kimmel &amp; Associates</a>. For offshore and onshore wind teams, look at <a href='#taylor-hopkinson'>Taylor Hopkinson</a>. For contractors on construction and commissioning programs, compare <a href='#airswift'>Airswift</a> and <a href='#nes-fircroft'>NES Fircroft</a>.",
+    "choose": [
+      {
+        "h": "Match the firm to the stage of the asset.",
+        "p": "Development, construction and operations need different people. A firm that places permitting and land managers for early stage solar may have little reach among wind turbine technicians. Ask which project phase most of last year's placements supported."
+      },
+      {
+        "h": "Decide between retained, contingent and contract.",
+        "p": "Executive searches for a chief development officer are usually retained. Engineering and project roles are often contingent. Site crews and commissioning teams tend to be contract. Several firms here run all three, so say which one you want before the first call."
+      },
+      {
+        "h": "Check the geography against your pipeline.",
+        "p": "Offices in Glasgow, London or Houston say little about reach in the MISO or ERCOT markets where your projects sit. Ask for recent placements in the states or countries where you build."
+      },
+      {
+        "h": "Ask about off limits agreements.",
+        "p": "The renewable talent pool is small. If a firm also recruits for your direct competitors, find out which companies it has agreed not to approach and whether that list includes you."
+      }
+    ],
+    "firms": [
+      {
+        "id": "taylor-hopkinson",
+        "name": "Taylor Hopkinson",
+        "url": "https://www.taylorhopkinson.com/about-us/",
+        "parent": "Part of Brunel since 2021 (named on its about page)",
+        "model": "Permanent, contract and executive recruitment",
+        "hq": "Glasgow, Scotland, per its own site",
+        "bestFor": "Offshore and onshore wind developers building out project and engineering teams",
+        "summary": "Taylor Hopkinson says it has placed more than 19,000 specialists and works through Brunel's network of more than 120 offices in over 45 countries. Its site lists offshore and onshore wind, solar and storage, green hydrogen and transmission, with offices that include Houston, Hamburg, Madrid, Taipei, Seoul and Singapore.",
+        "good": [
+          "Deep wind focus across both offshore and onshore",
+          "Contract and permanent desks under one roof"
+        ],
+        "watch": [
+          "Heavier presence in Europe and Asia than in most US markets",
+          "No fee terms published"
+        ]
+      },
+      {
+        "id": "tgrc",
+        "name": "The Green Recruitment Company",
+        "url": "https://www.greenrecruitmentcompany.com/about-tgrc-1",
+        "parent": "Part of Green Group (named on its about page)",
+        "model": "Retained, contingent, contract, RPO and employer of record",
+        "hq": "Capital Tower, 91 Waterloo Road, London",
+        "bestFor": "Solar, storage and clean tech firms hiring on both sides of the Atlantic",
+        "summary": "TGRC says it began in 2010 with a focus on UK solar and now lists more than 600 clients and over 5,000 placements, a B Corp certification and US offices in Orlando, New York and Chicago. A sister brand, Green Executives, handles senior search.",
+        "good": [
+          "Several hiring models, including RPO and employer of record",
+          "US offices alongside its London base"
+        ],
+        "watch": [
+          "Retention and time to hire figures are the firm's own claims",
+          "Executive work is routed to a separate brand"
+        ]
+      },
+      {
+        "id": "allen-york",
+        "name": "Allen & York",
+        "url": "https://www.allen-york.com/disciplines/energy-1",
+        "parent": "Allen & York (parent company not named on the pages we read)",
+        "model": "Permanent and interim recruitment, including exclusive assignments",
+        "hq": "Not published on the pages we read",
+        "bestFor": "Utilities, independent power producers and EPC contractors hiring engineers and ESG staff",
+        "summary": "Allen & York says it has recruited for more than 30 years across environment, energy, sustainability and health and safety. Its energy page names utilities, power producers, developers, private equity, manufacturers and EPC firms as clients, covering wind, solar, tidal and storage.",
+        "good": [
+          "Sustainability and ESG roles next to engineering ones",
+          "Lists the client types it serves"
+        ],
+        "watch": [
+          "Office locations not stated on the energy page",
+          "Success rate claims come from the firm itself"
+        ]
+      },
+      {
+        "id": "spencer-ogden",
+        "name": "Spencer Ogden",
+        "url": "https://www.spencer-ogden.com/about-us",
+        "parent": "Spencer Ogden (parent company not named on the pages we read)",
+        "model": "Specialist recruitment across permanent and contract roles",
+        "hq": "Not published on the pages we read; teams in North America, EMEA and APAC",
+        "bestFor": "Energy companies that hire across renewables, natural resources and infrastructure at once",
+        "summary": "Spencer Ogden organizes itself around four sectors: critical infrastructure, natural resources, renewables and sustainability, and finance. It describes teams in North America, Europe, the Middle East, Africa and Asia Pacific.",
+        "good": [
+          "Useful for firms moving staff from oil and gas into renewables",
+          "Covers commercial and finance seats as well as technical ones"
+        ],
+        "watch": [
+          "Broad sector mix, so ask who on the team works renewables only",
+          "No fee model on the site"
+        ]
+      },
+      {
+        "id": "kimmel",
+        "name": "Kimmel & Associates",
+        "url": "https://kimmel.com/industries/renewable-sustainable-infrastructure",
+        "parent": "Kimmel & Associates (parent company not named on the pages we read)",
+        "model": "Executive recruiting",
+        "hq": "Not published on the page we read",
+        "bestFor": "US developers, IPPs and infrastructure funds hiring senior leaders",
+        "summary": "Kimmel says it has more than 40 years of executive recruiting behind it and lists developers, independent power producers, private equity, infrastructure funds, EPC and O&amp;M firms as renewable clients. Sectors named include battery storage, utility scale solar, wind, transmission, microgrids and EV infrastructure.",
+        "good": [
+          "Consultants assigned by market and region",
+          "Long list of storage and grid subsectors"
+        ],
+        "watch": [
+          "Senior roles only, not crews or technicians",
+          "Mostly US focus on the page we read"
+        ]
+      },
+      {
+        "id": "preng",
+        "name": "Preng & Associates",
+        "url": "https://www.preng.com/industries-served-energy/energy-transition/",
+        "parent": "Preng & Associates (parent company not named on the pages we read)",
+        "model": "Retained executive search and board placement",
+        "hq": "800 Gessner Road, Houston, with offices in the Chicago area and London",
+        "bestFor": "Boards and CEOs searching for C-suite talent in energy transition companies",
+        "summary": "Preng describes 46 years in energy executive search, more than 4,000 engagements and work in 92 countries. Its energy transition practice is led by named partners, and a November 2026 announcement on its site describes placing a chief commercial officer at Pacifico Energy.",
+        "good": [
+          "Board and CEO level search with an energy only history",
+          "Named practice leaders you can ask for"
+        ],
+        "watch": [
+          "Not built for mid level engineering hires",
+          "Retained search means paying for the process up front"
+        ]
+      },
+      {
+        "id": "airswift",
+        "name": "Airswift",
+        "url": "https://www.airswift.com/our-industries/energy/renewables",
+        "parent": "Airswift (parent company not named on the pages we read)",
+        "model": "Contract staffing, direct hire, employer of record, RPO and MSP",
+        "hq": "Not published on the page we read; 60 regional offices",
+        "bestFor": "Construction and commissioning programs that need contractors in several countries",
+        "summary": "Airswift's renewables page describes contract and direct hire recruiting with 60 regional offices and 40 years in energy staffing. It also offers employer of record and managed service programs for companies hiring where they have no local entity.",
+        "good": [
+          "Can employ contractors where you have no entity",
+          "Global office network for multi country builds"
+        ],
+        "watch": [
+          "Speed claims on its page are marketing figures",
+          "Large programs may be handled by account managers rather than specialists"
+        ]
+      },
+      {
+        "id": "nes-fircroft",
+        "name": "NES Fircroft",
+        "url": "https://www.nesfircroft.com/industries/renewable-energy-recruitment/",
+        "parent": "NES Fircroft (parent company not named on the pages we read)",
+        "model": "Contract staffing, permanent recruitment, executive search, employer of record and global mobility",
+        "hq": "Not published on the page we read",
+        "bestFor": "Projects that mix renewables with nuclear, hydrogen or carbon capture",
+        "summary": "NES Fircroft's renewable energy page links to separate desks for battery storage, biomass, carbon capture, hydroelectric, hydrogen, nuclear, solar and wind. Services include contract staffing, permanent hiring, executive search and global mobility for relocating staff.",
+        "good": [
+          "Covers low carbon sectors that other firms on this list skip",
+          "Mobility support for moving engineers between countries"
+        ],
+        "watch": [
+          "Very broad remit, so confirm the desk handling your search",
+          "Fees not published"
+        ]
+      }
+    ],
+    "inhouse": {
+      "h": "When to search for renewable talent yourself",
+      "p": [
+        "Hiring the same role again and again, such as solar site supervisors or wind technicians, usually costs less in house once you have a referral program and a relationship with a few technical colleges and apprenticeship programs. Senior and confidential searches are where an outside firm earns its fee.",
+        "Former oil and gas engineers are a large pool that many renewable employers underuse. Our <a href='/agencies/oil-and-gas-recruitment-agencies/'>oil and gas recruitment agencies</a> list shows which firms already work that market."
+      ]
+    },
+    "sections": [
+      {
+        "h": "Executive search versus project staffing",
+        "p": [
+          "Preng and Kimmel sit at the senior end: board seats, chief executives, development heads and commercial leaders. Airswift and NES Fircroft sit at the other end, where a client needs fifty commissioning engineers for a build and expects payroll, visas and mobilization to be handled. Taylor Hopkinson, TGRC, Allen &amp; York and Spencer Ogden work in between, with engineering, project and commercial roles plus some senior search.",
+          "For electrical technicians, linemen and substation crews rather than salaried engineers, our <a href='/agencies/electrical-staffing-agencies/'>electrical staffing agencies</a> page is a better place to start."
+        ]
+      },
+      {
+        "h": "How we built this list",
+        "p": [
+          "We opened each firm's website on November 28, 2026 with a normal browser, followed redirects, read the page title and took facts only from the firm's own pages. One firm we planned to include did not load that day and was left out. Firms on this page did not pay to appear. Teams that also hire ecologists and permitting specialists should read our <a href='/agencies/environmental-staffing-agencies/'>environmental staffing agencies</a> list."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "q": "What does a renewable energy headhunter do?",
+        "a": "It searches for and approaches people already working in wind, solar, storage, hydrogen or grid businesses, usually for engineering, project, commercial or leadership roles, instead of waiting for applicants."
+      },
+      {
+        "q": "Which renewable energy recruiters handle executive search?",
+        "a": "Preng & Associates and Kimmel & Associates focus on senior and executive searches on the pages we read. TGRC routes senior searches through its Green Executives brand."
+      },
+      {
+        "q": "Can a renewable energy recruitment agency supply contractors?",
+        "a": "Yes. Airswift, NES Fircroft, Taylor Hopkinson and TGRC all describe contract staffing on their own sites, and Airswift and NES Fircroft also offer employer of record services."
+      },
+      {
+        "q": "Are these firms ranked?",
+        "a": "No. They are grouped by the type of search they suit. The order does not reflect payment or quality scores."
+      }
+    ],
+    "related": [
+      {
+        "href": "/agencies/environmental-staffing-agencies/",
+        "label": "Environmental staffing agencies"
+      },
+      {
+        "href": "/agencies/oil-and-gas-recruitment-agencies/",
+        "label": "Oil and gas recruitment agencies"
+      },
+      {
+        "href": "/agencies/electrical-staffing-agencies/",
+        "label": "Electrical staffing agencies"
+      },
+      {
+        "href": "/agencies/staffing-and-recruiting-firms/",
+        "label": "Staffing and recruiting firms"
+      }
+    ]
   }
 ]
