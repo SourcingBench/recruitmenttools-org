@@ -257,7 +257,9 @@
    "keyword": "renewable energy headhunters",
    "volume": 90,
    "noon_target": null,
-   "status": "queued"
+   "status": "published",
+   "slug": "renewable-energy-headhunters",
+   "date": "2026-11-28"
   },
   {
    "id": "rt-030",
